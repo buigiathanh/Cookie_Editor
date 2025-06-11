@@ -29,9 +29,7 @@
         "tabs"
     ],
     "optional_permissions": [
-        "browsingData",
-        "history",
-        "storage"
+        "browsingData"
     ],
     "content_scripts": [
         {
