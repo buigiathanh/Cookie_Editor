@@ -1,0 +1,206 @@
+{
+    "ext_name": {
+        "message": "Cookie Editor"
+    },
+    "ext_description": {
+        "message": "Simple yet powerful Cookie Editor that allow you to quickly create, edit and delete cookies without leaving your tab."
+    },
+    "placeholder_search": {
+        "message": "কুকির নাম অনুসন্ধান করুন"
+    },
+    "btn_copy": {
+        "message": "কপি করুন"
+    },
+    "btn_add": {
+        "message": "যোগ করুন"
+    },
+    "btn_import": {
+        "message": "আমদানি করুন"
+    },
+    "btn_export": {
+        "message": "রপ্তানি করুন"
+    },
+    "btn_remove": {
+        "message": "সব পরিষ্কার করুন"
+    },
+    "msg_no_cookies": {
+        "message": "কোন কুকি নেই।"
+    },
+    "btn_delete": {
+        "message": "মুছুন"
+    },
+    "btn_cancel": {
+        "message": "বাতিল করুন"
+    },
+    "btn_edit": {
+        "message": "সম্পাদনা করুন"
+    },
+    "title_delete": {
+        "message": "আপনি কি এই ওয়েবসাইটের সব কুকি মুছে ফেলতে চান?"
+    },
+    "title_import": {
+        "message": "আপনি কি কুকি আমদানি করার চেষ্টা করছেন?"
+    },
+    "msg_import_error": {
+        "message": "কুকি আমদানি করতে ব্যর্থ হয়েছে।"
+    },
+    "pl_password": {
+        "message": "কুকি এনক্রিপ্ট/ডিক্রিপ্ট করার পাসওয়ার্ড"
+    },
+    "title_export": {
+        "message": "আপনি কি কুকি রপ্তানি করার চেষ্টা করছেন?"
+    },
+    "display_setting_title": {
+        "message": "ডিসপ্লে সেটিং"
+    },
+    "display_setting_description": {
+        "message": "কুকি দেখার জন্য ডিসপ্লে মোড সেটিংস"
+    },
+    "display_setting_option_default": {
+        "message": "ডিফল্ট মোড"
+    },
+    "display_setting_option_compact": {
+        "message": "কম্প্যাক্ট মোড"
+    },
+    "display_setting_option_custom": {
+        "message": "কাস্টম মোড"
+    },
+    "setting_customize_display_cookie": {
+        "message": "কুকি ডিসপ্লে কাস্টমাইজ করুন"
+    },
+    "copy_setting_title": {
+        "message": "কপি সেটিং"
+    },
+    "copy_setting_description": {
+        "message": "কুকি কপি করার সময় ডিফল্ট ফরম্যাট"
+    },
+    "export_setting_title": {
+        "message": "রপ্তানি সেটিং"
+    },
+    "export_setting_description": {
+        "message": "কুকি রপ্তানি করার সময় ডিফল্ট ফরম্যাট"
+    },
+    "import_setting_title": {
+        "message": "আমদানি সেটিং"
+    },
+    "import_setting_description": {
+        "message": "কুকি আমদানি সেটিংসের জন্য অপশন"
+    },
+    "import_setting_option_reload_page": {
+        "message": "আমদানি করার পরে ওয়েব-পৃষ্ঠা পুনরায় লোড করুন"
+    },
+    "import_setting_format": {
+        "message": "ডিফল্ট আমদানি অপশন"
+    },
+    "import_settomg_format_text": {
+        "message": "টেক্সট ব্যবহার করুন"
+    },
+    "import_setting_format_file": {
+        "message": "একটি ফাইল ব্যবহার করুন"
+    },
+    "alert_copy_cookie_success": {
+        "message": "কপি সফল হয়েছে"
+    },
+    "no_cookie_description": {
+        "message": "ওয়েবসাইটে কোন কুকি নেই।"
+    },
+    "sidebar_setting": {
+        "message": "সেটিং"
+    },
+    "sidebar_export": {
+        "message": "রপ্তানি"
+    },
+    "sidebar_import": {
+        "message": "আমদানি"
+    },
+    "alert_add_cookie_success": {
+        "message": "কুকি যোগ সফল হয়েছে"
+    },
+    "alert_add_cookie_error": {
+        "message": "কুকি যোগ করতে ত্রুটি হয়েছে"
+    },
+    "title_add_cookie": {
+        "message": "কুকি যোগ করুন"
+    },
+    "description_add_cookie": {
+        "message": "আপনি কি কুকি যোগ করতে চান?"
+    },
+    "title_clear_cookie": {
+        "message": "কুকি পরিষ্কার করুন"
+    },
+    "description_clear_cookie": {
+        "message": "আপনি কি এই ওয়েবসাইটের সব কুকি মুছে ফেলতে চান?"
+    },
+    "title_copy_cookie": {
+        "message": "কুকি কপি করুন"
+    },
+    "description_copy_cookie": {
+        "message": "কোন ফরম্যাটে কুকি কপি করতে চান?"
+    },
+    "str_example": {
+        "message": "উদাহরণ"
+    },
+    "title_delete_cookie": {
+        "message": "কুকি মুছুন"
+    },
+    "description_delete_cookie": {
+        "message": "আপনি কি কুকি মুছতে চান?"
+    },
+    "alert_delete_cookie_success": {
+        "message": "কুকি মুছে ফেলা সফল হয়েছে"
+    },
+    "title_edit_cookie": {
+        "message": "কুকি সম্পাদনা করুন"
+    },
+    "description_edit_cooke": {
+        "message": "আপনি কি কুকি সম্পাদনা করতে চান?"
+    },
+    "alert_edit_cookie_success": {
+        "message": "কুকি সম্পাদনা সফল হয়েছে"
+    },
+    "title_export_cookie": {
+        "message": "কুকি রপ্তানি করুন"
+    },
+    "description_export_cookie": {
+        "message": "কোন ফরম্যাটে কুকি রপ্তানি করতে চান?"
+    },
+    "label_password_encrypt": {
+        "message": "কুকি এনক্রিপ্ট করার পাসওয়ার্ড"
+    },
+    "description_password": {
+        "message": "রপ্তানির আগে কুকি এনক্রিপ্ট করতে চাইলে পাসওয়ার্ড লিখুন (ঐচ্ছিক)।"
+    },
+    "alert_import_cookie_success": {
+        "message": "কুকি আমদানি সফল হয়েছে"
+    },
+    "alert_import_cookie_error": {
+        "message": "কুকি আমদানি করতে ত্রুটি হয়েছে"
+    },
+    "title_import_cookie": {
+        "message": "কুকি আমদানি করুন"
+    },
+    "description_import_cookie": {
+        "message": "আপনি কিভাবে আমদানি করতে চান?"
+    },
+    "label_select_file_import": {
+        "message": "আমদানি করার জন্য একটি ফাইল নির্বাচন করুন"
+    },
+    "lable_link_import": {
+        "message": "কুকি আমদানি করার লিঙ্ক"
+    },
+    "label_password_decrypt": {
+        "message": "কুকি ডিক্রিপ্ট করার পাসওয়ার্ড"
+    },
+    "description_password_decrypt": {
+        "message": "কুকি এনক্রিপ্ট করা থাকলে ডিক্রিপ্ট পাসওয়ার্ড লিখুন (ঐচ্ছিক)।"
+    },
+    "sidebar_buy_me_a_coffee": {
+        "message": "আমাকে একটি কফি কিনুন"
+    },
+    "sidebar_reviews": {
+        "message": "রিভিউ"
+    },
+    "description_buy_me_a_coffee": {
+        "message": "যদি আপনি এটি পছন্দ করেন, আমাকে সমর্থন করার কথা বিবেচনা করুন"
+    }
+}

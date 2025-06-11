@@ -1,0 +1,206 @@
+{
+    "ext_name": {
+        "message": "Cookie Editor"
+    },
+    "ext_description": {
+        "message": "Simple yet powerful Cookie Editor that allow you to quickly create, edit and delete cookies without leaving your tab."
+    },
+    "placeholder_search": {
+        "message": "搜索 Cookie 名称"
+    },
+    "btn_copy": {
+        "message": "复制"
+    },
+    "btn_add": {
+        "message": "添加"
+    },
+    "btn_import": {
+        "message": "导入"
+    },
+    "btn_export": {
+        "message": "导出"
+    },
+    "btn_remove": {
+        "message": "清除全部"
+    },
+    "msg_no_cookies": {
+        "message": "没有 Cookie。"
+    },
+    "btn_delete": {
+        "message": "删除"
+    },
+    "btn_cancel": {
+        "message": "取消"
+    },
+    "btn_edit": {
+        "message": "编辑"
+    },
+    "title_delete": {
+        "message": "您要删除此网站的所有 Cookie 吗？"
+    },
+    "title_import": {
+        "message": "您要导入 Cookie 吗？"
+    },
+    "msg_import_error": {
+        "message": "导入 Cookie 失败。"
+    },
+    "pl_password": {
+        "message": "用于加密/解密 Cookie 的密码"
+    },
+    "title_export": {
+        "message": "您要导出 Cookie 吗？"
+    },
+    "display_setting_title": {
+        "message": "显示设置"
+    },
+    "display_setting_description": {
+        "message": "查看 Cookie 的显示模式设置"
+    },
+    "display_setting_option_default": {
+        "message": "默认模式"
+    },
+    "display_setting_option_compact": {
+        "message": "紧凑模式"
+    },
+    "display_setting_option_custom": {
+        "message": "自定义模式"
+    },
+    "setting_customize_display_cookie": {
+        "message": "自定义 Cookie 显示"
+    },
+    "copy_setting_title": {
+        "message": "复制设置"
+    },
+    "copy_setting_description": {
+        "message": "复制 Cookie 时的默认格式"
+    },
+    "export_setting_title": {
+        "message": "导出设置"
+    },
+    "export_setting_description": {
+        "message": "导出 Cookie 时的默认格式"
+    },
+    "import_setting_title": {
+        "message": "导入设置"
+    },
+    "import_setting_description": {
+        "message": "Cookie 导入设置选项"
+    },
+    "import_setting_option_reload_page": {
+        "message": "导入后重新加载网页"
+    },
+    "import_setting_format": {
+        "message": "默认导入选项"
+    },
+    "import_settomg_format_text": {
+        "message": "使用文本"
+    },
+    "import_setting_format_file": {
+        "message": "使用文件"
+    },
+    "alert_copy_cookie_success": {
+        "message": "复制成功"
+    },
+    "no_cookie_description": {
+        "message": "此网站没有 Cookie。"
+    },
+    "sidebar_setting": {
+        "message": "设置"
+    },
+    "sidebar_export": {
+        "message": "导出"
+    },
+    "sidebar_import": {
+        "message": "导入"
+    },
+    "alert_add_cookie_success": {
+        "message": "添加 Cookie 成功"
+    },
+    "alert_add_cookie_error": {
+        "message": "添加 Cookie 失败"
+    },
+    "title_add_cookie": {
+        "message": "添加 Cookie"
+    },
+    "description_add_cookie": {
+        "message": "您要添加 Cookie 吗？"
+    },
+    "title_clear_cookie": {
+        "message": "清除 Cookie"
+    },
+    "description_clear_cookie": {
+        "message": "您要删除此网站的所有 Cookie 吗？"
+    },
+    "title_copy_cookie": {
+        "message": "复制 Cookie"
+    },
+    "description_copy_cookie": {
+        "message": "您希望以哪种格式复制 Cookie？"
+    },
+    "str_example": {
+        "message": "示例"
+    },
+    "title_delete_cookie": {
+        "message": "删除 Cookie"
+    },
+    "description_delete_cookie": {
+        "message": "您要删除 Cookie 吗？"
+    },
+    "alert_delete_cookie_success": {
+        "message": "删除 Cookie 成功"
+    },
+    "title_edit_cookie": {
+        "message": "编辑 Cookie"
+    },
+    "description_edit_cooke": {
+        "message": "您要编辑 Cookie 吗？"
+    },
+    "alert_edit_cookie_success": {
+        "message": "编辑 Cookie 成功"
+    },
+    "title_export_cookie": {
+        "message": "导出 Cookie"
+    },
+    "description_export_cookie": {
+        "message": "您希望以哪种格式导出 Cookie？"
+    },
+    "label_password_encrypt": {
+        "message": "用于加密 Cookie 的密码"
+    },
+    "description_password": {
+        "message": "如果您希望在导出前加密 Cookie，请输入密码（可选）。"
+    },
+    "alert_import_cookie_success": {
+        "message": "导入 Cookie 成功"
+    },
+    "alert_import_cookie_error": {
+        "message": "导入 Cookie 失败"
+    },
+    "title_import_cookie": {
+        "message": "导入 Cookie"
+    },
+    "description_import_cookie": {
+        "message": "您希望如何导入？"
+    },
+    "label_select_file_import": {
+        "message": "选择要导入的文件"
+    },
+    "lable_link_import": {
+        "message": "导入 Cookie 的链接"
+    },
+    "label_password_decrypt": {
+        "message": "用于解密 Cookie 的密码"
+    },
+    "description_password_decrypt": {
+        "message": "如果 Cookie 受加密保护，请输入解密密码（可选）。"
+    },
+    "sidebar_buy_me_a_coffee": {
+        "message": "请我喝杯咖啡"
+    },
+    "sidebar_reviews": {
+        "message": "评论"
+    },
+    "description_buy_me_a_coffee": {
+        "message": "如果你喜欢，请考虑支持我"
+    }
+}

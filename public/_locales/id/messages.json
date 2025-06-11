@@ -1,0 +1,206 @@
+{
+    "ext_name": {
+        "message": "Cookie Editor"
+    },
+    "ext_description": {
+        "message": "Simple yet powerful Cookie Editor that allow you to quickly create, edit and delete cookies without leaving your tab."
+    },
+    "placeholder_search": {
+        "message": "Cari nama kuki"
+    },
+    "btn_copy": {
+        "message": "Salin"
+    },
+    "btn_add": {
+        "message": "Tambah"
+    },
+    "btn_import": {
+        "message": "Impor"
+    },
+    "btn_export": {
+        "message": "Ekspor"
+    },
+    "btn_remove": {
+        "message": "Hapus Semua"
+    },
+    "msg_no_cookies": {
+        "message": "Tidak ada kuki."
+    },
+    "btn_delete": {
+        "message": "Hapus"
+    },
+    "btn_cancel": {
+        "message": "Batal"
+    },
+    "btn_edit": {
+        "message": "Edit"
+    },
+    "title_delete": {
+        "message": "Apakah Anda ingin menghapus semua kuki dari situs web ini?"
+    },
+    "title_import": {
+        "message": "Apakah Anda mencoba mengimpor kuki?"
+    },
+    "msg_import_error": {
+        "message": "Gagal mengimpor kuki."
+    },
+    "pl_password": {
+        "message": "Kata sandi untuk mengenkripsi/mendekripsi kuki"
+    },
+    "title_export": {
+        "message": "Apakah Anda mencoba mengekspor kuki?"
+    },
+    "display_setting_title": {
+        "message": "PENGATURAN TAMPILAN"
+    },
+    "display_setting_description": {
+        "message": "Pengaturan mode tampilan untuk melihat kuki"
+    },
+    "display_setting_option_default": {
+        "message": "Mode Default"
+    },
+    "display_setting_option_compact": {
+        "message": "Mode Ringkas"
+    },
+    "display_setting_option_custom": {
+        "message": "Mode Kustom"
+    },
+    "setting_customize_display_cookie": {
+        "message": "Sesuaikan tampilan kuki"
+    },
+    "copy_setting_title": {
+        "message": "PENGATURAN SALIN"
+    },
+    "copy_setting_description": {
+        "message": "Format default saat menyalin kuki"
+    },
+    "export_setting_title": {
+        "message": "PENGATURAN EKSPOR"
+    },
+    "export_setting_description": {
+        "message": "Format default saat mengekspor kuki"
+    },
+    "import_setting_title": {
+        "message": "PENGATURAN IMPOR"
+    },
+    "import_setting_description": {
+        "message": "Opsi untuk pengaturan impor kuki"
+    },
+    "import_setting_option_reload_page": {
+        "message": "Muat ulang halaman web setelah diimpor"
+    },
+    "import_setting_format": {
+        "message": "Opsi impor default"
+    },
+    "import_settomg_format_text": {
+        "message": "Gunakan teks"
+    },
+    "import_setting_format_file": {
+        "message": "Gunakan file"
+    },
+    "alert_copy_cookie_success": {
+        "message": "Salin berhasil"
+    },
+    "no_cookie_description": {
+        "message": "Situs web tidak memiliki kuki."
+    },
+    "sidebar_setting": {
+        "message": "Pengaturan"
+    },
+    "sidebar_export": {
+        "message": "Ekspor"
+    },
+    "sidebar_import": {
+        "message": "Impor"
+    },
+    "alert_add_cookie_success": {
+        "message": "Kuki berhasil ditambahkan"
+    },
+    "alert_add_cookie_error": {
+        "message": "Gagal menambahkan kuki"
+    },
+    "title_add_cookie": {
+        "message": "TAMBAH KUKI"
+    },
+    "description_add_cookie": {
+        "message": "Apakah Anda ingin menambahkan kuki?"
+    },
+    "title_clear_cookie": {
+        "message": "HAPUS KUKI"
+    },
+    "description_clear_cookie": {
+        "message": "Apakah Anda ingin menghapus semua kuki dari situs web ini?"
+    },
+    "title_copy_cookie": {
+        "message": "SALIN KUKI"
+    },
+    "description_copy_cookie": {
+        "message": "Dalam format apa Anda ingin menyalin kuki?"
+    },
+    "str_example": {
+        "message": "Contoh"
+    },
+    "title_delete_cookie": {
+        "message": "HAPUS KUKI"
+    },
+    "description_delete_cookie": {
+        "message": "Apakah Anda ingin menghapus kuki?"
+    },
+    "alert_delete_cookie_success": {
+        "message": "Kuki berhasil dihapus"
+    },
+    "title_edit_cookie": {
+        "message": "EDIT KUKI"
+    },
+    "description_edit_cooke": {
+        "message": "Apakah Anda ingin mengedit kuki?"
+    },
+    "alert_edit_cookie_success": {
+        "message": "Kuki berhasil diedit"
+    },
+    "title_export_cookie": {
+        "message": "EKSPOR KUKI"
+    },
+    "description_export_cookie": {
+        "message": "Dalam format apa Anda ingin mengekspor kuki?"
+    },
+    "label_password_encrypt": {
+        "message": "Kata sandi untuk mengenkripsi kuki"
+    },
+    "description_password": {
+        "message": "Masukkan kata sandi jika Anda ingin kuki dienkripsi sebelum diekspor (opsional)."
+    },
+    "alert_import_cookie_success": {
+        "message": "Kuki berhasil diimpor"
+    },
+    "alert_import_cookie_error": {
+        "message": "Gagal mengimpor kuki"
+    },
+    "title_import_cookie": {
+        "message": "IMPOR KUKI"
+    },
+    "description_import_cookie": {
+        "message": "Bagaimana Anda ingin mengimpor?"
+    },
+    "label_select_file_import": {
+        "message": "Pilih file untuk diimpor"
+    },
+    "lable_link_import": {
+        "message": "Tautan untuk mengimpor kuki"
+    },
+    "label_password_decrypt": {
+        "message": "Kata sandi untuk mendekripsi kuki"
+    },
+    "description_password_decrypt": {
+        "message": "Masukkan kata sandi dekripsi jika kuki dilindungi oleh enkripsi (opsional)."
+    },
+    "sidebar_buy_me_a_coffee": {
+        "message": "Belikan saya kopi"
+    },
+    "sidebar_reviews": {
+        "message": "Ulasan"
+    },
+    "description_buy_me_a_coffee": {
+        "message": "Jika Anda menyukainya, pertimbangkan untuk mendukung saya"
+    }
+}

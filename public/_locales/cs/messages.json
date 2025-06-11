@@ -1,0 +1,206 @@
+{
+    "ext_name": {
+        "message": "Cookie Editor"
+    },
+    "ext_description": {
+        "message": "Simple yet powerful Cookie Editor that allow you to quickly create, edit and delete cookies without leaving your tab."
+    },
+    "placeholder_search": {
+        "message": "Hledat název cookie"
+    },
+    "btn_copy": {
+        "message": "Kopírovat"
+    },
+    "btn_add": {
+        "message": "Přidat"
+    },
+    "btn_import": {
+        "message": "Importovat"
+    },
+    "btn_export": {
+        "message": "Exportovat"
+    },
+    "btn_remove": {
+        "message": "Vymazat vše"
+    },
+    "msg_no_cookies": {
+        "message": "Žádné cookies."
+    },
+    "btn_delete": {
+        "message": "Smazat"
+    },
+    "btn_cancel": {
+        "message": "Zrušit"
+    },
+    "btn_edit": {
+        "message": "Upravit"
+    },
+    "title_delete": {
+        "message": "Chcete odstranit všechny cookies této webové stránky?"
+    },
+    "title_import": {
+        "message": "Snažíte se importovat cookies?"
+    },
+    "msg_import_error": {
+        "message": "Import cookies se nezdařil."
+    },
+    "pl_password": {
+        "message": "Heslo pro šifrování/dešifrování cookies"
+    },
+    "title_export": {
+        "message": "Snažíte se exportovat cookies?"
+    },
+    "display_setting_title": {
+        "message": "NASTAVENÍ ZOBRAZENÍ"
+    },
+    "display_setting_description": {
+        "message": "Nastavení režimu zobrazení pro prohlížení cookies"
+    },
+    "display_setting_option_default": {
+        "message": "Výchozí režim"
+    },
+    "display_setting_option_compact": {
+        "message": "Kompaktní režim"
+    },
+    "display_setting_option_custom": {
+        "message": "Vlastní režim"
+    },
+    "setting_customize_display_cookie": {
+        "message": "Přizpůsobit zobrazení cookies"
+    },
+    "copy_setting_title": {
+        "message": "NASTAVENÍ KOPÍROVÁNÍ"
+    },
+    "copy_setting_description": {
+        "message": "Výchozí formát při kopírování cookies"
+    },
+    "export_setting_title": {
+        "message": "NASTAVENÍ EXPORTU"
+    },
+    "export_setting_description": {
+        "message": "Výchozí formát při exportu cookies"
+    },
+    "import_setting_title": {
+        "message": "NASTAVENÍ IMPORTU"
+    },
+    "import_setting_description": {
+        "message": "Možnosti nastavení importu cookies"
+    },
+    "import_setting_option_reload_page": {
+        "message": "Po importu znovu načíst stránku"
+    },
+    "import_setting_format": {
+        "message": "Výchozí možnost importu"
+    },
+    "import_settomg_format_text": {
+        "message": "Použít text"
+    },
+    "import_setting_format_file": {
+        "message": "Použít soubor"
+    },
+    "alert_copy_cookie_success": {
+        "message": "Kopírování úspěšné"
+    },
+    "no_cookie_description": {
+        "message": "Webová stránka nemá žádné cookies."
+    },
+    "sidebar_setting": {
+        "message": "Nastavení"
+    },
+    "sidebar_export": {
+        "message": "Exportovat"
+    },
+    "sidebar_import": {
+        "message": "Importovat"
+    },
+    "alert_add_cookie_success": {
+        "message": "Cookie úspěšně přidána"
+    },
+    "alert_add_cookie_error": {
+        "message": "Chyba při přidávání cookie"
+    },
+    "title_add_cookie": {
+        "message": "PŘIDAT COOKIE"
+    },
+    "description_add_cookie": {
+        "message": "Chcete přidat cookie?"
+    },
+    "title_clear_cookie": {
+        "message": "VYMAZAT COOKIES"
+    },
+    "description_clear_cookie": {
+        "message": "Chcete odstranit všechny cookies této webové stránky?"
+    },
+    "title_copy_cookie": {
+        "message": "KOPÍROVAT COOKIE"
+    },
+    "description_copy_cookie": {
+        "message": "V jakém formátu chcete cookie zkopírovat?"
+    },
+    "str_example": {
+        "message": "Příklad"
+    },
+    "title_delete_cookie": {
+        "message": "SMAZAT COOKIE"
+    },
+    "description_delete_cookie": {
+        "message": "Chcete smazat cookie?"
+    },
+    "alert_delete_cookie_success": {
+        "message": "Cookie úspěšně smazána"
+    },
+    "title_edit_cookie": {
+        "message": "UPRAVIT COOKIE"
+    },
+    "description_edit_cooke": {
+        "message": "Chcete upravit cookie?"
+    },
+    "alert_edit_cookie_success": {
+        "message": "Cookie úspěšně upravena"
+    },
+    "title_export_cookie": {
+        "message": "EXPORTOVAT COOKIE"
+    },
+    "description_export_cookie": {
+        "message": "V jakém formátu chcete cookie exportovat?"
+    },
+    "label_password_encrypt": {
+        "message": "Heslo pro šifrování cookies"
+    },
+    "description_password": {
+        "message": "Zadejte heslo, pokud chcete, aby byly cookies před exportem zašifrovány (volitelné)."
+    },
+    "alert_import_cookie_success": {
+        "message": "Cookies úspěšně importovány"
+    },
+    "alert_import_cookie_error": {
+        "message": "Chyba při importu cookies"
+    },
+    "title_import_cookie": {
+        "message": "IMPORTOVAT COOKIES"
+    },
+    "description_import_cookie": {
+        "message": "Jak chcete importovat?"
+    },
+    "label_select_file_import": {
+        "message": "Vyberte soubor k importu"
+    },
+    "lable_link_import": {
+        "message": "Odkaz pro import cookies"
+    },
+    "label_password_decrypt": {
+        "message": "Heslo pro dešifrování cookies"
+    },
+    "description_password_decrypt": {
+        "message": "Zadejte dešifrovací heslo, pokud jsou cookies chráněny šifrováním (volitelné)."
+    },
+    "sidebar_buy_me_a_coffee": {
+        "message": "Kupte mi kávu"
+    },
+    "sidebar_reviews": {
+        "message": "Recenze"
+    },
+    "description_buy_me_a_coffee": {
+        "message": "Pokud se vám to líbí, zvažte mě podpořit"
+    }
+}

@@ -1,0 +1,206 @@
+{
+    "ext_name": {
+        "message": "Cookie Editor"
+    },
+    "ext_description": {
+        "message": "Simple yet powerful Cookie Editor that allow you to quickly create, edit and delete cookies without leaving your tab."
+    },
+    "placeholder_search": {
+        "message": "ค้นหาชื่อคุกกี้"
+    },
+    "btn_copy": {
+        "message": "คัดลอก"
+    },
+    "btn_add": {
+        "message": "เพิ่ม"
+    },
+    "btn_import": {
+        "message": "นำเข้า"
+    },
+    "btn_export": {
+        "message": "ส่งออก"
+    },
+    "btn_remove": {
+        "message": "ล้างทั้งหมด"
+    },
+    "msg_no_cookies": {
+        "message": "ไม่มีคุกกี้"
+    },
+    "btn_delete": {
+        "message": "ลบ"
+    },
+    "btn_cancel": {
+        "message": "ยกเลิก"
+    },
+    "btn_edit": {
+        "message": "แก้ไข"
+    },
+    "title_delete": {
+        "message": "คุณต้องการลบคุกกี้ทั้งหมดของเว็บไซต์นี้หรือไม่?"
+    },
+    "title_import": {
+        "message": "คุณต้องการนำเข้าคุกกี้หรือไม่?"
+    },
+    "msg_import_error": {
+        "message": "การนำเข้าคุกกี้ล้มเหลว"
+    },
+    "pl_password": {
+        "message": "รหัสผ่านสำหรับการเข้ารหัส/ถอดรหัสคุกกี้"
+    },
+    "title_export": {
+        "message": "คุณต้องการส่งออกคุกกี้หรือไม่?"
+    },
+    "display_setting_title": {
+        "message": "การตั้งค่าการแสดงผล"
+    },
+    "display_setting_description": {
+        "message": "การตั้งค่าโหมดการแสดงผลสำหรับการดูคุกกี้"
+    },
+    "display_setting_option_default": {
+        "message": "โหมดปกติ"
+    },
+    "display_setting_option_compact": {
+        "message": "โหมดกะทัดรัด"
+    },
+    "display_setting_option_custom": {
+        "message": "โหมดกำหนดเอง"
+    },
+    "setting_customize_display_cookie": {
+        "message": "ปรับแต่งการแสดงผลคุกกี้"
+    },
+    "copy_setting_title": {
+        "message": "การตั้งค่าการคัดลอก"
+    },
+    "copy_setting_description": {
+        "message": "รูปแบบเริ่มต้นเมื่อคัดลอกคุกกี้"
+    },
+    "export_setting_title": {
+        "message": "การตั้งค่าการส่งออก"
+    },
+    "export_setting_description": {
+        "message": "รูปแบบเริ่มต้นเมื่อส่งออกคุกกี้"
+    },
+    "import_setting_title": {
+        "message": "การตั้งค่าการนำเข้า"
+    },
+    "import_setting_description": {
+        "message": "ตัวเลือกการตั้งค่าการนำเข้าคุกกี้"
+    },
+    "import_setting_option_reload_page": {
+        "message": "โหลดหน้าเว็บใหม่หลังจากนำเข้า"
+    },
+    "import_setting_format": {
+        "message": "ตัวเลือกนำเข้าเริ่มต้น"
+    },
+    "import_settomg_format_text": {
+        "message": "ใช้ข้อความ"
+    },
+    "import_setting_format_file": {
+        "message": "ใช้ไฟล์"
+    },
+    "alert_copy_cookie_success": {
+        "message": "คัดลอกสำเร็จ"
+    },
+    "no_cookie_description": {
+        "message": "เว็บไซต์นี้ไม่มีคุกกี้"
+    },
+    "sidebar_setting": {
+        "message": "การตั้งค่า"
+    },
+    "sidebar_export": {
+        "message": "ส่งออก"
+    },
+    "sidebar_import": {
+        "message": "นำเข้า"
+    },
+    "alert_add_cookie_success": {
+        "message": "เพิ่มคุกกี้สำเร็จ"
+    },
+    "alert_add_cookie_error": {
+        "message": "เพิ่มคุกกี้ไม่สำเร็จ"
+    },
+    "title_add_cookie": {
+        "message": "เพิ่มคุกกี้"
+    },
+    "description_add_cookie": {
+        "message": "คุณต้องการเพิ่มคุกกี้หรือไม่?"
+    },
+    "title_clear_cookie": {
+        "message": "ล้างคุกกี้"
+    },
+    "description_clear_cookie": {
+        "message": "คุณต้องการลบคุกกี้ทั้งหมดของเว็บไซต์นี้หรือไม่?"
+    },
+    "title_copy_cookie": {
+        "message": "คัดลอกคุกกี้"
+    },
+    "description_copy_cookie": {
+        "message": "คุณต้องการคัดลอกคุกกี้ในรูปแบบใด?"
+    },
+    "str_example": {
+        "message": "ตัวอย่าง"
+    },
+    "title_delete_cookie": {
+        "message": "ลบคุกกี้"
+    },
+    "description_delete_cookie": {
+        "message": "คุณต้องการลบคุกกี้หรือไม่?"
+    },
+    "alert_delete_cookie_success": {
+        "message": "ลบคุกกี้สำเร็จ"
+    },
+    "title_edit_cookie": {
+        "message": "แก้ไขคุกกี้"
+    },
+    "description_edit_cooke": {
+        "message": "คุณต้องการแก้ไขคุกกี้หรือไม่?"
+    },
+    "alert_edit_cookie_success": {
+        "message": "แก้ไขคุกกี้สำเร็จ"
+    },
+    "title_export_cookie": {
+        "message": "ส่งออกคุกกี้"
+    },
+    "description_export_cookie": {
+        "message": "คุณต้องการส่งออกคุกกี้ในรูปแบบใด?"
+    },
+    "label_password_encrypt": {
+        "message": "รหัสผ่านสำหรับการเข้ารหัสคุกกี้"
+    },
+    "description_password": {
+        "message": "กรอกรหัสผ่านหากคุณต้องการเข้ารหัสคุกกี้ก่อนส่งออก (ไม่จำเป็น)"
+    },
+    "alert_import_cookie_success": {
+        "message": "นำเข้าคุกกี้สำเร็จ"
+    },
+    "alert_import_cookie_error": {
+        "message": "นำเข้าคุกกี้ไม่สำเร็จ"
+    },
+    "title_import_cookie": {
+        "message": "นำเข้าคุกกี้"
+    },
+    "description_import_cookie": {
+        "message": "คุณต้องการนำเข้าแบบใด?"
+    },
+    "label_select_file_import": {
+        "message": "เลือกไฟล์เพื่อนำเข้า"
+    },
+    "lable_link_import": {
+        "message": "ลิงก์สำหรับนำเข้าคุกกี้"
+    },
+    "label_password_decrypt": {
+        "message": "รหัสผ่านสำหรับถอดรหัสคุกกี้"
+    },
+    "description_password_decrypt": {
+        "message": "กรอกรหัสผ่านถอดรหัสหากคุกกี้ถูกป้องกันด้วยการเข้ารหัส (ไม่จำเป็น)"
+    },
+    "sidebar_buy_me_a_coffee": {
+        "message": "ซื้อกาแฟให้ฉัน"
+    },
+    "sidebar_reviews": {
+        "message": "รีวิว"
+    },
+    "description_buy_me_a_coffee": {
+        "message": "ถ้าคุณชอบ พิจารณาสนับสนุนฉัน "
+    }
+}

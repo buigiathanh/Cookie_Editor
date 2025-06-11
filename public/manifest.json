@@ -1,0 +1,80 @@
+{
+    "short_name": "Cookie Editor",
+    "name": "Cookie Editor",
+    "description": "Simple yet powerful Cookie Editor that allow you to quickly create, edit and delete cookies without leaving your tab.",
+    "icons": {
+        "16": "icons/16x16.png",
+        "32": "icons/32x32.png",
+        "48": "icons/48x48.png",
+        "128": "icons/128x128.png"
+    },
+    "action": {
+        "default_icon": {
+            "16": "icons/16x16.png",
+            "32": "icons/32x32.png",
+            "48": "icons/48x48.png",
+            "128": "icons/128x128.png"
+        }
+    },
+    "manifest_version": 3,
+    "version": "1.0.1.5",
+    "default_locale": "en",
+    "host_permissions": [
+        "https://*/*",
+        "http://*/*"
+    ],
+    "permissions": [
+        "cookies",
+        "sidePanel",
+        "tabs"
+    ],
+    "optional_permissions": [
+        "browsingData",
+        "history",
+        "storage"
+    ],
+    "content_scripts": [
+        {
+            "all_frames": true,
+            "matches": [
+                "<all_urls>"
+            ],
+            "js": [
+                "static/content_scripts/main.js"
+            ],
+            "run_at": "document_idle"
+        },
+        {
+            "matches": [
+                "<all_urls>"
+            ],
+            "css": [
+                "static/content_css/main.css"
+            ],
+            "run_at": "document_idle"
+        }
+    ],
+    "web_accessible_resources": [
+        {
+            "resources": [
+                "images/*",
+                "svg/*",
+                "static/*",
+                "pages/*",
+                "gifs/*",
+                "fonts/*",
+                "scripts/*",
+                "css/*"
+            ],
+            "matches": [
+                "<all_urls>"
+            ]
+        }
+    ],
+    "content_security_policy": {
+        "extension_pages": "script-src 'self'; object-src 'self';script-src-elem 'self' "
+    },
+    "background": {
+        "service_worker": "service_worker/background.bundle.js"
+    }
+}

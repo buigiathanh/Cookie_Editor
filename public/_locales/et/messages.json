@@ -1,0 +1,206 @@
+{
+    "ext_name": {
+        "message": "Cookie Editor"
+    },
+    "ext_description": {
+        "message": "Simple yet powerful Cookie Editor that allow you to quickly create, edit and delete cookies without leaving your tab."
+    },
+    "placeholder_search": {
+        "message": "Otsi küpsise nime"
+    },
+    "btn_copy": {
+        "message": "Kopeeri"
+    },
+    "btn_add": {
+        "message": "Lisa"
+    },
+    "btn_import": {
+        "message": "Impordi"
+    },
+    "btn_export": {
+        "message": "Ekspordi"
+    },
+    "btn_remove": {
+        "message": "Tühjenda kõik"
+    },
+    "msg_no_cookies": {
+        "message": "Küpsiseid pole."
+    },
+    "btn_delete": {
+        "message": "Kustuta"
+    },
+    "btn_cancel": {
+        "message": "Tühista"
+    },
+    "btn_edit": {
+        "message": "Redigeeri"
+    },
+    "title_delete": {
+        "message": "Kas soovite kustutada kõik selle veebisaidi küpsised?"
+    },
+    "title_import": {
+        "message": "Kas proovite küpsiseid importida?"
+    },
+    "msg_import_error": {
+        "message": "Küpsiste importimine ebaõnnestus."
+    },
+    "pl_password": {
+        "message": "Parool küpsiste krüptimiseks/dekrüptimiseks"
+    },
+    "title_export": {
+        "message": "Kas proovite küpsiseid eksportida?"
+    },
+    "display_setting_title": {
+        "message": "KUVA SEADED"
+    },
+    "display_setting_description": {
+        "message": "Küpsiste vaatamise režiimi seaded"
+    },
+    "display_setting_option_default": {
+        "message": "Vaikerežiim"
+    },
+    "display_setting_option_compact": {
+        "message": "Kompaktne režiim"
+    },
+    "display_setting_option_custom": {
+        "message": "Kohandatud režiim"
+    },
+    "setting_customize_display_cookie": {
+        "message": "Kohanda küpsiste kuvamist"
+    },
+    "copy_setting_title": {
+        "message": "KOPEERIMISE SEADED"
+    },
+    "copy_setting_description": {
+        "message": "Vaikevorming küpsiste kopeerimisel"
+    },
+    "export_setting_title": {
+        "message": "EKSPORDI SEADED"
+    },
+    "export_setting_description": {
+        "message": "Vaikevorming küpsiste eksportimisel"
+    },
+    "import_setting_title": {
+        "message": "IMPORTIMISE SEADED"
+    },
+    "import_setting_description": {
+        "message": "Küpsiste importimise seadistuste valikud"
+    },
+    "import_setting_option_reload_page": {
+        "message": "Laadi leht pärast importimist uuesti"
+    },
+    "import_setting_format": {
+        "message": "Vaikeimportimise valik"
+    },
+    "import_settomg_format_text": {
+        "message": "Kasuta teksti"
+    },
+    "import_setting_format_file": {
+        "message": "Kasuta faili"
+    },
+    "alert_copy_cookie_success": {
+        "message": "Kopeerimine õnnestus"
+    },
+    "no_cookie_description": {
+        "message": "Veebisaidil pole küpsiseid."
+    },
+    "sidebar_setting": {
+        "message": "Seaded"
+    },
+    "sidebar_export": {
+        "message": "Ekspordi"
+    },
+    "sidebar_import": {
+        "message": "Impordi"
+    },
+    "alert_add_cookie_success": {
+        "message": "Küpsis lisati edukalt"
+    },
+    "alert_add_cookie_error": {
+        "message": "Küpsise lisamine ebaõnnestus"
+    },
+    "title_add_cookie": {
+        "message": "LISA KÜPSIS"
+    },
+    "description_add_cookie": {
+        "message": "Kas soovite küpsise lisada?"
+    },
+    "title_clear_cookie": {
+        "message": "TÜHJENDA KÜPSISED"
+    },
+    "description_clear_cookie": {
+        "message": "Kas soovite kustutada kõik selle veebisaidi küpsised?"
+    },
+    "title_copy_cookie": {
+        "message": "KOPEERI KÜPSIS"
+    },
+    "description_copy_cookie": {
+        "message": "Millises vormingus soovite küpsise kopeerida?"
+    },
+    "str_example": {
+        "message": "Näide"
+    },
+    "title_delete_cookie": {
+        "message": "KUSTUTA KÜPSIS"
+    },
+    "description_delete_cookie": {
+        "message": "Kas soovite küpsise kustutada?"
+    },
+    "alert_delete_cookie_success": {
+        "message": "Küpsis kustutati edukalt"
+    },
+    "title_edit_cookie": {
+        "message": "REDIGEERI KÜPSIST"
+    },
+    "description_edit_cooke": {
+        "message": "Kas soovite küpsist redigeerida?"
+    },
+    "alert_edit_cookie_success": {
+        "message": "Küpsise redigeerimine õnnestus"
+    },
+    "title_export_cookie": {
+        "message": "EKSPORDI KÜPSIS"
+    },
+    "description_export_cookie": {
+        "message": "Millises vormingus soovite küpsise eksportida?"
+    },
+    "label_password_encrypt": {
+        "message": "Parool küpsiste krüptimiseks"
+    },
+    "description_password": {
+        "message": "Sisestage parool, kui soovite küpsise enne eksportimist krüptida (valikuline)."
+    },
+    "alert_import_cookie_success": {
+        "message": "Küpsiste importimine õnnestus"
+    },
+    "alert_import_cookie_error": {
+        "message": "Küpsiste importimine ebaõnnestus"
+    },
+    "title_import_cookie": {
+        "message": "IMPORDI KÜPSISED"
+    },
+    "description_import_cookie": {
+        "message": "Kuidas soovite importida?"
+    },
+    "label_select_file_import": {
+        "message": "Valige importimiseks fail"
+    },
+    "lable_link_import": {
+        "message": "Link küpsiste importimiseks"
+    },
+    "label_password_decrypt": {
+        "message": "Parool küpsiste dekrüptimiseks"
+    },
+    "description_password_decrypt": {
+        "message": "Sisestage dekrüptimisparool, kui küpsised on krüptitud (valikuline)."
+    },
+    "sidebar_buy_me_a_coffee": {
+        "message": "Osta mulle kohv"
+    },
+    "sidebar_reviews": {
+        "message": "Arvustused"
+    },
+    "description_buy_me_a_coffee": {
+        "message": "Kui see sulle meeldib, kaalu mind toetada"
+    }
+}

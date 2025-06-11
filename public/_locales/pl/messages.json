@@ -1,0 +1,206 @@
+{
+    "ext_name": {
+        "message": "Edytor Ciasteczek"
+    },
+    "ext_description": {
+        "message": "Prosty, ale potężny edytor ciasteczek, który pozwala szybko tworzyć, edytować i usuwać ciasteczka bez opuszczania karty."
+    },
+    "placeholder_search": {
+        "message": "Wyszukaj nazwę ciasteczka"
+    },
+    "btn_copy": {
+        "message": "Kopiuj"
+    },
+    "btn_add": {
+        "message": "Dodaj"
+    },
+    "btn_import": {
+        "message": "Importuj"
+    },
+    "btn_export": {
+        "message": "Eksportuj"
+    },
+    "btn_remove": {
+        "message": "Wyczyść wszystko"
+    },
+    "msg_no_cookies": {
+        "message": "Brak ciasteczek."
+    },
+    "btn_delete": {
+        "message": "Usuń"
+    },
+    "btn_cancel": {
+        "message": "Anuluj"
+    },
+    "btn_edit": {
+        "message": "Edytuj"
+    },
+    "title_delete": {
+        "message": "Czy chcesz usunąć wszystkie ciasteczka tej witryny?"
+    },
+    "title_import": {
+        "message": "Czy próbujesz zaimportować ciasteczka?"
+    },
+    "msg_import_error": {
+        "message": "Nie udało się zaimportować ciasteczek."
+    },
+    "pl_password": {
+        "message": "Hasło do szyfrowania/odszyfrowywania ciasteczek"
+    },
+    "title_export": {
+        "message": "Czy próbujesz wyeksportować ciasteczka?"
+    },
+    "display_setting_title": {
+        "message": "USTAWIENIA WYŚWIETLANIA"
+    },
+    "display_setting_description": {
+        "message": "Ustawienia trybu wyświetlania ciasteczek"
+    },
+    "display_setting_option_default": {
+        "message": "Tryb domyślny"
+    },
+    "display_setting_option_compact": {
+        "message": "Tryb kompaktowy"
+    },
+    "display_setting_option_custom": {
+        "message": "Tryb niestandardowy"
+    },
+    "setting_customize_display_cookie": {
+        "message": "Dostosuj wyświetlanie ciasteczek"
+    },
+    "copy_setting_title": {
+        "message": "USTAWIENIA KOPIOWANIA"
+    },
+    "copy_setting_description": {
+        "message": "Domyślny format podczas kopiowania ciasteczek"
+    },
+    "export_setting_title": {
+        "message": "USTAWIENIA EKSPORTU"
+    },
+    "export_setting_description": {
+        "message": "Domyślny format podczas eksportowania ciasteczek"
+    },
+    "import_setting_title": {
+        "message": "USTAWIENIA IMPORTU"
+    },
+    "import_setting_description": {
+        "message": "Opcje ustawień importu ciasteczek"
+    },
+    "import_setting_option_reload_page": {
+        "message": "Przeładuj stronę po imporcie"
+    },
+    "import_setting_format": {
+        "message": "Domyślna opcja importu"
+    },
+    "import_settomg_format_text": {
+        "message": "Użyj tekstu"
+    },
+    "import_setting_format_file": {
+        "message": "Użyj pliku"
+    },
+    "alert_copy_cookie_success": {
+        "message": "Kopiowanie zakończone sukcesem"
+    },
+    "no_cookie_description": {
+        "message": "Witryna nie ma ciasteczek."
+    },
+    "sidebar_setting": {
+        "message": "Ustawienia"
+    },
+    "sidebar_export": {
+        "message": "Eksportuj"
+    },
+    "sidebar_import": {
+        "message": "Importuj"
+    },
+    "alert_add_cookie_success": {
+        "message": "Pomyślnie dodano ciasteczko"
+    },
+    "alert_add_cookie_error": {
+        "message": "Błąd podczas dodawania ciasteczka"
+    },
+    "title_add_cookie": {
+        "message": "DODAJ CIASTECZKO"
+    },
+    "description_add_cookie": {
+        "message": "Czy chcesz dodać ciasteczko?"
+    },
+    "title_clear_cookie": {
+        "message": "WYCZYŚĆ CIASTECZKA"
+    },
+    "description_clear_cookie": {
+        "message": "Czy chcesz usunąć wszystkie ciasteczka tej witryny?"
+    },
+    "title_copy_cookie": {
+        "message": "KOPIUJ CIASTECZKO"
+    },
+    "description_copy_cookie": {
+        "message": "W jakim formacie chcesz skopiować ciasteczko?"
+    },
+    "str_example": {
+        "message": "Przykład"
+    },
+    "title_delete_cookie": {
+        "message": "USUŃ CIASTECZKO"
+    },
+    "description_delete_cookie": {
+        "message": "Czy chcesz usunąć ciasteczko?"
+    },
+    "alert_delete_cookie_success": {
+        "message": "Pomyślnie usunięto ciasteczko"
+    },
+    "title_edit_cookie": {
+        "message": "EDYTUJ CIASTECZKO"
+    },
+    "description_edit_cooke": {
+        "message": "Czy chcesz edytować ciasteczko?"
+    },
+    "alert_edit_cookie_success": {
+        "message": "Pomyślnie edytowano ciasteczko"
+    },
+    "title_export_cookie": {
+        "message": "EKSPORTUJ CIASTECZKO"
+    },
+    "description_export_cookie": {
+        "message":  "W jakim formacie chcesz wyeksportować ciasteczko?"
+    },
+    "label_password_encrypt": {
+        "message": "Hasło do szyfrowania ciasteczek"
+    },
+    "description_password": {
+        "message": "Wprowadź hasło, jeśli chcesz zaszyfrować ciasteczko przed eksportem (opcjonalnie)."
+    },
+    "alert_import_cookie_success": {
+        "message": "Pomyślnie zaimportowano ciasteczka"
+    },
+    "alert_import_cookie_error": {
+        "message": "Błąd podczas importowania ciasteczek"
+    },
+    "title_import_cookie": {
+        "message": "IMPORTUJ CIASTECZKA"
+    },
+    "description_import_cookie": {
+        "message": "Jak chcesz zaimportować ciasteczka?"
+    },
+    "label_select_file_import": {
+        "message": "Wybierz plik do zaimportowania"
+    },
+    "lable_link_import": {
+        "message": "Link do importowania ciasteczek"
+    },
+    "label_password_decrypt": {
+        "message": "Hasło do odszyfrowania ciasteczek"
+    },
+    "description_password_decrypt": {
+        "message": "Wprowadź hasło odszyfrowujące, jeśli ciasteczka są chronione szyfrowaniem (opcjonalnie)."
+    },
+    "sidebar_buy_me_a_coffee": {
+        "message": "Kup mi kawę"
+    },
+    "sidebar_reviews": {
+        "message": "Recenzje"
+    },
+    "description_buy_me_a_coffee": {
+        "message": "Jeśli ci się podoba, rozważ wsparcie mnie"
+    }
+}

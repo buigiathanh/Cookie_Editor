@@ -1,0 +1,206 @@
+{
+    "ext_name": {
+        "message": "Cookie Editor"
+    },
+    "ext_description": {
+        "message": "Simple yet powerful Cookie Editor that allow you to quickly create, edit and delete cookies without leaving your tab."
+    },
+    "placeholder_search": {
+        "message": "కుకీ పేరు శోధించండి"
+    },
+    "btn_copy": {
+        "message": "కాపీ చేయి"
+    },
+    "btn_add": {
+        "message": "జోడించు"
+    },
+    "btn_import": {
+        "message": "దిగుమతి చేయి"
+    },
+    "btn_export": {
+        "message": "ఎగుమతి చేయి"
+    },
+    "btn_remove": {
+        "message": "అన్నింటినీ తొలగించు"
+    },
+    "msg_no_cookies": {
+        "message": "కుకీలు లేవు."
+    },
+    "btn_delete": {
+        "message": "తొలగించు"
+    },
+    "btn_cancel": {
+        "message": "రద్దు చేయి"
+    },
+    "btn_edit": {
+        "message": "సవరించు"
+    },
+    "title_delete": {
+        "message": "మీరు ఈ వెబ్‌సైట్ యొక్క అన్ని కుకీలను తొలగించాలనుకుంటున్నారా?"
+    },
+    "title_import": {
+        "message": "మీరు కుకీలను దిగుమతి చేయాలనుకుంటున్నారా?"
+    },
+    "msg_import_error": {
+        "message": "కుకీలను దిగుమతి చేయడంలో విఫలమైంది."
+    },
+    "pl_password": {
+        "message": "కుకీలను ఎన్‌క్రిప్ట్/డీక్రిప్ట్ చేయడానికి పాస్‌వర్డ్"
+    },
+    "title_export": {
+        "message": "మీరు కుకీలను ఎగుమతి చేయాలనుకుంటున్నారా?"
+    },
+    "display_setting_title": {
+        "message": "ప్రదర్శన సెట్టింగ్"
+    },
+    "display_setting_description": {
+        "message": "కుకీలను వీక్షించడానికి ప్రదర్శన మోడ్ సెట్టింగ్‌లు"
+    },
+    "display_setting_option_default": {
+        "message": "డిఫాల్ట్ మోడ్"
+    },
+    "display_setting_option_compact": {
+        "message": "కాంపాక్ట్ మోడ్"
+    },
+    "display_setting_option_custom": {
+        "message": "కస్టమ్ మోడ్"
+    },
+    "setting_customize_display_cookie": {
+        "message": "కుకీ ప్రదర్శనను అనుకూలీకరించండి"
+    },
+    "copy_setting_title": {
+        "message": "కాపీ సెట్టింగ్"
+    },
+    "copy_setting_description": {
+        "message": "కుకీలను కాపీ చేసేటప్పుడు డిఫాల్ట్ ఫార్మాట్"
+    },
+    "export_setting_title": {
+        "message": "ఎగుమతి సెట్టింగ్"
+    },
+    "export_setting_description": {
+        "message": "కుకీలను ఎగుమతి చేసేటప్పుడు డిఫాల్ట్ ఫార్మాట్"
+    },
+    "import_setting_title": {
+        "message": "దిగుమతి సెట్టింగ్"
+    },
+    "import_setting_description": {
+        "message": "కుకీ దిగుమతి సెట్టింగ్‌ల కోసం ఎంపికలు"
+    },
+    "import_setting_option_reload_page": {
+        "message": "దిగుమతి చేసిన తర్వాత పేజీని రీలోడ్ చేయండి"
+    },
+    "import_setting_format": {
+        "message": "డిఫాల్ట్ దిగుమతి ఎంపిక"
+    },
+    "import_settomg_format_text": {
+        "message": "టెక్స్ట్ ఉపయోగించండి"
+    },
+    "import_setting_format_file": {
+        "message": "ఫైల్ ఉపయోగించండి"
+    },
+    "alert_copy_cookie_success": {
+        "message": "కాపీ విజయవంతమైంది"
+    },
+    "no_cookie_description": {
+        "message": "ఈ వెబ్‌సైట్‌కు కుకీలు లేవు."
+    },
+    "sidebar_setting": {
+        "message": "సెట్టింగ్"
+    },
+    "sidebar_export": {
+        "message": "ఎగుమతి"
+    },
+    "sidebar_import": {
+        "message": "దిగుమతి"
+    },
+    "alert_add_cookie_success": {
+        "message": "కుకీ జోడించడం విజయవంతమైంది"
+    },
+    "alert_add_cookie_error": {
+        "message": "కుకీ జోడించడంలో లోపం"
+    },
+    "title_add_cookie": {
+        "message": "కుకీ జోడించండి"
+    },
+    "description_add_cookie": {
+        "message": "మీరు కుకీని జోడించాలనుకుంటున్నారా?"
+    },
+    "title_clear_cookie": {
+        "message": "కుకీలను తొలగించండి"
+    },
+    "description_clear_cookie": {
+        "message": "మీరు ఈ వెబ్‌సైట్ యొక్క అన్ని కుకీలను తొలగించాలనుకుంటున్నారా?"
+    },
+    "title_copy_cookie": {
+        "message": "కుకీని కాపీ చేయండి"
+    },
+    "description_copy_cookie": {
+        "message": "మీరు కుకీని ఏ ఫార్మాట్‌లో కాపీ చేయాలనుకుంటున్నారు?"
+    },
+    "str_example": {
+        "message": "ఉదాహరణ"
+    },
+    "title_delete_cookie": {
+        "message": "కుకీని తొలగించండి"
+    },
+    "description_delete_cookie": {
+        "message": "మీరు కుకీని తొలగించాలనుకుంటున్నారా?"
+    },
+    "alert_delete_cookie_success": {
+        "message": "కుకీని తొలగించడం విజయవంతమైంది"
+    },
+    "title_edit_cookie": {
+        "message": "కుకీని సవరించండి"
+    },
+    "description_edit_cooke": {
+        "message": "మీరు కుకీని సవరించాలనుకుంటున్నారా?"
+    },
+    "alert_edit_cookie_success": {
+        "message": "కుకీని సవరించడం విజయవంతమైంది"
+    },
+    "title_export_cookie": {
+        "message": "కుకీని ఎగుమతి చేయండి"
+    },
+    "description_export_cookie": {
+        "message": "మీరు కుకీని ఏ ఫార్మాట్‌లో ఎగుమతి చేయాలనుకుంటున్నారు?"
+    },
+    "label_password_encrypt": {
+        "message": "కుకీలను ఎన్‌క్రిప్ట్ చేయడానికి పాస్‌వర్డ్"
+    },
+    "description_password": {
+        "message": "మీరు కుకీలను ఎగుమతి చేయడానికి ముందు ఎన్‌క్రిప్ట్ చేయాలనుకుంటే పాస్‌వర్డ్ నమోదు చేయండి (ఐచ్ఛికం)."
+    },
+    "alert_import_cookie_success": {
+        "message": "కుకీని దిగుమతి చేయడం విజయవంతమైంది"
+    },
+    "alert_import_cookie_error": {
+        "message": "కుకీని దిగుమతి చేయడంలో లోపం"
+    },
+    "title_import_cookie": {
+        "message": "కుకీని దిగుమతి చేయండి"
+    },
+    "description_import_cookie": {
+        "message": "మీరు ఎలా దిగుమతి చేయాలనుకుంటున్నారు?"
+    },
+    "label_select_file_import": {
+        "message": "దిగుమతి చేయడానికి ఫైల్‌ను ఎంచుకోండి"
+    },
+    "lable_link_import": {
+        "message": "కుకీలను దిగుమతి చేయడానికి లింక్"
+    },
+    "label_password_decrypt": {
+        "message": "కుకీలను డీక్రిప్ట్ చేయడానికి పాస్‌వర్డ్"
+    },
+    "description_password_decrypt": {
+        "message": "కుకీలు ఎన్‌క్రిప్షన్ ద్వారా రక్షించబడితే డీక్రిప్షన్ పాస్‌వర్డ్ నమోదు చేయండి (ఐచ్ఛికం)."
+    },
+    "sidebar_buy_me_a_coffee": {
+        "message": "నాకు ఒక కాఫీ కొనండి"
+    },
+    "sidebar_reviews": {
+        "message": "సమీక్షలు"
+    },
+    "description_buy_me_a_coffee": {
+        "message": "మీకు నచ్చితే, నన్ను మద్దతు ఇవ్వడాన్ని పరిగణించండి "
+    }
+}

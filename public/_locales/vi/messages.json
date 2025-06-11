@@ -1,0 +1,206 @@
+{
+    "ext_name": {
+        "message": "Cookie Editor"
+    },
+    "ext_description": {
+        "message": "Simple yet powerful Cookie Editor that allow you to quickly create, edit and delete cookies without leaving your tab."
+    },
+    "placeholder_search": {
+        "message": "Tìm kiếm tên Cookie"
+    },
+    "btn_copy": {
+        "message": "Sao chép"
+    },
+    "btn_add": {
+        "message": "Thêm"
+    },
+    "btn_import": {
+        "message": "Nhập"
+    },
+    "btn_export": {
+        "message": "Xuất"
+    },
+    "btn_remove": {
+        "message": "Xóa tất cả"
+    },
+    "msg_no_cookies": {
+        "message": "Không có Cookie."
+    },
+    "btn_delete": {
+        "message": "Xóa"
+    },
+    "btn_cancel": {
+        "message": "Hủy"
+    },
+    "btn_edit": {
+        "message": "Chỉnh sửa"
+    },
+    "title_delete": {
+        "message": "Bạn có muốn xóa tất cả Cookie của trang web này không?"
+    },
+    "title_import": {
+        "message": "Bạn có muốn nhập Cookie không?"
+    },
+    "msg_import_error": {
+        "message": "Nhập Cookie thất bại."
+    },
+    "pl_password": {
+        "message": "Mật khẩu để mã hóa/giải mã Cookie"
+    },
+    "title_export": {
+        "message": "Bạn có muốn xuất Cookie không?"
+    },
+    "display_setting_title": {
+        "message": "Cài đặt hiển thị"
+    },
+    "display_setting_description": {
+        "message": "Cài đặt chế độ hiển thị để xem Cookie"
+    },
+    "display_setting_option_default": {
+        "message": "Chế độ mặc định"
+    },
+    "display_setting_option_compact": {
+        "message": "Chế độ thu gọn"
+    },
+    "display_setting_option_custom": {
+        "message": "Chế độ tùy chỉnh"
+    },
+    "setting_customize_display_cookie": {
+        "message": "Tùy chỉnh hiển thị Cookie"
+    },
+    "copy_setting_title": {
+        "message": "Cài đặt sao chép"
+    },
+    "copy_setting_description": {
+        "message": "Định dạng mặc định khi sao chép Cookie"
+    },
+    "export_setting_title": {
+        "message": "Cài đặt xuất"
+    },
+    "export_setting_description": {
+        "message": "Định dạng mặc định khi xuất Cookie"
+    },
+    "import_setting_title": {
+        "message": "Cài đặt nhập"
+    },
+    "import_setting_description": {
+        "message": "Tùy chọn cài đặt nhập Cookie"
+    },
+    "import_setting_option_reload_page": {
+        "message": "Tải lại trang sau khi nhập"
+    },
+    "import_setting_format": {
+        "message": "Tùy chọn nhập mặc định"
+    },
+    "import_settomg_format_text": {
+        "message": "Sử dụng văn bản"
+    },
+    "import_setting_format_file": {
+        "message": "Sử dụng tệp"
+    },
+    "alert_copy_cookie_success": {
+        "message": "Sao chép thành công"
+    },
+    "no_cookie_description": {
+        "message": "Trang web này không có Cookie."
+    },
+    "sidebar_setting": {
+        "message": "Cài đặt"
+    },
+    "sidebar_export": {
+        "message": "Xuất"
+    },
+    "sidebar_import": {
+        "message": "Nhập"
+    },
+    "alert_add_cookie_success": {
+        "message": "Thêm Cookie thành công"
+    },
+    "alert_add_cookie_error": {
+        "message": "Thêm Cookie thất bại"
+    },
+    "title_add_cookie": {
+        "message": "Thêm Cookie"
+    },
+    "description_add_cookie": {
+        "message": "Bạn có muốn thêm Cookie không?"
+    },
+    "title_clear_cookie": {
+        "message": "Xóa Cookie"
+    },
+    "description_clear_cookie": {
+        "message": "Bạn có muốn xóa tất cả Cookie của trang web này không?"
+    },
+    "title_copy_cookie": {
+        "message": "Sao chép Cookie"
+    },
+    "description_copy_cookie": {
+        "message": "Bạn muốn sao chép Cookie theo định dạng nào?"
+    },
+    "str_example": {
+        "message": "Ví dụ"
+    },
+    "title_delete_cookie": {
+        "message": "Xóa Cookie"
+    },
+    "description_delete_cookie": {
+        "message": "Bạn có muốn xóa Cookie không?"
+    },
+    "alert_delete_cookie_success": {
+        "message": "Xóa Cookie thành công"
+    },
+    "title_edit_cookie": {
+        "message": "Chỉnh sửa Cookie"
+    },
+    "description_edit_cooke": {
+        "message": "Bạn có muốn chỉnh sửa Cookie không?"
+    },
+    "alert_edit_cookie_success": {
+        "message": "Chỉnh sửa Cookie thành công"
+    },
+    "title_export_cookie": {
+        "message": "Xuất Cookie"
+    },
+    "description_export_cookie": {
+        "message": "Bạn muốn xuất Cookie theo định dạng nào?"
+    },
+    "label_password_encrypt": {
+        "message": "Mật khẩu để mã hóa Cookie"
+    },
+    "description_password": {
+        "message": "Nhập mật khẩu nếu bạn muốn mã hóa Cookie trước khi xuất (tùy chọn)."
+    },
+    "alert_import_cookie_success": {
+        "message": "Nhập Cookie thành công"
+    },
+    "alert_import_cookie_error": {
+        "message": "Nhập Cookie thất bại"
+    },
+    "title_import_cookie": {
+        "message": "Nhập Cookie"
+    },
+    "description_import_cookie": {
+        "message": "Bạn muốn nhập như thế nào?"
+    },
+    "label_select_file_import": {
+        "message": "Chọn tệp để nhập"
+    },
+    "lable_link_import": {
+        "message": "Liên kết để nhập Cookie"
+    },
+    "label_password_decrypt": {
+        "message": "Mật khẩu để giải mã Cookie"
+    },
+    "description_password_decrypt": {
+        "message": "Nhập mật khẩu giải mã nếu Cookie được bảo vệ bằng mã hóa (tùy chọn)."
+    },
+    "sidebar_buy_me_a_coffee": {
+        "message": "Buy me a coffee"
+    },
+    "sidebar_reviews": {
+        "message": "Reviews"
+    },
+    "description_buy_me_a_coffee": {
+        "message": "If you like it, consider supporting me."
+    }
+}

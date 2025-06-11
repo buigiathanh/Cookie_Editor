@@ -1,0 +1,206 @@
+{
+    "ext_name": {
+        "message": "Cookie Editor"
+    },
+    "ext_description": {
+        "message": "Simple yet powerful Cookie Editor that allow you to quickly create, edit and delete cookies without leaving your tab."
+    },
+    "placeholder_search": {
+        "message": "Ieškoti slapuko pavadinimo"
+    },
+    "btn_copy": {
+        "message": "Kopijuoti"
+    },
+    "btn_add": {
+        "message": "Pridėti"
+    },
+    "btn_import": {
+        "message": "Importuoti"
+    },
+    "btn_export": {
+        "message": "Eksportuoti"
+    },
+    "btn_remove": {
+        "message": "Išvalyti viską"
+    },
+    "msg_no_cookies": {
+        "message": "Nėra slapukų."
+    },
+    "btn_delete": {
+        "message": "Ištrinti"
+    },
+    "btn_cancel": {
+        "message": "Atšaukti"
+    },
+    "btn_edit": {
+        "message": "Redaguoti"
+    },
+    "title_delete": {
+        "message": "Ar norite pašalinti visus šios svetainės slapukus?"
+    },
+    "title_import": {
+        "message": "Ar bandote importuoti slapukus?"
+    },
+    "msg_import_error": {
+        "message": "Nepavyko importuoti slapukų."
+    },
+    "pl_password": {
+        "message": "Slaptažodis slapukams užšifruoti/iššifruoti"
+    },
+    "title_export": {
+        "message": "Ar bandote eksportuoti slapukus?"
+    },
+    "display_setting_title": {
+        "message": "RODYMO NUOSTATOS"
+    },
+    "display_setting_description": {
+        "message": "Slapukų peržiūros rodymo režimo nustatymai"
+    },
+    "display_setting_option_default": {
+        "message": "Numatytasis režimas"
+    },
+    "display_setting_option_compact": {
+        "message": "Kompaktinis režimas"
+    },
+    "display_setting_option_custom": {
+        "message": "Pasirinktinis režimas"
+    },
+    "setting_customize_display_cookie": {
+        "message": "Tinkinti slapukų rodymą"
+    },
+    "copy_setting_title": {
+        "message": "KOPIJAVIMO NUOSTATOS"
+    },
+    "copy_setting_description": {
+        "message": "Numatytasis formatas kopijuojant slapukus"
+    },
+    "export_setting_title": {
+        "message": "EKSPORTO NUOSTATOS"
+    },
+    "export_setting_description": {
+        "message": "Numatytasis formatas eksportuojant slapukus"
+    },
+    "import_setting_title": {
+        "message": "IMPORTO NUOSTATOS"
+    },
+    "import_setting_description": {
+        "message": "Slapukų importavimo nustatymų parinktys"
+    },
+    "import_setting_option_reload_page": {
+        "message": "Perkrauti puslapį po importavimo"
+    },
+    "import_setting_format": {
+        "message": "Numatytoji importavimo parinktis"
+    },
+    "import_settomg_format_text": {
+        "message": "Naudoti tekstą"
+    },
+    "import_setting_format_file": {
+        "message": "Naudoti failą"
+    },
+    "alert_copy_cookie_success": {
+        "message": "Kopijavimas sėkmingas"
+    },
+    "no_cookie_description": {
+        "message": "Svetainėje nėra slapukų."
+    },
+    "sidebar_setting": {
+        "message": "Nustatymai"
+    },
+    "sidebar_export": {
+        "message": "Eksportuoti"
+    },
+    "sidebar_import": {
+        "message": "Importuoti"
+    },
+    "alert_add_cookie_success": {
+        "message": "Slapuko pridėjimas sėkmingas"
+    },
+    "alert_add_cookie_error": {
+        "message": "Slapuko pridėjimas nepavyko"
+    },
+    "title_add_cookie": {
+        "message": "PRIDĖTI SLAPUKĄ"
+    },
+    "description_add_cookie": {
+        "message": "Ar norite pridėti slapuką?"
+    },
+    "title_clear_cookie": {
+        "message": "IŠVALYTI SLAPUKUS"
+    },
+    "description_clear_cookie": {
+        "message": "Ar norite pašalinti visus šios svetainės slapukus?"
+    },
+    "title_copy_cookie": {
+        "message": "KOPIJUOTI SLAPUKĄ"
+    },
+    "description_copy_cookie": {
+        "message": "Kokiu formatu norite nukopijuoti slapuką?"
+    },
+    "str_example": {
+        "message": "Pavyzdys"
+    },
+    "title_delete_cookie": {
+        "message": "IŠTRINTI SLAPUKĄ"
+    },
+    "description_delete_cookie": {
+        "message": "Ar norite ištrinti slapuką?"
+    },
+    "alert_delete_cookie_success": {
+        "message": "Slapuko ištrynimas sėkmingas"
+    },
+    "title_edit_cookie": {
+        "message": "REDAGUOTI SLAPUKĄ"
+    },
+    "description_edit_cooke": {
+        "message": "Ar norite redaguoti slapuką?"
+    },
+    "alert_edit_cookie_success": {
+        "message": "Slapuko redagavimas sėkmingas"
+    },
+    "title_export_cookie": {
+        "message": "EKSPORTUOTI SLAPUKĄ"
+    },
+    "description_export_cookie": {
+        "message":  "Kokiu formatu norite eksportuoti slapuką?"
+    },
+    "label_password_encrypt": {
+        "message": "Slaptažodis slapukams užšifruoti"
+    },
+    "description_password": {
+        "message": "Įveskite slaptažodį, jei norite, kad slapukas būtų užšifruotas prieš eksportuojant (nebūtina)."
+    },
+    "alert_import_cookie_success": {
+        "message": "Slapukų importavimas sėkmingas"
+    },
+    "alert_import_cookie_error": {
+        "message": "Slapukų importavimas nepavyko"
+    },
+    "title_import_cookie": {
+        "message": "IMPORTUOTI SLAPUKĄ"
+    },
+    "description_import_cookie": {
+        "message": "Kaip norite importuoti?"
+    },
+    "label_select_file_import": {
+        "message": "Pasirinkite failą importavimui"
+    },
+    "lable_link_import": {
+        "message": "Nuoroda slapukams importuoti"
+    },
+    "label_password_decrypt": {
+        "message": "Slaptažodis slapukams iššifruoti"
+    },
+    "description_password_decrypt": {
+        "message": "Įveskite iššifravimo slaptažodį, jei slapukai yra užšifruoti (nebūtina)."
+    },
+    "sidebar_buy_me_a_coffee": {
+        "message": "Nupirk man kavos"
+    },
+    "sidebar_reviews": {
+        "message": "Atsiliepimai"
+    },
+    "description_buy_me_a_coffee": {
+        "message": "Jei jums patinka, apsvarstykite mane palaikyti"
+    }
+}

@@ -1,0 +1,206 @@
+{
+    "ext_name": {
+        "message": "Cookie Editor"
+    },
+    "ext_description": {
+        "message": "Simple yet powerful Cookie Editor that allow you to quickly create, edit and delete cookies without leaving your tab."
+    },
+    "placeholder_search": {
+        "message": "Cookiename suchen"
+    },
+    "btn_copy": {
+        "message": "Kopieren"
+    },
+    "btn_add": {
+        "message": "Hinzufügen"
+    },
+    "btn_import": {
+        "message": "Importieren"
+    },
+    "btn_export": {
+        "message": "Exportieren"
+    },
+    "btn_remove": {
+        "message": "Alle löschen"
+    },
+    "msg_no_cookies": {
+        "message": "Keine Cookies."
+    },
+    "btn_delete": {
+        "message": "Löschen"
+    },
+    "btn_cancel": {
+        "message": "Abbrechen"
+    },
+    "btn_edit": {
+        "message": "Bearbeiten"
+    },
+    "title_delete": {
+        "message": "Möchten Sie alle Cookies dieser Website entfernen?"
+    },
+    "title_import": {
+        "message": "Versuchen Sie, Cookies zu importieren?"
+    },
+    "msg_import_error": {
+        "message": "Import der Cookies fehlgeschlagen."
+    },
+    "pl_password": {
+        "message": "Passwort zum Verschlüsseln/Entschlüsseln von Cookies"
+    },
+    "title_export": {
+        "message": "Versuchen Sie, Cookies zu exportieren?"
+    },
+    "display_setting_title": {
+        "message": "ANZEIGEEINSTELLUNGEN"
+    },
+    "display_setting_description": {
+        "message": "Einstellungen für den Anzeigemodus zur Ansicht von Cookies"
+    },
+    "display_setting_option_default": {
+        "message": "Standardmodus"
+    },
+    "display_setting_option_compact": {
+        "message": "Kompaktmodus"
+    },
+    "display_setting_option_custom": {
+        "message": "Benutzerdefinierter Modus"
+    },
+    "setting_customize_display_cookie": {
+        "message": "Anzeige von Cookies anpassen"
+    },
+    "copy_setting_title": {
+        "message": "KOPIEREINSTELLUNGEN"
+    },
+    "copy_setting_description": {
+        "message": "Standardformat beim Kopieren von Cookies"
+    },
+    "export_setting_title": {
+        "message": "EXPORTEINSTELLUNGEN"
+    },
+    "export_setting_description": {
+        "message": "Standardformat beim Exportieren von Cookies"
+    },
+    "import_setting_title": {
+        "message": "IMPORTEINSTELLUNGEN"
+    },
+    "import_setting_description": {
+        "message": "Optionen für die Cookie-Importeinstellungen"
+    },
+    "import_setting_option_reload_page": {
+        "message": "Seite nach dem Import neu laden"
+    },
+    "import_setting_format": {
+        "message": "Standardimportoption"
+    },
+    "import_settomg_format_text": {
+        "message": "Text verwenden"
+    },
+    "import_setting_format_file": {
+        "message": "Datei verwenden"
+    },
+    "alert_copy_cookie_success": {
+        "message": "Kopieren erfolgreich"
+    },
+    "no_cookie_description": {
+        "message": "Die Website hat keine Cookies."
+    },
+    "sidebar_setting": {
+        "message": "Einstellungen"
+    },
+    "sidebar_export": {
+        "message": "Exportieren"
+    },
+    "sidebar_import": {
+        "message": "Importieren"
+    },
+    "alert_add_cookie_success": {
+        "message": "Cookie erfolgreich hinzugefügt"
+    },
+    "alert_add_cookie_error": {
+        "message": "Fehler beim Hinzufügen des Cookies"
+    },
+    "title_add_cookie": {
+        "message": "COOKIE HINZUFÜGEN"
+    },
+    "description_add_cookie": {
+        "message": "Möchten Sie den Cookie hinzufügen?"
+    },
+    "title_clear_cookie": {
+        "message": "COOKIES LÖSCHEN"
+    },
+    "description_clear_cookie": {
+        "message": "Möchten Sie alle Cookies dieser Website entfernen?"
+    },
+    "title_copy_cookie": {
+        "message": "COOKIE KOPIEREN"
+    },
+    "description_copy_cookie": {
+        "message": "In welchem Format möchten Sie den Cookie kopieren?"
+    },
+    "str_example": {
+        "message": "Beispiel"
+    },
+    "title_delete_cookie": {
+        "message": "COOKIE LÖSCHEN"
+    },
+    "description_delete_cookie": {
+        "message": "Möchten Sie den Cookie löschen?"
+    },
+    "alert_delete_cookie_success": {
+        "message": "Cookie erfolgreich gelöscht"
+    },
+    "title_edit_cookie": {
+        "message": "COOKIE BEARBEITEN"
+    },
+    "description_edit_cooke": {
+        "message": "Möchten Sie den Cookie bearbeiten?"
+    },
+    "alert_edit_cookie_success": {
+        "message": "Cookie erfolgreich bearbeitet"
+    },
+    "title_export_cookie": {
+        "message": "COOKIE EXPORTIEREN"
+    },
+    "description_export_cookie": {
+        "message": "In welchem Format möchten Sie den Cookie exportieren?"
+    },
+    "label_password_encrypt": {
+        "message": "Passwort zum Verschlüsseln von Cookies"
+    },
+    "description_password": {
+        "message": "Geben Sie ein Passwort ein, wenn der Cookie vor dem Export verschlüsselt werden soll (optional)."
+    },
+    "alert_import_cookie_success": {
+        "message": "Cookies erfolgreich importiert"
+    },
+    "alert_import_cookie_error": {
+        "message": "Fehler beim Importieren der Cookies"
+    },
+    "title_import_cookie": {
+        "message": "COOKIES IMPORTIEREN"
+    },
+    "description_import_cookie": {
+        "message": "Wie möchten Sie importieren?"
+    },
+    "label_select_file_import": {
+        "message": "Datei zum Importieren auswählen"
+    },
+    "lable_link_import": {
+        "message": "Link zum Importieren von Cookies"
+    },
+    "label_password_decrypt": {
+        "message": "Passwort zum Entschlüsseln von Cookies"
+    },
+    "description_password_decrypt": {
+        "message": "Geben Sie das Entschlüsselungspasswort ein, wenn die Cookies durch Verschlüsselung geschützt sind (optional)."
+    },
+    "sidebar_buy_me_a_coffee": {
+        "message": "Kauf mir einen Kaffee"
+    },
+    "sidebar_reviews": {
+        "message": "Bewertungen"
+    },
+    "description_buy_me_a_coffee": {
+        "message": "Wenn es dir gefällt, erwäge, mich zu unterstützen"
+    }
+}

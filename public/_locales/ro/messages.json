@@ -1,0 +1,206 @@
+{
+    "ext_name": {
+        "message": "Editor de Cookie-uri"
+    },
+    "ext_description": {
+        "message": "Editor de cookie-uri simplu, dar puternic, care vă permite să creați, să editați și să ștergeți rapid cookie-uri fără a părăsi fila."
+    },
+    "placeholder_search": {
+        "message": "Căutați numele cookie-ului"
+    },
+    "btn_copy": {
+        "message": "Copiază"
+    },
+    "btn_add": {
+        "message": "Adaugă"
+    },
+    "btn_import": {
+        "message": "Importă"
+    },
+    "btn_export": {
+        "message": "Exportă"
+    },
+    "btn_remove": {
+        "message": "Șterge tot"
+    },
+    "msg_no_cookies": {
+        "message": "Nu există cookie-uri."
+    },
+    "btn_delete": {
+        "message": "Șterge"
+    },
+    "btn_cancel": {
+        "message": "Anulează"
+    },
+    "btn_edit": {
+        "message": "Editează"
+    },
+    "title_delete": {
+        "message": "Doriți să eliminați toate cookie-urile de pe acest site?"
+    },
+    "title_import": {
+        "message": "Încercați să importați cookie-uri?"
+    },
+    "msg_import_error": {
+        "message": "Importul cookie-urilor a eșuat."
+    },
+    "pl_password": {
+        "message": "Parolă pentru criptarea/decriptarea cookie-urilor"
+    },
+    "title_export": {
+        "message": "Încercați să exportați cookie-uri?"
+    },
+    "display_setting_title": {
+        "message": "SETĂRI DE AFIȘARE"
+    },
+    "display_setting_description": {
+        "message": "Setări de mod de afișare pentru vizualizarea cookie-urilor"
+    },
+    "display_setting_option_default": {
+        "message": "Mod implicit"
+    },
+    "display_setting_option_compact": {
+        "message": "Mod compact"
+    },
+    "display_setting_option_custom": {
+        "message": "Mod personalizat"
+    },
+    "setting_customize_display_cookie": {
+        "message": "Personalizați afișarea cookie-urilor"
+    },
+    "copy_setting_title": {
+        "message": "SETĂRI DE COPIERE"
+    },
+    "copy_setting_description": {
+        "message": "Format implicit la copierea cookie-urilor"
+    },
+    "export_setting_title": {
+        "message": "SETĂRI DE EXPORT"
+    },
+    "export_setting_description": {
+        "message": "Format implicit la exportul cookie-urilor"
+    },
+    "import_setting_title": {
+        "message": "SETĂRI DE IMPORT"
+    },
+    "import_setting_description": {
+        "message": "Opțiuni pentru setările de import ale cookie-urilor"
+    },
+    "import_setting_option_reload_page": {
+        "message": "Reîncarcă pagina după import"
+    },
+    "import_setting_format": {
+        "message": "Opțiune de import implicită"
+    },
+    "import_settomg_format_text": {
+        "message": "Folosește text"
+    },
+    "import_setting_format_file": {
+        "message": "Folosește un fișier"
+    },
+    "alert_copy_cookie_success": {
+        "message": "Copiere reușită"
+    },
+    "no_cookie_description": {
+        "message": "Site-ul nu are cookie-uri."
+    },
+    "sidebar_setting": {
+        "message": "Setări"
+    },
+    "sidebar_export": {
+        "message": "Exportă"
+    },
+    "sidebar_import": {
+        "message": "Importă"
+    },
+    "alert_add_cookie_success": {
+        "message": "Cookie adăugat cu succes"
+    },
+    "alert_add_cookie_error": {
+        "message": "Eroare la adăugarea cookie-ului"
+    },
+    "title_add_cookie": {
+        "message": "ADĂUGAȚI COOKIE"
+    },
+    "description_add_cookie": {
+        "message": "Doriți să adăugați cookie-ul?"
+    },
+    "title_clear_cookie": {
+        "message": "ȘTERGEȚI COOKIE-URILE"
+    },
+    "description_clear_cookie": {
+        "message": "Doriți să eliminați toate cookie-urile de pe acest site?"
+    },
+    "title_copy_cookie": {
+        "message": "COPIAȚI COOKIE"
+    },
+    "description_copy_cookie": {
+        "message": "În ce format doriți să copiați cookie-ul?"
+    },
+    "str_example": {
+        "message": "Exemplu"
+    },
+    "title_delete_cookie": {
+        "message": "ȘTERGEȚI COOKIE"
+    },
+    "description_delete_cookie": {
+        "message": "Doriți să ștergeți cookie-ul?"
+    },
+    "alert_delete_cookie_success": {
+        "message": "Cookie șters cu succes"
+    },
+    "title_edit_cookie": {
+        "message": "EDITAȚI COOKIE"
+    },
+    "description_edit_cooke": {
+        "message": "Doriți să editați cookie-ul?"
+    },
+    "alert_edit_cookie_success": {
+        "message": "Cookie editat cu succes"
+    },
+    "title_export_cookie": {
+        "message": "EXPORTAȚI COOKIE"
+    },
+    "description_export_cookie": {
+        "message":  "În ce format doriți să exportați cookie-ul?"
+    },
+    "label_password_encrypt": {
+        "message": "Parolă pentru criptarea cookie-urilor"
+    },
+    "description_password": {
+        "message": "Introduceți o parolă dacă doriți ca cookie-ul să fie criptat înainte de export (opțional)."
+    },
+    "alert_import_cookie_success": {
+        "message": "Importul cookie-urilor a reușit"
+    },
+    "alert_import_cookie_error": {
+        "message": "Eroare la importul cookie-urilor"
+    },
+    "title_import_cookie": {
+        "message": "IMPORTAȚI COOKIE-URI"
+    },
+    "description_import_cookie": {
+        "message": "Cum doriți să importați?"
+    },
+    "label_select_file_import": {
+        "message": "Selectați un fișier pentru import"
+    },
+    "lable_link_import": {
+        "message": "Link pentru importul cookie-urilor"
+    },
+    "label_password_decrypt": {
+        "message": "Parolă pentru decriptarea cookie-urilor"
+    },
+    "description_password_decrypt": {
+        "message": "Introduceți parola de decriptare dacă cookie-urile sunt protejate prin criptare (opțional)."
+    },
+    "sidebar_buy_me_a_coffee": {
+        "message": "Cumpără-mi o cafea"
+    },
+    "sidebar_reviews": {
+        "message": "Recenzii"
+    },
+    "description_buy_me_a_coffee": {
+        "message": "Dacă îți place, consideră să mă sprijini"
+    }
+}

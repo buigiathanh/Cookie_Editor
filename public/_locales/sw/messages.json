@@ -1,0 +1,206 @@
+{
+    "ext_name": {
+        "message": "Cookie Editor"
+    },
+    "ext_description": {
+        "message": "Simple yet powerful Cookie Editor that allow you to quickly create, edit and delete cookies without leaving your tab."
+    },
+    "placeholder_search": {
+        "message": "Tafuta jina la kuki"
+    },
+    "btn_copy": {
+        "message": "Nakili"
+    },
+    "btn_add": {
+        "message": "Ongeza"
+    },
+    "btn_import": {
+        "message": "Ingiza"
+    },
+    "btn_export": {
+        "message": "Hamisha"
+    },
+    "btn_remove": {
+        "message": "Futa Zote"
+    },
+    "msg_no_cookies": {
+        "message": "Hakuna kuki."
+    },
+    "btn_delete": {
+        "message": "Futa"
+    },
+    "btn_cancel": {
+        "message": "Ghairi"
+    },
+    "btn_edit": {
+        "message": "Hariri"
+    },
+    "title_delete": {
+        "message": "Je, unataka kufuta kuki zote za tovuti hii?"
+    },
+    "title_import": {
+        "message": "Je, unataka kuingiza kuki?"
+    },
+    "msg_import_error": {
+        "message": "Kushindwa kuingiza kuki."
+    },
+    "pl_password": {
+        "message": "Nenosiri la kuficha/kuwasha kuki"
+    },
+    "title_export": {
+        "message": "Je, unataka kuhamisha kuki?"
+    },
+    "display_setting_title": {
+        "message": "MPANGILIO WA ONESHO"
+    },
+    "display_setting_description": {
+        "message": "Mipangilio ya hali ya kuonyesha kwa kutazama kuki"
+    },
+    "display_setting_option_default": {
+        "message": "Hali ya chaguo-msingi"
+    },
+    "display_setting_option_compact": {
+        "message": "Hali ya mfumo"
+    },
+    "display_setting_option_custom": {
+        "message": "Hali ya desturi"
+    },
+    "setting_customize_display_cookie": {
+        "message": "Badilisha onyesho la kuki"
+    },
+    "copy_setting_title": {
+        "message": "MPANGILIO WA KUNASILI"
+    },
+    "copy_setting_description": {
+        "message": "Umbo la chaguo-msingi wakati wa kunakili kuki"
+    },
+    "export_setting_title": {
+        "message": "MPANGILIO WA HAMISHA"
+    },
+    "export_setting_description": {
+        "message": "Umbo la chaguo-msingi wakati wa kuhamisha kuki"
+    },
+    "import_setting_title": {
+        "message": "MPANGILIO WA INGIZA"
+    },
+    "import_setting_description": {
+        "message": "Chaguzi za mipangilio ya kuingiza kuki"
+    },
+    "import_setting_option_reload_page": {
+        "message": "Pakia upya ukurasa baada ya kuingiza"
+    },
+    "import_setting_format": {
+        "message": "Chaguo la chaguo-msingi la kuingiza"
+    },
+    "import_settomg_format_text": {
+        "message": "Tumia maandishi"
+    },
+    "import_setting_format_file": {
+        "message": "Tumia faili"
+    },
+    "alert_copy_cookie_success": {
+        "message": "Kunakili kumefanikiwa"
+    },
+    "no_cookie_description": {
+        "message": "Tovuti hii haina kuki."
+    },
+    "sidebar_setting": {
+        "message": "Mpangilio"
+    },
+    "sidebar_export": {
+        "message": "Hamisha"
+    },
+    "sidebar_import": {
+        "message": "Ingiza"
+    },
+    "alert_add_cookie_success": {
+        "message": "Kuongeza kuki kumefanikiwa"
+    },
+    "alert_add_cookie_error": {
+        "message": "Hitilafu ya kuongeza kuki"
+    },
+    "title_add_cookie": {
+        "message": "ONGEZA KUKI"
+    },
+    "description_add_cookie": {
+        "message": "Je, unataka kuongeza kuki?"
+    },
+    "title_clear_cookie": {
+        "message": "FUTA KUKI"
+    },
+    "description_clear_cookie": {
+        "message": "Je, unataka kufuta kuki zote za tovuti hii?"
+    },
+    "title_copy_cookie": {
+        "message": "Nakili Kuki"
+    },
+    "description_copy_cookie": {
+        "message": "Je, unataka kunakili kuki kwa umbo gani?"
+    },
+    "str_example": {
+        "message": "Mfano"
+    },
+    "title_delete_cookie": {
+        "message": "FUTA KUKI"
+    },
+    "description_delete_cookie": {
+        "message": "Je, unataka kufuta kuki?"
+    },
+    "alert_delete_cookie_success": {
+        "message": "Kufuta kuki kumefanikiwa"
+    },
+    "title_edit_cookie": {
+        "message": "HARIRI KUKI"
+    },
+    "description_edit_cooke": {
+        "message": "Je, unataka kuhariri kuki?"
+    },
+    "alert_edit_cookie_success": {
+        "message": "Kuhariri kuki kumefanikiwa"
+    },
+    "title_export_cookie": {
+        "message": "HAMISHA KUKI"
+    },
+    "description_export_cookie": {
+        "message": "Je, unataka kuhamisha kuki kwa umbo gani?"
+    },
+    "label_password_encrypt": {
+        "message": "Nenosiri la kuficha kuki"
+    },
+    "description_password": {
+        "message": "Weka nenosiri ikiwa unataka kuki zifichwe kabla ya kuhamisha (hiari)."
+    },
+    "alert_import_cookie_success": {
+        "message": "Kuingiza kuki kumefanikiwa"
+    },
+    "alert_import_cookie_error": {
+        "message": "Hitilafu ya kuingiza kuki"
+    },
+    "title_import_cookie": {
+        "message": "INGIZA KUKI"
+    },
+    "description_import_cookie": {
+        "message": "Unataka kuingiza vipi?"
+    },
+    "label_select_file_import": {
+        "message": "Chagua faili ya kuingiza"
+    },
+    "lable_link_import": {
+        "message": "Kiungo cha kuingiza kuki"
+    },
+    "label_password_decrypt": {
+        "message": "Nenosiri la kuwasha kuki"
+    },
+    "description_password_decrypt": {
+        "message": "Weka nenosiri la kuwasha ikiwa kuki zimehifadhiwa kwa kufichwa (hiari)."
+    },
+    "sidebar_buy_me_a_coffee": {
+        "message": "Nunulia kahawa"
+    },
+    "sidebar_reviews": {
+        "message": "Ukaguzi"
+    },
+    "description_buy_me_a_coffee": {
+        "message": "Ikiwa unapenda, fikiria kunisaidia"
+    }
+}

@@ -1,0 +1,206 @@
+{
+    "ext_name": {
+        "message": "Cookie Editor"
+    },
+    "ext_description": {
+        "message": "Simple yet powerful Cookie Editor that allow you to quickly create, edit and delete cookies without leaving your tab."
+    },
+    "placeholder_search": {
+        "message": "Zoek cookienaam"
+    },
+    "btn_copy": {
+        "message": "Kopiëren"
+    },
+    "btn_add": {
+        "message": "Toevoegen"
+    },
+    "btn_import": {
+        "message": "Importeren"
+    },
+    "btn_export": {
+        "message": "Exporteren"
+    },
+    "btn_remove": {
+        "message": "Alles wissen"
+    },
+    "msg_no_cookies": {
+        "message": "Geen cookies."
+    },
+    "btn_delete": {
+        "message": "Verwijderen"
+    },
+    "btn_cancel": {
+        "message": "Annuleren"
+    },
+    "btn_edit": {
+        "message": "Bewerken"
+    },
+    "title_delete": {
+        "message": "Wilt u alle cookies van deze website verwijderen?"
+    },
+    "title_import": {
+        "message": "Probeert u cookies te importeren?"
+    },
+    "msg_import_error": {
+        "message": "Importeren van cookies mislukt."
+    },
+    "pl_password": {
+        "message": "Wachtwoord om cookies te versleutelen/ontsleutelen"
+    },
+    "title_export": {
+        "message": "Probeert u cookies te exporteren?"
+    },
+    "display_setting_title": {
+        "message": "WEERGAVE-INSTELLINGEN"
+    },
+    "display_setting_description": {
+        "message": "Weergave-instellingen voor het bekijken van cookies"
+    },
+    "display_setting_option_default": {
+        "message": "Standaardmodus"
+    },
+    "display_setting_option_compact": {
+        "message": "Compacte modus"
+    },
+    "display_setting_option_custom": {
+        "message": "Aangepaste modus"
+    },
+    "setting_customize_display_cookie": {
+        "message": "Cookieweergave aanpassen"
+    },
+    "copy_setting_title": {
+        "message": "KOPIEERINSTELLINGEN"
+    },
+    "copy_setting_description": {
+        "message": "Standaardformaat bij het kopiëren van cookies"
+    },
+    "export_setting_title": {
+        "message": "EXPORTINSTELLINGEN"
+    },
+    "export_setting_description": {
+        "message": "Standaardformaat bij het exporteren van cookies"
+    },
+    "import_setting_title": {
+        "message": "IMPORTINSTELLINGEN"
+    },
+    "import_setting_description": {
+        "message": "Opties voor cookie-importinstellingen"
+    },
+    "import_setting_option_reload_page": {
+        "message": "Webpagina opnieuw laden na importeren"
+    },
+    "import_setting_format": {
+        "message": "Standaard importoptie"
+    },
+    "import_settomg_format_text": {
+        "message": "Tekst gebruiken"
+    },
+    "import_setting_format_file": {
+        "message": "Een bestand gebruiken"
+    },
+    "alert_copy_cookie_success": {
+        "message": "Kopiëren gelukt"
+    },
+    "no_cookie_description": {
+        "message": "De website heeft geen cookies."
+    },
+    "sidebar_setting": {
+        "message": "Instellingen"
+    },
+    "sidebar_export": {
+        "message": "Exporteren"
+    },
+    "sidebar_import": {
+        "message": "Importeren"
+    },
+    "alert_add_cookie_success": {
+        "message": "Cookie toevoegen gelukt"
+    },
+    "alert_add_cookie_error": {
+        "message": "Cookie toevoegen mislukt"
+    },
+    "title_add_cookie": {
+        "message": "COOKIE TOEVOEGEN"
+    },
+    "description_add_cookie": {
+        "message": "Wilt u de cookie toevoegen?"
+    },
+    "title_clear_cookie": {
+        "message": "COOKIES WISSEN"
+    },
+    "description_clear_cookie": {
+        "message": "Wilt u alle cookies van deze website verwijderen?"
+    },
+    "title_copy_cookie": {
+        "message": "COOKIE KOPIËREN"
+    },
+    "description_copy_cookie": {
+        "message": "In welk formaat wilt u de cookie kopiëren?"
+    },
+    "str_example": {
+        "message": "Voorbeeld"
+    },
+    "title_delete_cookie": {
+        "message": "COOKIE VERWIJDEREN"
+    },
+    "description_delete_cookie": {
+        "message": "Wilt u de cookie verwijderen?"
+    },
+    "alert_delete_cookie_success": {
+        "message": "Cookie verwijderen gelukt"
+    },
+    "title_edit_cookie": {
+        "message": "COOKIE BEWERKEN"
+    },
+    "description_edit_cooke": {
+        "message": "Wilt u de cookie bewerken?"
+    },
+    "alert_edit_cookie_success": {
+        "message": "Cookie bewerken gelukt"
+    },
+    "title_export_cookie": {
+        "message": "COOKIE EXPORTEREN"
+    },
+    "description_export_cookie": {
+        "message":  "In welk formaat wilt u de cookie exporteren?"
+    },
+    "label_password_encrypt": {
+        "message": "Wachtwoord om cookies te versleutelen"
+    },
+    "description_password": {
+        "message": "Voer een wachtwoord in als u de cookie wilt versleutelen voordat u exporteert (optioneel)."
+    },
+    "alert_import_cookie_success": {
+        "message": "Cookies importeren gelukt"
+    },
+    "alert_import_cookie_error": {
+        "message": "Cookies importeren mislukt"
+    },
+    "title_import_cookie": {
+        "message": "COOKIES IMPORTEREN"
+    },
+    "description_import_cookie": {
+        "message": "Hoe wilt u importeren?"
+    },
+    "label_select_file_import": {
+        "message": "Selecteer een bestand om te importeren"
+    },
+    "lable_link_import": {
+        "message": "Link om cookies te importeren"
+    },
+    "label_password_decrypt": {
+        "message": "Wachtwoord om cookies te ontsleutelen"
+    },
+    "description_password_decrypt": {
+        "message": "Voer het ontsleutelingswachtwoord in als de cookies zijn beveiligd met versleuteling (optioneel)."
+    },
+    "sidebar_buy_me_a_coffee": {
+        "message": "Koop me een koffie"
+    },
+    "sidebar_reviews": {
+        "message": "Recensies"
+    },
+    "description_buy_me_a_coffee": {
+        "message": "Als je het leuk vindt, overweeg me te steunen"
+    }
+}

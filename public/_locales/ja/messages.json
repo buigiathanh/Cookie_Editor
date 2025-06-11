@@ -1,0 +1,206 @@
+{
+    "ext_name": {
+        "message": "Cookie Editor"
+    },
+    "ext_description": {
+        "message": "Simple yet powerful Cookie Editor that allow you to quickly create, edit and delete cookies without leaving your tab."
+    },
+    "placeholder_search": {
+        "message": "クッキー名を検索"
+    },
+    "btn_copy": {
+        "message": "コピー"
+    },
+    "btn_add": {
+        "message": "追加"
+    },
+    "btn_import": {
+        "message": "インポート"
+    },
+    "btn_export": {
+        "message": "エクスポート"
+    },
+    "btn_remove": {
+        "message": "すべてクリア"
+    },
+    "msg_no_cookies": {
+        "message": "クッキーはありません。"
+    },
+    "btn_delete": {
+        "message": "削除"
+    },
+    "btn_cancel": {
+        "message": "キャンセル"
+    },
+    "btn_edit": {
+        "message": "編集"
+    },
+    "title_delete": {
+        "message": "このウェブサイトのすべてのクッキーを削除しますか？"
+    },
+    "title_import": {
+        "message": "クッキーをインポートしようとしていますか？"
+    },
+    "msg_import_error": {
+        "message": "クッキーのインポートに失敗しました。"
+    },
+    "pl_password": {
+        "message": "クッキーを暗号化/復号化するためのパスワード"
+    },
+    "title_export": {
+        "message": "クッキーをエクスポートしようとしていますか？"
+    },
+    "display_setting_title": {
+        "message": "表示設定"
+    },
+    "display_setting_description": {
+        "message": "クッキーを表示するための表示モード設定"
+    },
+    "display_setting_option_default": {
+        "message": "デフォルトモード"
+    },
+    "display_setting_option_compact": {
+        "message": "コンパクトモード"
+    },
+    "display_setting_option_custom": {
+        "message": "カスタムモード"
+    },
+    "setting_customize_display_cookie": {
+        "message": "クッキーの表示をカスタマイズ"
+    },
+    "copy_setting_title": {
+        "message": "コピー設定"
+    },
+    "copy_setting_description": {
+        "message": "クッキーをコピーする際のデフォルト形式"
+    },
+    "export_setting_title": {
+        "message": "エクスポート設定"
+    },
+    "export_setting_description": {
+        "message": "クッキーをエクスポートする際のデフォルト形式"
+    },
+    "import_setting_title": {
+        "message": "インポート設定"
+    },
+    "import_setting_description": {
+        "message": "クッキーのインポート設定のオプション"
+    },
+    "import_setting_option_reload_page": {
+        "message": "インポート後にウェブページを再読み込み"
+    },
+    "import_setting_format": {
+        "message": "デフォルトのインポートオプション"
+    },
+    "import_settomg_format_text": {
+        "message": "テキストを使用"
+    },
+    "import_setting_format_file": {
+        "message": "ファイルを使用"
+    },
+    "alert_copy_cookie_success": {
+        "message": "コピー成功"
+    },
+    "no_cookie_description": {
+        "message": "ウェブサイトにクッキーはありません。"
+    },
+    "sidebar_setting": {
+        "message": "設定"
+    },
+    "sidebar_export": {
+        "message": "エクスポート"
+    },
+    "sidebar_import": {
+        "message": "インポート"
+    },
+    "alert_add_cookie_success": {
+        "message": "クッキーの追加に成功"
+    },
+    "alert_add_cookie_error": {
+        "message": "クッキーの追加に失敗"
+    },
+    "title_add_cookie": {
+        "message": "クッキーを追加"
+    },
+    "description_add_cookie": {
+        "message": "クッキーを追加しますか？"
+    },
+    "title_clear_cookie": {
+        "message": "クッキーをクリア"
+    },
+    "description_clear_cookie": {
+        "message": "このウェブサイトのすべてのクッキーを削除しますか？"
+    },
+    "title_copy_cookie": {
+        "message": "クッキーをコピー"
+    },
+    "description_copy_cookie": {
+        "message": "どの形式でクッキーをコピーしますか？"
+    },
+    "str_example": {
+        "message": "例"
+    },
+    "title_delete_cookie": {
+        "message": "クッキーを削除"
+    },
+    "description_delete_cookie": {
+        "message": "クッキーを削除しますか？"
+    },
+    "alert_delete_cookie_success": {
+        "message": "クッキーの削除に成功"
+    },
+    "title_edit_cookie": {
+        "message": "クッキーを編集"
+    },
+    "description_edit_cooke": {
+        "message": "クッキーを編集しますか？"
+    },
+    "alert_edit_cookie_success": {
+        "message": "クッキーの編集に成功"
+    },
+    "title_export_cookie": {
+        "message": "クッキーをエクスポート"
+    },
+    "description_export_cookie": {
+        "message": "どの形式でクッキーをエクスポートしますか？"
+    },
+    "label_password_encrypt": {
+        "message": "クッキーを暗号化するためのパスワード"
+    },
+    "description_password": {
+        "message": "エクスポート前にクッキーを暗号化する場合はパスワードを入力してください（オプション）。"
+    },
+    "alert_import_cookie_success": {
+        "message": "クッキーのインポートに成功"
+    },
+    "alert_import_cookie_error": {
+        "message": "クッキーのインポートに失敗"
+    },
+    "title_import_cookie": {
+        "message": "クッキーをインポート"
+    },
+    "description_import_cookie": {
+        "message": "どのようにインポートしますか？"
+    },
+    "label_select_file_import": {
+        "message": "インポートするファイルを選択"
+    },
+    "lable_link_import": {
+        "message": "クッキーをインポートするためのリンク"
+    },
+    "label_password_decrypt": {
+        "message": "クッキーを復号化するためのパスワード"
+    },
+    "description_password_decrypt": {
+        "message": "クッキーが暗号化されている場合は復号化パスワードを入力してください（オプション）。"
+    },
+    "sidebar_buy_me_a_coffee": {
+        "message": "コーヒーをおごってください e"
+    },
+    "sidebar_reviews": {
+        "message": "レビュー"
+    },
+    "description_buy_me_a_coffee": {
+        "message": "気に入ったら、私をサポートすることを検討してください"
+    }
+}

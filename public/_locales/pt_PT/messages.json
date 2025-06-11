@@ -1,0 +1,206 @@
+{
+    "ext_name": {
+        "message": "Editor de Cookies"
+    },
+    "ext_description": {
+        "message": "Editor de cookies simples, mas poderoso, que permite criar, editar e eliminar cookies rapidamente sem sair do seu separador."
+    },
+    "placeholder_search": {
+        "message": "Pesquisar nome do cookie"
+    },
+    "btn_copy": {
+        "message": "Copiar"
+    },
+    "btn_add": {
+        "message": "Adicionar"
+    },
+    "btn_import": {
+        "message": "Importar"
+    },
+    "btn_export": {
+        "message": "Exportar"
+    },
+    "btn_remove": {
+        "message": "Limpar Tudo"
+    },
+    "msg_no_cookies": {
+        "message": "Nenhum cookie."
+    },
+    "btn_delete": {
+        "message": "Eliminar"
+    },
+    "btn_cancel": {
+        "message": "Cancelar"
+    },
+    "btn_edit": {
+        "message": "Editar"
+    },
+    "title_delete": {
+        "message": "Deseja remover todos os cookies deste site?"
+    },
+    "title_import": {
+        "message": "Está a tentar importar cookies?"
+    },
+    "msg_import_error": {
+        "message": "Falha ao importar cookies."
+    },
+    "pl_password": {
+        "message": "Senha para encriptar/desencriptar cookies"
+    },
+    "title_export": {
+        "message": "Está a tentar exportar cookies?"
+    },
+    "display_setting_title": {
+        "message": "DEFINIÇÕES DE VISUALIZAÇÃO"
+    },
+    "display_setting_description": {
+        "message": "Definições de modo de visualização para ver cookies"
+    },
+    "display_setting_option_default": {
+        "message": "Modo padrão"
+    },
+    "display_setting_option_compact": {
+        "message": "Modo compacto"
+    },
+    "display_setting_option_custom": {
+        "message": "Modo personalizado"
+    },
+    "setting_customize_display_cookie": {
+        "message": "Personalizar visualização de cookies"
+    },
+    "copy_setting_title": {
+        "message": "DEFINIÇÕES DE CÓPIA"
+    },
+    "copy_setting_description": {
+        "message": "Formato padrão ao copiar cookies"
+    },
+    "export_setting_title": {
+        "message": "DEFINIÇÕES DE EXPORTAÇÃO"
+    },
+    "export_setting_description": {
+        "message": "Formato padrão ao exportar cookies"
+    },
+    "import_setting_title": {
+        "message": "DEFINIÇÕES DE IMPORTAÇÃO"
+    },
+    "import_setting_description": {
+        "message": "Opções para definições de importação de cookies"
+    },
+    "import_setting_option_reload_page": {
+        "message": "Recarregar a página após a importação"
+    },
+    "import_setting_format": {
+        "message": "Opção de importação padrão"
+    },
+    "import_settomg_format_text": {
+        "message": "Usar texto"
+    },
+    "import_setting_format_file": {
+        "message": "Usar um ficheiro"
+    },
+    "alert_copy_cookie_success": {
+        "message": "Cópia bem-sucedida"
+    },
+    "no_cookie_description": {
+        "message": "O site não tem cookies."
+    },
+    "sidebar_setting": {
+        "message": "Definições"
+    },
+    "sidebar_export": {
+        "message": "Exportar"
+    },
+    "sidebar_import": {
+        "message": "Importar"
+    },
+    "alert_add_cookie_success": {
+        "message": "Cookie adicionado com sucesso"
+    },
+    "alert_add_cookie_error": {
+        "message": "Erro ao adicionar cookie"
+    },
+    "title_add_cookie": {
+        "message": "ADICIONAR COOKIE"
+    },
+    "description_add_cookie": {
+        "message": "Deseja adicionar o cookie?"
+    },
+    "title_clear_cookie": {
+        "message": "LIMPAR COOKIES"
+    },
+    "description_clear_cookie": {
+        "message": "Deseja remover todos os cookies deste site?"
+    },
+    "title_copy_cookie": {
+        "message": "COPIAR COOKIE"
+    },
+    "description_copy_cookie": {
+        "message": "Em que formato deseja copiar o cookie?"
+    },
+    "str_example": {
+        "message": "Exemplo"
+    },
+    "title_delete_cookie": {
+        "message": "ELIMINAR COOKIE"
+    },
+    "description_delete_cookie": {
+        "message": "Deseja eliminar o cookie?"
+    },
+    "alert_delete_cookie_success": {
+        "message": "Cookie eliminado com sucesso"
+    },
+    "title_edit_cookie": {
+        "message": "EDITAR COOKIE"
+    },
+    "description_edit_cooke": {
+        "message": "Deseja editar o cookie?"
+    },
+    "alert_edit_cookie_success": {
+        "message": "Cookie editado com sucesso"
+    },
+    "title_export_cookie": {
+        "message": "EXPORTAR COOKIE"
+    },
+    "description_export_cookie": {
+        "message":  "Em que formato deseja exportar o cookie?"
+    },
+    "label_password_encrypt": {
+        "message": "Senha para encriptar cookies"
+    },
+    "description_password": {
+        "message": "Introduza uma senha se desejar que o cookie seja encriptado antes da exportação (opcional)."
+    },
+    "alert_import_cookie_success": {
+        "message": "Cookies importados com sucesso"
+    },
+    "alert_import_cookie_error": {
+        "message": "Erro ao importar cookies"
+    },
+    "title_import_cookie": {
+        "message": "IMPORTAR COOKIES"
+    },
+    "description_import_cookie": {
+        "message": "Como deseja importar?"
+    },
+    "label_select_file_import": {
+        "message": "Selecione um ficheiro para importar"
+    },
+    "lable_link_import": {
+        "message": "Link para importar cookies"
+    },
+    "label_password_decrypt": {
+        "message": "Senha para desencriptar cookies"
+    },
+    "description_password_decrypt": {
+        "message": "Introduza a senha de desencriptação se os cookies estiverem protegidos por encriptação (opcional)."
+    },
+    "sidebar_buy_me_a_coffee": {
+        "message": "Compra-me um café"
+    },
+    "sidebar_reviews": {
+        "message": "Críticas"
+    },
+    "description_buy_me_a_coffee": {
+        "message": "Se gostares, considera apoiar-me"
+    }
+}

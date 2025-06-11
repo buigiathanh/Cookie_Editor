@@ -1,0 +1,10 @@
+/*   Declare all the fonts used in the extension.  */
+/*   The font file is placed in the /public/fonts directory.  */
+/*   ==============Example===================== */
+ @font-face {
+    font-family: "Montserrat";
+    src: local("Montserrat"),
+    url("chrome-extension://__MSG_@@extension_id__/fonts/Montserrat-Regular.ttf") format("truetype");
+    font-weight: normal;
+ }
+/*   ==============Example===================== */

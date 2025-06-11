@@ -1,0 +1,206 @@
+{
+    "ext_name": {
+        "message": "Cookie Editor"
+    },
+    "ext_description": {
+        "message": "Simple yet powerful Cookie Editor that allow you to quickly create, edit and delete cookies without leaving your tab."
+    },
+    "placeholder_search": {
+        "message": "Išči ime piškotka"
+    },
+    "btn_copy": {
+        "message": "Kopiraj"
+    },
+    "btn_add": {
+        "message": "Dodaj"
+    },
+    "btn_import": {
+        "message": "Uvozi"
+    },
+    "btn_export": {
+        "message": "Izvozi"
+    },
+    "btn_remove": {
+        "message": "Počisti vse"
+    },
+    "msg_no_cookies": {
+        "message": "Ni piškotkov."
+    },
+    "btn_delete": {
+        "message": "Izbriši"
+    },
+    "btn_cancel": {
+        "message": "Prekliči"
+    },
+    "btn_edit": {
+        "message": "Uredi"
+    },
+    "title_delete": {
+        "message": "Ali želite izbrisati vse piškotke za to spletno stran?"
+    },
+    "title_import": {
+        "message": "Ali želite uvoziti piškotke?"
+    },
+    "msg_import_error": {
+        "message": "Uvoz piškotkov ni uspel."
+    },
+    "pl_password": {
+        "message": "Geslo za šifriranje/odšifriranje piškotkov"
+    },
+    "title_export": {
+        "message": "Ali želite izvoziti piškotke?"
+    },
+    "display_setting_title": {
+        "message": "NASTAVITVE PRIKAZA"
+    },
+    "display_setting_description": {
+        "message": "Nastavitve načina prikaza za ogled piškotkov"
+    },
+    "display_setting_option_default": {
+        "message": "Privzeti način"
+    },
+    "display_setting_option_compact": {
+        "message": "Kompaktni način"
+    },
+    "display_setting_option_custom": {
+        "message": "Prilagojen način"
+    },
+    "setting_customize_display_cookie": {
+        "message": "Prilagodi prikaz piškotkov"
+    },
+    "copy_setting_title": {
+        "message": "NASTAVITVE KOPIRANJA"
+    },
+    "copy_setting_description": {
+        "message": "Privzeta oblika pri kopiranju piškotkov"
+    },
+    "export_setting_title": {
+        "message": "NASTAVITVE IZVOZA"
+    },
+    "export_setting_description": {
+        "message": "Privzeta oblika pri izvozu piškotkov"
+    },
+    "import_setting_title": {
+        "message": "NASTAVITVE UVOZA"
+    },
+    "import_setting_description": {
+        "message": "Možnosti nastavitev za uvoz piškotkov"
+    },
+    "import_setting_option_reload_page": {
+        "message": "Ponovno naloži stran po uvozu"
+    },
+    "import_setting_format": {
+        "message": "Privzeta možnost uvoza"
+    },
+    "import_settomg_format_text": {
+        "message": "Uporabi besedilo"
+    },
+    "import_setting_format_file": {
+        "message": "Uporabi datoteko"
+    },
+    "alert_copy_cookie_success": {
+        "message": "Kopiranje uspešno"
+    },
+    "no_cookie_description": {
+        "message": "Ta spletna stran nima piškotkov."
+    },
+    "sidebar_setting": {
+        "message": "Nastavitve"
+    },
+    "sidebar_export": {
+        "message": "Izvozi"
+    },
+    "sidebar_import": {
+        "message": "Uvozi"
+    },
+    "alert_add_cookie_success": {
+        "message": "Dodajanje piškotka uspešno"
+    },
+    "alert_add_cookie_error": {
+        "message": "Napaka pri dodajanju piškotka"
+    },
+    "title_add_cookie": {
+        "message": "DODAJ PIŠKOTEK"
+    },
+    "description_add_cookie": {
+        "message": "Ali želite dodati piškotek?"
+    },
+    "title_clear_cookie": {
+        "message": "POČISTI PIŠKOTKE"
+    },
+    "description_clear_cookie": {
+        "message": "Ali želite izbrisati vse piškotke za to spletno stran?"
+    },
+    "title_copy_cookie": {
+        "message": "KOPIRAJ PIŠKOTEK"
+    },
+    "description_copy_cookie": {
+        "message": "V kateri obliki želite kopirati piškotek?"
+    },
+    "str_example": {
+        "message": "Primer"
+    },
+    "title_delete_cookie": {
+        "message": "IZBRIŠI PIŠKOTEK"
+    },
+    "description_delete_cookie": {
+        "message": "Ali želite izbrisati piškotek?"
+    },
+    "alert_delete_cookie_success": {
+        "message": "Brisanje piškotka uspešno"
+    },
+    "title_edit_cookie": {
+        "message": "UREDI PIŠKOTEK"
+    },
+    "description_edit_cooke": {
+        "message": "Ali želite urediti piškotek?"
+    },
+    "alert_edit_cookie_success": {
+        "message": "Urejanje piškotka uspešno"
+    },
+    "title_export_cookie": {
+        "message": "IZVOZI PIŠKOTEK"
+    },
+    "description_export_cookie": {
+        "message": "V kateri obliki želite izvoziti piškotek?"
+    },
+    "label_password_encrypt": {
+        "message": "Geslo za šifriranje piškotkov"
+    },
+    "description_password": {
+        "message": "Vnesite geslo, če želite, da se piškotek šifrira pred izvozom (neobvezno)."
+    },
+    "alert_import_cookie_success": {
+        "message": "Uvoz piškotka uspešen"
+    },
+    "alert_import_cookie_error": {
+        "message": "Napaka pri uvozu piškotka"
+    },
+    "title_import_cookie": {
+        "message": "UVOZI PIŠKOTEK"
+    },
+    "description_import_cookie": {
+        "message": "Kako želite uvoziti?"
+    },
+    "label_select_file_import": {
+        "message": "Izberite datoteko za uvoz"
+    },
+    "lable_link_import": {
+        "message": "Povezava za uvoz piškotkov"
+    },
+    "label_password_decrypt": {
+        "message": "Geslo za odšifriranje piškotkov"
+    },
+    "description_password_decrypt": {
+        "message": "Vnesite geslo za odšifriranje, če so piškotki zaščiteni s šifriranjem (neobvezno)."
+    },
+    "sidebar_buy_me_a_coffee": {
+        "message": "Kupi mi kavo"
+    },
+    "sidebar_reviews": {
+        "message": "Ocene"
+    },
+    "description_buy_me_a_coffee": {
+        "message": "Če vam je všeč, razmislite o tem, da me podprete"
+    }
+}

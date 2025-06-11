@@ -1,0 +1,206 @@
+{
+    "ext_name": {
+        "message": "Cookie Editor"
+    },
+    "ext_description": {
+        "message": "Simple yet powerful Cookie Editor that allow you to quickly create, edit and delete cookies without leaving your tab."
+    },
+    "placeholder_search": {
+        "message": "કૂકી નામ શોધો"
+    },
+    "btn_copy": {
+        "message": "કૉપિ કરો"
+    },
+    "btn_add": {
+        "message": "ઉમેરો"
+    },
+    "btn_import": {
+        "message": "આયાત કરો"
+    },
+    "btn_export": {
+        "message": "નિકાસ કરો"
+    },
+    "btn_remove": {
+        "message": "બધું સાફ કરો"
+    },
+    "msg_no_cookies": {
+        "message": "કોઈ કૂકીઝ નથી."
+    },
+    "btn_delete": {
+        "message": "કાઢી નાખો"
+    },
+    "btn_cancel": {
+        "message": "રદ કરો"
+    },
+    "btn_edit": {
+        "message": "સંપાદિત કરો"
+    },
+    "title_delete": {
+        "message": "શું તમે આ વેબસાઇટની બધી કૂકીઝ કાઢી નાખવા માંગો છો?"
+    },
+    "title_import": {
+        "message": "શું તમે કૂકીઝ આયાત કરવાનો પ્રયાસ કરી રહ્યાં છો?"
+    },
+    "msg_import_error": {
+        "message": "કૂકીઝ આયાત કરવામાં નિષ્ફળ."
+    },
+    "pl_password": {
+        "message": "કૂકીઝ એનક્રિપ્ટ/ડિક્રિપ્ટ કરવા માટે પાસવર્ડ"
+    },
+    "title_export": {
+        "message": "શું તમે કૂકીઝ નિકાસ કરવાનો પ્રયાસ કરી રહ્યાં છો?"
+    },
+    "display_setting_title": {
+        "message": "ડિસ્પ્લે સેટિંગ"
+    },
+    "display_setting_description": {
+        "message": "કૂકીઝ જોવા માટે ડિસ્પ્લે મોડ સેટિંગ્સ"
+    },
+    "display_setting_option_default": {
+        "message": "ડિફૉલ્ટ મોડ"
+    },
+    "display_setting_option_compact": {
+        "message": "કોમ્પેક્ટ મોડ"
+    },
+    "display_setting_option_custom": {
+        "message": "કસ્ટમ મોડ"
+    },
+    "setting_customize_display_cookie": {
+        "message": "કૂકી ડિસ્પ્લે કસ્ટમાઇઝ કરો"
+    },
+    "copy_setting_title": {
+        "message": "કૉપિ સેટિંગ"
+    },
+    "copy_setting_description": {
+        "message": "કૂકીઝ કૉપિ કરતી વખતે ડિફૉલ્ટ ફોર્મેટ"
+    },
+    "export_setting_title": {
+        "message": "નિકાસ સેટિંગ"
+    },
+    "export_setting_description": {
+        "message": "કૂકીઝ નિકાસ કરતી વખતે ડિફૉલ્ટ ફોર્મેટ"
+    },
+    "import_setting_title": {
+        "message": "આયાત સેટિંગ"
+    },
+    "import_setting_description": {
+        "message": "કૂકીઝ આયાત સેટિંગ્સ માટે વિકલ્પો"
+    },
+    "import_setting_option_reload_page": {
+        "message": "આયાત કર્યા પછી વેબ-પેજ ફરીથી લોડ કરો"
+    },
+    "import_setting_format": {
+        "message": "ડિફૉલ્ટ આયાત વિકલ્પ"
+    },
+    "import_settomg_format_text": {
+        "message": "ટેક્સ્ટનો ઉપયોગ કરો"
+    },
+    "import_setting_format_file": {
+        "message": "ફાઇલનો ઉપયોગ કરો"
+    },
+    "alert_copy_cookie_success": {
+        "message": "કૉપિ સફળ"
+    },
+    "no_cookie_description": {
+        "message": "વેબસાઇટ પર કોઈ કૂકીઝ નથી."
+    },
+    "sidebar_setting": {
+        "message": "સેટિંગ"
+    },
+    "sidebar_export": {
+        "message": "નિકાસ"
+    },
+    "sidebar_import": {
+        "message": "આયાત"
+    },
+    "alert_add_cookie_success": {
+        "message": "કૂકી ઉમેરવામાં સફળ"
+    },
+    "alert_add_cookie_error": {
+        "message": "કૂકી ઉમેરવામાં ભૂલ"
+    },
+    "title_add_cookie": {
+        "message": "કૂકી ઉમેરો"
+    },
+    "description_add_cookie": {
+        "message": "શું તમે કૂકી ઉમેરવા માંગો છો?"
+    },
+    "title_clear_cookie": {
+        "message": "કૂકીઝ સાફ કરો"
+    },
+    "description_clear_cookie": {
+        "message": "શું તમે આ વેબસાઇટની બધી કૂકીઝ કાઢી નાખવા માંગો છો?"
+    },
+    "title_copy_cookie": {
+        "message": "કૂકી કૉપિ કરો"
+    },
+    "description_copy_cookie": {
+        "message": "કૂકી કઈ ફોર્મેટમાં કૉપિ કરવા માંગો છો?"
+    },
+    "str_example": {
+        "message": "ઉદાહરણ"
+    },
+    "title_delete_cookie": {
+        "message": "કૂકી કાઢી નાખો"
+    },
+    "description_delete_cookie": {
+        "message": "શું તમે કૂકી કાઢી નાખવા માંગો છો?"
+    },
+    "alert_delete_cookie_success": {
+        "message": "કૂકી કાઢી નાખવામાં સફળ"
+    },
+    "title_edit_cookie": {
+        "message": "કૂકી સંપાદિત કરો"
+    },
+    "description_edit_cooke": {
+        "message": "શું તમે કૂકી સંપાદિત કરવા માંગો છો?"
+    },
+    "alert_edit_cookie_success": {
+        "message": "કૂકી સંપાદિત કરવામાં સફળ"
+    },
+    "title_export_cookie": {
+        "message": "કૂકી નિકાસ કરો"
+    },
+    "description_export_cookie": {
+        "message": "કૂકી કઈ ફોર્મેટમાં નિકાસ કરવા માંગો છો?"
+    },
+    "label_password_encrypt": {
+        "message": "કૂકીઝ એનક્રિપ્ટ કરવા માટે પાસવર્ડ"
+    },
+    "description_password": {
+        "message": "જો તમે કૂકીને નિકાસ કરતા પહેલા એનક્રિપ્ટ કરવા માંગો છો, તો પાસવર્ડ દાખલ કરો (વૈકલ્પિક)."
+    },
+    "alert_import_cookie_success": {
+        "message": "કૂકીઝ આયાત કરવામાં સફળ"
+    },
+    "alert_import_cookie_error": {
+        "message": "કૂકીઝ આયાત કરવામાં ભૂલ"
+    },
+    "title_import_cookie": {
+        "message": "કૂકીઝ આયાત કરો"
+    },
+    "description_import_cookie": {
+        "message": "તમે કેવી રીતે આયાત કરવા માંગો છો?"
+    },
+    "label_select_file_import": {
+        "message": "આયાત કરવા માટે ફાઇલ પસંદ કરો"
+    },
+    "lable_link_import": {
+        "message": "કૂકીઝ આયાત કરવા માટે લિંક"
+    },
+    "label_password_decrypt": {
+        "message": "કૂકીઝ ડિક્રિપ્ટ કરવા માટે પાસવર્ડ"
+    },
+    "description_password_decrypt": {
+        "message": "જો કૂકીઝ એનક્રિપ્શન દ્વારા સુરક્ષિત છે, તો ડિક્રિપ્ટ પાસવર્ડ દાખલ કરો (વૈકલ્પિક)."
+    },
+    "sidebar_buy_me_a_coffee": {
+        "message": "મને એક કોફી ખરીદો "
+    },
+    "sidebar_reviews": {
+        "message": "સમીક્ષાઓ"
+    },
+    "description_buy_me_a_coffee": {
+        "message": "જો તમને ગમે છે, તો મને ટેકો આપવાનું વિચારો"
+    }
+}

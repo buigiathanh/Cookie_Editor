@@ -1,0 +1,206 @@
+{
+    "ext_name": {
+        "message": "Cookie Editor"
+    },
+    "ext_description": {
+        "message": "Simple yet powerful Cookie Editor that allow you to quickly create, edit and delete cookies without leaving your tab."
+    },
+    "placeholder_search": {
+        "message": "Cerca el nom de la cookie"
+    },
+    "btn_copy": {
+        "message": "Copia"
+    },
+    "btn_add": {
+        "message": "Afegeix"
+    },
+    "btn_import": {
+        "message": "Importa"
+    },
+    "btn_export": {
+        "message": "Exporta"
+    },
+    "btn_remove": {
+        "message": "Esborra tot"
+    },
+    "msg_no_cookies": {
+        "message": "No hi ha cookies."
+    },
+    "btn_delete": {
+        "message": "Elimina"
+    },
+    "btn_cancel": {
+        "message": "Cancel·la"
+    },
+    "btn_edit": {
+        "message": "Edita"
+    },
+    "title_delete": {
+        "message": "Vols eliminar totes les cookies d'aquest lloc web?"
+    },
+    "title_import": {
+        "message": "Estàs intentant importar cookies?"
+    },
+    "msg_import_error": {
+        "message": "No s'han pogut importar les cookies."
+    },
+    "pl_password": {
+        "message": "Contrasenya per xifrar/desxifrar cookies"
+    },
+    "title_export": {
+        "message": "Estàs intentant exportar cookies?"
+    },
+    "display_setting_title": {
+        "message": "CONFIGURACIÓ DE VISUALITZACIÓ"
+    },
+    "display_setting_description": {
+        "message": "Configuració del mode de visualització per veure cookies"
+    },
+    "display_setting_option_default": {
+        "message": "Mode per defecte"
+    },
+    "display_setting_option_compact": {
+        "message": "Mode compacte"
+    },
+    "display_setting_option_custom": {
+        "message": "Mode personalitzat"
+    },
+    "setting_customize_display_cookie": {
+        "message": "Personalitza la visualització de cookies"
+    },
+    "copy_setting_title": {
+        "message": "CONFIGURACIÓ DE COPIA"
+    },
+    "copy_setting_description": {
+        "message": "Format per defecte en copiar cookies"
+    },
+    "export_setting_title": {
+        "message": "CONFIGURACIÓ D'EXPORTACIÓ"
+    },
+    "export_setting_description": {
+        "message": "Format per defecte en exportar cookies"
+    },
+    "import_setting_title": {
+        "message": "CONFIGURACIÓ D'IMPORTACIÓ"
+    },
+    "import_setting_description": {
+        "message": "Opcions per a la configuració d'importació de cookies"
+    },
+    "import_setting_option_reload_page": {
+        "message": "Torna a carregar la pàgina després de la importació"
+    },
+    "import_setting_format": {
+        "message": "Opció d'importació per defecte"
+    },
+    "import_settomg_format_text": {
+        "message": "Utilitza text"
+    },
+    "import_setting_format_file": {
+        "message": "Utilitza un fitxer"
+    },
+    "alert_copy_cookie_success": {
+        "message": "Copia realitzada amb èxit"
+    },
+    "no_cookie_description": {
+        "message": "El lloc web no té cookies."
+    },
+    "sidebar_setting": {
+        "message": "Configuració"
+    },
+    "sidebar_export": {
+        "message": "Exporta"
+    },
+    "sidebar_import": {
+        "message": "Importa"
+    },
+    "alert_add_cookie_success": {
+        "message": "Cookie afegida amb èxit"
+    },
+    "alert_add_cookie_error": {
+        "message": "Error en afegir la cookie"
+    },
+    "title_add_cookie": {
+        "message": "AFEGIR COOKIE"
+    },
+    "description_add_cookie": {
+        "message": "Vols afegir la cookie?"
+    },
+    "title_clear_cookie": {
+        "message": "ESBORRAR COOKIES"
+    },
+    "description_clear_cookie": {
+        "message": "Vols eliminar totes les cookies d'aquest lloc web?"
+    },
+    "title_copy_cookie": {
+        "message": "COPIA COOKIE"
+    },
+    "description_copy_cookie": {
+        "message": "En quin format vols copiar la cookie?"
+    },
+    "str_example": {
+        "message": "Exemple"
+    },
+    "title_delete_cookie": {
+        "message": "ELIMINA COOKIE"
+    },
+    "description_delete_cookie": {
+        "message": "Vols eliminar la cookie?"
+    },
+    "alert_delete_cookie_success": {
+        "message": "Cookie eliminada amb èxit"
+    },
+    "title_edit_cookie": {
+        "message": "EDITA COOKIE"
+    },
+    "description_edit_cooke": {
+        "message": "Vols editar la cookie?"
+    },
+    "alert_edit_cookie_success": {
+        "message": "Cookie editada amb èxit"
+    },
+    "title_export_cookie": {
+        "message": "EXPORTA COOKIE"
+    },
+    "description_export_cookie": {
+        "message": "En quin format vols exportar la cookie?"
+    },
+    "label_password_encrypt": {
+        "message": "Contrasenya per xifrar cookies"
+    },
+    "description_password": {
+        "message": "Introdueix una contrasenya si vols que la cookie es xifri abans de l'exportació (opcional)."
+    },
+    "alert_import_cookie_success": {
+        "message": "Cookies importades amb èxit"
+    },
+    "alert_import_cookie_error": {
+        "message": "Error en importar les cookies"
+    },
+    "title_import_cookie": {
+        "message": "IMPORTA COOKIES"
+    },
+    "description_import_cookie": {
+        "message": "Com vols importar?"
+    },
+    "label_select_file_import": {
+        "message": "Selecciona un fitxer per importar"
+    },
+    "lable_link_import": {
+        "message": "Enllaç per importar cookies"
+    },
+    "label_password_decrypt": {
+        "message": "Contrasenya per desxifrar cookies"
+    },
+    "description_password_decrypt": {
+        "message": "Introdueix la contrasenya de desxifrat si les cookies estan protegides amb xifratge (opcional)."
+    },
+    "sidebar_buy_me_a_coffee": {
+        "message": "Compra'm un cafè"
+    },
+    "sidebar_reviews": {
+        "message": "Ressenyes"
+    },
+    "description_buy_me_a_coffee": {
+        "message": "Si t'agrada, considera donar-me suport"
+    }
+}

@@ -1,0 +1,206 @@
+{
+    "ext_name": {
+        "message": "Cookie Editor"
+    },
+    "ext_description": {
+        "message": "Simple yet powerful Cookie Editor that allow you to quickly create, edit and delete cookies without leaving your tab."
+    },
+    "placeholder_search": {
+        "message": "ಕುಕಿ ಹೆಸರನ್ನು ಹುಡುಕಿ"
+    },
+    "btn_copy": {
+        "message": "ನಕಲಿಸಿ"
+    },
+    "btn_add": {
+        "message": "ಸೇರಿಸಿ"
+    },
+    "btn_import": {
+        "message": "ಆಮದು"
+    },
+    "btn_export": {
+        "message": "ರಫ್ತು"
+    },
+    "btn_remove": {
+        "message": "ಎಲ್ಲಾ ತೆರವುಗೊಳಿಸಿ"
+    },
+    "msg_no_cookies": {
+        "message": "ಯಾವುದೇ ಕುಕಿಗಳಿಲ್ಲ."
+    },
+    "btn_delete": {
+        "message": "ಅಳಿಸಿ"
+    },
+    "btn_cancel": {
+        "message": "ರದ್ದುಮಾಡಿ"
+    },
+    "btn_edit": {
+        "message": "ಸಂಪಾದಿಸಿ"
+    },
+    "title_delete": {
+        "message": "ಈ ವೆಬ್ಸೈಟ್ನ ಎಲ್ಲಾ ಕುಕಿಗಳನ್ನು ತೆಗೆದುಹಾಕಲು ಬಯಸುವಿರಾ?"
+    },
+    "title_import": {
+        "message": "ನೀವು ಕುಕಿಗಳನ್ನು ಆಮದು ಮಾಡಲು ಪ್ರಯತ್ನಿಸುತ್ತಿದ್ದೀರಾ?"
+    },
+    "msg_import_error": {
+        "message": "ಕುಕಿಗಳನ್ನು ಆಮದು ಮಾಡಲು ವಿಫಲವಾಗಿದೆ."
+    },
+    "pl_password": {
+        "message": "ಕುಕಿಗಳನ್ನು ಗೂಢಲಿಪೀಕರಿಸಲು/ಡಿಕ್ರಿಪ್ಟ್ ಮಾಡಲು ಪಾಸ್ವರ್ಡ್"
+    },
+    "title_export": {
+        "message": "ನೀವು ಕುಕಿಗಳನ್ನು ರಫ್ತು ಮಾಡಲು ಪ್ರಯತ್ನಿಸುತ್ತಿದ್ದೀರಾ?"
+    },
+    "display_setting_title": {
+        "message": "ಪ್ರದರ್ಶನ ಸೆಟ್ಟಿಂಗ್"
+    },
+    "display_setting_description": {
+        "message": "ಕುಕಿಗಳನ್ನು ವೀಕ್ಷಿಸಲು ಪ್ರದರ್ಶನ ಮೋಡ್ ಸೆಟ್ಟಿಂಗ್ಗಳು"
+    },
+    "display_setting_option_default": {
+        "message": "ಡೀಫಾಲ್ಟ್ ಮೋಡ್"
+    },
+    "display_setting_option_compact": {
+        "message": "ಕಾಂಪ್ಯಾಕ್ಟ್ ಮೋಡ್"
+    },
+    "display_setting_option_custom": {
+        "message": "ಕಸ್ಟಮ್ ಮೋಡ್"
+    },
+    "setting_customize_display_cookie": {
+        "message": "ಕುಕಿ ಪ್ರದರ್ಶನವನ್ನು ಕಸ್ಟಮೈಜ್ ಮಾಡಿ"
+    },
+    "copy_setting_title": {
+        "message": "ನಕಲು ಸೆಟ್ಟಿಂಗ್"
+    },
+    "copy_setting_description": {
+        "message": "ಕುಕಿಗಳನ್ನು ನಕಲಿಸುವಾಗ ಡೀಫಾಲ್ಟ್ ಫಾರ್ಮ್ಯಾಟ್"
+    },
+    "export_setting_title": {
+        "message": "ರಫ್ತು ಸೆಟ್ಟಿಂಗ್"
+    },
+    "export_setting_description": {
+        "message": "ಕುಕಿಗಳನ್ನು ರಫ್ತು ಮಾಡುವಾಗ ಡೀಫಾಲ್ಟ್ ಫಾರ್ಮ್ಯಾಟ್"
+    },
+    "import_setting_title": {
+        "message": "ಆಮದು ಸೆಟ್ಟಿಂಗ್"
+    },
+    "import_setting_description": {
+        "message": "ಕುಕಿ ಆಮದು ಸೆಟ್ಟಿಂಗ್ಗಳಿಗಾಗಿ ಆಯ್ಕೆಗಳು"
+    },
+    "import_setting_option_reload_page": {
+        "message": "ಆಮದು ಮಾಡಿದ ನಂತರ ವೆಬ್-ಪುಟವನ್ನು ಮರುಲೋಡ್ ಮಾಡಿ"
+    },
+    "import_setting_format": {
+        "message": "ಡೀಫಾಲ್ಟ್ ಆಮದು ಆಯ್ಕೆ"
+    },
+    "import_settomg_format_text": {
+        "message": "ಪಠ್ಯವನ್ನು ಬಳಸಿ"
+    },
+    "import_setting_format_file": {
+        "message": "ಫೈಲ್ ಬಳಸಿ"
+    },
+    "alert_copy_cookie_success": {
+        "message": "ನಕಲು ಯಶಸ್ವಿಯಾಗಿದೆ"
+    },
+    "no_cookie_description": {
+        "message": "ವೆಬ್ಸೈಟ್ಗೆ ಯಾವುದೇ ಕುಕಿಗಳಿಲ್ಲ."
+    },
+    "sidebar_setting": {
+        "message": "ಸೆಟ್ಟಿಂಗ್"
+    },
+    "sidebar_export": {
+        "message": "ರಫ್ತು"
+    },
+    "sidebar_import": {
+        "message": "ಆಮದು"
+    },
+    "alert_add_cookie_success": {
+        "message": "ಕುಕಿ ಸೇರಿಸುವುದು ಯಶಸ್ವಿಯಾಗಿದೆ"
+    },
+    "alert_add_cookie_error": {
+        "message": "ಕುಕಿ ಸೇರಿಸುವುದು ವಿಫಲವಾಗಿದೆ"
+    },
+    "title_add_cookie": {
+        "message": "ಕುಕಿ ಸೇರಿಸಿ"
+    },
+    "description_add_cookie": {
+        "message": "ನೀವು ಕುಕಿಯನ್ನು ಸೇರಿಸಲು ಬಯಸುವಿರಾ?"
+    },
+    "title_clear_cookie": {
+        "message": "ಕುಕಿ ತೆರವುಗೊಳಿಸಿ"
+    },
+    "description_clear_cookie": {
+        "message": "ಈ ವೆಬ್ಸೈಟ್ನ ಎಲ್ಲಾ ಕುಕಿಗಳನ್ನು ತೆಗೆದುಹಾಕಲು ಬಯಸುವಿರಾ?"
+    },
+    "title_copy_cookie": {
+        "message": "ಕುಕಿ ನಕಲಿಸಿ"
+    },
+    "description_copy_cookie": {
+        "message": "ಕುಕಿಯನ್ನು ಯಾವ ಫಾರ್ಮ್ಯಾಟ್ನಲ್ಲಿ ನಕಲಿಸಲು ಬಯಸುವಿರಾ?"
+    },
+    "str_example": {
+        "message": "ಉದಾಹರಣೆ"
+    },
+    "title_delete_cookie": {
+        "message": "ಕುಕಿ ಅಳಿಸಿ"
+    },
+    "description_delete_cookie": {
+        "message": "ನೀವು ಕುಕಿಯನ್ನು ಅಳಿಸಲು ಬಯಸುವಿರಾ?"
+    },
+    "alert_delete_cookie_success": {
+        "message": "ಕುಕಿ ಅಳಿಸುವುದು ಯಶಸ್ವಿಯಾಗಿದೆ"
+    },
+    "title_edit_cookie": {
+        "message": "ಕುಕಿ ಸಂಪಾದಿಸಿ"
+    },
+    "description_edit_cooke": {
+        "message": "ನೀವು ಕುಕಿಯನ್ನು ಸಂಪಾದಿಸಲು ಬಯಸುವಿರಾ?"
+    },
+    "alert_edit_cookie_success": {
+        "message": "ಕುಕಿ ಸಂಪಾದಿಸುವುದು ಯಶಸ್ವಿಯಾಗಿದೆ"
+    },
+    "title_export_cookie": {
+        "message": "ಕುಕಿ ರಫ್ತು ಮಾಡಿ"
+    },
+    "description_export_cookie": {
+        "message":  "ಕುಕಿಯನ್ನು ಯಾವ ಫಾರ್ಮ್ಯಾಟ್ನಲ್ಲಿ ರಫ್ತು ಮಾಡಲು ಬಯಸುವಿರಾ?"
+    },
+    "label_password_encrypt": {
+        "message": "ಕುಕಿಗಳನ್ನು ಗೂಢಲಿಪೀಕರಿಸಲು ಪಾಸ್ವರ್ಡ್"
+    },
+    "description_password": {
+        "message": "ರಫ್ತು ಮಾಡುವ ಮೊದಲು ಕುಕಿಯನ್ನು ಗೂಢಲಿಪೀಕರಿಸಲು ನೀವು ಬಯಸಿದರೆ ಪಾಸ್ವರ್ಡ್ ನಮೂದಿಸಿ (ಐಚ್ಛಿಕ)."
+    },
+    "alert_import_cookie_success": {
+        "message": "ಕುಕಿ ಆಮದು ಯಶಸ್ವಿಯಾಗಿದೆ"
+    },
+    "alert_import_cookie_error": {
+        "message": "ಕುಕಿ ಆಮದು ವಿಫಲವಾಗಿದೆ"
+    },
+    "title_import_cookie": {
+        "message": "ಕುಕಿ ಆಮದು ಮಾಡಿ"
+    },
+    "description_import_cookie": {
+        "message": "ನೀವು ಹೇಗೆ ಆಮದು ಮಾಡಲು ಬಯಸುವಿರಾ?"
+    },
+    "label_select_file_import": {
+        "message": "ಆಮದು ಮಾಡಲು ಫೈಲ್ ಆಯ್ಕೆಮಾಡಿ"
+    },
+    "lable_link_import": {
+        "message": "ಕುಕಿಗಳನ್ನು ಆಮದು ಮಾಡಲು ಲಿಂಕ್"
+    },
+    "label_password_decrypt": {
+        "message": "ಕುಕಿಗಳನ್ನು ಡಿಕ್ರಿಪ್ಟ್ ಮಾಡಲು ಪಾಸ್ವರ್ಡ್"
+    },
+    "description_password_decrypt": {
+        "message": "ಕುಕಿಗಳನ್ನು ಗೂಢಲಿಪೀಕರಿಸಿದ್ದರೆ ಡಿಕ್ರಿಪ್ಟ್ ಪಾಸ್ವರ್ಡ್ ನಮೂದಿಸಿ (ಐಚ್ಛಿಕ)."
+    },
+    "sidebar_buy_me_a_coffee": {
+        "message": "ನನಗೆ ಒಂದು ಕಾಫಿ ಕೊಳ್ಳಿ"
+    },
+    "sidebar_reviews": {
+        "message": "ವಿಮರ್ಶೆಗಳು"
+    },
+    "description_buy_me_a_coffee": {
+        "message": "ನಿಮಗೆ ಇಷ್ಟವಾದರೆ, ನನ್ನನ್ನು ಬೆಂಬಲಿಸುವುದನ್ನು ಪರಿಗಣಿಸಿ"
+    }
+}

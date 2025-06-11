@@ -1,0 +1,206 @@
+{
+    "ext_name": {
+        "message": "Cookie Editor"
+    },
+    "ext_description": {
+        "message": "Simple yet powerful Cookie Editor that allow you to quickly create, edit and delete cookies without leaving your tab."
+    },
+    "placeholder_search": {
+        "message": "Пошук назви Cookie"
+    },
+    "btn_copy": {
+        "message": "Копіювати"
+    },
+    "btn_add": {
+        "message": "Додати"
+    },
+    "btn_import": {
+        "message": "Імпорт"
+    },
+    "btn_export": {
+        "message": "Експорт"
+    },
+    "btn_remove": {
+        "message": "Очистити все"
+    },
+    "msg_no_cookies": {
+        "message": "Немає Cookie."
+    },
+    "btn_delete": {
+        "message": "Видалити"
+    },
+    "btn_cancel": {
+        "message": "Скасувати"
+    },
+    "btn_edit": {
+        "message": "Редагувати"
+    },
+    "title_delete": {
+        "message": "Ви хочете видалити всі Cookie цього веб-сайту?"
+    },
+    "title_import": {
+        "message": "Ви хочете імпортувати Cookie?"
+    },
+    "msg_import_error": {
+        "message": "Не вдалося імпортувати Cookie."
+    },
+    "pl_password": {
+        "message": "Пароль для шифрування/розшифрування Cookie"
+    },
+    "title_export": {
+        "message": "Ви хочете експортувати Cookie?"
+    },
+    "display_setting_title": {
+        "message": "НАЛАШТУВАННЯ ВІДОБРАЖЕННЯ"
+    },
+    "display_setting_description": {
+        "message": "Налаштування режиму відображення для перегляду Cookie"
+    },
+    "display_setting_option_default": {
+        "message": "Типовий режим"
+    },
+    "display_setting_option_compact": {
+        "message": "Компактний режим"
+    },
+    "display_setting_option_custom": {
+        "message": "Спеціальний режим"
+    },
+    "setting_customize_display_cookie": {
+        "message": "Налаштування відображення Cookie"
+    },
+    "copy_setting_title": {
+        "message": "НАЛАШТУВАННЯ КОПІЮВАННЯ"
+    },
+    "copy_setting_description": {
+        "message": "Типовий формат при копіюванні Cookie"
+    },
+    "export_setting_title": {
+        "message": "НАЛАШТУВАННЯ ЕКСПОРТУ"
+    },
+    "export_setting_description": {
+        "message": "Типовий формат при експорті Cookie"
+    },
+    "import_setting_title": {
+        "message": "НАЛАШТУВАННЯ ІМПОРТУ"
+    },
+    "import_setting_description": {
+        "message": "Параметри налаштування імпорту Cookie"
+    },
+    "import_setting_option_reload_page": {
+        "message": "Перезавантажити сторінку після імпорту"
+    },
+    "import_setting_format": {
+        "message": "Типовий параметр імпорту"
+    },
+    "import_settomg_format_text": {
+        "message": "Використовувати текст"
+    },
+    "import_setting_format_file": {
+        "message": "Використовувати файл"
+    },
+    "alert_copy_cookie_success": {
+        "message": "Копіювання успішне"
+    },
+    "no_cookie_description": {
+        "message": "На цьому веб-сайті немає Cookie."
+    },
+    "sidebar_setting": {
+        "message": "Налаштування"
+    },
+    "sidebar_export": {
+        "message": "Експорт"
+    },
+    "sidebar_import": {
+        "message": "Імпорт"
+    },
+    "alert_add_cookie_success": {
+        "message": "Додавання Cookie успішне"
+    },
+    "alert_add_cookie_error": {
+        "message": "Помилка додавання Cookie"
+    },
+    "title_add_cookie": {
+        "message": "ДОДАТИ COOKIE"
+    },
+    "description_add_cookie": {
+        "message": "Ви хочете додати Cookie?"
+    },
+    "title_clear_cookie": {
+        "message": "ОЧИСТИТИ COOKIE"
+    },
+    "description_clear_cookie": {
+        "message": "Ви хочете видалити всі Cookie цього веб-сайту?"
+    },
+    "title_copy_cookie": {
+        "message": "КОПІЮВАТИ COOKIE"
+    },
+    "description_copy_cookie": {
+        "message": "У якому форматі ви хочете скопіювати Cookie?"
+    },
+    "str_example": {
+        "message": "Приклад"
+    },
+    "title_delete_cookie": {
+        "message": "ВИДАЛИТИ COOKIE"
+    },
+    "description_delete_cookie": {
+        "message": "Ви хочете видалити Cookie?"
+    },
+    "alert_delete_cookie_success": {
+        "message": "Видалення Cookie успішне"
+    },
+    "title_edit_cookie": {
+        "message": "РЕДАГУВАТИ COOKIE"
+    },
+    "description_edit_cooke": {
+        "message": "Ви хочете редагувати Cookie?"
+    },
+    "alert_edit_cookie_success": {
+        "message": "Редагування Cookie успішне"
+    },
+    "title_export_cookie": {
+        "message": "ЕКСПОРТУВАТИ COOKIE"
+    },
+    "description_export_cookie": {
+        "message": "У якому форматі ви хочете експортувати Cookie?"
+    },
+    "label_password_encrypt": {
+        "message": "Пароль для шифрування Cookie"
+    },
+    "description_password": {
+        "message": "Введіть пароль, якщо ви хочете зашифрувати Cookie перед експортом (необов'язково)."
+    },
+    "alert_import_cookie_success": {
+        "message": "Імпорт Cookie успішний"
+    },
+    "alert_import_cookie_error": {
+        "message": "Помилка імпорту Cookie"
+    },
+    "title_import_cookie": {
+        "message": "ІМПОРТУВАТИ COOKIE"
+    },
+    "description_import_cookie": {
+        "message": "Як ви хочете імпортувати?"
+    },
+    "label_select_file_import": {
+        "message": "Виберіть файл для імпорту"
+    },
+    "lable_link_import": {
+        "message": "Посилання для імпорту Cookie"
+    },
+    "label_password_decrypt": {
+        "message": "Пароль для розшифрування Cookie"
+    },
+    "description_password_decrypt": {
+        "message": "Введіть пароль для розшифрування, якщо Cookie захищені шифруванням (необов'язково)."
+    },
+    "sidebar_buy_me_a_coffee": {
+        "message": "Купи мені каву"
+    },
+    "sidebar_reviews": {
+        "message": "Відгуки"
+    },
+    "description_buy_me_a_coffee": {
+        "message": "Якщо вам сподобалося, подумайте про підтримку мене"
+    }
+}

@@ -1,0 +1,206 @@
+{
+    "ext_name": {
+        "message": "Cookie Editor"
+    },
+    "ext_description": {
+        "message": "Simple yet powerful Cookie Editor that allow you to quickly create, edit and delete cookies without leaving your tab."
+    },
+    "placeholder_search": {
+        "message": "חפש שם קוקיה"
+    },
+    "btn_copy": {
+        "message": "העתק"
+    },
+    "btn_add": {
+        "message": "הוסף"
+    },
+    "btn_import": {
+        "message": "ייבא"
+    },
+    "btn_export": {
+        "message": "ייצא"
+    },
+    "btn_remove": {
+        "message": "נקה הכל"
+    },
+    "msg_no_cookies": {
+        "message": "אין קוקיות."
+    },
+    "btn_delete": {
+        "message": "מחק"
+    },
+    "btn_cancel": {
+        "message": "בטל"
+    },
+    "btn_edit": {
+        "message": "ערוך"
+    },
+    "title_delete": {
+        "message": "האם אתה רוצה למחוק את כל הקוקיות של אתר זה?"
+    },
+    "title_import": {
+        "message": "האם אתה מנסה לייבא קוקיות?"
+    },
+    "msg_import_error": {
+        "message": "ייבא קוקיות נכשל."
+    },
+    "pl_password": {
+        "message": "סיסמה להצפנה/פענוח קוקיות"
+    },
+    "title_export": {
+        "message": "האם אתה מנסה לייצא קוקיות?"
+    },
+    "display_setting_title": {
+        "message": "הגדרות תצוגה"
+    },
+    "display_setting_description": {
+        "message": "הגדרות מצב תצוגה לצפייה בקוקיות"
+    },
+    "display_setting_option_default": {
+        "message": "מצב ברירת מחדל"
+    },
+    "display_setting_option_compact": {
+        "message": "מצב קומפקטי"
+    },
+    "display_setting_option_custom": {
+        "message": "מצב מותאם אישית"
+    },
+    "setting_customize_display_cookie": {
+        "message": "התאם אישית את תצוגת הקוקיות"
+    },
+    "copy_setting_title": {
+        "message": "הגדרות העתקה"
+    },
+    "copy_setting_description": {
+        "message": "פורמט ברירת מחדל בעת העתקת קוקיות"
+    },
+    "export_setting_title": {
+        "message": "הגדרות ייצוא"
+    },
+    "export_setting_description": {
+        "message": "פורמט ברירת מחדל בעת ייצוא קוקיות"
+    },
+    "import_setting_title": {
+        "message": "הגדרות ייבוא"
+    },
+    "import_setting_description": {
+        "message": "אפשרויות להגדרות ייבוא קוקיות"
+    },
+    "import_setting_option_reload_page": {
+        "message": "טען מחדש את הדף לאחר הייבוא"
+    },
+    "import_setting_format": {
+        "message": "אפשרות ייבוא ברירת מחדל"
+    },
+    "import_settomg_format_text": {
+        "message": "השתמש בטקסט"
+    },
+    "import_setting_format_file": {
+        "message": "השתמש בקובץ"
+    },
+    "alert_copy_cookie_success": {
+        "message": "העתקה בוצעה בהצלחה"
+    },
+    "no_cookie_description": {
+        "message": "לאתר אין קוקיות."
+    },
+    "sidebar_setting": {
+        "message": "הגדרות"
+    },
+    "sidebar_export": {
+        "message": "ייצא"
+    },
+    "sidebar_import": {
+        "message": "ייבא"
+    },
+    "alert_add_cookie_success": {
+        "message": "קוקיה נוספה בהצלחה"
+    },
+    "alert_add_cookie_error": {
+        "message": "שגיאה בהוספת קוקיה"
+    },
+    "title_add_cookie": {
+        "message": "הוסף קוקיה"
+    },
+    "description_add_cookie": {
+        "message": "האם אתה רוצה להוסיף את הקוקיה?"
+    },
+    "title_clear_cookie": {
+        "message": "נקה קוקיות"
+    },
+    "description_clear_cookie": {
+        "message": "האם אתה רוצה למחוק את כל הקוקיות של אתר זה?"
+    },
+    "title_copy_cookie": {
+        "message": "העתק קוקיה"
+    },
+    "description_copy_cookie": {
+        "message": "באיזה פורמט אתה רוצה להעתיק את הקוקיה?"
+    },
+    "str_example": {
+        "message": "דוגמה"
+    },
+    "title_delete_cookie": {
+        "message": "מחק קוקיה"
+    },
+    "description_delete_cookie": {
+        "message": "האם אתה רוצה למחוק את הקוקיה?"
+    },
+    "alert_delete_cookie_success": {
+        "message": "קוקיה נמחקה בהצלחה"
+    },
+    "title_edit_cookie": {
+        "message": "ערוך קוקיה"
+    },
+    "description_edit_cooke": {
+        "message": "האם אתה רוצה לערוך את הקוקיה?"
+    },
+    "alert_edit_cookie_success": {
+        "message": "קוקיה נערכה בהצלחה"
+    },
+    "title_export_cookie": {
+        "message": "ייצא קוקיה"
+    },
+    "description_export_cookie": {
+        "message": "באיזה פורמט אתה רוצה לייצא את הקוקיה?"
+    },
+    "label_password_encrypt": {
+        "message": "סיסמה להצפנת קוקיות"
+    },
+    "description_password": {
+        "message": "הזן סיסמה אם אתה רוצה שהקוקיה תוצפן לפני הייצוא (אופציונלי)."
+    },
+    "alert_import_cookie_success": {
+        "message": "קוקיות יובאו בהצלחה"
+    },
+    "alert_import_cookie_error": {
+        "message": "שגיאה בייבוא קוקיות"
+    },
+    "title_import_cookie": {
+        "message": "ייבא קוקיות"
+    },
+    "description_import_cookie": {
+        "message": "איך אתה רוצה לייבא?"
+    },
+    "label_select_file_import": {
+        "message": "בחר קובץ לייבוא"
+    },
+    "lable_link_import": {
+        "message": "קישור לייבוא קוקיות"
+    },
+    "label_password_decrypt": {
+        "message": "סיסמה לפענוח קוקיות"
+    },
+    "description_password_decrypt": {
+        "message": "הזן את סיסמת הפענוח אם הקוקיות מוגנות בהצפנה (אופציונלי)."
+    },
+    "sidebar_buy_me_a_coffee": {
+        "message": "קנה לי קפה"
+    },
+    "sidebar_reviews": {
+        "message": "ביקורות"
+    },
+    "description_buy_me_a_coffee": {
+        "message": "אם אתה אוהב את זה, שקול לתמוך בי"
+    }
+}

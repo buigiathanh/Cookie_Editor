@@ -1,0 +1,206 @@
+{
+    "ext_name": {
+        "message": "Cookie Editor"
+    },
+    "ext_description": {
+        "message": "Simple yet powerful Cookie Editor that allow you to quickly create, edit and delete cookies without leaving your tab."
+    },
+    "placeholder_search": {
+        "message": "جستجوی نام کوکی"
+    },
+    "btn_copy": {
+        "message": "کپی"
+    },
+    "btn_add": {
+        "message": "افزودن"
+    },
+    "btn_import": {
+        "message": "وارد کردن"
+    },
+    "btn_export": {
+        "message": "صادر کردن"
+    },
+    "btn_remove": {
+        "message": "پاک کردن همه"
+    },
+    "msg_no_cookies": {
+        "message": "هیچ کوکی وجود ندارد."
+    },
+    "btn_delete": {
+        "message": "حذف"
+    },
+    "btn_cancel": {
+        "message": "لغو"
+    },
+    "btn_edit": {
+        "message": "ویرایش"
+    },
+    "title_delete": {
+        "message": "آیا می‌خواهید همه کوکی‌های این وب‌سایت را حذف کنید؟"
+    },
+    "title_import": {
+        "message": "آیا می‌خواهید کوکی‌ها را وارد کنید؟"
+    },
+    "msg_import_error": {
+        "message": "وارد کردن کوکی‌ها با خطا مواجه شد."
+    },
+    "pl_password": {
+        "message": "رمز عبور برای رمزگذاری/رمزگشایی کوکی‌ها"
+    },
+    "title_export": {
+        "message": "آیا می‌خواهید کوکی‌ها را صادر کنید؟"
+    },
+    "display_setting_title": {
+        "message": "تنظیمات نمایش"
+    },
+    "display_setting_description": {
+        "message": "تنظیمات حالت نمایش برای مشاهده کوکی‌ها"
+    },
+    "display_setting_option_default": {
+        "message": "حالت پیش‌فرض"
+    },
+    "display_setting_option_compact": {
+        "message": "حالت فشرده"
+    },
+    "display_setting_option_custom": {
+        "message": "حالت سفارشی"
+    },
+    "setting_customize_display_cookie": {
+        "message": "سفارشی‌سازی نمایش کوکی‌ها"
+    },
+    "copy_setting_title": {
+        "message": "تنظیمات کپی"
+    },
+    "copy_setting_description": {
+        "message": "فرمت پیش‌فرض هنگام کپی کردن کوکی‌ها"
+    },
+    "export_setting_title": {
+        "message": "تنظیمات صادرات"
+    },
+    "export_setting_description": {
+        "message": "فرمت پیش‌فرض هنگام صادر کردن کوکی‌ها"
+    },
+    "import_setting_title": {
+        "message": "تنظیمات واردات"
+    },
+    "import_setting_description": {
+        "message": "گزینه‌های تنظیمات واردات کوکی‌ها"
+    },
+    "import_setting_option_reload_page": {
+        "message": "بارگذاری مجدد صفحه پس از واردات"
+    },
+    "import_setting_format": {
+        "message": "گزینه پیش‌فرض واردات"
+    },
+    "import_settomg_format_text": {
+        "message": "استفاده از متن"
+    },
+    "import_setting_format_file": {
+        "message": "استفاده از فایل"
+    },
+    "alert_copy_cookie_success": {
+        "message": "کپی با موفقیت انجام شد"
+    },
+    "no_cookie_description": {
+        "message": "این وب‌سایت هیچ کوکی ندارد."
+    },
+    "sidebar_setting": {
+        "message": "تنظیمات"
+    },
+    "sidebar_export": {
+        "message": "صادرات"
+    },
+    "sidebar_import": {
+        "message": "واردات"
+    },
+    "alert_add_cookie_success": {
+        "message": "کوکی با موفقیت اضافه شد"
+    },
+    "alert_add_cookie_error": {
+        "message": "خطا در اضافه کردن کوکی"
+    },
+    "title_add_cookie": {
+        "message": "افزودن کوکی"
+    },
+    "description_add_cookie": {
+        "message": "آیا می‌خواهید کوکی را اضافه کنید؟"
+    },
+    "title_clear_cookie": {
+        "message": "پاک کردن کوکی‌ها"
+    },
+    "description_clear_cookie": {
+        "message": "آیا می‌خواهید همه کوکی‌های این وب‌سایت را حذف کنید؟"
+    },
+    "title_copy_cookie": {
+        "message": "کپی کردن کوکی"
+    },
+    "description_copy_cookie": {
+        "message": "می‌خواهید کوکی را با چه فرمتی کپی کنید؟"
+    },
+    "str_example": {
+        "message": "مثال"
+    },
+    "title_delete_cookie": {
+        "message": "حذف کوکی"
+    },
+    "description_delete_cookie": {
+        "message": "آیا می‌خواهید کوکی را حذف کنید؟"
+    },
+    "alert_delete_cookie_success": {
+        "message": "کوکی با موفقیت حذف شد"
+    },
+    "title_edit_cookie": {
+        "message": "ویرایش کوکی"
+    },
+    "description_edit_cooke": {
+        "message": "آیا می‌خواهید کوکی را ویرایش کنید؟"
+    },
+    "alert_edit_cookie_success": {
+        "message": "کوکی با موفقیت ویرایش شد"
+    },
+    "title_export_cookie": {
+        "message": "صادر کردن کوکی"
+    },
+    "description_export_cookie": {
+        "message": "می‌خواهید کوکی را با چه فرمتی صادر کنید؟"
+    },
+    "label_password_encrypt": {
+        "message": "رمز عبور برای رمزگذاری کوکی‌ها"
+    },
+    "description_password": {
+        "message": "اگر می‌خواهید کوکی قبل از صادر شدن رمزگذاری شود، رمز عبور وارد کنید (اختیاری)."
+    },
+    "alert_import_cookie_success": {
+        "message": "کوکی‌ها با موفقیت وارد شدند"
+    },
+    "alert_import_cookie_error": {
+        "message": "خطا در وارد کردن کوکی‌ها"
+    },
+    "title_import_cookie": {
+        "message": "وارد کردن کوکی‌ها"
+    },
+    "description_import_cookie": {
+        "message": "چگونه می‌خواهید وارد کنید؟"
+    },
+    "label_select_file_import": {
+        "message": "انتخاب فایل برای واردات"
+    },
+    "lable_link_import": {
+        "message": "لینک برای وارد کردن کوکی‌ها"
+    },
+    "label_password_decrypt": {
+        "message": "رمز عبور برای رمزگشایی کوکی‌ها"
+    },
+    "description_password_decrypt": {
+        "message": "اگر کوکی‌ها رمزگذاری شده‌اند، رمز عبور رمزگشایی را وارد کنید (اختیاری)."
+    },
+    "sidebar_buy_me_a_coffee": {
+        "message": "برایم یک قهوه بخر"
+    },
+    "sidebar_reviews": {
+        "message": "نظرات"
+    },
+    "description_buy_me_a_coffee": {
+        "message": "اگر دوست دارید، حمایت من را در نظر بگیرید"
+    }
+}

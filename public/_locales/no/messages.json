@@ -1,0 +1,206 @@
+{
+    "ext_name": {
+        "message": "Cookie Editor"
+    },
+    "ext_description": {
+        "message": "Enkel, men kraftig Cookie Editor som lar deg raskt opprette, redigere og slette informasjonskapsler uten å forlate fanen din."
+    },
+    "placeholder_search": {
+        "message": "Søk etter informasjonskapselnavn"
+    },
+    "btn_copy": {
+        "message": "Kopier"
+    },
+    "btn_add": {
+        "message": "Legg til"
+    },
+    "btn_import": {
+        "message": "Importer"
+    },
+    "btn_export": {
+        "message": "Eksporter"
+    },
+    "btn_remove": {
+        "message": "Fjern alle"
+    },
+    "msg_no_cookies": {
+        "message": "Ingen informasjonskapsler."
+    },
+    "btn_delete": {
+        "message": "Slett"
+    },
+    "btn_cancel": {
+        "message": "Avbryt"
+    },
+    "btn_edit": {
+        "message": "Rediger"
+    },
+    "title_delete": {
+        "message": "Vil du fjerne alle informasjonskapsler for denne nettsiden?"
+    },
+    "title_import": {
+        "message": "Prøver du å importere informasjonskapsler?"
+    },
+    "msg_import_error": {
+        "message": "Kunne ikke importere informasjonskapsler."
+    },
+    "pl_password": {
+        "message": "Passord for å kryptere/dekryptere informasjonskapsler"
+    },
+    "title_export": {
+        "message": "Prøver du å eksportere informasjonskapsler?"
+    },
+    "display_setting_title": {
+        "message": "VISNINGSINNSTILLINGER"
+    },
+    "display_setting_description": {
+        "message": "Innstillinger for visningsmodus for å se informasjonskapsler"
+    },
+    "display_setting_option_default": {
+        "message": "Standardmodus"
+    },
+    "display_setting_option_compact": {
+        "message": "Kompaktmodus"
+    },
+    "display_setting_option_custom": {
+        "message": "Tilpasset modus"
+    },
+    "setting_customize_display_cookie": {
+        "message": "Tilpass visning av informasjonskapsler"
+    },
+    "copy_setting_title": {
+        "message": "KOPIERINGSINNSTILLINGER"
+    },
+    "copy_setting_description": {
+        "message": "Standardformat ved kopiering av informasjonskapsler"
+    },
+    "export_setting_title": {
+        "message": "EKSPORTERINGSINNSTILLINGER"
+    },
+    "export_setting_description": {
+        "message": "Standardformat ved eksport av informasjonskapsler"
+    },
+    "import_setting_title": {
+        "message": "IMPORTINNSTILLINGER"
+    },
+    "import_setting_description": {
+        "message": "Alternativer for importinnstillinger for informasjonskapsler"
+    },
+    "import_setting_option_reload_page": {
+        "message": "Last nettsiden på nytt etter import"
+    },
+    "import_setting_format": {
+        "message": "Standard importalternativ"
+    },
+    "import_settomg_format_text": {
+        "message": "Bruk tekst"
+    },
+    "import_setting_format_file": {
+        "message": "Bruk en fil"
+    },
+    "alert_copy_cookie_success": {
+        "message": "Kopiering vellykket"
+    },
+    "no_cookie_description": {
+        "message": "Nettsiden har ingen informasjonskapsler."
+    },
+    "sidebar_setting": {
+        "message": "Innstillinger"
+    },
+    "sidebar_export": {
+        "message": "Eksporter"
+    },
+    "sidebar_import": {
+        "message": "Importer"
+    },
+    "alert_add_cookie_success": {
+        "message": "Informasjonskapsel ble lagt til"
+    },
+    "alert_add_cookie_error": {
+        "message": "Kunne ikke legge til informasjonskapsel"
+    },
+    "title_add_cookie": {
+        "message": "LEGG TIL INFORMASJONSKAPSEL"
+    },
+    "description_add_cookie": {
+        "message": "Vil du legge til informasjonskapselen?"
+    },
+    "title_clear_cookie": {
+        "message": "FJERN INFORMASJONSKAPSEL"
+    },
+    "description_clear_cookie": {
+        "message": "Vil du fjerne alle informasjonskapsler for denne nettsiden?"
+    },
+    "title_copy_cookie": {
+        "message": "KOPIER INFORMASJONSKAPSEL"
+    },
+    "description_copy_cookie": {
+        "message": "I hvilket format vil du kopiere informasjonskapselen?"
+    },
+    "str_example": {
+        "message": "Eksempel"
+    },
+    "title_delete_cookie": {
+        "message": "SLETT INFORMASJONSKAPSEL"
+    },
+    "description_delete_cookie": {
+        "message": "Vil du slette informasjonskapselen?"
+    },
+    "alert_delete_cookie_success": {
+        "message": "Informasjonskapsel ble slettet"
+    },
+    "title_edit_cookie": {
+        "message": "REDIGER INFORMASJONSKAPSEL"
+    },
+    "description_edit_cooke": {
+        "message": "Vil du redigere informasjonskapselen?"
+    },
+    "alert_edit_cookie_success": {
+        "message": "Informasjonskapsel ble redigert"
+    },
+    "title_export_cookie": {
+        "message": "EKSPORTER INFORMASJONSKAPSEL"
+    },
+    "description_export_cookie": {
+        "message":  "I hvilket format vil du eksportere informasjonskapselen?"
+    },
+    "label_password_encrypt": {
+        "message": "Passord for å kryptere informasjonskapsler"
+    },
+    "description_password": {
+        "message": "Skriv inn et passord hvis du vil at informasjonskapselen skal krypteres før eksport (valgfritt)."
+    },
+    "alert_import_cookie_success": {
+        "message": "Import av informasjonskapsler vellykket"
+    },
+    "alert_import_cookie_error": {
+        "message": "Kunne ikke importere informasjonskapsler"
+    },
+    "title_import_cookie": {
+        "message": "IMPORTER INFORMASJONSKAPSEL"
+    },
+    "description_import_cookie": {
+        "message": "Hvordan vil du importere?"
+    },
+    "label_select_file_import": {
+        "message": "Velg en fil å importere"
+    },
+    "lable_link_import": {
+        "message": "Lenke for å importere informasjonskapsler"
+    },
+    "label_password_decrypt": {
+        "message": "Passord for å dekryptere informasjonskapsler"
+    },
+    "description_password_decrypt": {
+        "message": "Skriv inn dekrypteringspassordet hvis informasjonskapslene er beskyttet med kryptering (valgfritt)."
+    },
+    "sidebar_buy_me_a_coffee": {
+        "message": "Kjøp meg en kaffe"
+    },
+    "sidebar_reviews": {
+        "message": "Anmeldelser"
+    },
+    "description_buy_me_a_coffee": {
+        "message": "Hvis du liker det, vurder å støtte meg"
+    }
+}

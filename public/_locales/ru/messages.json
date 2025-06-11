@@ -1,0 +1,206 @@
+{
+    "ext_name": {
+        "message": "Редактор Cookie"
+    },
+    "ext_description": {
+        "message": "Простой, но мощный редактор cookie, который позволяет быстро создавать, редактировать и удалять cookie, не покидая вкладку."
+    },
+    "placeholder_search": {
+        "message": "Поиск по имени cookie"
+    },
+    "btn_copy": {
+        "message": "Копировать"
+    },
+    "btn_add": {
+        "message": "Добавить"
+    },
+    "btn_import": {
+        "message": "Импорт"
+    },
+    "btn_export": {
+        "message": "Экспорт"
+    },
+    "btn_remove": {
+        "message": "Очистить всё"
+    },
+    "msg_no_cookies": {
+        "message": "Нет cookie."
+    },
+    "btn_delete": {
+        "message": "Удалить"
+    },
+    "btn_cancel": {
+        "message": "Отмена"
+    },
+    "btn_edit": {
+        "message": "Редактировать"
+    },
+    "title_delete": {
+        "message": "Вы хотите удалить все cookie для этого сайта?"
+    },
+    "title_import": {
+        "message": "Вы пытаетесь импортировать cookie?"
+    },
+    "msg_import_error": {
+        "message": "Не удалось импортировать cookie."
+    },
+    "pl_password": {
+        "message": "Пароль для шифрования/дешифрования cookie"
+    },
+    "title_export": {
+        "message": "Вы пытаетесь экспортировать cookie?"
+    },
+    "display_setting_title": {
+        "message": "НАСТРОЙКИ ОТОБРАЖЕНИЯ"
+    },
+    "display_setting_description": {
+        "message": "Настройки режима отображения для просмотра cookie"
+    },
+    "display_setting_option_default": {
+        "message": "Режим по умолчанию"
+    },
+    "display_setting_option_compact": {
+        "message": "Компактный режим"
+    },
+    "display_setting_option_custom": {
+        "message": "Пользовательский режим"
+    },
+    "setting_customize_display_cookie": {
+        "message": "Настройка отображения cookie"
+    },
+    "copy_setting_title": {
+        "message": "НАСТРОЙКИ КОПИРОВАНИЯ"
+    },
+    "copy_setting_description": {
+        "message": "Формат по умолчанию при копировании cookie"
+    },
+    "export_setting_title": {
+        "message": "НАСТРОЙКИ ЭКСПОРТА"
+    },
+    "export_setting_description": {
+        "message": "Формат по умолчанию при экспорте cookie"
+    },
+    "import_setting_title": {
+        "message": "НАСТРОЙКИ ИМПОРТА"
+    },
+    "import_setting_description": {
+        "message": "Параметры для настроек импорта cookie"
+    },
+    "import_setting_option_reload_page": {
+        "message": "Перезагрузить страницу после импорта"
+    },
+    "import_setting_format": {
+        "message": "Параметр импорта по умолчанию"
+    },
+    "import_settomg_format_text": {
+        "message": "Использовать текст"
+    },
+    "import_setting_format_file": {
+        "message": "Использовать файл"
+    },
+    "alert_copy_cookie_success": {
+        "message": "Копирование успешно"
+    },
+    "no_cookie_description": {
+        "message": "На сайте нет cookie."
+    },
+    "sidebar_setting": {
+        "message": "Настройки"
+    },
+    "sidebar_export": {
+        "message": "Экспорт"
+    },
+    "sidebar_import": {
+        "message": "Импорт"
+    },
+    "alert_add_cookie_success": {
+        "message": "Cookie успешно добавлен"
+    },
+    "alert_add_cookie_error": {
+        "message": "Ошибка при добавлении cookie"
+    },
+    "title_add_cookie": {
+        "message": "ДОБАВИТЬ COOKIE"
+    },
+    "description_add_cookie": {
+        "message": "Вы хотите добавить cookie?"
+    },
+    "title_clear_cookie": {
+        "message": "ОЧИСТИТЬ COOKIE"
+    },
+    "description_clear_cookie": {
+        "message": "Вы хотите удалить все cookie для этого сайта?"
+    },
+    "title_copy_cookie": {
+        "message": "КОПИРОВАТЬ COOKIE"
+    },
+    "description_copy_cookie": {
+        "message": "В каком формате вы хотите скопировать cookie?"
+    },
+    "str_example": {
+        "message": "Пример"
+    },
+    "title_delete_cookie": {
+        "message": "УДАЛИТЬ COOKIE"
+    },
+    "description_delete_cookie": {
+        "message": "Вы хотите удалить cookie?"
+    },
+    "alert_delete_cookie_success": {
+        "message": "Cookie успешно удален"
+    },
+    "title_edit_cookie": {
+        "message": "РЕДАКТИРОВАТЬ COOKIE"
+    },
+    "description_edit_cooke": {
+        "message": "Вы хотите отредактировать cookie?"
+    },
+    "alert_edit_cookie_success": {
+        "message": "Cookie успешно отредактирован"
+    },
+    "title_export_cookie": {
+        "message": "ЭКСПОРТИРОВАТЬ COOKIE"
+    },
+    "description_export_cookie": {
+        "message":  "В каком формате вы хотите экспортировать cookie?"
+    },
+    "label_password_encrypt": {
+        "message": "Пароль для шифрования cookie"
+    },
+    "description_password": {
+        "message": "Введите пароль, если хотите зашифровать cookie перед экспортом (опционально)."
+    },
+    "alert_import_cookie_success": {
+        "message": "Импорт cookie успешно выполнен"
+    },
+    "alert_import_cookie_error": {
+        "message": "Ошибка при импорте cookie"
+    },
+    "title_import_cookie": {
+        "message": "ИМПОРТИРОВАТЬ COOKIE"
+    },
+    "description_import_cookie": {
+        "message": "Как вы хотите импортировать?"
+    },
+    "label_select_file_import": {
+        "message": "Выберите файл для импорта"
+    },
+    "lable_link_import": {
+        "message": "Ссылка для импорта cookie"
+    },
+    "label_password_decrypt": {
+        "message": "Пароль для дешифрования cookie"
+    },
+    "description_password_decrypt": {
+        "message": "Введите пароль для дешифрования, если cookie защищены шифрованием (опционально)."
+    },
+    "sidebar_buy_me_a_coffee": {
+        "message": "Купи мне кофе (Kupi mne kofe)"
+    },
+    "sidebar_reviews": {
+        "message": "Отзывы"
+    },
+    "description_buy_me_a_coffee": {
+        "message": "Если вам нравится, подумайте о поддержке меня"
+    }
+}

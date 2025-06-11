@@ -1,0 +1,206 @@
+{
+    "ext_name": {
+        "message": "Cookie Editor"
+    },
+    "ext_description": {
+        "message": "Simple yet powerful Cookie Editor that allow you to quickly create, edit and delete cookies without leaving your tab."
+    },
+    "placeholder_search": {
+        "message": "Αναζήτηση ονόματος cookie"
+    },
+    "btn_copy": {
+        "message": "Αντιγραφή"
+    },
+    "btn_add": {
+        "message": "Προσθήκη"
+    },
+    "btn_import": {
+        "message": "Εισαγωγή"
+    },
+    "btn_export": {
+        "message": "Εξαγωγή"
+    },
+    "btn_remove": {
+        "message": "Καθαρισμός όλων"
+    },
+    "msg_no_cookies": {
+        "message": "Δεν υπάρχουν cookies."
+    },
+    "btn_delete": {
+        "message": "Διαγραφή"
+    },
+    "btn_cancel": {
+        "message": "Ακύρωση"
+    },
+    "btn_edit": {
+        "message": "Επεξεργασία"
+    },
+    "title_delete": {
+        "message": "Θέλετε να αφαιρέσετε όλα τα cookies αυτής της ιστοσελίδας;"
+    },
+    "title_import": {
+        "message": "Προσπαθείτε να εισάγετε cookies;"
+    },
+    "msg_import_error": {
+        "message": "Αποτυχία εισαγωγής cookies."
+    },
+    "pl_password": {
+        "message": "Κωδικός πρόσβασης για κρυπτογράφηση/αποκρυπτογράφηση cookies"
+    },
+    "title_export": {
+        "message": "Προσπαθείτε να εξάγετε cookies;"
+    },
+    "display_setting_title": {
+        "message": "ΡΥΘΜΙΣΕΙΣ ΕΜΦΑΝΙΣΗΣ"
+    },
+    "display_setting_description": {
+        "message": "Ρυθμίσεις λειτουργίας εμφάνισης για προβολή cookies"
+    },
+    "display_setting_option_default": {
+        "message": "Προεπιλεγμένη λειτουργία"
+    },
+    "display_setting_option_compact": {
+        "message": "Συμπαγής λειτουργία"
+    },
+    "display_setting_option_custom": {
+        "message": "Προσαρμοσμένη λειτουργία"
+    },
+    "setting_customize_display_cookie": {
+        "message": "Προσαρμογή εμφάνισης cookies"
+    },
+    "copy_setting_title": {
+        "message": "ΡΥΘΜΙΣΕΙΣ ΑΝΤΙΓΡΑΦΗΣ"
+    },
+    "copy_setting_description": {
+        "message": "Προεπιλεγμένη μορφή κατά την αντιγραφή cookies"
+    },
+    "export_setting_title": {
+        "message": "ΡΥΘΜΙΣΕΙΣ ΕΞΑΓΩΓΗΣ"
+    },
+    "export_setting_description": {
+        "message": "Προεπιλεγμένη μορφή κατά την εξαγωγή cookies"
+    },
+    "import_setting_title": {
+        "message": "ΡΥΘΜΙΣΕΙΣ ΕΙΣΑΓΩΓΗΣ"
+    },
+    "import_setting_description": {
+        "message": "Επιλογές για ρυθμίσεις εισαγωγής cookies"
+    },
+    "import_setting_option_reload_page": {
+        "message": "Επαναφόρτωση ιστοσελίδας μετά την εισαγωγή"
+    },
+    "import_setting_format": {
+        "message": "Προεπιλεγμένη επιλογή εισαγωγής"
+    },
+    "import_settomg_format_text": {
+        "message": "Χρήση κειμένου"
+    },
+    "import_setting_format_file": {
+        "message": "Χρήση αρχείου"
+    },
+    "alert_copy_cookie_success": {
+        "message": "Επιτυχής αντιγραφή"
+    },
+    "no_cookie_description": {
+        "message": "Η ιστοσελίδα δεν έχει cookies."
+    },
+    "sidebar_setting": {
+        "message": "Ρυθμίσεις"
+    },
+    "sidebar_export": {
+        "message": "Εξαγωγή"
+    },
+    "sidebar_import": {
+        "message": "Εισαγωγή"
+    },
+    "alert_add_cookie_success": {
+        "message": "Επιτυχής προσθήκη cookie"
+    },
+    "alert_add_cookie_error": {
+        "message": "Σφάλμα κατά την προσθήκη cookie"
+    },
+    "title_add_cookie": {
+        "message": "ΠΡΟΣΘΗΚΗ COOKIE"
+    },
+    "description_add_cookie": {
+        "message": "Θέλετε να προσθέσετε το cookie;"
+    },
+    "title_clear_cookie": {
+        "message": "ΚΑΘΑΡΙΣΜΟΣ COOKIES"
+    },
+    "description_clear_cookie": {
+        "message": "Θέλετε να αφαιρέσετε όλα τα cookies αυτής της ιστοσελίδας;"
+    },
+    "title_copy_cookie": {
+        "message": "ΑΝΤΙΓΡΑΦΗ COOKIE"
+    },
+    "description_copy_cookie": {
+        "message": "Σε ποια μορφή θέλετε να αντιγράψετε το cookie;"
+    },
+    "str_example": {
+        "message": "Παράδειγμα"
+    },
+    "title_delete_cookie": {
+        "message": "ΔΙΑΓΡΑΦΗ COOKIE"
+    },
+    "description_delete_cookie": {
+        "message": "Θέλετε να διαγράψετε το cookie;"
+    },
+    "alert_delete_cookie_success": {
+        "message": "Επιτυχής διαγραφή cookie"
+    },
+    "title_edit_cookie": {
+        "message": "ΕΠΕΞΕΡΓΑΣΙΑ COOKIE"
+    },
+    "description_edit_cooke": {
+        "message": "Θέλετε να επεξεργαστείτε το cookie;"
+    },
+    "alert_edit_cookie_success": {
+        "message": "Επιτυχής επεξεργασία cookie"
+    },
+    "title_export_cookie": {
+        "message": "ΕΞΑΓΩΓΗ COOKIE"
+    },
+    "description_export_cookie": {
+        "message": "Σε ποια μορφή θέλετε να εξάγετε το cookie;"
+    },
+    "label_password_encrypt": {
+        "message": "Κωδικός πρόσβασης για κρυπτογράφηση cookies"
+    },
+    "description_password": {
+        "message": "Εισάγετε έναν κωδικό πρόσβασης εάν θέλετε το cookie να κρυπτογραφηθεί πριν από την εξαγωγή (προαιρετικό)."
+    },
+    "alert_import_cookie_success": {
+        "message": "Επιτυχής εισαγωγή cookies"
+    },
+    "alert_import_cookie_error": {
+        "message": "Σφάλμα κατά την εισαγωγή cookies"
+    },
+    "title_import_cookie": {
+        "message": "ΕΙΣΑΓΩΓΗ COOKIES"
+    },
+    "description_import_cookie": {
+        "message": "Πώς θέλετε να εισάγετε;"
+    },
+    "label_select_file_import": {
+        "message": "Επιλέξτε αρχείο για εισαγωγή"
+    },
+    "lable_link_import": {
+        "message": "Σύνδεσμος για εισαγωγή cookies"
+    },
+    "label_password_decrypt": {
+        "message": "Κωδικός πρόσβασης για αποκρυπτογράφηση cookies"
+    },
+    "description_password_decrypt": {
+        "message": "Εισάγετε τον κωδικό αποκρυπτογράφησης εάν τα cookies προστατεύονται με κρυπτογράφηση (προαιρετικό)."
+    },
+    "sidebar_buy_me_a_coffee": {
+        "message": "Αγόρασέ μου έναν καφέ"
+    },
+    "sidebar_reviews": {
+        "message": "Κριτικές"
+    },
+    "description_buy_me_a_coffee": {
+        "message": "Αν σας αρέσει, σκεφτείτε να με υποστηρίξετε "
+    }
+}

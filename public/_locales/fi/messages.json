@@ -1,0 +1,206 @@
+{
+    "ext_name": {
+        "message": "Cookie Editor"
+    },
+    "ext_description": {
+        "message": "Simple yet powerful Cookie Editor that allow you to quickly create, edit and delete cookies without leaving your tab."
+    },
+    "placeholder_search": {
+        "message": "Hae evästeen nimeä"
+    },
+    "btn_copy": {
+        "message": "Kopioi"
+    },
+    "btn_add": {
+        "message": "Lisää"
+    },
+    "btn_import": {
+        "message": "Tuo"
+    },
+    "btn_export": {
+        "message": "Vie"
+    },
+    "btn_remove": {
+        "message": "Tyhjennä kaikki"
+    },
+    "msg_no_cookies": {
+        "message": "Ei evästeitä."
+    },
+    "btn_delete": {
+        "message": "Poista"
+    },
+    "btn_cancel": {
+        "message": "Peruuta"
+    },
+    "btn_edit": {
+        "message": "Muokkaa"
+    },
+    "title_delete": {
+        "message": "Haluatko poistaa kaikki tämän verkkosivuston evästeet?"
+    },
+    "title_import": {
+        "message": "Yritätkö tuoda evästeitä?"
+    },
+    "msg_import_error": {
+        "message": "Evästeiden tuonti epäonnistui."
+    },
+    "pl_password": {
+        "message": "Salasana evästeiden salaamiseen/purkuun"
+    },
+    "title_export": {
+        "message": "Yritätkö viedä evästeitä?"
+    },
+    "display_setting_title": {
+        "message": "NÄYTTÖASETUKSET"
+    },
+    "display_setting_description": {
+        "message": "Näyttötilan asetukset evästeiden katseluun"
+    },
+    "display_setting_option_default": {
+        "message": "Oletustila"
+    },
+    "display_setting_option_compact": {
+        "message": "Kompakti tila"
+    },
+    "display_setting_option_custom": {
+        "message": "Mukautettu tila"
+    },
+    "setting_customize_display_cookie": {
+        "message": "Mukauta evästeiden näyttöä"
+    },
+    "copy_setting_title": {
+        "message": "KOPIOINTIASETUKSET"
+    },
+    "copy_setting_description": {
+        "message": "Oletusmuoto evästeiden kopioinnissa"
+    },
+    "export_setting_title": {
+        "message": "VIENNIN ASETUKSET"
+    },
+    "export_setting_description": {
+        "message": "Oletusmuoto evästeiden viennissä"
+    },
+    "import_setting_title": {
+        "message": "TUONNIN ASETUKSET"
+    },
+    "import_setting_description": {
+        "message": "Asetukset evästeiden tuontiin"
+    },
+    "import_setting_option_reload_page": {
+        "message": "Lataa verkkosivu uudelleen tuonnin jälkeen"
+    },
+    "import_setting_format": {
+        "message": "Oletusarvoinen tuontivaihtoehto"
+    },
+    "import_settomg_format_text": {
+        "message": "Käytä tekstiä"
+    },
+    "import_setting_format_file": {
+        "message": "Käytä tiedostoa"
+    },
+    "alert_copy_cookie_success": {
+        "message": "Kopiointi onnistui"
+    },
+    "no_cookie_description": {
+        "message": "Verkkosivustolla ei ole evästeitä."
+    },
+    "sidebar_setting": {
+        "message": "Asetukset"
+    },
+    "sidebar_export": {
+        "message": "Vie"
+    },
+    "sidebar_import": {
+        "message": "Tuo"
+    },
+    "alert_add_cookie_success": {
+        "message": "Evästeen lisääminen onnistui"
+    },
+    "alert_add_cookie_error": {
+        "message": "Virhe evästeen lisäämisessä"
+    },
+    "title_add_cookie": {
+        "message": "LISÄÄ EVÄSTE"
+    },
+    "description_add_cookie": {
+        "message": "Haluatko lisätä evästeen?"
+    },
+    "title_clear_cookie": {
+        "message": "TYHJENNÄ EVÄSTEET"
+    },
+    "description_clear_cookie": {
+        "message": "Haluatko poistaa kaikki tämän verkkosivuston evästeet?"
+    },
+    "title_copy_cookie": {
+        "message": "KOPIOI EVÄSTE"
+    },
+    "description_copy_cookie": {
+        "message": "Missä muodossa haluat kopioida evästeen?"
+    },
+    "str_example": {
+        "message": "Esimerkki"
+    },
+    "title_delete_cookie": {
+        "message": "POISTA EVÄSTE"
+    },
+    "description_delete_cookie": {
+        "message": "Haluatko poistaa evästeen?"
+    },
+    "alert_delete_cookie_success": {
+        "message": "Evästeen poistaminen onnistui"
+    },
+    "title_edit_cookie": {
+        "message": "MUOKKAA EVÄSTETTÄ"
+    },
+    "description_edit_cooke": {
+        "message": "Haluatko muokata evästeitä?"
+    },
+    "alert_edit_cookie_success": {
+        "message": "Evästeen muokkaus onnistui"
+    },
+    "title_export_cookie": {
+        "message": "VIE EVÄSTE"
+    },
+    "description_export_cookie": {
+        "message": "Missä muodossa haluat viedä evästeen?"
+    },
+    "label_password_encrypt": {
+        "message": "Salasana evästeiden salaamiseen"
+    },
+    "description_password": {
+        "message": "Anna salasana, jos haluat evästeen salattavan ennen vientiä (valinnainen)."
+    },
+    "alert_import_cookie_success": {
+        "message": "Evästeiden tuonti onnistui"
+    },
+    "alert_import_cookie_error": {
+        "message": "Virhe evästeiden tuonnissa"
+    },
+    "title_import_cookie": {
+        "message": "TUO EVÄSTEITÄ"
+    },
+    "description_import_cookie": {
+        "message": "Miten haluat tuoda?"
+    },
+    "label_select_file_import": {
+        "message": "Valitse tuotava tiedosto"
+    },
+    "lable_link_import": {
+        "message": "Linkki evästeiden tuontiin"
+    },
+    "label_password_decrypt": {
+        "message": "Salasana evästeiden purkuun"
+    },
+    "description_password_decrypt": {
+        "message": "Anna salausavain, jos evästeet on suojattu salauksella (valinnainen)."
+    },
+    "sidebar_buy_me_a_coffee": {
+        "message": "Osta minulle kahvi"
+    },
+    "sidebar_reviews": {
+        "message": "Arvostelut"
+    },
+    "description_buy_me_a_coffee": {
+        "message": "Jos pidät siitä, harkitse tukemista minua"
+    }
+}

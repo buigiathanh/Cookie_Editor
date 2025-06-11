@@ -1,0 +1,206 @@
+{
+    "ext_name": {
+        "message": "Cookie Editor"
+    },
+    "ext_description": {
+        "message": "Simple yet powerful Cookie Editor that allow you to quickly create, edit and delete cookies without leaving your tab."
+    },
+    "placeholder_search": {
+        "message": "Cerca il nome del cookie"
+    },
+    "btn_copy": {
+        "message": "Copia"
+    },
+    "btn_add": {
+        "message": "Aggiungi"
+    },
+    "btn_import": {
+        "message": "Importa"
+    },
+    "btn_export": {
+        "message": "Esporta"
+    },
+    "btn_remove": {
+        "message": "Rimuovi tutto"
+    },
+    "msg_no_cookies": {
+        "message": "Nessun cookie."
+    },
+    "btn_delete": {
+        "message": "Elimina"
+    },
+    "btn_cancel": {
+        "message": "Annulla"
+    },
+    "btn_edit": {
+        "message": "Modifica"
+    },
+    "title_delete": {
+        "message": "Vuoi rimuovere tutti i cookie di questo sito web?"
+    },
+    "title_import": {
+        "message": "Stai cercando di importare i cookie?"
+    },
+    "msg_import_error": {
+        "message": "Importazione dei cookie non riuscita."
+    },
+    "pl_password": {
+        "message": "Password per crittografare/decriptare i cookie"
+    },
+    "title_export": {
+        "message": "Stai cercando di esportare i cookie?"
+    },
+    "display_setting_title": {
+        "message": "IMPOSTAZIONI DI VISUALIZZAZIONE"
+    },
+    "display_setting_description": {
+        "message": "Impostazioni della modalità di visualizzazione per vedere i cookie"
+    },
+    "display_setting_option_default": {
+        "message": "Modalità predefinita"
+    },
+    "display_setting_option_compact": {
+        "message": "Modalità compatta"
+    },
+    "display_setting_option_custom": {
+        "message": "Modalità personalizzata"
+    },
+    "setting_customize_display_cookie": {
+        "message": "Personalizza la visualizzazione dei cookie"
+    },
+    "copy_setting_title": {
+        "message": "IMPOSTAZIONI DI COPIA"
+    },
+    "copy_setting_description": {
+        "message": "Formato predefinito durante la copia dei cookie"
+    },
+    "export_setting_title": {
+        "message": "IMPOSTAZIONI DI ESPORTAZIONE"
+    },
+    "export_setting_description": {
+        "message": "Formato predefinito durante l'esportazione dei cookie"
+    },
+    "import_setting_title": {
+        "message": "IMPOSTAZIONI DI IMPORTazione"
+    },
+    "import_setting_description": {
+        "message": "Opzioni per le impostazioni di importazione dei cookie"
+    },
+    "import_setting_option_reload_page": {
+        "message": "Ricarica la pagina web dopo l'importazione"
+    },
+    "import_setting_format": {
+        "message": "Opzione di importazione predefinita"
+    },
+    "import_settomg_format_text": {
+        "message": "Usa testo"
+    },
+    "import_setting_format_file": {
+        "message": "Usa un file"
+    },
+    "alert_copy_cookie_success": {
+        "message": "Copia riuscita"
+    },
+    "no_cookie_description": {
+        "message": "Il sito web non ha cookie."
+    },
+    "sidebar_setting": {
+        "message": "Impostazioni"
+    },
+    "sidebar_export": {
+        "message": "Esporta"
+    },
+    "sidebar_import": {
+        "message": "Importa"
+    },
+    "alert_add_cookie_success": {
+        "message": "Cookie aggiunto con successo"
+    },
+    "alert_add_cookie_error": {
+        "message": "Errore durante l'aggiunta del cookie"
+    },
+    "title_add_cookie": {
+        "message": "AGGIUNGI COOKIE"
+    },
+    "description_add_cookie": {
+        "message": "Vuoi aggiungere il cookie?"
+    },
+    "title_clear_cookie": {
+        "message": "RIMUOVI TUTTI I COOKIE"
+    },
+    "description_clear_cookie": {
+        "message": "Vuoi rimuovere tutti i cookie di questo sito web?"
+    },
+    "title_copy_cookie": {
+        "message": "COPIA COOKIE"
+    },
+    "description_copy_cookie": {
+        "message": "In quale formato vuoi copiare il cookie?"
+    },
+    "str_example": {
+        "message": "Esempio"
+    },
+    "title_delete_cookie": {
+        "message": "ELIMINA COOKIE"
+    },
+    "description_delete_cookie": {
+        "message": "Vuoi eliminare il cookie?"
+    },
+    "alert_delete_cookie_success": {
+        "message": "Cookie eliminato con successo"
+    },
+    "title_edit_cookie": {
+        "message": "MODIFICA COOKIE"
+    },
+    "description_edit_cooke": {
+        "message": "Vuoi modificare il cookie?"
+    },
+    "alert_edit_cookie_success": {
+        "message": "Cookie modificato con successo"
+    },
+    "title_export_cookie": {
+        "message": "ESPORTA COOKIE"
+    },
+    "description_export_cookie": {
+        "message": "In quale formato vuoi esportare il cookie?"
+    },
+    "label_password_encrypt": {
+        "message": "Password per crittografare i cookie"
+    },
+    "description_password": {
+        "message": "Inserisci una password se vuoi che il cookie sia crittografato prima dell'esportazione (opzionale)."
+    },
+    "alert_import_cookie_success": {
+        "message": "Cookie importati con successo"
+    },
+    "alert_import_cookie_error": {
+        "message": "Errore durante l'importazione dei cookie"
+    },
+    "title_import_cookie": {
+        "message": "IMPORTA COOKIE"
+    },
+    "description_import_cookie": {
+        "message": "Come vuoi importare?"
+    },
+    "label_select_file_import": {
+        "message": "Seleziona un file da importare"
+    },
+    "lable_link_import": {
+        "message": "Link per importare i cookie"
+    },
+    "label_password_decrypt": {
+        "message": "Password per decrittografare i cookie"
+    },
+    "description_password_decrypt": {
+        "message": "Inserisci la password di decrittografia se i cookie sono protetti da crittografia (opzionale)."
+    },
+    "sidebar_buy_me_a_coffee": {
+        "message": "Comprami un caffè"
+    },
+    "sidebar_reviews": {
+        "message": "Recensioni"
+    },
+    "description_buy_me_a_coffee": {
+        "message": "Se ti piace, considera di supportarmi"
+    }
+}

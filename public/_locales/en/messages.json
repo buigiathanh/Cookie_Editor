@@ -1,0 +1,206 @@
+{
+    "ext_name": {
+        "message": "Cookie Editor"
+    },
+    "ext_description": {
+        "message": "Simple yet powerful Cookie Editor that allow you to quickly create, edit and delete cookies without leaving your tab."
+    },
+    "placeholder_search": {
+        "message": "Search cookie name"
+    },
+    "btn_copy": {
+        "message": "Copy"
+    },
+    "btn_add": {
+        "message": "Add"
+    },
+    "btn_import": {
+        "message": "Import"
+    },
+    "btn_export": {
+        "message": "Export"
+    },
+    "btn_remove": {
+        "message": "Clear All"
+    },
+    "msg_no_cookies": {
+        "message": "No cookies."
+    },
+    "btn_delete": {
+        "message": "Delete"
+    },
+    "btn_cancel": {
+        "message": "Cancel"
+    },
+    "btn_edit": {
+        "message": "Edit"
+    },
+    "title_delete": {
+        "message": "Do you want to remove all cookies of this website?"
+    },
+    "title_import": {
+        "message": "Are you trying to import cookies?"
+    },
+    "msg_import_error": {
+        "message": "Failed to import cookies."
+    },
+    "pl_password": {
+        "message": "Password to encrypt/decrypt cookies"
+    },
+    "title_export": {
+        "message": "Are you trying to export cookies?"
+    },
+    "display_setting_title": {
+        "message": "DISPLAY SETTING"
+    },
+    "display_setting_description": {
+        "message": "Display mode settings for viewing cookies"
+    },
+    "display_setting_option_default": {
+        "message": "Default mode"
+    },
+    "display_setting_option_compact": {
+        "message": "Compact mode"
+    },
+    "display_setting_option_custom": {
+        "message": "Custom mode"
+    },
+    "setting_customize_display_cookie": {
+        "message": "Customize cookie display"
+    },
+    "copy_setting_title": {
+        "message": "COPY SETTING"
+    },
+    "copy_setting_description": {
+        "message": "Default format when copying cookies"
+    },
+    "export_setting_title": {
+        "message": "EXPORT SETTING"
+    },
+    "export_setting_description": {
+        "message": "Default format when exporting cookies"
+    },
+    "import_setting_title": {
+        "message": "IMPORT SETTING"
+    },
+    "import_setting_description": {
+        "message": "Options for cookie import settings"
+    },
+    "import_setting_option_reload_page": {
+        "message": "Reload web-page after imported"
+    },
+    "import_setting_format": {
+        "message": "Default import option"
+    },
+    "import_settomg_format_text": {
+        "message": "Use text"
+    },
+    "import_setting_format_file": {
+        "message": "Use a file"
+    },
+    "alert_copy_cookie_success": {
+        "message": "Copy success"
+    },
+    "no_cookie_description": {
+        "message": "The website has no cookies."
+    },
+    "sidebar_setting": {
+        "message": "Setting"
+    },
+    "sidebar_export": {
+        "message": "Export"
+    },
+    "sidebar_import": {
+        "message": "Import"
+    },
+    "sidebar_buy_me_a_coffee": {
+        "message": "Buy me a coffee"
+    },
+    "sidebar_reviews": {
+        "message": "Reviews"
+    },
+    "description_buy_me_a_coffee": {
+        "message": "If you like it, consider supporting me."
+    },
+    "alert_add_cookie_success": {
+        "message": "Add cookie success"
+    },
+    "alert_add_cookie_error": {
+        "message": "Add cookie error"
+    },
+    "title_add_cookie": {
+        "message": "ADD COOKIE"
+    },
+    "description_add_cookie": {
+        "message": "Do you want to add the cookie?"
+    },
+    "title_clear_cookie": {
+        "message": "CLEAR COOKIE"
+    },
+    "description_clear_cookie": {
+        "message": "Do you want to remove all cookies of this website?"
+    },
+    "title_copy_cookie": {
+        "message": "COPY COOKIE"
+    },
+    "description_copy_cookie": {
+        "message": "Which format would you like to copy the cookie in?"
+    },
+    "str_example": {
+        "message": "Example"
+    },
+    "title_delete_cookie": {
+        "message": "DELETE COOKIE"
+    },
+    "description_delete_cookie": {
+        "message": "Do you want to delete cookie?"
+    },
+    "alert_delete_cookie_success": {
+        "message": "Delete cookie success"
+    },
+    "title_edit_cookie": {
+        "message": "EDIT COOKIE"
+    },
+    "description_edit_cooke": {
+        "message": "Do you want to edit the cookie?"
+    },
+    "alert_edit_cookie_success": {
+        "message": "Edit cookie success"
+    },
+    "title_export_cookie": {
+        "message": "EXPORT COOKIE"
+    },
+    "description_export_cookie": {
+        "message":  "Which format would you like to export the cookie in?"
+    },
+    "label_password_encrypt": {
+        "message": "Password to encrypt cookies"
+    },
+    "description_password": {
+        "message": "Enter a password if you want the cookie to be encrypted before export (optional)."
+    },
+    "alert_import_cookie_success": {
+        "message": "Import cookie success"
+    },
+    "alert_import_cookie_error": {
+        "message": "Import cookie error"
+    },
+    "title_import_cookie": {
+        "message": "IMPORT COOKIE"
+    },
+    "description_import_cookie": {
+        "message": "How do you want to import?"
+    },
+    "label_select_file_import": {
+        "message": "Select a file to import"
+    },
+    "lable_link_import": {
+        "message": "Link to import cookies"
+    },
+    "label_password_decrypt": {
+        "message": "Password to decrypt cookies"
+    },
+    "description_password_decrypt": {
+        "message": "Enter the decryption password if the cookies are protected by encryption. (optional)."
+    }
+}

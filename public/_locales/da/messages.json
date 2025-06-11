@@ -1,0 +1,206 @@
+{
+    "ext_name": {
+        "message": "Cookie Editor"
+    },
+    "ext_description": {
+        "message": "Simple yet powerful Cookie Editor that allow you to quickly create, edit and delete cookies without leaving your tab."
+    },
+    "placeholder_search": {
+        "message": "Søg efter cookienavn"
+    },
+    "btn_copy": {
+        "message": "Kopiér"
+    },
+    "btn_add": {
+        "message": "Tilføj"
+    },
+    "btn_import": {
+        "message": "Importer"
+    },
+    "btn_export": {
+        "message": "Eksporter"
+    },
+    "btn_remove": {
+        "message": "Ryd alt"
+    },
+    "msg_no_cookies": {
+        "message": "Ingen cookies."
+    },
+    "btn_delete": {
+        "message": "Slet"
+    },
+    "btn_cancel": {
+        "message": "Annuller"
+    },
+    "btn_edit": {
+        "message": "Rediger"
+    },
+    "title_delete": {
+        "message": "Vil du fjerne alle cookies fra denne hjemmeside?"
+    },
+    "title_import": {
+        "message": "Forsøger du at importere cookies?"
+    },
+    "msg_import_error": {
+        "message": "Kunne ikke importere cookies."
+    },
+    "pl_password": {
+        "message": "Adgangskode til at kryptere/dekryptere cookies"
+    },
+    "title_export": {
+        "message": "Forsøger du at eksportere cookies?"
+    },
+    "display_setting_title": {
+        "message": "VISNINGSINDSTILLINGER"
+    },
+    "display_setting_description": {
+        "message": "Indstillinger for visningstilstand til visning af cookies"
+    },
+    "display_setting_option_default": {
+        "message": "Standardtilstand"
+    },
+    "display_setting_option_compact": {
+        "message": "Kompakt tilstand"
+    },
+    "display_setting_option_custom": {
+        "message": "Brugerdefineret tilstand"
+    },
+    "setting_customize_display_cookie": {
+        "message": "Tilpas visning af cookies"
+    },
+    "copy_setting_title": {
+        "message": "KOPIERINGSINDSTILLINGER"
+    },
+    "copy_setting_description": {
+        "message": "Standardformat ved kopiering af cookies"
+    },
+    "export_setting_title": {
+        "message": "EKSPORTINDSTILLINGER"
+    },
+    "export_setting_description": {
+        "message": "Standardformat ved eksport af cookies"
+    },
+    "import_setting_title": {
+        "message": "IMPORTINDSTILLINGER"
+    },
+    "import_setting_description": {
+        "message": "Indstillinger for import af cookies"
+    },
+    "import_setting_option_reload_page": {
+        "message": "Genindlæs websiden efter import"
+    },
+    "import_setting_format": {
+        "message": "Standardimportindstilling"
+    },
+    "import_settomg_format_text": {
+        "message": "Brug tekst"
+    },
+    "import_setting_format_file": {
+        "message": "Brug en fil"
+    },
+    "alert_copy_cookie_success": {
+        "message": "Kopiering lykkedes"
+    },
+    "no_cookie_description": {
+        "message": "Hjemmesiden har ingen cookies."
+    },
+    "sidebar_setting": {
+        "message": "Indstillinger"
+    },
+    "sidebar_export": {
+        "message": "Eksporter"
+    },
+    "sidebar_import": {
+        "message": "Importer"
+    },
+    "alert_add_cookie_success": {
+        "message": "Cookie tilføjet succesfuldt"
+    },
+    "alert_add_cookie_error": {
+        "message": "Fejl ved tilføjelse af cookie"
+    },
+    "title_add_cookie": {
+        "message": "TILFØJ COOKIE"
+    },
+    "description_add_cookie": {
+        "message": "Vil du tilføje cookien?"
+    },
+    "title_clear_cookie": {
+        "message": "RYD COOKIES"
+    },
+    "description_clear_cookie": {
+        "message": "Vil du fjerne alle cookies fra denne hjemmeside?"
+    },
+    "title_copy_cookie": {
+        "message": "KOPIÉR COOKIE"
+    },
+    "description_copy_cookie": {
+        "message": "Hvilket format vil du kopiere cookien i?"
+    },
+    "str_example": {
+        "message": "Eksempel"
+    },
+    "title_delete_cookie": {
+        "message": "SLET COOKIE"
+    },
+    "description_delete_cookie": {
+        "message": "Vil du slette cookien?"
+    },
+    "alert_delete_cookie_success": {
+        "message": "Cookie slettet succesfuldt"
+    },
+    "title_edit_cookie": {
+        "message": "REDIGER COOKIE"
+    },
+    "description_edit_cooke": {
+        "message": "Vil du redigere cookien?"
+    },
+    "alert_edit_cookie_success": {
+        "message": "Cookie redigeret succesfuldt"
+    },
+    "title_export_cookie": {
+        "message": "EKSPORTER COOKIE"
+    },
+    "description_export_cookie": {
+        "message": "Hvilket format vil du eksportere cookien i?"
+    },
+    "label_password_encrypt": {
+        "message": "Adgangskode til at kryptere cookies"
+    },
+    "description_password": {
+        "message": "Indtast en adgangskode, hvis du vil have cookien krypteret før eksport (valgfrit)."
+    },
+    "alert_import_cookie_success": {
+        "message": "Cookies importeret succesfuldt"
+    },
+    "alert_import_cookie_error": {
+        "message": "Fejl ved import af cookies"
+    },
+    "title_import_cookie": {
+        "message": "IMPORTER COOKIES"
+    },
+    "description_import_cookie": {
+        "message": "Hvordan vil du importere?"
+    },
+    "label_select_file_import": {
+        "message": "Vælg en fil til import"
+    },
+    "lable_link_import": {
+        "message": "Link til at importere cookies"
+    },
+    "label_password_decrypt": {
+        "message": "Adgangskode til at dekryptere cookies"
+    },
+    "description_password_decrypt": {
+        "message": "Indtast dekrypteringsadgangskoden, hvis cookies er beskyttet med kryptering (valgfrit)."
+    },
+    "sidebar_buy_me_a_coffee": {
+        "message": "Køb mig en kaffe"
+    },
+    "sidebar_reviews": {
+        "message": "Anmeldelser"
+    },
+    "description_buy_me_a_coffee": {
+        "message": "Hvis du kan lide det, overvej at støtte mig"
+    }
+}

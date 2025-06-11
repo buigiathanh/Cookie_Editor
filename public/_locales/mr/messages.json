@@ -1,0 +1,206 @@
+{
+    "ext_name": {
+        "message": "Cookie Editor"
+    },
+    "ext_description": {
+        "message": "Simple yet powerful Cookie Editor that allow you to quickly create, edit and delete cookies without leaving your tab."
+    },
+    "placeholder_search": {
+        "message": "कुकीचे नाव शोधा"
+    },
+    "btn_copy": {
+        "message": "कॉपी करा"
+    },
+    "btn_add": {
+        "message": "जोडा"
+    },
+    "btn_import": {
+        "message": "आयात करा"
+    },
+    "btn_export": {
+        "message": "निर्यात करा"
+    },
+    "btn_remove": {
+        "message": "सर्व क्लिअर करा"
+    },
+    "msg_no_cookies": {
+        "message": "कुकी नाहीत."
+    },
+    "btn_delete": {
+        "message": "हटवा"
+    },
+    "btn_cancel": {
+        "message": "रद्द करा"
+    },
+    "btn_edit": {
+        "message": "संपादित करा"
+    },
+    "title_delete": {
+        "message": "तुम्हाला या वेबसाइटच्या सर्व कुकी काढून टाकायच्या आहेत का?"
+    },
+    "title_import": {
+        "message": "तुम्ही कुकी आयात करण्याचा प्रयत्न करीत आहात का?"
+    },
+    "msg_import_error": {
+        "message": "कुकी आयात करण्यात अयशस्वी."
+    },
+    "pl_password": {
+        "message": "कुकी एनक्रिप्ट/डिक्रिप्ट करण्यासाठी पासवर्ड"
+    },
+    "title_export": {
+        "message": "तुम्ही कुकी निर्यात करण्याचा प्रयत्न करीत आहात का?"
+    },
+    "display_setting_title": {
+        "message": "प्रदर्शन सेटिंग"
+    },
+    "display_setting_description": {
+        "message": "कुकी पाहण्यासाठी प्रदर्शन मोड सेटिंग्ज"
+    },
+    "display_setting_option_default": {
+        "message": "डीफॉल्ट मोड"
+    },
+    "display_setting_option_compact": {
+        "message": "कॉम्पॅक्ट मोड"
+    },
+    "display_setting_option_custom": {
+        "message": "सानुकूल मोड"
+    },
+    "setting_customize_display_cookie": {
+        "message": "कुकी प्रदर्शन सानुकूलित करा"
+    },
+    "copy_setting_title": {
+        "message": "कॉपी सेटिंग"
+    },
+    "copy_setting_description": {
+        "message": "कुकी कॉपी करताना डीफॉल्ट स्वरूप"
+    },
+    "export_setting_title": {
+        "message": "निर्यात सेटिंग"
+    },
+    "export_setting_description": {
+        "message": "कुकी निर्यात करताना डीफॉल्ट स्वरूप"
+    },
+    "import_setting_title": {
+        "message": "आयात सेटिंग"
+    },
+    "import_setting_description": {
+        "message": "कुकी आयात सेटिंग्जसाठी पर्याय"
+    },
+    "import_setting_option_reload_page": {
+        "message": "आयात केल्यानंतर वेब-पृष्ठ पुन्हा लोड करा"
+    },
+    "import_setting_format": {
+        "message": "डीफॉल्ट आयात पर्याय"
+    },
+    "import_settomg_format_text": {
+        "message": "मजकूर वापरा"
+    },
+    "import_setting_format_file": {
+        "message": "फाइल वापरा"
+    },
+    "alert_copy_cookie_success": {
+        "message": "कॉपी यशस्वी"
+    },
+    "no_cookie_description": {
+        "message": "वेबसाइटवर कुकी नाहीत."
+    },
+    "sidebar_setting": {
+        "message": "सेटिंग"
+    },
+    "sidebar_export": {
+        "message": "निर्यात"
+    },
+    "sidebar_import": {
+        "message": "आयात"
+    },
+    "alert_add_cookie_success": {
+        "message": "कुकी जोडणे यशस्वी"
+    },
+    "alert_add_cookie_error": {
+        "message": "कुकी जोडणे अयशस्वी"
+    },
+    "title_add_cookie": {
+        "message": "कुकी जोडा"
+    },
+    "description_add_cookie": {
+        "message": "तुम्हाला कुकी जोडायची आहे का?"
+    },
+    "title_clear_cookie": {
+        "message": "कुकी क्लिअर करा"
+    },
+    "description_clear_cookie": {
+        "message": "तुम्हाला या वेबसाइटच्या सर्व कुकी काढून टाकायच्या आहेत का?"
+    },
+    "title_copy_cookie": {
+        "message": "कुकी कॉपी करा"
+    },
+    "description_copy_cookie": {
+        "message": "तुम्हाला कुकी कोणत्या स्वरूपात कॉपी करायची आहे?"
+    },
+    "str_example": {
+        "message": "उदाहरण"
+    },
+    "title_delete_cookie": {
+        "message": "कुकी हटवा"
+    },
+    "description_delete_cookie": {
+        "message": "तुम्हाला कुकी हटवायची आहे का?"
+    },
+    "alert_delete_cookie_success": {
+        "message": "कुकी हटवणे यशस्वी"
+    },
+    "title_edit_cookie": {
+        "message": "कुकी संपादित करा"
+    },
+    "description_edit_cooke": {
+        "message": "तुम्हाला कुकी संपादित करायची आहे का?"
+    },
+    "alert_edit_cookie_success": {
+        "message": "कुकी संपादन यशस्वी"
+    },
+    "title_export_cookie": {
+        "message": "कुकी निर्यात करा"
+    },
+    "description_export_cookie": {
+        "message":  "तुम्हाला कुकी कोणत्या स्वरूपात निर्यात करायची आहे?"
+    },
+    "label_password_encrypt": {
+        "message": "कुकी एनक्रिप्ट करण्यासाठी पासवर्ड"
+    },
+    "description_password": {
+        "message": "निर्यात करण्यापूर्वी कुकी एनक्रिप्ट करायची असल्यास पासवर्ड प्रविष्ट करा (पर्यायी)."
+    },
+    "alert_import_cookie_success": {
+        "message": "कुकी आयात यशस्वी"
+    },
+    "alert_import_cookie_error": {
+        "message": "कुकी आयात अयशस्वी"
+    },
+    "title_import_cookie": {
+        "message": "कुकी आयात करा"
+    },
+    "description_import_cookie": {
+        "message": "तुम्हाला कसे आयात करायचे आहे?"
+    },
+    "label_select_file_import": {
+        "message": "आयात करण्यासाठी फाइल निवडा"
+    },
+    "lable_link_import": {
+        "message": "कुकी आयात करण्यासाठी दुवा"
+    },
+    "label_password_decrypt": {
+        "message": "कुकी डिक्रिप्ट करण्यासाठी पासवर्ड"
+    },
+    "description_password_decrypt": {
+        "message": "कुकी एनक्रिप्ट केल्या असल्यास डिक्रिप्शन पासवर्ड प्रविष्ट करा (पर्यायी)."
+    },
+    "sidebar_buy_me_a_coffee": {
+        "message": "मला एक कॉफी विकत घ्या"
+    },
+    "sidebar_reviews": {
+        "message": "पुनरावलोकने"
+    },
+    "description_buy_me_a_coffee": {
+        "message": "तुम्हाला आवडल्यास, मला पाठिंबा देण्याचा विचार करा"
+    }
+}

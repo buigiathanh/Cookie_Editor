@@ -1,0 +1,206 @@
+{
+    "ext_name": {
+        "message": "Cookie Editor"
+    },
+    "ext_description": {
+        "message": "Simple yet powerful Cookie Editor that allow you to quickly create, edit and delete cookies without leaving your tab."
+    },
+    "placeholder_search": {
+        "message": "Претражите назив колачића"
+    },
+    "btn_copy": {
+        "message": "Копирај"
+    },
+    "btn_add": {
+        "message": "Додај"
+    },
+    "btn_import": {
+        "message": "Увези"
+    },
+    "btn_export": {
+        "message": "Извези"
+    },
+    "btn_remove": {
+        "message": "Очисти све"
+    },
+    "msg_no_cookies": {
+        "message": "Нема колачића."
+    },
+    "btn_delete": {
+        "message": "Обриши"
+    },
+    "btn_cancel": {
+        "message": "Откажи"
+    },
+    "btn_edit": {
+        "message": "Уреди"
+    },
+    "title_delete": {
+        "message": "Да ли желите да обришете све колачиће за ову веб страницу?"
+    },
+    "title_import": {
+        "message": "Да ли желите да увезете колачиће?"
+    },
+    "msg_import_error": {
+        "message": "Увоз колачића није успео."
+    },
+    "pl_password": {
+        "message": "Лозинка за шифровање/дешифровање колачића"
+    },
+    "title_export": {
+        "message": "Да ли желите да извезете колачиће?"
+    },
+    "display_setting_title": {
+        "message": "ПОДЕШАВАЊА ПРИКАЗА"
+    },
+    "display_setting_description": {
+        "message": "Подешавања режима приказа за преглед колачића"
+    },
+    "display_setting_option_default": {
+        "message": "Подразумевани режим"
+    },
+    "display_setting_option_compact": {
+        "message": "Компактни режим"
+    },
+    "display_setting_option_custom": {
+        "message": "Прилагођени режим"
+    },
+    "setting_customize_display_cookie": {
+        "message": "Прилагоди приказ колачића"
+    },
+    "copy_setting_title": {
+        "message": "ПОДЕШАВАЊА КОПИРАЊА"
+    },
+    "copy_setting_description": {
+        "message": "Подразумевани формат при копирању колачића"
+    },
+    "export_setting_title": {
+        "message": "ПОДЕШАВАЊА ИЗВОЗА"
+    },
+    "export_setting_description": {
+        "message": "Подразумевани формат при извозу колачића"
+    },
+    "import_setting_title": {
+        "message": "ПОДЕШАВАЊА УВОЗА"
+    },
+    "import_setting_description": {
+        "message": "Опције подешавања увоза колачића"
+    },
+    "import_setting_option_reload_page": {
+        "message": "Поново учитај страницу након увоза"
+    },
+    "import_setting_format": {
+        "message": "Подразумевана опција увоза"
+    },
+    "import_settomg_format_text": {
+        "message": "Користи текст"
+    },
+    "import_setting_format_file": {
+        "message": "Користи датотеку"
+    },
+    "alert_copy_cookie_success": {
+        "message": "Копирање успешно"
+    },
+    "no_cookie_description": {
+        "message": "Ова веб страница нема колачиће."
+    },
+    "sidebar_setting": {
+        "message": "Подешавања"
+    },
+    "sidebar_export": {
+        "message": "Извоз"
+    },
+    "sidebar_import": {
+        "message": "Увоз"
+    },
+    "alert_add_cookie_success": {
+        "message": "Колачић успешно додат"
+    },
+    "alert_add_cookie_error": {
+        "message": "Грешка при додавању колачића"
+    },
+    "title_add_cookie": {
+        "message": "ДОДАЈ КОЛАЧИЋ"
+    },
+    "description_add_cookie": {
+        "message": "Да ли желите да додате колачић?"
+    },
+    "title_clear_cookie": {
+        "message": "ОЧИСТИ КОЛАЧИЋЕ"
+    },
+    "description_clear_cookie": {
+        "message": "Да ли желите да обришете све колачиће за ову веб страницу?"
+    },
+    "title_copy_cookie": {
+        "message": "КОПИРАЈ КОЛАЧИЋ"
+    },
+    "description_copy_cookie": {
+        "message": "У ком формату желите да копирате колачић?"
+    },
+    "str_example": {
+        "message": "Пример"
+    },
+    "title_delete_cookie": {
+        "message": "ОБРИШИ КОЛАЧИЋ"
+    },
+    "description_delete_cookie": {
+        "message": "Да ли желите да обришете колачић?"
+    },
+    "alert_delete_cookie_success": {
+        "message": "Колачић успешно обрисан"
+    },
+    "title_edit_cookie": {
+        "message": "УРЕДИ КОЛАЧИЋ"
+    },
+    "description_edit_cooke": {
+        "message": "Да ли желите да уредите колачић?"
+    },
+    "alert_edit_cookie_success": {
+        "message": "Колачић успешно уређен"
+    },
+    "title_export_cookie": {
+        "message": "ИЗВЕЗИ КОЛАЧИЋ"
+    },
+    "description_export_cookie": {
+        "message": "У ком формату желите да извезете колачић?"
+    },
+    "label_password_encrypt": {
+        "message": "Лозинка за шифровање колачића"
+    },
+    "description_password": {
+        "message": "Унесите лозинку ако желите да колачић буде шифрован пре извоза (опционо)."
+    },
+    "alert_import_cookie_success": {
+        "message": "Колачић успешно увезен"
+    },
+    "alert_import_cookie_error": {
+        "message": "Грешка при увозу колачића"
+    },
+    "title_import_cookie": {
+        "message": "УВЕЗИ КОЛАЧИЋ"
+    },
+    "description_import_cookie": {
+        "message": "Како желите да увезете?"
+    },
+    "label_select_file_import": {
+        "message": "Изаберите датотеку за увоз"
+    },
+    "lable_link_import": {
+        "message": "Линк за увоз колачића"
+    },
+    "label_password_decrypt": {
+        "message": "Лозинка за дешифровање колачића"
+    },
+    "description_password_decrypt": {
+        "message": "Унесите лозинку за дешифровање ако су колачићи заштићени шифровањем (опционо)."
+    },
+    "sidebar_buy_me_a_coffee": {
+        "message": "Купи ми кафу"
+    },
+    "sidebar_reviews": {
+        "message": "Рецензије"
+    },
+    "description_buy_me_a_coffee": {
+        "message": "Ако вам се свиђа, размислите о томе да ме подржите"
+    }
+}

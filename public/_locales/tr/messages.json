@@ -1,0 +1,206 @@
+{
+    "ext_name": {
+        "message": "Cookie Editor"
+    },
+    "ext_description": {
+        "message": "Simple yet powerful Cookie Editor that allow you to quickly create, edit and delete cookies without leaving your tab."
+    },
+    "placeholder_search": {
+        "message": "Çerez adı ara"
+    },
+    "btn_copy": {
+        "message": "Kopyala"
+    },
+    "btn_add": {
+        "message": "Ekle"
+    },
+    "btn_import": {
+        "message": "İçe Aktar"
+    },
+    "btn_export": {
+        "message": "Dışa Aktar"
+    },
+    "btn_remove": {
+        "message": "Tümünü Temizle"
+    },
+    "msg_no_cookies": {
+        "message": "Çerez yok."
+    },
+    "btn_delete": {
+        "message": "Sil"
+    },
+    "btn_cancel": {
+        "message": "İptal"
+    },
+    "btn_edit": {
+        "message": "Düzenle"
+    },
+    "title_delete": {
+        "message": "Bu web sitesindeki tüm çerezleri kaldırmak istiyor musunuz?"
+    },
+    "title_import": {
+        "message": "Çerezleri içe aktarmak mı istiyorsunuz?"
+    },
+    "msg_import_error": {
+        "message": "Çerezleri içe aktarma başarısız oldu."
+    },
+    "pl_password": {
+        "message": "Çerezleri şifrelemek/şifresini çözmek için parola"
+    },
+    "title_export": {
+        "message": "Çerezleri dışa aktarmak mı istiyorsunuz?"
+    },
+    "display_setting_title": {
+        "message": "GÖRÜNTÜ AYARI"
+    },
+    "display_setting_description": {
+        "message": "Çerezleri görüntülemek için görüntüleme modu ayarları"
+    },
+    "display_setting_option_default": {
+        "message": "Varsayılan mod"
+    },
+    "display_setting_option_compact": {
+        "message": "Kompakt mod"
+    },
+    "display_setting_option_custom": {
+        "message": "Özel mod"
+    },
+    "setting_customize_display_cookie": {
+        "message": "Çerez görüntülemeyi özelleştir"
+    },
+    "copy_setting_title": {
+        "message": "KOPYALAMA AYARI"
+    },
+    "copy_setting_description": {
+        "message": "Çerezleri kopyalarken varsayılan biçim"
+    },
+    "export_setting_title": {
+        "message": "DIŞA AKTARMA AYARI"
+    },
+    "export_setting_description": {
+        "message": "Çerezleri dışa aktarırken varsayılan biçim"
+    },
+    "import_setting_title": {
+        "message": "İÇE AKTARMA AYARI"
+    },
+    "import_setting_description": {
+        "message": "Çerez içe aktarma ayarları seçenekleri"
+    },
+    "import_setting_option_reload_page": {
+        "message": "İçe aktarıldıktan sonra sayfayı yeniden yükle"
+    },
+    "import_setting_format": {
+        "message": "Varsayılan içe aktarma seçeneği"
+    },
+    "import_settomg_format_text": {
+        "message": "Metin kullan"
+    },
+    "import_setting_format_file": {
+        "message": "Dosya kullan"
+    },
+    "alert_copy_cookie_success": {
+        "message": "Kopyalama başarılı"
+    },
+    "no_cookie_description": {
+        "message": "Bu web sitesinde çerez yok."
+    },
+    "sidebar_setting": {
+        "message": "Ayarlar"
+    },
+    "sidebar_export": {
+        "message": "Dışa Aktar"
+    },
+    "sidebar_import": {
+        "message": "İçe Aktar"
+    },
+    "alert_add_cookie_success": {
+        "message": "Çerez ekleme başarılı"
+    },
+    "alert_add_cookie_error": {
+        "message": "Çerez ekleme hatası"
+    },
+    "title_add_cookie": {
+        "message": "ÇEREZ EKLE"
+    },
+    "description_add_cookie": {
+        "message": "Çerez eklemek istiyor musunuz?"
+    },
+    "title_clear_cookie": {
+        "message": "ÇEREZLERİ TEMİZLE"
+    },
+    "description_clear_cookie": {
+        "message": "Bu web sitesindeki tüm çerezleri kaldırmak istiyor musunuz?"
+    },
+    "title_copy_cookie": {
+        "message": "ÇEREZİ KOPYALA"
+    },
+    "description_copy_cookie": {
+        "message": "Çerezi hangi biçimde kopyalamak istersiniz?"
+    },
+    "str_example": {
+        "message": "Örnek"
+    },
+    "title_delete_cookie": {
+        "message": "ÇEREZİ SİL"
+    },
+    "description_delete_cookie": {
+        "message": "Çerezi silmek istiyor musunuz?"
+    },
+    "alert_delete_cookie_success": {
+        "message": "Çerez silme başarılı"
+    },
+    "title_edit_cookie": {
+        "message": "ÇEREZİ DÜZENLE"
+    },
+    "description_edit_cooke": {
+        "message": "Çerezi düzenlemek istiyor musunuz?"
+    },
+    "alert_edit_cookie_success": {
+        "message": "Çerez düzenleme başarılı"
+    },
+    "title_export_cookie": {
+        "message": "ÇEREZİ DIŞA AKTAR"
+    },
+    "description_export_cookie": {
+        "message": "Çerezi hangi biçimde dışa aktarmak istersiniz?"
+    },
+    "label_password_encrypt": {
+        "message": "Çerezleri şifrelemek için parola"
+    },
+    "description_password": {
+        "message": "Çerezleri dışa aktarmadan önce şifrelemek istiyorsanız bir parola girin (isteğe bağlı)."
+    },
+    "alert_import_cookie_success": {
+        "message": "Çerez içe aktarma başarılı"
+    },
+    "alert_import_cookie_error": {
+        "message": "Çerez içe aktarma hatası"
+    },
+    "title_import_cookie": {
+        "message": "ÇEREZİ İÇE AKTAR"
+    },
+    "description_import_cookie": {
+        "message": "Nasıl içe aktarmak istersiniz?"
+    },
+    "label_select_file_import": {
+        "message": "İçe aktarılacak dosyayı seçin"
+    },
+    "lable_link_import": {
+        "message": "Çerezleri içe aktarmak için bağlantı"
+    },
+    "label_password_decrypt": {
+        "message": "Çerezlerin şifresini çözmek için parola"
+    },
+    "description_password_decrypt": {
+        "message": "Çerezler şifreyle korunuyorsa şifre çözme parolasını girin (isteğe bağlı)."
+    },
+    "sidebar_buy_me_a_coffee": {
+        "message": "Bana bir kahve al"
+    },
+    "sidebar_reviews": {
+        "message": "Yorumlar"
+    },
+    "description_buy_me_a_coffee": {
+        "message": "Eğer beğendiyseniz, beni desteklemeyi düşünün"
+    }
+}

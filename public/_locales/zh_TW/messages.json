@@ -1,0 +1,206 @@
+{
+    "ext_name": {
+        "message": "Cookie Editor"
+    },
+    "ext_description": {
+        "message": "Simple yet powerful Cookie Editor that allow you to quickly create, edit and delete cookies without leaving your tab."
+    },
+    "placeholder_search": {
+        "message": "搜尋 Cookie 名稱"
+    },
+    "btn_copy": {
+        "message": "複製"
+    },
+    "btn_add": {
+        "message": "新增"
+    },
+    "btn_import": {
+        "message": "匯入"
+    },
+    "btn_export": {
+        "message": "匯出"
+    },
+    "btn_remove": {
+        "message": "清除全部"
+    },
+    "msg_no_cookies": {
+        "message": "沒有 Cookie。"
+    },
+    "btn_delete": {
+        "message": "刪除"
+    },
+    "btn_cancel": {
+        "message": "取消"
+    },
+    "btn_edit": {
+        "message": "編輯"
+    },
+    "title_delete": {
+        "message": "您要刪除此網站的所有 Cookie 嗎？"
+    },
+    "title_import": {
+        "message": "您要匯入 Cookie 嗎？"
+    },
+    "msg_import_error": {
+        "message": "匯入 Cookie 失敗。"
+    },
+    "pl_password": {
+        "message": "用於加密/解密 Cookie 的密碼"
+    },
+    "title_export": {
+        "message": "您要匯出 Cookie 嗎？"
+    },
+    "display_setting_title": {
+        "message": "顯示設定"
+    },
+    "display_setting_description": {
+        "message": "檢視 Cookie 的顯示模式設定"
+    },
+    "display_setting_option_default": {
+        "message": "預設模式"
+    },
+    "display_setting_option_compact": {
+        "message": "精簡模式"
+    },
+    "display_setting_option_custom": {
+        "message": "自訂模式"
+    },
+    "setting_customize_display_cookie": {
+        "message": "自訂 Cookie 顯示"
+    },
+    "copy_setting_title": {
+        "message": "複製設定"
+    },
+    "copy_setting_description": {
+        "message": "複製 Cookie 時的預設格式"
+    },
+    "export_setting_title": {
+        "message": "匯出設定"
+    },
+    "export_setting_description": {
+        "message": "匯出 Cookie 時的預設格式"
+    },
+    "import_setting_title": {
+        "message": "匯入設定"
+    },
+    "import_setting_description": {
+        "message": "Cookie 匯入設定選項"
+    },
+    "import_setting_option_reload_page": {
+        "message": "匯入後重新載入網頁"
+    },
+    "import_setting_format": {
+        "message": "預設匯入選項"
+    },
+    "import_settomg_format_text": {
+        "message": "使用文字"
+    },
+    "import_setting_format_file": {
+        "message": "使用檔案"
+    },
+    "alert_copy_cookie_success": {
+        "message": "複製成功"
+    },
+    "no_cookie_description": {
+        "message": "此網站沒有 Cookie。"
+    },
+    "sidebar_setting": {
+        "message": "設定"
+    },
+    "sidebar_export": {
+        "message": "匯出"
+    },
+    "sidebar_import": {
+        "message": "匯入"
+    },
+    "alert_add_cookie_success": {
+        "message": "新增 Cookie 成功"
+    },
+    "alert_add_cookie_error": {
+        "message": "新增 Cookie 失敗"
+    },
+    "title_add_cookie": {
+        "message": "新增 Cookie"
+    },
+    "description_add_cookie": {
+        "message": "您要新增 Cookie 嗎？"
+    },
+    "title_clear_cookie": {
+        "message": "清除 Cookie"
+    },
+    "description_clear_cookie": {
+        "message": "您要刪除此網站的所有 Cookie 嗎？"
+    },
+    "title_copy_cookie": {
+        "message": "複製 Cookie"
+    },
+    "description_copy_cookie": {
+        "message": "您希望以哪種格式複製 Cookie？"
+    },
+    "str_example": {
+        "message": "範例"
+    },
+    "title_delete_cookie": {
+        "message": "刪除 Cookie"
+    },
+    "description_delete_cookie": {
+        "message": "您要刪除 Cookie 嗎？"
+    },
+    "alert_delete_cookie_success": {
+        "message": "刪除 Cookie 成功"
+    },
+    "title_edit_cookie": {
+        "message": "編輯 Cookie"
+    },
+    "description_edit_cooke": {
+        "message": "您要編輯 Cookie 嗎？"
+    },
+    "alert_edit_cookie_success": {
+        "message": "編輯 Cookie 成功"
+    },
+    "title_export_cookie": {
+        "message": "匯出 Cookie"
+    },
+    "description_export_cookie": {
+        "message": "您希望以哪種格式匯出 Cookie？"
+    },
+    "label_password_encrypt": {
+        "message": "用於加密 Cookie 的密碼"
+    },
+    "description_password": {
+        "message": "如果您希望在匯出前加密 Cookie，請輸入密碼（可選）。"
+    },
+    "alert_import_cookie_success": {
+        "message": "匯入 Cookie 成功"
+    },
+    "alert_import_cookie_error": {
+        "message": "匯入 Cookie 失敗"
+    },
+    "title_import_cookie": {
+        "message": "匯入 Cookie"
+    },
+    "description_import_cookie": {
+        "message": "您希望如何匯入？"
+    },
+    "label_select_file_import": {
+        "message": "選擇要匯入的檔案"
+    },
+    "lable_link_import": {
+        "message": "匯入 Cookie 的連結"
+    },
+    "label_password_decrypt": {
+        "message": "用於解密 Cookie 的密碼"
+    },
+    "description_password_decrypt": {
+        "message": "如果 Cookie 受加密保護，請輸入解密密碼（可選）。"
+    },
+    "sidebar_buy_me_a_coffee": {
+        "message": "請我喝杯咖啡"
+    },
+    "sidebar_reviews": {
+        "message": "評論"
+    },
+    "description_buy_me_a_coffee": {
+        "message": "如果你喜歡，請考慮支持我"
+    }
+}

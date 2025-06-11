@@ -1,0 +1,206 @@
+{
+    "ext_name": {
+        "message": "Cookie Editor"
+    },
+    "ext_description": {
+        "message": "Simple yet powerful Cookie Editor that allow you to quickly create, edit and delete cookies without leaving your tab."
+    },
+    "placeholder_search": {
+        "message": "Търсене на име на бисквитка"
+    },
+    "btn_copy": {
+        "message": "Копиране"
+    },
+    "btn_add": {
+        "message": "Добави"
+    },
+    "btn_import": {
+        "message": "Импортиране"
+    },
+    "btn_export": {
+        "message": "Експортиране"
+    },
+    "btn_remove": {
+        "message": "Изчисти всички"
+    },
+    "msg_no_cookies": {
+        "message": "Няма бисквитки."
+    },
+    "btn_delete": {
+        "message": "Изтрий"
+    },
+    "btn_cancel": {
+        "message": "Отказ"
+    },
+    "btn_edit": {
+        "message": "Редактиране"
+    },
+    "title_delete": {
+        "message": "Искате ли да премахнете всички бисквитки на този уебсайт?"
+    },
+    "title_import": {
+        "message": "Опитвате ли се да импортирате бисквитки?"
+    },
+    "msg_import_error": {
+        "message": "Неуспешно импортиране на бисквитки."
+    },
+    "pl_password": {
+        "message": "Парола за криптиране/декриптиране на бисквитки"
+    },
+    "title_export": {
+        "message": "Опитвате ли се да експортирате бисквитки?"
+    },
+    "display_setting_title": {
+        "message": "НАСТРОЙКА НА ДИСПЛЕЯ"
+    },
+    "display_setting_description": {
+        "message": "Настройки на режима на показване за преглед на бисквитки"
+    },
+    "display_setting_option_default": {
+        "message": "Режим по подразбиране"
+    },
+    "display_setting_option_compact": {
+        "message": "Компактен режим"
+    },
+    "display_setting_option_custom": {
+        "message": "Персонализиран режим"
+    },
+    "setting_customize_display_cookie": {
+        "message": "Персонализиране на показването на бисквитки"
+    },
+    "copy_setting_title": {
+        "message": "НАСТРОЙКА НА КОПИРАНЕ"
+    },
+    "copy_setting_description": {
+        "message": "Формат по подразбиране при копиране на бисквитки"
+    },
+    "export_setting_title": {
+        "message": "НАСТРОЙКА НА ЕКСПОРТИРАНЕ"
+    },
+    "export_setting_description": {
+        "message": "Формат по подразбиране при експортиране на бисквитки"
+    },
+    "import_setting_title": {
+        "message": "НАСТРОЙКА НА ИМПОРТИРАНЕ"
+    },
+    "import_setting_description": {
+        "message": "Опции за настройки на импортиране на бисквитки"
+    },
+    "import_setting_option_reload_page": {
+        "message": "Презареди страницата след импортиране"
+    },
+    "import_setting_format": {
+        "message": "Опция за импортиране по подразбиране"
+    },
+    "import_settomg_format_text": {
+        "message": "Използване на текст"
+    },
+    "import_setting_format_file": {
+        "message": "Използване на файл"
+    },
+    "alert_copy_cookie_success": {
+        "message": "Копирането е успешно"
+    },
+    "no_cookie_description": {
+        "message": "Уебсайтът няма бисквитки."
+    },
+    "sidebar_setting": {
+        "message": "Настройки"
+    },
+    "sidebar_export": {
+        "message": "Експортиране"
+    },
+    "sidebar_import": {
+        "message": "Импортиране"
+    },
+    "alert_add_cookie_success": {
+        "message": "Бисквитката е добавена успешно"
+    },
+    "alert_add_cookie_error": {
+        "message": "Грешка при добавяне на бисквитка"
+    },
+    "title_add_cookie": {
+        "message": "ДОБАВЯНЕ НА БИСКВИТКА"
+    },
+    "description_add_cookie": {
+        "message": "Искате ли да добавите бисквитката?"
+    },
+    "title_clear_cookie": {
+        "message": "ИЗЧИСТВАНЕ НА БИСКВИТКИ"
+    },
+    "description_clear_cookie": {
+        "message": "Искате ли да премахнете всички бисквитки на този уебсайт?"
+    },
+    "title_copy_cookie": {
+        "message": "КОПИРАНЕ НА БИСКВИТКА"
+    },
+    "description_copy_cookie": {
+        "message": "В какъв формат искате да копирате бисквитката?"
+    },
+    "str_example": {
+        "message": "Пример"
+    },
+    "title_delete_cookie": {
+        "message": "ИЗТРИВАНЕ НА БИСКВИТКА"
+    },
+    "description_delete_cookie": {
+        "message": "Искате ли да изтриете бисквитката?"
+    },
+    "alert_delete_cookie_success": {
+        "message": "Бисквитката е изтрита успешно"
+    },
+    "title_edit_cookie": {
+        "message": "РЕДАКТИРАНЕ НА БИСКВИТКА"
+    },
+    "description_edit_cooke": {
+        "message": "Искате ли да редактирате бисквитката?"
+    },
+    "alert_edit_cookie_success": {
+        "message": "Бисквитката е редактирана успешно"
+    },
+    "title_export_cookie": {
+        "message": "ЕКСПОРТИРАНЕ НА БИСКВИТКА"
+    },
+    "description_export_cookie": {
+        "message": "В какъв формат искате да експортирате бисквитката?"
+    },
+    "label_password_encrypt": {
+        "message": "Парола за криптиране на бисквитки"
+    },
+    "description_password": {
+        "message": "Въведете парола, ако искате бисквитките да бъдат криптирани преди експортиране (по избор)."
+    },
+    "alert_import_cookie_success": {
+        "message": "Бисквитките са импортирани успешно"
+    },
+    "alert_import_cookie_error": {
+        "message": "Грешка при импортиране на бисквитки"
+    },
+    "title_import_cookie": {
+        "message": "ИМПОРТИРАНЕ НА БИСКВИТКИ"
+    },
+    "description_import_cookie": {
+        "message": "Как искате да импортирате?"
+    },
+    "label_select_file_import": {
+        "message": "Изберете файл за импортиране"
+    },
+    "lable_link_import": {
+        "message": "Връзка за импортиране на бисквитки"
+    },
+    "label_password_decrypt": {
+        "message": "Парола за декриптиране на бисквитки"
+    },
+    "description_password_decrypt": {
+        "message": "Въведете паролата за декриптиране, ако бисквитките са защитени с криптиране (по избор)."
+    },
+    "sidebar_buy_me_a_coffee": {
+        "message": "Купи ми кафе"
+    },
+    "sidebar_reviews": {
+        "message": "Отзиви"
+    },
+    "description_buy_me_a_coffee": {
+        "message": "Ако ви харесва, помислете да ме подкрепите"
+    }
+}

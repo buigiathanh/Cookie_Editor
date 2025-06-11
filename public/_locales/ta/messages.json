@@ -1,0 +1,206 @@
+{
+    "ext_name": {
+        "message": "Cookie Editor"
+    },
+    "ext_description": {
+        "message": "Simple yet powerful Cookie Editor that allow you to quickly create, edit and delete cookies without leaving your tab."
+    },
+    "placeholder_search": {
+        "message": "குக்கீ பெயரைத் தேடு"
+    },
+    "btn_copy": {
+        "message": "நகல் எடு"
+    },
+    "btn_add": {
+        "message": "சேர்"
+    },
+    "btn_import": {
+        "message": "இறக்குமதி"
+    },
+    "btn_export": {
+        "message": "ஏற்றுமதி"
+    },
+    "btn_remove": {
+        "message": "அனைத்தையும் அழி"
+    },
+    "msg_no_cookies": {
+        "message": "குக்கீகள் இல்லை."
+    },
+    "btn_delete": {
+        "message": "நீக்கு"
+    },
+    "btn_cancel": {
+        "message": "ரத்து செய்"
+    },
+    "btn_edit": {
+        "message": "திருத்து"
+    },
+    "title_delete": {
+        "message": "இந்த வலைத்தளத்தின் அனைத்து குக்கீகளையும் நீக்க விரும்புகிறீர்களா?"
+    },
+    "title_import": {
+        "message": "குக்கீகளை இறக்குமதி செய்ய விரும்புகிறீர்களா?"
+    },
+    "msg_import_error": {
+        "message": "குக்கீகளை இறக்குமதி செய்வதில் தோல்வி."
+    },
+    "pl_password": {
+        "message": "குக்கீகளை குறியாக்க/குறிவிலக்க செய்ய பாஸ்வேர்ட்"
+    },
+    "title_export": {
+        "message": "குக்கீகளை ஏற்றுமதி செய்ய விரும்புகிறீர்களா?"
+    },
+    "display_setting_title": {
+        "message": "காட்சி அமைப்பு"
+    },
+    "display_setting_description": {
+        "message": "குக்கீகளைப் பார்க்க காட்சி முறை அமைப்புகள்"
+    },
+    "display_setting_option_default": {
+        "message": "இயல்புநிலை முறை"
+    },
+    "display_setting_option_compact": {
+        "message": "கச்சிதமான முறை"
+    },
+    "display_setting_option_custom": {
+        "message": "தனிப்பயன் முறை"
+    },
+    "setting_customize_display_cookie": {
+        "message": "குக்கீ காட்சியை தனிப்பயனாக்கு"
+    },
+    "copy_setting_title": {
+        "message": "நகல் அமைப்பு"
+    },
+    "copy_setting_description": {
+        "message": "குக்கீகளை நகலெடுக்கும் போது இயல்புநிலை வடிவம்"
+    },
+    "export_setting_title": {
+        "message": "ஏற்றுமதி அமைப்பு"
+    },
+    "export_setting_description": {
+        "message": "குக்கீகளை ஏற்றுமதி செய்யும் போது இயல்புநிலை வடிவம்"
+    },
+    "import_setting_title": {
+        "message": "இறக்குமதி அமைப்பு"
+    },
+    "import_setting_description": {
+        "message": "குக்கீ இறக்குமதி அமைப்புகளுக்கான விருப்பங்கள்"
+    },
+    "import_setting_option_reload_page": {
+        "message": "இறக்குமதி செய்த பிறகு பக்கத்தை மீண்டும் ஏற்று"
+    },
+    "import_setting_format": {
+        "message": "இயல்புநிலை இறக்குமதி விருப்பம்"
+    },
+    "import_settomg_format_text": {
+        "message": "உரையைப் பயன்படுத்து"
+    },
+    "import_setting_format_file": {
+        "message": "கோப்பைப் பயன்படுத்து"
+    },
+    "alert_copy_cookie_success": {
+        "message": "நகல் எடுத்தல் வெற்றிகரமாக завершено"
+    },
+    "no_cookie_description": {
+        "message": "இந்த வலைத்தளத்தில் குக்கீகள் இல்லை."
+    },
+    "sidebar_setting": {
+        "message": "அமைப்பு"
+    },
+    "sidebar_export": {
+        "message": "ஏற்றுமதி"
+    },
+    "sidebar_import": {
+        "message": "இறக்குமதி"
+    },
+    "alert_add_cookie_success": {
+        "message": "குக்கீ சேர்த்தல் வெற்றிகரமானது"
+    },
+    "alert_add_cookie_error": {
+        "message": "குக்கீ சேர்த்தலில் பிழை"
+    },
+    "title_add_cookie": {
+        "message": "குக்கீ சேர்"
+    },
+    "description_add_cookie": {
+        "message": "குக்கீ சேர்க்க விரும்புகிறீர்களா?"
+    },
+    "title_clear_cookie": {
+        "message": "குக்கீகளை அழி"
+    },
+    "description_clear_cookie": {
+        "message": "இந்த வலைத்தளத்தின் அனைத்து குக்கீகளையும் நீக்க விரும்புகிறீர்களா?"
+    },
+    "title_copy_cookie": {
+        "message": "குக்கீ நகல் எடு"
+    },
+    "description_copy_cookie": {
+        "message": "குக்கீயை எந்த வடிவத்தில் நகல் எடுக்க விரும்புகிறீர்கள்?"
+    },
+    "str_example": {
+        "message": "எடுத்துக்காட்டு"
+    },
+    "title_delete_cookie": {
+        "message": "குக்கீ நீக்கு"
+    },
+    "description_delete_cookie": {
+        "message": "குக்கீ நீக்க விரும்புகிறீர்களா?"
+    },
+    "alert_delete_cookie_success": {
+        "message": "குக்கீ நீக்குதல் வெற்றிகரமானது"
+    },
+    "title_edit_cookie": {
+        "message": "குக்கீ திருத்து"
+    },
+    "description_edit_cooke": {
+        "message": "குக்கீ திருத்த விரும்புகிறீர்களா?"
+    },
+    "alert_edit_cookie_success": {
+        "message": "குக்கீ திருத்துதல் வெற்றிகரமானது"
+    },
+    "title_export_cookie": {
+        "message": "குக்கீ ஏற்றுமதி"
+    },
+    "description_export_cookie": {
+        "message": "குக்கீயை எந்த வடிவத்தில் ஏற்றுமதி செய்ய விரும்புகிறீர்கள்?"
+    },
+    "label_password_encrypt": {
+        "message": "குக்கீகளை குறியாக்க பாஸ்வேர்ட்"
+    },
+    "description_password": {
+        "message": "குக்கீகளை ஏற்றுமதி செய்வதற்கு முன் குறியாக்க விரும்பினால் பாஸ்வேர்ட் உள்ளிடவும் (விரும்பினால்)."
+    },
+    "alert_import_cookie_success": {
+        "message": "குக்கீ இறக்குமதி வெற்றிகரமானது"
+    },
+    "alert_import_cookie_error": {
+        "message": "குக்கீ இறக்குமதியில் பிழை"
+    },
+    "title_import_cookie": {
+        "message": "குக்கீ இறக்குமதி"
+    },
+    "description_import_cookie": {
+        "message": "எப்படி இறக்குமதி செய்ய விரும்புகிறீர்கள்?"
+    },
+    "label_select_file_import": {
+        "message": "இறக்குமதி செய்ய கோப்பைத் தேர்ந்தெடு"
+    },
+    "lable_link_import": {
+        "message": "குக்கீகளை இறக்குமதி செய்ய இணைப்பு"
+    },
+    "label_password_decrypt": {
+        "message": "குக்கீகளை குறிவிலக்க பாஸ்வேர்ட்"
+    },
+    "description_password_decrypt": {
+        "message": "குக்கீகள் குறியாக்கத்தால் பாதுகாக்கப்பட்டால், குறிவிலக்க பாஸ்வேர்ட் உள்ளிடவும் (விரும்பினால்)."
+    },
+    "sidebar_buy_me_a_coffee": {
+        "message": "எனக்கு ஒரு காபி வாங்க"
+    },
+    "sidebar_reviews": {
+        "message": "விமர்சனங்கள்"
+    },
+    "description_buy_me_a_coffee": {
+        "message": "உங்களுக்கு பிடித்தால், என்னை ஆதரிப்பதைக் கவனியுங்கள் "
+    }
+}

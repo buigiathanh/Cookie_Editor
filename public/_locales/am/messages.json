@@ -1,0 +1,206 @@
+{
+    "ext_name": {
+        "message": "Cookie Editor"
+    },
+    "ext_description": {
+        "message": "Simple yet powerful Cookie Editor that allow you to quickly create, edit and delete cookies without leaving your tab."
+    },
+    "placeholder_search": {
+        "message": "የኩኪ ስም ፈልግ"
+    },
+    "btn_copy": {
+        "message": "ኮፒ"
+    },
+    "btn_add": {
+        "message": "ጨምር"
+    },
+    "btn_import": {
+        "message": "አስገባ"
+    },
+    "btn_export": {
+        "message": "ላክ"
+    },
+    "btn_remove": {
+        "message": "ሁሉንም አጥፋ"
+    },
+    "msg_no_cookies": {
+        "message": "ኩኪዎች የሉም።"
+    },
+    "btn_delete": {
+        "message": "ሰርዝ"
+    },
+    "btn_cancel": {
+        "message": "ሰርዝ"
+    },
+    "btn_edit": {
+        "message": "አርትዕ"
+    },
+    "title_delete": {
+        "message": "የዚህ ድረ-ገጽ ሁሉንም ኩኪዎች ማስወገድ ይፈልጋሉ?"
+    },
+    "title_import": {
+        "message": "ኩኪዎችን ማስገባት ይፈልጋሉ?"
+    },
+    "msg_import_error": {
+        "message": "ኩኪዎችን ማስገባት አልተሳካም።"
+    },
+    "pl_password": {
+        "message": "ኩኪዎችን ለመመስጠር/ለመፍታት የይለፍ ቃል"
+    },
+    "title_export": {
+        "message": "ኩኪዎችን ማስወገድ ይፈልጋሉ?"
+    },
+    "display_setting_title": {
+        "message": "የማሳያ ማስተካከያ"
+    },
+    "display_setting_description": {
+        "message": "ኩኪዎችን ለማየት የማሳያ ሁኔታ ማስተካከያዎች"
+    },
+    "display_setting_option_default": {
+        "message": "ነባሪ ሁኔታ"
+    },
+    "display_setting_option_compact": {
+        "message": "አጭር ሁኔታ"
+    },
+    "display_setting_option_custom": {
+        "message": "ብጁ ሁኔታ"
+    },
+    "setting_customize_display_cookie": {
+        "message": "ኩኪ ማሳያ አርትዕ"
+    },
+    "copy_setting_title": {
+        "message": "የመገልበጥ ማስተካከያ"
+    },
+    "copy_setting_description": {
+        "message": "ኩኪዎችን �ቅቀው ሲገልብጡ ነባሪ ቅርጸት"
+    },
+    "export_setting_title": {
+        "message": "የማስወገድ ማስተካከያ"
+    },
+    "export_setting_description": {
+        "message": "ኩኪዎችን ሲያስወግዱ ነባሪ ቅርጸት"
+    },
+    "import_setting_title": {
+        "message": "የማስገባት ማስተካከያ"
+    },
+    "import_setting_description": {
+        "message": "ኩኪዎችን ለማስገባት ማስተካከያዎች"
+    },
+    "import_setting_option_reload_page": {
+        "message": "ከማስገባት በኋላ ድረ-ገጹን እንደገና ጫን"
+    },
+    "import_setting_format": {
+        "message": "ነባሪ የማስገባት አማራጭ"
+    },
+    "import_settomg_format_text": {
+        "message": "ጽሑፍ ተጠቀም"
+    },
+    "import_setting_format_file": {
+        "message": "ፋይል ተጠቀም"
+    },
+    "alert_copy_cookie_success": {
+        "message": "መገልበጥ ተሳክቷል"
+    },
+    "no_cookie_description": {
+        "message": "ድረ-ገጹ ምንም ኩኪዎች የሉትም።"
+    },
+    "sidebar_setting": {
+        "message": "ማስተካከያ"
+    },
+    "sidebar_export": {
+        "message": "ላክ"
+    },
+    "sidebar_import": {
+        "message": "አስገባ"
+    },
+    "alert_add_cookie_success": {
+        "message": "ኩኪ መጨመር ተሳክቷል"
+    },
+    "alert_add_cookie_error": {
+        "message": "ኩኪ መጨመር አልተሳካም"
+    },
+    "title_add_cookie": {
+        "message": "ኩኪ ጨምር"
+    },
+    "description_add_cookie": {
+        "message": "ኩኪውን ማክበር ይፈልጋሉ?"
+    },
+    "title_clear_cookie": {
+        "message": "ኩኪዎችን አጥፋ"
+    },
+    "description_clear_cookie": {
+        "message": "የዚህ ድረ-ገጽ ሁሉንም ኩኪዎች ማስወገድ ይፈልጋሉ?"
+    },
+    "title_copy_cookie": {
+        "message": "ኩኪውን ለቅቀው ገልብጥ"
+    },
+    "description_copy_cookie": {
+        "message": "ኩኪውን በየትኛው ቅርጸት ለቅቀው መገልበጥ ይፈልጋሉ?"
+    },
+    "str_example": {
+        "message": "ምሳሌ"
+    },
+    "title_delete_cookie": {
+        "message": "ኩኪውን ሰርዝ"
+    },
+    "description_delete_cookie": {
+        "message": "ኩኪውን ማስወገድ ይፈልጋሉ?"
+    },
+    "alert_delete_cookie_success": {
+        "message": "ኩኪውን ማስወገድ ተሳክቷል"
+    },
+    "title_edit_cookie": {
+        "message": "ኩኪውን አርትዕ"
+    },
+    "description_edit_cooke": {
+        "message": "ኩኪውን ማስተካከል ይፈልጋሉ?"
+    },
+    "alert_edit_cookie_success": {
+        "message": "ኩኪውን ማስተካከል ተሳክቷል"
+    },
+    "title_export_cookie": {
+        "message": "ኩኪዎችን ላክ"
+    },
+    "description_export_cookie": {
+        "message": "ኩኪዎችን በየትኛው ቅርጸት ማስወገድ ይፈልጋሉ?"
+    },
+    "label_password_encrypt": {
+        "message": "ኩኪዎችን ለመመስጠር የይለፍ ቃል"
+    },
+    "description_password": {
+        "message": "ኩኪውን ከማስወገድዎ በፊት ለመመስጠር የይለፍ ቃል ያስገቡ (አማራጭ)።"
+    },
+    "alert_import_cookie_success": {
+        "message": "ኩኪዎችን ማስገባት ተሳክቷል"
+    },
+    "alert_import_cookie_error": {
+        "message": "ኩኪዎችን ማስገባት አልተሳካም"
+    },
+    "title_import_cookie": {
+        "message": "ኩኪዎችን አስገባ"
+    },
+    "description_import_cookie": {
+        "message": "ኩኪዎችን እንዴት ማስገባት ይፈልጋሉ?"
+    },
+    "label_select_file_import": {
+        "message": "ለማስገባት ፋይል ምረጥ"
+    },
+    "lable_link_import": {
+        "message": "ኩኪዎችን ለማስገባት አገናኝ"
+    },
+    "label_password_decrypt": {
+        "message": "ኩኪዎችን ለመፍታት የይለፍ ቃል"
+    },
+    "description_password_decrypt": {
+        "message": "ኩኪዎች በመመስጠር የተጠበቁ ከሆነ የመፍታት የይለፍ ቃል ያስገቡ (አማራጭ)።"
+    },
+    "sidebar_buy_me_a_coffee": {
+        "message": "ካፌ ይግዙልኝ"
+    },
+    "sidebar_reviews": {
+        "message": "ግምገማዎች"
+    },
+    "description_buy_me_a_coffee": {
+        "message": "ከወደዱት, እኔን ለመደገፍ አስቡ"
+    }
+}

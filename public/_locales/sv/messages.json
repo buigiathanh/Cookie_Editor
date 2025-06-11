@@ -1,0 +1,206 @@
+{
+    "ext_name": {
+        "message": "Cookie Editor"
+    },
+    "ext_description": {
+        "message": "Simple yet powerful Cookie Editor that allow you to quickly create, edit and delete cookies without leaving your tab."
+    },
+    "placeholder_search": {
+        "message": "Sök efter cookienamn"
+    },
+    "btn_copy": {
+        "message": "Kopiera"
+    },
+    "btn_add": {
+        "message": "Lägg till"
+    },
+    "btn_import": {
+        "message": "Importera"
+    },
+    "btn_export": {
+        "message": "Exportera"
+    },
+    "btn_remove": {
+        "message": "Rensa alla"
+    },
+    "msg_no_cookies": {
+        "message": "Inga cookies."
+    },
+    "btn_delete": {
+        "message": "Ta bort"
+    },
+    "btn_cancel": {
+        "message": "Avbryt"
+    },
+    "btn_edit": {
+        "message": "Redigera"
+    },
+    "title_delete": {
+        "message": "Vill du ta bort alla cookies för den här webbplatsen?"
+    },
+    "title_import": {
+        "message": "Försöker du importera cookies?"
+    },
+    "msg_import_error": {
+        "message": "Misslyckades med att importera cookies."
+    },
+    "pl_password": {
+        "message": "Lösenord för att kryptera/dekryptera cookies"
+    },
+    "title_export": {
+        "message": "Försöker du exportera cookies?"
+    },
+    "display_setting_title": {
+        "message": "VISNINGSINSTÄLLNINGAR"
+    },
+    "display_setting_description": {
+        "message": "Visningslägesinställningar för att visa cookies"
+    },
+    "display_setting_option_default": {
+        "message": "Standardläge"
+    },
+    "display_setting_option_compact": {
+        "message": "Kompakt läge"
+    },
+    "display_setting_option_custom": {
+        "message": "Anpassat läge"
+    },
+    "setting_customize_display_cookie": {
+        "message": "Anpassa cookie-visning"
+    },
+    "copy_setting_title": {
+        "message": "KOPIERINGSINSTÄLLNINGAR"
+    },
+    "copy_setting_description": {
+        "message": "Standardformat vid kopiering av cookies"
+    },
+    "export_setting_title": {
+        "message": "EXPORTINSTÄLLNINGAR"
+    },
+    "export_setting_description": {
+        "message": "Standardformat vid export av cookies"
+    },
+    "import_setting_title": {
+        "message": "IMPORTINSTÄLLNINGAR"
+    },
+    "import_setting_description": {
+        "message": "Alternativ för cookie-importinställningar"
+    },
+    "import_setting_option_reload_page": {
+        "message": "Ladda om sidan efter import"
+    },
+    "import_setting_format": {
+        "message": "Standardimportalternativ"
+    },
+    "import_settomg_format_text": {
+        "message": "Använd text"
+    },
+    "import_setting_format_file": {
+        "message": "Använd en fil"
+    },
+    "alert_copy_cookie_success": {
+        "message": "Kopiering lyckades"
+    },
+    "no_cookie_description": {
+        "message": "Den här webbplatsen har inga cookies."
+    },
+    "sidebar_setting": {
+        "message": "Inställningar"
+    },
+    "sidebar_export": {
+        "message": "Exportera"
+    },
+    "sidebar_import": {
+        "message": "Importera"
+    },
+    "alert_add_cookie_success": {
+        "message": "Cookie tillagd"
+    },
+    "alert_add_cookie_error": {
+        "message": "Fel vid tillägg av cookie"
+    },
+    "title_add_cookie": {
+        "message": "LÄGG TILL COOKIE"
+    },
+    "description_add_cookie": {
+        "message": "Vill du lägga till cookien?"
+    },
+    "title_clear_cookie": {
+        "message": "RENSA COOKIES"
+    },
+    "description_clear_cookie": {
+        "message": "Vill du ta bort alla cookies för den här webbplatsen?"
+    },
+    "title_copy_cookie": {
+        "message": "KOPIERA COOKIE"
+    },
+    "description_copy_cookie": {
+        "message": "I vilket format vill du kopiera cookien?"
+    },
+    "str_example": {
+        "message": "Exempel"
+    },
+    "title_delete_cookie": {
+        "message": "TA BORT COOKIE"
+    },
+    "description_delete_cookie": {
+        "message": "Vill du ta bort cookien?"
+    },
+    "alert_delete_cookie_success": {
+        "message": "Cookie borttagen"
+    },
+    "title_edit_cookie": {
+        "message": "REDIGERA COOKIE"
+    },
+    "description_edit_cooke": {
+        "message": "Vill du redigera cookien?"
+    },
+    "alert_edit_cookie_success": {
+        "message": "Cookie redigerad"
+    },
+    "title_export_cookie": {
+        "message": "EXPORTERA COOKIE"
+    },
+    "description_export_cookie": {
+        "message": "I vilket format vill du exportera cookien?"
+    },
+    "label_password_encrypt": {
+        "message": "Lösenord för att kryptera cookies"
+    },
+    "description_password": {
+        "message": "Ange ett lösenord om du vill att cookien ska krypteras före export (valfritt)."
+    },
+    "alert_import_cookie_success": {
+        "message": "Cookie importerad"
+    },
+    "alert_import_cookie_error": {
+        "message": "Fel vid import av cookie"
+    },
+    "title_import_cookie": {
+        "message": "IMPORTERA COOKIE"
+    },
+    "description_import_cookie": {
+        "message": "Hur vill du importera?"
+    },
+    "label_select_file_import": {
+        "message": "Välj en fil att importera"
+    },
+    "lable_link_import": {
+        "message": "Länk för att importera cookies"
+    },
+    "label_password_decrypt": {
+        "message": "Lösenord för att dekryptera cookies"
+    },
+    "description_password_decrypt": {
+        "message": "Ange dekrypteringslösenordet om cookies är skyddade med kryptering (valfritt)."
+    },
+    "sidebar_buy_me_a_coffee": {
+        "message": "Köp en kaffe åt mig"
+    },
+    "sidebar_reviews": {
+        "message": "Recensioner"
+    },
+    "description_buy_me_a_coffee": {
+        "message": "Om du gillar det, överväg att stödja mig"
+    }
+}

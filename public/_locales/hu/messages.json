@@ -1,0 +1,206 @@
+{
+    "ext_name": {
+        "message": "Cookie Editor"
+    },
+    "ext_description": {
+        "message": "Simple yet powerful Cookie Editor that allow you to quickly create, edit and delete cookies without leaving your tab."
+    },
+    "placeholder_search": {
+        "message": "Süti nevének keresése"
+    },
+    "btn_copy": {
+        "message": "Másolás"
+    },
+    "btn_add": {
+        "message": "Hozzáadás"
+    },
+    "btn_import": {
+        "message": "Importálás"
+    },
+    "btn_export": {
+        "message": "Exportálás"
+    },
+    "btn_remove": {
+        "message": "Összes törlése"
+    },
+    "msg_no_cookies": {
+        "message": "Nincsenek sütik."
+    },
+    "btn_delete": {
+        "message": "Törlés"
+    },
+    "btn_cancel": {
+        "message": "Mégse"
+    },
+    "btn_edit": {
+        "message": "Szerkesztés"
+    },
+    "title_delete": {
+        "message": "Törölni szeretné az összes sütit ezen a weboldalon?"
+    },
+    "title_import": {
+        "message": "Sütiket próbál importálni?"
+    },
+    "msg_import_error": {
+        "message": "Sütik importálása sikertelen."
+    },
+    "pl_password": {
+        "message": "Jelszó a sütik titkosításához/visszafejtéséhez"
+    },
+    "title_export": {
+        "message": "Sütiket próbál exportálni?"
+    },
+    "display_setting_title": {
+        "message": "MEGJELENÍTÉSI BEÁLLÍTÁSOK"
+    },
+    "display_setting_description": {
+        "message": "Sütik megtekintéséhez szükséges megjelenítési mód beállításai"
+    },
+    "display_setting_option_default": {
+        "message": "Alapértelmezett mód"
+    },
+    "display_setting_option_compact": {
+        "message": "Kompakt mód"
+    },
+    "display_setting_option_custom": {
+        "message": "Egyéni mód"
+    },
+    "setting_customize_display_cookie": {
+        "message": "Sütik megjelenítésének testreszabása"
+    },
+    "copy_setting_title": {
+        "message": "MÁSOLÁSI BEÁLLÍTÁSOK"
+    },
+    "copy_setting_description": {
+        "message": "Alapértelmezett formátum sütik másolásakor"
+    },
+    "export_setting_title": {
+        "message": "EXPORTÁLÁSI BEÁLLÍTÁSOK"
+    },
+    "export_setting_description": {
+        "message": "Alapértelmezett formátum sütik exportálásakor"
+    },
+    "import_setting_title": {
+        "message": "IMPORTÁLÁSI BEÁLLÍTÁSOK"
+    },
+    "import_setting_description": {
+        "message": "Sütik importálási beállításainak lehetőségei"
+    },
+    "import_setting_option_reload_page": {
+        "message": "Oldal újratöltése importálás után"
+    },
+    "import_setting_format": {
+        "message": "Alapértelmezett importálási lehetőség"
+    },
+    "import_settomg_format_text": {
+        "message": "Szöveg használata"
+    },
+    "import_setting_format_file": {
+        "message": "Fájl használata"
+    },
+    "alert_copy_cookie_success": {
+        "message": "Másolás sikeres"
+    },
+    "no_cookie_description": {
+        "message": "A weboldalon nincsenek sütik."
+    },
+    "sidebar_setting": {
+        "message": "Beállítások"
+    },
+    "sidebar_export": {
+        "message": "Exportálás"
+    },
+    "sidebar_import": {
+        "message": "Importálás"
+    },
+    "alert_add_cookie_success": {
+        "message": "Süti sikeresen hozzáadva"
+    },
+    "alert_add_cookie_error": {
+        "message": "Hiba a süti hozzáadásakor"
+    },
+    "title_add_cookie": {
+        "message": "SÜTI HOZZÁADÁSA"
+    },
+    "description_add_cookie": {
+        "message": "Hozzá szeretné adni a sütit?"
+    },
+    "title_clear_cookie": {
+        "message": "SÜTIK TÖRLÉSE"
+    },
+    "description_clear_cookie": {
+        "message": "Törölni szeretné az összes sütit ezen a weboldalon?"
+    },
+    "title_copy_cookie": {
+        "message": "SÜTI MÁSOLÁSA"
+    },
+    "description_copy_cookie": {
+        "message": "Milyen formátumban szeretné másolni a sütit?"
+    },
+    "str_example": {
+        "message": "Példa"
+    },
+    "title_delete_cookie": {
+        "message": "SÜTI TÖRLÉSE"
+    },
+    "description_delete_cookie": {
+        "message": "Törölni szeretné a sütit?"
+    },
+    "alert_delete_cookie_success": {
+        "message": "Süti sikeresen törölve"
+    },
+    "title_edit_cookie": {
+        "message": "SÜTI SZERKESZTÉSE"
+    },
+    "description_edit_cooke": {
+        "message": "Szeretné szerkeszteni a sütit?"
+    },
+    "alert_edit_cookie_success": {
+        "message": "Süti sikeresen szerkesztve"
+    },
+    "title_export_cookie": {
+        "message": "SÜTI EXPORTÁLÁSA"
+    },
+    "description_export_cookie": {
+        "message": "Milyen formátumban szeretné exportálni a sütit?"
+    },
+    "label_password_encrypt": {
+        "message": "Jelszó a sütik titkosításához"
+    },
+    "description_password": {
+        "message": "Adjon meg egy jelszót, ha szeretné, hogy a süti titkosítva legyen exportálás előtt (opcionális)."
+    },
+    "alert_import_cookie_success": {
+        "message": "Sütik sikeresen importálva"
+    },
+    "alert_import_cookie_error": {
+        "message": "Hiba a sütik importálásakor"
+    },
+    "title_import_cookie": {
+        "message": "SÜTIK IMPORTÁLÁSA"
+    },
+    "description_import_cookie": {
+        "message": "Hogyan szeretné importálni?"
+    },
+    "label_select_file_import": {
+        "message": "Válasszon ki egy fájlt importáláshoz"
+    },
+    "lable_link_import": {
+        "message": "Link a sütik importálásához"
+    },
+    "label_password_decrypt": {
+        "message": "Jelszó a sütik visszafejtéséhez"
+    },
+    "description_password_decrypt": {
+        "message": "Adja meg a visszafejtési jelszót, ha a sütik titkosítva vannak (opcionális)."
+    },
+    "sidebar_buy_me_a_coffee": {
+        "message": "Vegyel nekem egy kávét"
+    },
+    "sidebar_reviews": {
+        "message": "Vélemények"
+    },
+    "description_buy_me_a_coffee": {
+        "message": "Ha tetszik, fontold meg, hogy támogatsz engem"
+    }
+}
