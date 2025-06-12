@@ -9,10 +9,15 @@ Cookie Editor is a powerful yet easy-to-use tool designed for seamless cookie ma
 ⚠️ Stay Safe! Never share your cookies with anyone you don’t trust. Cookies can store sensitive data, including login credentials. If someone gains access to your cookies, they may take full control of your account.
 
 🔹 Key Features of Cookie Editor:
+
 ✅ View all cookies for the current tab
+
 ✅ Search, create, edit, and delete cookies effortlessly
+
 ✅ Import and export cookies in multiple formats (JSON)
+
 ✅ Instantly clear all cookies for the current tab
+
 ✅ Support customizing Clear browsing data
 
 💡 Support our development
