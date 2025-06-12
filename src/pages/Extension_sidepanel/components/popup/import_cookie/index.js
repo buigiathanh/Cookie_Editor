@@ -85,24 +85,23 @@ const ImportCookie = () => {
     }
 
     const handleImportCookieNetscape = async (cookies) => {
-        const cookieLines = cookies.split(`\n`);
-        for (let i = 0; i < cookieLines.length; i++) {
-            if (cookieLines[i] !== "") {
-                const cookieArray = cookieLines[i].split(`\t`);
+        for (let i = 0; i < cookies.length; i++) {
+            if (cookies[i] !== "") {
+                let cookieArray = cookies[i].split(` `).filter(item => item !== "");
                 const dataUpdate = {
                     httpOnly: cookieArray[0].startsWith("#HttpOnly"),
                     expirationDate: cookieArray[4] * 1000,
                     name: cookieArray[5],
                     value: cookieArray[6],
                     path: cookieArray[2],
-                    secure: cookieArray[3] === "TRUE",
+                    secure: (cookieArray[3] === "TRUE" || cookieArray[5].startsWith("__Secure-")),
                     url: url
                 }
 
                 await chrome.cookies.set(dataUpdate);
             }
 
-            if (i === cookieLines.length - 1) {
+            if (i === cookies.length - 1) {
                 settingStore.popup = "";
                 settingStore.alert = {type: "info", message: extension.getLang("alert_import_cookie_success")}
             }
@@ -128,6 +127,7 @@ const ImportCookie = () => {
                     break;
             }
 
+            dataCookies = dataCookies.trim();
             if (password.length > 0) {
                 const CryptoJS = require("crypto-js");
                 dataCookies = CryptoJS.AES.decrypt(dataCookies, password).toString(CryptoJS.enc.Utf8);
@@ -137,19 +137,20 @@ const ImportCookie = () => {
                 await handleImportCookieJson(JSON.parse(dataCookies));
             } catch (e) {
                 const cookieLines = dataCookies.split(`\n`);
-                if (cookieLines[0] === "# Netscape HTTP Cookie File" || cookieLines[0] === "# HTTP Cookie File" || dataCookies.search(`\t`) !== -1 || dataCookies.search(`\\009`) !== -1 || dataCookies.search(`0x09`) !== -1) {
-                    // cookieStr = cookieStr.replaceAll(`\\009`, `\t`).replaceAll(`0x09`, `\t`);
-                    let dataCookieStr = "";
-                    for (let i = 0; i < cookieLines.length; i++) {
-                        if (i > 0) {
-                            dataCookieStr = dataCookieStr + `\n`
-                        }
-                        if (!cookieLines[i].startsWith("# ") && cookieLines[i] !== "") {
-                            dataCookieStr = dataCookieStr + cookieLines[i]
-                        }
+                let isNetscape = true;
+                for (let i = 0; i < cookieLines.length; i++) {
+                    if (cookieLines[i].startsWith("#")) {
+                        continue;
                     }
 
-                    await handleImportCookieNetscape(dataCookieStr);
+                    if (cookieLines[i].includes(";")) {
+                        isNetscape = false;
+                        break;
+                    }
+                }
+
+                if (isNetscape) {
+                    await handleImportCookieNetscape(cookieLines);
                 } else {
                     await handleImportCookieString(dataCookies);
                 }
