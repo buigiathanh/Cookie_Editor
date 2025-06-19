@@ -201,6 +201,297 @@
         "message": "Reviews"
     },
     "description_buy_me_a_coffee": {
-        "message": "If you like it, consider supporting me."
+        "message": "Nếu bạn thích, hãy cân nhắc ủng hộ tôi."
+    },
+    "sidebar_clear_browser": {
+        "message": "Xóa dữ liệu trình duyệt"
+    },
+    "sidebar_upgrade": {
+        "message": "Nâng cấp"
+    },
+    "sidebar_feature_suggestion": {
+        "message": "Gợi ý tính năng"
+    },
+    "sidebar_buy_coffee": {
+        "message": "Mua cho tôi một ly cà phê"
+    },
+    "sidebar_open_source": {
+        "message": "Mã nguồn mở"
+    },
+    "clear_browser_title": {
+        "message": "XÓA DỮ LIỆU TRÌNH DUYỆT"
+    },
+    "clear_browser_description": {
+        "message": "Xóa tất cả dữ liệu duyệt web chỉ với một cú nhấp chuột."
+    },
+    "clear_browser_option_appcache": {
+        "message": "Bộ nhớ đệm của trang web"
+    },
+    "clear_browser_option_cache": {
+        "message": "Bộ nhớ đệm của trình duyệt"
+    },
+    "clear_browser_option_cacheStorage": {
+        "message": "Bộ nhớ cache"
+    },
+    "clear_browser_option_cookies": {
+        "message": "Cookie"
+    },
+    "clear_browser_option_downloads": {
+        "message": "Danh sách tải xuống của trình duyệt"
+    },
+    "clear_browser_option_history": {
+        "message": "Lịch sử trình duyệt"
+    },
+    "clear_browser_option_formData": {
+        "message": "Dữ liệu biểu mẫu đã lưu"
+    },
+    "clear_browser_option_fileSystems": {
+        "message": "Hệ thống tệp của trang web"
+    },
+    "clear_browser_option_indexedDB": {
+        "message": "Dữ liệu IndexedDB của trang web"
+    },
+    "clear_browser_option_localStorage": {
+        "message": "Dữ liệu localStorage của trang web"
+    },
+    "clear_browser_option_serviceWorkers": {
+        "message": "Service Workers"
+    },
+    "clear_browser_option_webSQL": {
+        "message": "Dữ liệu WebSQL của trang web"
+    },
+    "button_select_all": {
+        "message": "Chọn tất cả"
+    },
+    "button_remove_all": {
+        "message": "Bỏ chọn tất cả"
+    },
+    "message_select_time_clear_browser_data": {
+        "message": "Bạn muốn xóa dữ liệu trong khoảng thời gian nào?"
+    },
+    "choice_all_time": {
+        "message": "Toàn thời gian"
+    },
+    "choice_24h": {
+        "message": "24 giờ qua"
+    },
+    "choice_last_7days": {
+        "message": "7 ngày qua"
+    },
+    "choice_last_30days": {
+        "message": "30 ngày qua"
+    },
+    "button_clear_browser": {
+        "message": "Xóa dữ liệu trình duyệt"
+    },
+    "title_confirm_delete_browser_data": {
+        "message": "XÁC NHẬN XÓA DỮ LIỆU TRÌNH DUYỆT"
+    },
+    "description_confirm_delete_browser_data": {
+        "message": "Dữ liệu trình duyệt sẽ bị xóa và không thể khôi phục."
+    },
+    "tooltip_top_action_share": {
+        "message": "Chia sẻ"
+    },
+    "sidebar_link": {
+        "message": "Liên kết"
+    },
+    "bottom_message_upgrade": {
+        "message": "Giảm giá 25% khi bạn nâng cấp gói 1 năm hôm nay!"
+    },
+    "about_title": {
+        "message": "Giới thiệu về ThanhBui"
+    },
+    "about_content_1": {
+        "message": "Tôi là một lập trình viên và tôi thích tạo các tiện ích mở rộng cho Chrome. Giúp bạn phát triển và truyền thông trên mạng xã hội."
+    },
+    "about_content_2": {
+        "message": "Bạn có thể tìm hiểu thêm về tôi và liên hệ thông qua các nền tảng mạng xã hội dưới đây."
+    },
+    "account_type_premium": {
+        "message": "Cao cấp"
+    },
+    "account_type_free": {
+        "message": "Miễn phí"
+    },
+    "email": {
+        "message": "Email"
+    },
+    "created_at": {
+        "message": "Ngày tạo"
+    },
+    "expiry_date": {
+        "message": "Ngày hết hạn"
+    },
+    "logout": {
+        "message": "Đăng xuất"
+    },
+    "buy_coffee_content_1": {
+        "message": "Việc duy trì phần mềm tốn rất nhiều thời gian và những đêm thức khuya, đặc biệt là khi tôi làm việc sau giờ làm chính."
+    },
+    "buy_coffee_content_2": {
+        "message": "Nếu bạn yêu thích sản phẩm của tôi và muốn thể hiện sự ủng hộ, có nhiều cách bạn có thể giúp tôi."
+    },
+    "no_support": {
+        "message": "Tôi không muốn ủng hộ."
+    },
+    "feature_suggest_title": {
+        "message": "Bạn muốn thêm tính năng nào?"
+    },
+    "feature_suggest_description": {
+        "message": "Đề xuất tính năng cần thiết nếu bạn muốn chúng tôi phát triển thêm."
+    },
+    "fs_email_description": {
+        "message": "Nhập email của bạn. Chúng tôi có thể liên hệ nếu cần làm rõ đề xuất của bạn. (không bắt buộc)"
+    },
+    "label_fs": {
+        "message": " Gợi ý tính năng"
+    },
+    "pl_fs_input": {
+        "message": "Tính năng bạn muốn chúng tôi phát triển tiếp theo"
+    },
+    "payment_fs": {
+        "message": "Bạn có sẵn sàng trả phí cho tính năng này không?"
+    },
+    "button_loading": {
+        "message": "Đang tải ..."
+    },
+    "button_suggest": {
+        "message": "Gợi ý"
+    },
+    "website": {
+        "message": "Trang web"
+    },
+    "title": {
+        "message": "Tiêu đề"
+    },
+    "title_description": {
+        "message": "Tên dễ nhớ để giúp bạn xác định trang web mà liên kết cookie thuộc về. (Bắt buộc)"
+    },
+    "expiration_time": {
+        "message": "Thời gian hết hạn"
+    },
+    "msg_link_not_found": {
+        "message": "Liên kết này không tồn tại."
+    },
+    "msg_no_permission": {
+        "message": "Bạn không có quyền truy cập cần thiết."
+    },
+    "msg_error": {
+        "message": "Đã xảy ra lỗi hệ thống."
+    },
+    "share_cookie_title": {
+        "message": "CHIA SẺ COOKIE"
+    },
+    "share_cookie_description": {
+        "message": "Bạn có muốn chia sẻ cookie này không?"
+    },
+    "time_option_1h": {
+        "message": "1 giờ"
+    },
+    "exp_custom": {
+        "message": "Tùy chỉnh"
+    },
+    "unlimited": {
+        "message": "Không giới hạn"
+    },
+    "type_option_exp_h": {
+        "message": "Giờ"
+    },
+    "type_option_exp_d": {
+        "message": "Ngày"
+    },
+    "type_option_exp_m": {
+        "message": "Tháng"
+    },
+    "type_option_exp_y": {
+        "message": "Năm"
+    },
+    "msg_title_empty": {
+        "message": "Tiêu đề không được để trống."
+    },
+    "msg_password_empty": {
+        "message": "Mật khẩu không được để trống."
+    },
+    "msg_password_length": {
+        "message": "Mật khẩu phải có ít nhất 8 ký tự."
+    },
+    "msg_share_error": {
+        "message": "Chia sẻ không thành công."
+    },
+    "password_encrypt": {
+        "message": "Mật khẩu để giải mã cookie"
+    },
+    "password_encrypt_description": {
+        "message": "Nhập mật khẩu để mã hóa cookie trước khi chia sẻ. Điều này đảm bảo rằng ngay cả chúng tôi cũng không thể đọc nội dung nếu không có mật khẩu. (Bắt buộc)"
+    },
+    "link_exp": {
+        "message": "Thời gian hết hạn của liên kết"
+    },
+    "link_exp_description": {
+        "message": "Nhập thời gian hết hạn nếu bạn muốn chia sẻ trong một khoảng thời gian nhất định. Để trống nếu bạn không muốn đặt thời gian hết hạn."
+    },
+    "public_link_cookie": {
+        "message": "Mọi người đều có thể truy cập liên kết bạn đã chia sẻ."
+    },
+    "title_upgrade": {
+        "message": "Giá cả đơn giản"
+    },
+    "upgrade_description": {
+        "message": "Giá cả minh bạch, đơn giản với số lượng người đăng ký không giới hạn. Có thể thay đổi hoặc hủy bất cứ lúc nào."
+    },
+    "btn_upgrade_month": {
+        "message": "Chỉ từ $3/tháng"
+    },
+    "btn_upgrade_year": {
+        "message": "Chỉ từ $27/năm"
+    },
+    "msg_upgrade": {
+        "message": "Giảm 25% — chỉ $27/năm thay vì $36"
+    },
+    "upgrade_fs_1": {
+        "message": "Quản lý Cookie"
+    },
+    "upgrade_fs_2": {
+        "message": "Mã hóa và giải mã"
+    },
+    "upgrade_fs_3": {
+        "message": " Chia sẻ Cookie"
+    },
+    "upgrade_fs_4": {
+        "message": " Không có quảng cáo"
+    },
+    "upgrade_fs_5": {
+        "message": " Hỗ trợ"
+    },
+    "remind_login": {
+        "message": "Bạn cần tạo tài khoản trước khi chia sẻ cookie qua liên kết."
+    },
+    "remind_login_btn": {
+        "message": "Đăng ký ngay"
+    },
+    "remind_upgrade_title": {
+        "message": "Vui lòng nâng cấp để sử dụng tính năng này."
+    },
+    "remind_upgrade_description": {
+        "message": "Tính năng nâng cao này chỉ khả dụng cho tài khoản trả phí. Nâng cấp ngay để truy cập."
+    },
+    "remind_upgrade_btn": {
+        "message": "Nâng cấp ngay"
+    },
+    "msg_password_error": {
+        "message": "Mật khẩu giải mã không chính xác."
+    },
+    "msg_cookie_error": {
+        "message": "Thông tin cookie không hợp lệ. Vui lòng đăng nhập lại."
+    },
+    "msg_link_exp": {
+        "message": "Liên kết đã hết hạn."
+    },
+    "owner": {
+        "message": "Chủ sở hữu"
+    },
+    "page_import_description": {
+        "message": "Bạn đang sử dụng tính năng nhập cookie qua liên kết chia sẻ."
     }
 }

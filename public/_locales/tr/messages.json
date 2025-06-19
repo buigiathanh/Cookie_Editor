@@ -202,5 +202,296 @@
     },
     "description_buy_me_a_coffee": {
         "message": "Eğer beğendiyseniz, beni desteklemeyi düşünün"
+    },
+    "sidebar_clear_browser": {
+        "message": "Tarayıcı verilerini temizle"
+    },
+    "sidebar_upgrade": {
+        "message": "Yükselt"
+    },
+    "sidebar_feature_suggestion": {
+        "message": "Özellik önerisi"
+    },
+    "sidebar_buy_coffee": {
+        "message": "Bana bir kahve ısmarla"
+    },
+    "sidebar_open_source": {
+        "message": "Açık kaynak"
+    },
+    "clear_browser_title": {
+        "message": "TARAYICI VERİLERİNİ TEMİZLE"
+    },
+    "clear_browser_description": {
+        "message": "Tüm tarama verilerini tek tıkla kaldırın."
+    },
+    "clear_browser_option_appcache": {
+        "message": "Web sitesi appcache"
+    },
+    "clear_browser_option_cache": {
+        "message": "Tarayıcı önbelleği"
+    },
+    "clear_browser_option_cacheStorage": {
+        "message": "Önbellek depolama"
+    },
+    "clear_browser_option_cookies": {
+        "message": "Çerezler"
+    },
+    "clear_browser_option_downloads": {
+        "message": "İndirme listesi"
+    },
+    "clear_browser_option_history": {
+        "message": "Tarayıcı geçmişi"
+    },
+    "clear_browser_option_formData": {
+        "message": "Kaydedilen form verileri"
+    },
+    "clear_browser_option_fileSystems": {
+        "message": "Web sitesi dosya sistemleri"
+    },
+    "clear_browser_option_indexedDB": {
+        "message": "IndexedDB verileri"
+    },
+    "clear_browser_option_localStorage": {
+        "message": "LocalStorage verileri"
+    },
+    "clear_browser_option_serviceWorkers": {
+        "message": "Service Worker’lar"
+    },
+    "clear_browser_option_webSQL": {
+        "message": "WebSQL verileri"
+    },
+    "button_select_all": {
+        "message": "Tümünü seç"
+    },
+    "button_remove_all": {
+        "message": "Tümünü kaldır"
+    },
+    "message_select_time_clear_browser_data": {
+        "message": "Veriler hangi zaman aralığı için silinsin?"
+    },
+    "choice_all_time": {
+        "message": "Tüm zamanlar"
+    },
+    "choice_24h": {
+        "message": "Son 24 saat"
+    },
+    "choice_last_7days": {
+        "message": "Son 7 gün"
+    },
+    "choice_last_30days": {
+        "message": "Son 30 gün"
+    },
+    "button_clear_browser": {
+        "message": "Verileri temizle"
+    },
+    "title_confirm_delete_browser_data": {
+        "message": "VERİLERİ SİLMEYİ ONAYLA"
+    },
+    "description_confirm_delete_browser_data": {
+        "message": "Tarayıcı verileri silinecek ve geri alınamaz."
+    },
+    "tooltip_top_action_share": {
+        "message": "Paylaş"
+    },
+    "sidebar_link": {
+        "message": "Bağlantılar"
+    },
+    "bottom_message_upgrade": {
+        "message": "Yıllık plana bugün geçerseniz %25 indirim kazanın!"
+    },
+    "about_title": {
+        "message": "ThanhBui hakkında"
+    },
+    "about_content_1": {
+        "message": "Ben bir geliştiriciyim ve Chrome uzantıları oluşturmayı seviyorum. Sosyal medya iletişimlerinin geliştirilmesine ve pazarlanmasına yardımcı oluyorum."
+    },
+    "about_content_2": {
+        "message": "Benimle ilgili daha fazla bilgi almak ve iletişime geçmek için aşağıdaki sosyal platformları kullanabilirsiniz."
+    },
+    "account_type_premium": {
+        "message": "Premium"
+    },
+    "account_type_free": {
+        "message": "Ücretsiz"
+    },
+    "email": {
+        "message": "E‑posta"
+    },
+    "created_at": {
+        "message": "Oluşturuldu"
+    },
+    "expiry_date": {
+        "message": "Son kullanma tarihi"
+    },
+    "logout": {
+        "message": "Çıkış yap"
+    },
+    "buy_coffee_content_1": {
+        "message": "Yazılım bakımı çok zaman ve uykusuz gece gerektiriyor, özellikle mesai sonrası çalıştığımda."
+    },
+    "buy_coffee_content_2": {
+        "message": "Eğer işimi beğendiyseniz ve destek olmak isterseniz, bunu yapmanın birkaç yolu var."
+    },
+    "no_support": {
+        "message": "Destek olmak istemiyorum."
+    },
+    "feature_suggest_title": {
+        "message": "Hangi özellik eklenmeli?"
+    },
+    "feature_suggest_description": {
+        "message": "Geliştirmemizi istediğiniz kullanışlı bir özelliği önerin."
+    },
+    "fs_email_description": {
+        "message": "E‑postanızı girin. Gerekecek olursa sizinle iletişime geçebiliriz. (isteğe bağlı)"
+    },
+    "label_fs": {
+        "message": " Özellik önerisi"
+    },
+    "pl_fs_input": {
+        "message": "Görmek istediğiniz özellik"
+    },
+    "payment_fs": {
+        "message": "Bu özellik için ödeme yapar mıydınız?"
+    },
+    "button_loading": {
+        "message": "Yükleniyor..."
+    },
+    "button_suggest": {
+        "message": "Öneriyi gönder"
+    },
+    "website": {
+        "message": "Web sitesi"
+    },
+    "title": {
+        "message": "Başlık"
+    },
+    "title_description": {
+        "message": "Bu çerez bağlantısının hangi siteye ait olduğunu hatırlamanıza yardımcı olacak akılda kalıcı bir ad. (Zorunlu)"
+    },
+    "expiration_time": {
+        "message": "Son kullanma süresi"
+    },
+    "msg_link_not_found": {
+        "message": "Bu bağlantı bulunamadı."
+    },
+    "msg_no_permission": {
+        "message": "Gerekli izniniz yok."
+    },
+    "msg_error": {
+        "message": "Sistem hatası oluştu."
+    },
+    "share_cookie_title": {
+        "message": "ÇEREZİ PAYLAŞ"
+    },
+    "share_cookie_description": {
+        "message": "Bu çerezi paylaşmak istiyor musunuz?"
+    },
+    "time_option_1h": {
+        "message": "1 saat"
+    },
+    "exp_custom": {
+        "message": "Özel"
+    },
+    "unlimited": {
+        "message": "Sınırsız"
+    },
+    "type_option_exp_h": {
+        "message": "Saat"
+    },
+    "type_option_exp_d": {
+        "message": "Gün"
+    },
+    "type_option_exp_m": {
+        "message": "Ay"
+    },
+    "type_option_exp_y": {
+        "message": "Yıl"
+    },
+    "msg_title_empty": {
+        "message": "Başlık boş bırakılamaz."
+    },
+    "msg_password_empty": {
+        "message": "Şifre boş bırakılamaz."
+    },
+    "msg_password_length": {
+        "message": "Şifre en az 8 karakter olmalıdır."
+    },
+    "msg_share_error": {
+        "message": "Paylaşım başarısız oldu."
+    },
+    "password_encrypt": {
+        "message": "Çerezi şifre çözme parolası"
+    },
+    "password_encrypt_description": {
+        "message": "Paylaşmadan önce çerezleri şifrelemek için bir parola girin—parola olmadan içeriği biz bile okuyamıyoruz. (Zorunlu)"
+    },
+    "link_exp": {
+        "message": "Bağlantı süresi doluyor"
+    },
+    "link_exp_description": {
+        "message": "Bağlantıyı belirli bir süreyle paylaşmak istiyorsanız son kullanma tarihini yazın. Süresiz bırakmak için boş bırakın."
+    },
+    "public_link_cookie": {
+        "message": "Bağlantıya sahip herkes erişebilir."
+    },
+    "title_upgrade": {
+        "message": "Basit fiyatlandırma"
+    },
+    "upgrade_description": {
+        "message": "Basit, şeffaf fiyatlandırma; sınırsız abone sayısı. Plan değiştirin veya istediğiniz zaman iptal edin."
+    },
+    "btn_upgrade_month": {
+        "message": "Aylık 3 $/ay’dan başlar"
+    },
+    "btn_upgrade_year": {
+        "message": "Yıllık 27 $/yıl’dan başlar"
+    },
+    "msg_upgrade": {
+        "message": " %25 indirim kazanın — 36 $ yerine sadece 27 $/yıl ödeyin"
+    },
+    "upgrade_fs_1": {
+        "message": "Çerez yönetimi"
+    },
+    "upgrade_fs_2": {
+        "message": "Şifreleme ve şifre çözme"
+    },
+    "upgrade_fs_3": {
+        "message": " Çerezi paylaş"
+    },
+    "upgrade_fs_4": {
+        "message": " Reklamsız"
+    },
+    "upgrade_fs_5": {
+        "message": " Destek"
+    },
+    "remind_login": {
+        "message": "Çerez bağlantısını paylaşmadan önce hesap oluşturmanız gerekir."
+    },
+    "remind_login_btn": {
+        "message": "Şimdi kaydol"
+    },
+    "remind_upgrade_title": {
+        "message": "Bu özelliği kullanmak için yükseltin."
+    },
+    "remind_upgrade_description": {
+        "message": "Bu gelişmiş özellik yalnızca ücretli hesaplarda kullanılabilir. Erişim için şimdi yükseltin."
+    },
+    "remind_upgrade_btn": {
+        "message": "Şimdi yükselt"
+    },
+    "msg_password_error": {
+        "message": "Parola geçersiz."
+    },
+    "msg_cookie_error": {
+        "message": "Geçersiz çerez bilgisi. Lütfen tekrar giriş yapın."
+    },
+    "msg_link_exp": {
+        "message": "Bağlantı süresi doldu."
+    },
+    "owner": {
+        "message": "Sahip"
+    },
+    "page_import_description": {
+        "message": "Paylaşılan bağlantı aracılığıyla çerez içe aktarma özelliğini kullanıyorsunuz."
     }
 }

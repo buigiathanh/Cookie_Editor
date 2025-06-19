@@ -202,5 +202,296 @@
     },
     "description_buy_me_a_coffee": {
         "message": "Если вам нравится, подумайте о поддержке меня"
+    },
+    "sidebar_clear_browser": {
+        "message": "Очистить данные браузера"
+    },
+    "sidebar_upgrade": {
+        "message": "Обновить"
+    },
+    "sidebar_feature_suggestion": {
+        "message": "Предложить функцию"
+    },
+    "sidebar_buy_coffee": {
+        "message": "Купите мне кофе"
+    },
+    "sidebar_open_source": {
+        "message": "Открытый исходный код"
+    },
+    "clear_browser_title": {
+        "message": "ОЧИСТИТЬ ДАННЫЕ БРАУЗЕРА"
+    },
+    "clear_browser_description": {
+        "message": "Удалите все данные просмотра в один клик."
+    },
+    "clear_browser_option_appcache": {
+        "message": "Appcache сайтов"
+    },
+    "clear_browser_option_cache": {
+        "message": "Кеш браузера"
+    },
+    "clear_browser_option_cacheStorage": {
+        "message": "Хранилище кеша"
+    },
+    "clear_browser_option_cookies": {
+        "message": "Файлы cookie"
+    },
+    "clear_browser_option_downloads": {
+        "message": "Список загрузок"
+    },
+    "clear_browser_option_history": {
+        "message": "История просмотров"
+    },
+    "clear_browser_option_formData": {
+        "message": "Сохранённые данные форм"
+    },
+    "clear_browser_option_fileSystems": {
+        "message": "Файловые системы сайтов"
+    },
+    "clear_browser_option_indexedDB": {
+        "message": "Данные IndexedDB сайтов"
+    },
+    "clear_browser_option_localStorage": {
+        "message": "Данные localStorage сайтов"
+    },
+    "clear_browser_option_serviceWorkers": {
+        "message": "Service Workers"
+    },
+    "clear_browser_option_webSQL": {
+        "message": "Данные WebSQL сайтов"
+    },
+    "button_select_all": {
+        "message": "Выбрать всё"
+    },
+    "button_remove_all": {
+        "message": "Удалить всё"
+    },
+    "message_select_time_clear_browser_data": {
+        "message": "За какой период вы хотите удалить данные?"
+    },
+    "choice_all_time": {
+        "message": "За всё время"
+    },
+    "choice_24h": {
+        "message": "Последние 24 ч"
+    },
+    "choice_last_7days": {
+        "message": "Последние 7 дней"
+    },
+    "choice_last_30days": {
+        "message": "Последние 30 дней"
+    },
+    "button_clear_browser": {
+        "message": "Очистить данные"
+    },
+    "title_confirm_delete_browser_data": {
+        "message": "ПОДТВЕРДИТЕ УДАЛЕНИЕ ДАННЫХ"
+    },
+    "description_confirm_delete_browser_data": {
+        "message": "Данные браузера будут удалены и не могут быть восстановлены."
+    },
+    "tooltip_top_action_share": {
+        "message": "Поделиться"
+    },
+    "sidebar_link": {
+        "message": "Ссылки"
+    },
+    "bottom_message_upgrade": {
+        "message": "Получите 25 % скидку при переходе на годовой план сегодня!"
+    },
+    "about_title": {
+        "message": "О ThanhBui"
+    },
+    "about_content_1": {
+        "message": "Я — разработчик. Мне нравится создавать расширения для Chrome. Я помогаю развивать и продвигать коммуникацию в соцсетях."
+    },
+    "about_content_2": {
+        "message": "Узнайте обо мне больше и свяжитесь через следующие соцсети."
+    },
+    "account_type_premium": {
+        "message": "Премиум"
+    },
+    "account_type_free": {
+        "message": "Бесплатно"
+    },
+    "email": {
+        "message": "E‑mail"
+    },
+    "created_at": {
+        "message": "Создано"
+    },
+    "expiry_date": {
+        "message": "Дата окончания"
+    },
+    "logout": {
+        "message": "Выйти"
+    },
+    "buy_coffee_content_1": {
+        "message": "Поддержка ПО требует много времени и бессонных ночей, особенно когда я работаю после основного рабочего дня."
+    },
+    "buy_coffee_content_2": {
+        "message": "Если вам нравится моя работа и вы хотите её поддержать — есть несколько способов сделать это."
+    },
+    "no_support": {
+        "message": "Не хочу поддерживать."
+    },
+    "feature_suggest_title": {
+        "message": "Какую функцию вы хотели бы добавить?"
+    },
+    "feature_suggest_description": {
+        "message": "Предложите полезную функцию, которую вы хотели бы видеть."
+    },
+    "fs_email_description": {
+        "message": "Укажите ваш email. Мы можем связаться для уточнения. (необязательно)"
+    },
+    "label_fs": {
+        "message": " Предложить функцию"
+    },
+    "pl_fs_input": {
+        "message": "Функция, которую вы хотите видеть"
+    },
+    "payment_fs": {
+        "message": "Готовы ли вы заплатить за эту функцию?"
+    },
+    "button_loading": {
+        "message": "Загрузка..."
+    },
+    "button_suggest": {
+        "message": "Отправить предложение"
+    },
+    "website": {
+        "message": "Сайт"
+    },
+    "title": {
+        "message": "Заголовок"
+    },
+    "title_description": {
+        "message": "Запоминающееся имя, чтобы понимать, какому сайту принадлежит эта ссылка cookie. (Обязательно)"
+    },
+    "expiration_time": {
+        "message": "Срок действия"
+    },
+    "msg_link_not_found": {
+        "message": "Такой ссылки не существует."
+    },
+    "msg_no_permission": {
+        "message": "У вас нет необходимого разрешения."
+    },
+    "msg_error": {
+        "message": "Произошла ошибка системы."
+    },
+    "share_cookie_title": {
+        "message": "ПОДЕЛИТЬСЯ COOKIE"
+    },
+    "share_cookie_description": {
+        "message": "Хотите поделиться этим cookie?"
+    },
+    "time_option_1h": {
+        "message": "1 час"
+    },
+    "exp_custom": {
+        "message": "Специально"
+    },
+    "unlimited": {
+        "message": "Безлимитно"
+    },
+    "type_option_exp_h": {
+        "message": "Часы"
+    },
+    "type_option_exp_d": {
+        "message": "Дни"
+    },
+    "type_option_exp_m": {
+        "message": "Месяцы"
+    },
+    "type_option_exp_y": {
+        "message": "Годы"
+    },
+    "msg_title_empty": {
+        "message": "Заголовок не может быть пустым."
+    },
+    "msg_password_empty": {
+        "message": "Пароль не может быть пустым."
+    },
+    "msg_password_length": {
+        "message": "Пароль должен содержать не менее 8 символов."
+    },
+    "msg_share_error": {
+        "message": "Не удалось поделиться."
+    },
+    "password_encrypt": {
+        "message": "Пароль для расшифровки cookie"
+    },
+    "password_encrypt_description": {
+        "message": "Введите пароль, чтобы зашифровать cookie перед отправкой. Даже мы не сможем прочитать содержимое без него. (Обязательно)"
+    },
+    "link_exp": {
+        "message": "Ссылка истекает"
+    },
+    "link_exp_description": {
+        "message": "Укажите срок, если хотите поделиться ссылкой на определённый период. Оставьте пустым, если без срока."
+    },
+    "public_link_cookie": {
+        "message": "Любой может получить доступ к этой ссылке."
+    },
+    "title_upgrade": {
+        "message": "Простые цены"
+    },
+    "upgrade_description": {
+        "message": "Простая, прозрачная цена с неограниченным количеством подписчиков. Меняйте план или отменяйте в любое время."
+    },
+    "btn_upgrade_month": {
+        "message": "От $3/мес."
+    },
+    "btn_upgrade_year": {
+        "message": "От $27/год"
+    },
+    "msg_upgrade": {
+        "message": "Сэкономьте 25 % — платите только $27/год вместо $36"
+    },
+    "upgrade_fs_1": {
+        "message": "Управление cookie"
+    },
+    "upgrade_fs_2": {
+        "message": "Шифрование и дешифрование"
+    },
+    "upgrade_fs_3": {
+        "message": " Поделиться cookie"
+    },
+    "upgrade_fs_4": {
+        "message": " Без рекламы"
+    },
+    "upgrade_fs_5": {
+        "message": " Поддержка"
+    },
+    "remind_login": {
+        "message": "Нужно создать аккаунт перед тем, как делиться cookie по ссылке."
+    },
+    "remind_login_btn": {
+        "message": "Зарегистрируйтесь сейчас"
+    },
+    "remind_upgrade_title": {
+        "message": "Обновите, чтобы использовать эту функцию."
+    },
+    "remind_upgrade_description": {
+        "message": "Эта расширенная функция доступна только платным аккаунтам. Обновите сейчас для доступа."
+    },
+    "remind_upgrade_btn": {
+        "message": "Обновить сейчас"
+    },
+    "msg_password_error": {
+        "message": "Неверный пароль."
+    },
+    "msg_cookie_error": {
+        "message": "Недействительные данные cookie. Пожалуйста, войдите снова."
+    },
+    "msg_link_exp": {
+        "message": "Срок действия ссылки истёк."
+    },
+    "owner": {
+        "message": "Владелец"
+    },
+    "page_import_description": {
+        "message": "Вы используете функцию импорта cookie по общей ссылке."
     }
 }

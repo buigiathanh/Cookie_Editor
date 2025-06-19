@@ -202,5 +202,296 @@
     },
     "description_buy_me_a_coffee": {
         "message": "Se você gostou, considere me apoiar"
+    },
+    "sidebar_clear_browser": {
+        "message": "Limpar dados do navegador"
+    },
+    "sidebar_upgrade": {
+        "message": "Atualizar"
+    },
+    "sidebar_feature_suggestion": {
+        "message": "Sugestão de recurso"
+    },
+    "sidebar_buy_coffee": {
+        "message": "Me compre um café"
+    },
+    "sidebar_open_source": {
+        "message": "Open Source"
+    },
+    "clear_browser_title": {
+        "message": "LIMPAR DADOS DO NAVEGADOR"
+    },
+    "clear_browser_description": {
+        "message": "Remova todos os dados de navegação com apenas um clique."
+    },
+    "clear_browser_option_appcache": {
+        "message": "Appcache do site"
+    },
+    "clear_browser_option_cache": {
+        "message": "Cache do navegador"
+    },
+    "clear_browser_option_cacheStorage": {
+        "message": "Armazenamento de cache"
+    },
+    "clear_browser_option_cookies": {
+        "message": "Cookies"
+    },
+    "clear_browser_option_downloads": {
+        "message": "Lista de downloads"
+    },
+    "clear_browser_option_history": {
+        "message": "Histórico do navegador"
+    },
+    "clear_browser_option_formData": {
+        "message": "Dados de formulários salvos"
+    },
+    "clear_browser_option_fileSystems": {
+        "message": "Sistemas de arquivos dos sites"
+    },
+    "clear_browser_option_indexedDB": {
+        "message": "Dados IndexedDB dos sites"
+    },
+    "clear_browser_option_localStorage": {
+        "message": "Dados localStorage dos sites"
+    },
+    "clear_browser_option_serviceWorkers": {
+        "message": "Service Workers"
+    },
+    "clear_browser_option_webSQL": {
+        "message": "Dados WebSQL dos sites"
+    },
+    "button_select_all": {
+        "message": "Selecionar tudo"
+    },
+    "button_remove_all": {
+        "message": "Remover tudo"
+    },
+    "message_select_time_clear_browser_data": {
+        "message": "De qual período você quer limpar os dados?"
+    },
+    "choice_all_time": {
+        "message": "Todo o tempo"
+    },
+    "choice_24h": {
+        "message": "Últimas 24h"
+    },
+    "choice_last_7days": {
+        "message": "Últimos 7 dias"
+    },
+    "choice_last_30days": {
+        "message": "Últimos 30 dias"
+    },
+    "button_clear_browser": {
+        "message": "Limpar dados"
+    },
+    "title_confirm_delete_browser_data": {
+        "message": "CONFIRMAR LIMPEZA DE DADOS"
+    },
+    "description_confirm_delete_browser_data": {
+        "message": "Os dados do navegador serão apagados e não poderão ser recuperados."
+    },
+    "tooltip_top_action_share": {
+        "message": "Compartilhar"
+    },
+    "sidebar_link": {
+        "message": "Links"
+    },
+    "bottom_message_upgrade": {
+        "message": "Aproveite 25% de desconto ao assinar um plano anual hoje!"
+    },
+    "about_title": {
+        "message": "Sobre ThanhBui"
+    },
+    "about_content_1": {
+        "message": "Sou desenvolvedor e adoro criar extensões para Chrome. Ajudo no desenvolvimento e marketing de comunicações em redes sociais."
+    },
+    "about_content_2": {
+        "message": "Você pode saber mais sobre mim e entrar em contato através das plataformas sociais abaixo."
+    },
+    "account_type_premium": {
+        "message": "Premium"
+    },
+    "account_type_free": {
+        "message": "Grátis"
+    },
+    "email": {
+        "message": "E‑mail"
+    },
+    "created_at": {
+        "message": "Criado em"
+    },
+    "expiry_date": {
+        "message": "Data de expiração"
+    },
+    "logout": {
+        "message": "Sair"
+    },
+    "buy_coffee_content_1": {
+        "message": "Manter o software leva muito tempo e várias noites em claro, especialmente quando trabalho nisso depois do expediente."
+    },
+    "buy_coffee_content_2": {
+        "message": "Se você gosta do meu trabalho e quer mostrar apoio, existem várias formas de fazer isso."
+    },
+    "no_support": {
+        "message": "Eu não quero apoiar."
+    },
+    "feature_suggest_title": {
+        "message": "Qual recurso você gostaria que adicionássemos?"
+    },
+    "feature_suggest_description": {
+        "message": "Sugira um recurso útil caso queira que o desenvolvamos mais."
+    },
+    "fs_email_description": {
+        "message": "Digite seu e‑mail. Podemos entrar em contato em caso de dúvidas. (opcional)"
+    },
+    "label_fs": {
+        "message": " Sugestão de recurso"
+    },
+    "pl_fs_input": {
+        "message": "Recurso que você gostaria de desenvolver"
+    },
+    "payment_fs": {
+        "message": "Você pagaria por esse recurso?"
+    },
+    "button_loading": {
+        "message": "Carregando..."
+    },
+    "button_suggest": {
+        "message": "Enviar sugestão"
+    },
+    "website": {
+        "message": "Site"
+    },
+    "title": {
+        "message": "Título"
+    },
+    "title_description": {
+        "message": "Um nome fácil de lembrar para identificar a que site esse link de cookie pertence. (Obrigatório)"
+    },
+    "expiration_time": {
+        "message": "Data de expiração"
+    },
+    "msg_link_not_found": {
+        "message": "Este link não existe."
+    },
+    "msg_no_permission": {
+        "message": "Você não tem permissão."
+    },
+    "msg_error": {
+        "message": "Ocorreu um erro no sistema."
+    },
+    "share_cookie_title": {
+        "message": "COMPARTILHAR COOKIE"
+    },
+    "share_cookie_description": {
+        "message": "Você quer compartilhar esse cookie?"
+    },
+    "time_option_1h": {
+        "message": "1 hora"
+    },
+    "exp_custom": {
+        "message": "Personalizado"
+    },
+    "unlimited": {
+        "message": "Ilimitado"
+    },
+    "type_option_exp_h": {
+        "message": "Horas"
+    },
+    "type_option_exp_d": {
+        "message": "Dias"
+    },
+    "type_option_exp_m": {
+        "message": "Meses"
+    },
+    "type_option_exp_y": {
+        "message": "Anos"
+    },
+    "msg_title_empty": {
+        "message": "Título não pode ficar em branco."
+    },
+    "msg_password_empty": {
+        "message": "Senha não pode ficar em branco."
+    },
+    "msg_password_length": {
+        "message": "A senha deve ter ao menos 8 caracteres."
+    },
+    "msg_share_error": {
+        "message": "Erro ao compartilhar."
+    },
+    "password_encrypt": {
+        "message": "Senha para descriptografar cookie"
+    },
+    "password_encrypt_description": {
+        "message": "Digite uma senha para criptografar o cookie antes de compartilhar. Nem nós poderemos ler o conteúdo sem a senha. (Obrigatório)"
+    },
+    "link_exp": {
+        "message": "Link expira em"
+    },
+    "link_exp_description": {
+        "message": "Informe uma data de expiração se quiser compartilhar o link por um tempo limitado. Deixe vazio para sem expiração."
+    },
+    "public_link_cookie": {
+        "message": "Todos podem acessar o link compartilhado."
+    },
+    "title_upgrade": {
+        "message": "Preços simples"
+    },
+    "upgrade_description": {
+        "message": "Preços claros e transparentes com assinaturas ilimitadas. Mude o plano ou cancele a qualquer momento."
+    },
+    "btn_upgrade_month": {
+        "message": "A partir de R$ 15/mês"
+    },
+    "btn_upgrade_year": {
+        "message": "A partir de R$ 135/ano"
+    },
+    "msg_upgrade": {
+        "message": "Economize 25 % — pague apenas R$ 135/ano em vez de R$ 180"
+    },
+    "upgrade_fs_1": {
+        "message": "Gerenciamento de cookies"
+    },
+    "upgrade_fs_2": {
+        "message": "Criptografia e descriptografia"
+    },
+    "upgrade_fs_3": {
+        "message": " Compartilhar cookie"
+    },
+    "upgrade_fs_4": {
+        "message": " Sem anúncios"
+    },
+    "upgrade_fs_5": {
+        "message": " Suporte"
+    },
+    "remind_login": {
+        "message": "Você precisa criar uma conta antes de compartilhar cookie por link."
+    },
+    "remind_login_btn": {
+        "message": "Cadastre-se agora"
+    },
+    "remind_upgrade_title": {
+        "message": "Atualize para usar este recurso."
+    },
+    "remind_upgrade_description": {
+        "message": "Este recurso avançado está disponível apenas para contas pagas. Atualize agora para acessar."
+    },
+    "remind_upgrade_btn": {
+        "message": "Atualizar agora"
+    },
+    "msg_password_error": {
+        "message": "Senha inválida."
+    },
+    "msg_cookie_error": {
+        "message": "Informações de cookie inválidas. Por favor, faça login novamente."
+    },
+    "msg_link_exp": {
+        "message": "O link expirou."
+    },
+    "owner": {
+        "message": "Proprietário"
+    },
+    "page_import_description": {
+        "message": "Você está usando o recurso de importação de cookies via link compartilhado."
     }
 }

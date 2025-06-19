@@ -27,7 +27,7 @@ const AlertComponent = () => {
                         animate={{opacity: 1, y: 0}}
                         exit={{opacity: 0, y: 50}}
                         transition={{duration: 0.5}}
-                        className={`flex items-center p-4 text-sm ${optionColor[settingStore.alert?.type]} bg-gray-100 fixed bottom-[60px] right-[50px]`}
+                        className={`flex items-center p-4 text-sm ${optionColor[settingStore.alert?.type]} bg-gray-100 fixed ${settingStore.show_ads ? "bottom-[60px]" : "bottom-0"} right-[50px]`}
                         style={{width: "calc(100% - 50px)"}}
                         role="alert"
                     >

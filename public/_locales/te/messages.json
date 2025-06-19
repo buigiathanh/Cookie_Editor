@@ -202,5 +202,296 @@
     },
     "description_buy_me_a_coffee": {
         "message": "మీకు నచ్చితే, నన్ను మద్దతు ఇవ్వడాన్ని పరిగణించండి "
+    },
+    "sidebar_clear_browser": {
+        "message": "బ్రౌజర్ డేటా తొలగించు"
+    },
+    "sidebar_upgrade": {
+        "message": "అప్‌గ్రేడ్ చేయండి"
+    },
+    "sidebar_feature_suggestion": {
+        "message": "ఫీచర్ సూచన"
+    },
+    "sidebar_buy_coffee": {
+        "message": "నాకు కాఫీ కొని ఇవ్వండి"
+    },
+    "sidebar_open_source": {
+        "message": "ఓపెన్ సోర్స్"
+    },
+    "clear_browser_title": {
+        "message": "బ్రౌజర్ డేటా శుభ్రపరచు"
+    },
+    "clear_browser_description": {
+        "message": "ఒక్క క్లిక్‌తో అన్ని బ్రౌజింగ్ డేటాను తొలగించండి."
+    },
+    "clear_browser_option_appcache": {
+        "message": "వెబ్‌సైట్ ఇంకా డౌన్‌లోడ్ చేసిన కథలను (వెబ్‌ది)"
+    },
+    "clear_browser_option_cache": {
+        "message": "బ్రౌజర్ క్యాష్"
+    },
+    "clear_browser_option_cacheStorage": {
+        "message": "క్యాష్ నిల్వ"
+    },
+    "clear_browser_option_cookies": {
+        "message": "కుకీలు"
+    },
+    "clear_browser_option_downloads": {
+        "message": "డౌన్లోడ్ జాబితా"
+    },
+    "clear_browser_option_history": {
+        "message": " బ్రౌజింగ్ చరిత్ర"
+    },
+    "clear_browser_option_formData": {
+        "message": "ఫార్మ్ డేటా"
+    },
+    "clear_browser_option_fileSystems": {
+        "message": "వెబ్‌సైట్ ఫైల్ సిస్టంస్"
+    },
+    "clear_browser_option_indexedDB": {
+        "message": "IndexedDB డేటా"
+    },
+    "clear_browser_option_localStorage": {
+        "message": "localStorage డేటా"
+    },
+    "clear_browser_option_serviceWorkers": {
+        "message": "Service Workers"
+    },
+    "clear_browser_option_webSQL": {
+        "message": "WebSQL డేటా"
+    },
+    "button_select_all": {
+        "message": "అన్నింటిని ఎంచుకోండి"
+    },
+    "button_remove_all": {
+        "message": "అన్నింటిని తీసివేయండి"
+    },
+    "message_select_time_clear_browser_data": {
+        "message": "ఏ సమయంలోపు డేటాను తొలగించాలనుకుంటున్నారు?"
+    },
+    "choice_all_time": {
+        "message": "అన్నింటికీ"
+    },
+    "choice_24h": {
+        "message": "గత 24 గంటలు"
+    },
+    "choice_last_7days": {
+        "message": "గత 7 రోజులు"
+    },
+    "choice_last_30days": {
+        "message": "గత 30 రోజులు"
+    },
+    "button_clear_browser": {
+        "message": "డేటాను తొలగించు"
+    },
+    "title_confirm_delete_browser_data": {
+        "message": "డేటాను తొలగించడాన్ని ధృవీకరించండి"
+    },
+    "description_confirm_delete_browser_data": {
+        "message": "బ్రౌజర్ డేటా తొలగించబడుతుంది, అది తిరిగి రావని."
+    },
+    "tooltip_top_action_share": {
+        "message": "షేర్ చేయండి"
+    },
+    "sidebar_link": {
+        "message": "లింకులు"
+    },
+    "bottom_message_upgrade": {
+        "message": "ఈ రోజు వార్షిక ప్లాన్ ని ఎంచుకుంటే 25% డిస్కౌంట్ పొందండి!"
+    },
+    "about_title": {
+        "message": "ThanhBui గురించి"
+    },
+    "about_content_1": {
+        "message": "నేను ఒక డెవలపర్‌ను. Chrome ఎక్స్‌టెన్షన్లను సృష్టించడాన్ని ఇష్టం. సొసైల్ మీడియా కమ్యూనికేషన్ డెవలప్ చేసి ప్రమోట్ చేయడానికీ సహాయం చేస్తాను."
+    },
+    "about_content_2": {
+        "message": "నాకు సంబంధించిన మరిన్ని సమాచారం తెలుసుకోవటానికి మరియు వెంటనే సంప్రదించడానికి క్రింది సోషల్ మీడియా ప్లాట్‌ఫార్మ్‌లను చూడండి."
+    },
+    "account_type_premium": {
+        "message": "ప్రేమియం"
+    },
+    "account_type_free": {
+        "message": "ఉచితం"
+    },
+    "email": {
+        "message": "ఈ-మెయిల్"
+    },
+    "created_at": {
+        "message": "సృష్టించబడింది"
+    },
+    "expiry_date": {
+        "message": "గడువు తేదీ"
+    },
+    "logout": {
+        "message": "లాగ్ అవుట్"
+    },
+    "buy_coffee_content_1": {
+        "message": "సాఫ్ట్‌వేర్ నిర్వహణకు చాలా సమయం మరియు నిద్రలేని రాత్రులు అవసరం, ప్రధానంగా నేను పని సమయానికి తర్వాత పని చేస్తే."
+    },
+    "buy_coffee_content_2": {
+        "message": "నా పని మీకు నచ్చితే, మీరు నాకు మద్దతు ఇవ్వాలనుకుంటే, దానికంటె కొన్ని మార్గాలు ఉన్నాయి."
+    },
+    "no_support": {
+        "message": "మద్దతునివ్వదానికన్నా"
+    },
+    "feature_suggest_title": {
+        "message": "మీరు ఏ ఫీచర్ ని పెట్టాలనుకుంటున్నారు?"
+    },
+    "feature_suggest_description": {
+        "message": "మీకు ఉపయోగకరమైన ఫీచర్ ను సూచించండి."
+    },
+    "fs_email_description": {
+        "message": "మీ ఈమెయిల్ రాయండి. అవసరమైతే మనం సంప్రదించగలము. (ఐచ్ఛికం)"
+    },
+    "label_fs": {
+        "message": " ఫీచర్ సూచన"
+    },
+    "pl_fs_input": {
+        "message": "మీరు ఉపయోగంచాలనుకునే ఫీచర్"
+    },
+    "payment_fs": {
+        "message": "మీరు ఆ ఫీచర్ కొరకు గడాచారు?"
+    },
+    "button_loading": {
+        "message": "లోడ్ అవుతోంది..."
+    },
+    "button_suggest": {
+        "message": "సూచనను పంపండి"
+    },
+    "website": {
+        "message": "వెబ్సైట్"
+    },
+    "title": {
+        "message": "శీర్షిక"
+    },
+    "title_description": {
+        "message": "మీకు గుర్తుండే పేరు ఇది ఏ వెబ్‌సైట్‌కి సంబంధించిన కుకీ లింకు అనేది గుర్తుపెట్టుకునే సహకారం. (అవసరం)"
+    },
+    "expiration_time": {
+        "message": "వడిగసం తేదీ"
+    },
+    "msg_link_not_found": {
+        "message": "ఆ లింకు కనపడలేదు."
+    },
+    "msg_no_permission": {
+        "message": "మీకు అనుమతి లేదు."
+    },
+    "msg_error": {
+        "message": "సిస్టమ్ లో పొరపాటు జరిగింది."
+    },
+    "share_cookie_title": {
+        "message": "కుకీని పంచుకోండి"
+    },
+    "share_cookie_description": {
+        "message": "ఈ కుకీని పంచాలనుకుంటున్నారా?"
+    },
+    "time_option_1h": {
+        "message": "1 గంట"
+    },
+    "exp_custom": {
+        "message": "అనుకూలం"
+    },
+    "unlimited": {
+        "message": "అపరిమిత"
+    },
+    "type_option_exp_h": {
+        "message": "గంటలు"
+    },
+    "type_option_exp_d": {
+        "message": "రోజులు"
+    },
+    "type_option_exp_m": {
+        "message": "నెలలు"
+    },
+    "type_option_exp_y": {
+        "message": "సంవత్సరాలు"
+    },
+    "msg_title_empty": {
+        "message": "శీర్షిక ఖాళీగా ఉండకూడదు."
+    },
+    "msg_password_empty": {
+        "message": "పాస్వర్డ్ ఖాళీగా ఉండకూడదు."
+    },
+    "msg_password_length": {
+        "message": "పాస్వర్డ్ కనీసం 8 అక్షరాలు ఉండాలి."
+    },
+    "msg_share_error": {
+        "message": "షేరింగ్ విఫలమైంది."
+    },
+    "password_encrypt": {
+        "message": "కుకీ డిక్రిప్ట్ పాస్వర్డ్"
+    },
+    "password_encrypt_description": {
+        "message": "కుకీని పంచేమును ముందే ఒక పాస్వర్డ్‌తో రహస్యపరచండి. దాన్ని లేకుండా మేము చదవలేము. (అవసరం)"
+    },
+    "link_exp": {
+        "message": "లింక్ గడువు ముగుస్తుంది"
+    },
+    "link_exp_description": {
+        "message": "మీరు లింక్ కేవలం ఒక సమయంలో పంచాలనిచూస్తే గడువు తేదీని అడగండి. గడువు అవసరం లేకుంటే ఖాళీగా ఉంచండి."
+    },
+    "public_link_cookie": {
+        "message": "లింక్ ఉన్న ఎవ్వరైనా యాక్సెస్ చేసుకోవచ్చు."
+    },
+    "title_upgrade": {
+        "message": "సాదా ధరలు"
+    },
+    "upgrade_description": {
+        "message": "సాదా, పారదర్శక ధరలు, అపరిమిత సభ్యత్వాలతో. ప్లాన్ మార్చండి లేదా రద్దు చేయండి ఎప్పుడైనా."
+    },
+    "btn_upgrade_month": {
+        "message": "నుండి $3/నెల"
+    },
+    "btn_upgrade_year": {
+        "message": "నుండి $27/సంవత్సరం"
+    },
+    "msg_upgrade": {
+        "message": "Pata punguzo la 25 % — lipa $27/mwaka badala ya $36"
+    },
+    "upgrade_fs_1": {
+        "message": "Usimamizi wa cookie"
+    },
+    "upgrade_fs_2": {
+        "message": "Usimbaji fiche na kusoma fiche"
+    },
+    "upgrade_fs_3": {
+        "message": " Sambaza cookie"
+    },
+    "upgrade_fs_4": {
+        "message": " Hakuna matangazo"
+    },
+    "upgrade_fs_5": {
+        "message": " Msaada"
+    },
+    "remind_login": {
+        "message": "Unahitaji kuunda akaunti kabla ya kusambaza cookie kupitia kiungo."
+    },
+    "remind_login_btn": {
+        "message": "Jisajili sasa"
+    },
+    "remind_upgrade_title": {
+        "message": "Sasisha ili kutumia kipengele hiki."
+    },
+    "remind_upgrade_description": {
+        "message": "Kipengele hiki cha juu kinapatikana tu kwa akaunti zinazolipiwa. Sasisha sasa kupata."
+    },
+    "remind_upgrade_btn": {
+        "message": "Sasisha sasa"
+    },
+    "msg_password_error": {
+        "message": "Nenosiri sio sahihi."
+    },
+    "msg_cookie_error": {
+        "message": "Data ya cookie si sahihi. Tafadhali ingia tena."
+    },
+    "msg_link_exp": {
+        "message": "Kiungo kimekwisha muda wake."
+    },
+    "owner": {
+        "message": "Mmiliki"
+    },
+    "page_import_description": {
+        "message": "Unatumia kipengele cha kuagiza cookie kupitia kiungo kilichoshirikiwa."
     }
 }

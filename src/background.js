@@ -1,7 +1,5 @@
 /*global chrome*/
 
-import {getListHistory} from "./utils/history";
-
 chrome.sidePanel.setPanelBehavior({openPanelOnActionClick: true}).catch((error) => console.error(error));
 
 chrome.action.onClicked.addListener(async (tab ) => {
@@ -18,27 +16,28 @@ chrome.runtime.onInstalled.addListener(details => {
         chrome.tabs.create({url: `https://cookieeditor.org/?install_success=true&ref=https://chromewebstore.google.com/`, active: true});
         chrome.runtime.setUninstallURL('https://forms.gle/tCy1URDSXn8yqJ8H7');
     } else if (details.reason === chrome.runtime.OnInstalledReason.UPDATE) {
-
+        // chrome.tabs.create({url: `https://cookieeditor.org/changelog`, active: true});
     }
 });
 
-chrome.tabs.onUpdated.addListener(async (tabId, changeInfo, tab) => {
-    if (changeInfo.status === "complete") {
-        const listHistory = await getListHistory();
-        if (listHistory.length > 0) {
-            const url = tab.url;
-            if (url.startsWith("http")) {
-                const urlArray = url.split("/");
-                const domain = `${urlArray[0]}//${urlArray[2]}`;
-            }
-        }
+chrome.tabs.onUpdated.addListener((tabId, changeInfo, tab) => {
+    if (tab?.url.startsWith("https://cookieeditor.org/cookie/link/")) {
+        chrome.tabs.update(tabId, { url: tab?.url.replace("https://cookieeditor.org/cookie/link/", `chrome-extension://${chrome.runtime.id}/pages/import.html?cookie_id=`)});
     }
-})
+});
 
-chrome.tabs.onRemoved.addListener(async (e) => {
-    setTimeout(() => {
+chrome.runtime.onMessageExternal.addListener((request, sender, sendResponse) => {
+    switch (request.action) {
+        case "check_install":
+            sendResponse({status: true});
+            break;
 
-    }, 5000)
+        default:
+            sendResponse({status: true});
+            break;
+    }
+
+    return true;
 })
 
 chrome.runtime.onMessage.addListener(function (request, sender, sendResponse) {
@@ -48,7 +47,8 @@ chrome.runtime.onMessage.addListener(function (request, sender, sendResponse) {
             return true;
 
         default:
-        //todo
+            sendResponse({status: true});
+            break
     }
 });
 const sendGoogleAnalytics = async (data, callback) => {

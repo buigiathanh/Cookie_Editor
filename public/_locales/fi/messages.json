@@ -202,5 +202,296 @@
     },
     "description_buy_me_a_coffee": {
         "message": "Jos pidät siitä, harkitse tukemista minua"
+    },
+    "sidebar_clear_browser": {
+        "message": "Tyhjennä selaimen tiedot"
+    },
+    "sidebar_upgrade": {
+        "message": "Päivitä"
+    },
+    "sidebar_feature_suggestion": {
+        "message": "Ehdota ominaisuutta"
+    },
+    "sidebar_buy_coffee": {
+        "message": "Tarjoa kahvi"
+    },
+    "sidebar_open_source": {
+        "message": "Avoin lähdekoodi"
+    },
+    "clear_browser_title": {
+        "message": "TYHJENNÄ SELAIMEN TIEDOT"
+    },
+    "clear_browser_description": {
+        "message": "Tyhjennä kaikki selaustiedot yhdellä napsautuksella."
+    },
+    "clear_browser_option_appcache": {
+        "message": "Sivustojen sovellusvälimuistit"
+    },
+    "clear_browser_option_cache": {
+        "message": "Selaimen välimuisti"
+    },
+    "clear_browser_option_cacheStorage": {
+        "message": "Välimuistitallennus"
+    },
+    "clear_browser_option_cookies": {
+        "message": "Evästeet"
+    },
+    "clear_browser_option_downloads": {
+        "message": "Selaimen latauslista"
+    },
+    "clear_browser_option_history": {
+        "message": "Selaushistoria"
+    },
+    "clear_browser_option_formData": {
+        "message": "Tallennetut lomaketiedot"
+    },
+    "clear_browser_option_fileSystems": {
+        "message": "Sivustojen tiedostojärjestelmät"
+    },
+    "clear_browser_option_indexedDB": {
+        "message": "Sivustojen IndexedDB-tiedot"
+    },
+    "clear_browser_option_localStorage": {
+        "message": "Sivustojen paikallinen tallennus"
+    },
+    "clear_browser_option_serviceWorkers": {
+        "message": "Service Workerit"
+    },
+    "clear_browser_option_webSQL": {
+        "message": "Sivustojen WebSQL-tiedot"
+    },
+    "button_select_all": {
+        "message": "Valitse kaikki"
+    },
+    "button_remove_all": {
+        "message": "Poista kaikki"
+    },
+    "message_select_time_clear_browser_data": {
+        "message": "Miltä ajanjaksolta haluat poistaa tiedot?"
+    },
+    "choice_all_time": {
+        "message": "Kaikki ajanjaksot"
+    },
+    "choice_24h": {
+        "message": "Viimeiset 24 tuntia"
+    },
+    "choice_last_7days": {
+        "message": "Viimeiset 7 päivää"
+    },
+    "choice_last_30days": {
+        "message": "Viimeiset 30 päivää"
+    },
+    "button_clear_browser": {
+        "message": "Tyhjennä selaimen tiedot"
+    },
+    "title_confirm_delete_browser_data": {
+        "message": "VAHVISTA SELAINTIETOJEN POISTO"
+    },
+    "description_confirm_delete_browser_data": {
+        "message": "Selaintiedot poistetaan eikä niitä voi palauttaa."
+    },
+    "tooltip_top_action_share": {
+        "message": "Jaa"
+    },
+    "sidebar_link": {
+        "message": "Linkit"
+    },
+    "bottom_message_upgrade": {
+        "message": "Nauti 25 % alennuksesta päivittämällä vuoden tilaukseen jo tänään!"
+    },
+    "about_title": {
+        "message": "Tietoa ThanhBuista"
+    },
+    "about_content_1": {
+        "message": "Olen kehittäjä ja rakastan luoda Chrome-laajennuksia. Autan sinua kehittämään ja markkinoimaan sosiaalista mediaa."
+    },
+    "about_content_2": {
+        "message": "Voit oppia lisää minusta ja ottaa yhteyttä seuraavien sosiaalisen median kanavien kautta."
+    },
+    "account_type_premium": {
+        "message": "Premium"
+    },
+    "account_type_free": {
+        "message": "Ilmainen"
+    },
+    "email": {
+        "message": "Sähköposti"
+    },
+    "created_at": {
+        "message": "Luotu"
+    },
+    "expiry_date": {
+        "message": "Vanhentumispäivä"
+    },
+    "logout": {
+        "message": "Kirjaudu ulos"
+    },
+    "buy_coffee_content_1": {
+        "message": "Ohjelmiston ylläpito vie paljon aikaa ja usein myös unettomia öitä – etenkin kun teen sitä päivätyön ohella."
+    },
+    "buy_coffee_content_2": {
+        "message": "Jos arvostat työtäni ja haluat tukea sitä, tässä on muutamia tapoja tehdä se."
+    },
+    "no_support": {
+        "message": "En halua tukea."
+    },
+    "feature_suggest_title": {
+        "message": "Mitä ominaisuutta haluaisit meidän lisäävän?"
+    },
+    "feature_suggest_description": {
+        "message": "Ehdota tarvittavaa ominaisuutta, jos haluat että kehitämme sen."
+    },
+    "fs_email_description": {
+        "message": "Syötä sähköpostiosoitteesi. Voimme ottaa sinuun yhteyttä, jos tarvitsemme lisätietoja. (valinnainen)"
+    },
+    "label_fs": {
+        "message": " Ominaisuusehdotus"
+    },
+    "pl_fs_input": {
+        "message": "Ominaisuus, jonka haluaisit seuraavaksi"
+    },
+    "payment_fs": {
+        "message": "Olisitko valmis maksamaan tästä ominaisuudesta?"
+    },
+    "button_loading": {
+        "message": "Ladataan..."
+    },
+    "button_suggest": {
+        "message": "Ehdota"
+    },
+    "website": {
+        "message": "Verkkosivusto"
+    },
+    "title": {
+        "message": "Otsikko"
+    },
+    "title_description": {
+        "message": "Helposti muistettava nimi, joka auttaa tunnistamaan, mihin sivustoon evästelinkki liittyy. (Pakollinen)"
+    },
+    "expiration_time": {
+        "message": "Vanhentumisaika"
+    },
+    "msg_link_not_found": {
+        "message": "Tätä linkkiä ei ole olemassa."
+    },
+    "msg_no_permission": {
+        "message": "Sinulla ei ole tarvittavia oikeuksia."
+    },
+    "msg_error": {
+        "message": "Tapahtui järjestelmävirhe."
+    },
+    "share_cookie_title": {
+        "message": "JAA EVÄSTE"
+    },
+    "share_cookie_description": {
+        "message": "Haluatko jakaa evästeen?"
+    },
+    "time_option_1h": {
+        "message": "1 tunti"
+    },
+    "exp_custom": {
+        "message": "Mukautettu"
+    },
+    "unlimited": {
+        "message": "Rajaton"
+    },
+    "type_option_exp_h": {
+        "message": "Tunnit"
+    },
+    "type_option_exp_d": {
+        "message": "Päivät"
+    },
+    "type_option_exp_m": {
+        "message": "Kuukaudet"
+    },
+    "type_option_exp_y": {
+        "message": "Vuodet"
+    },
+    "msg_title_empty": {
+        "message": "Otsikko ei saa olla tyhjä."
+    },
+    "msg_password_empty": {
+        "message": "Salasana ei saa olla tyhjä."
+    },
+    "msg_password_length": {
+        "message": "Salasanan on oltava vähintään 8 merkkiä pitkä."
+    },
+    "msg_share_error": {
+        "message": "Jakaminen epäonnistui."
+    },
+    "password_encrypt": {
+        "message": "Salasana evästeiden salaukseen"
+    },
+    "password_encrypt_description": {
+        "message": "Syötä salasana evästeen salaamiseen ennen jakamista. Näin edes me emme näe sisältöä ilman salasanaa. (Pakollinen)"
+    },
+    "link_exp": {
+        "message": "Linkin vanhentumisaika"
+    },
+    "link_exp_description": {
+        "message": "Anna linkin vanhentumisaika, jos haluat sen olevan voimassa vain rajoitetun ajan. Jätä tyhjäksi, jos et halua määrittää aikarajaa."
+    },
+    "public_link_cookie": {
+        "message": "Kuka tahansa voi käyttää jakamaasi linkkiä."
+    },
+    "title_upgrade": {
+        "message": "Yksinkertainen hinnoittelu"
+    },
+    "upgrade_description": {
+        "message": "Yksinkertainen ja läpinäkyvä hinnoittelu ilman tilaajamäärärajoja. Vaihda tai peru milloin tahansa."
+    },
+    "btn_upgrade_month": {
+        "message": "Alkaen 3 $/kk"
+    },
+    "btn_upgrade_year": {
+        "message": "Alkaen 27 $/vuosi"
+    },
+    "msg_upgrade": {
+        "message": "Säästä 25 % — maksa vain 27 $/vuosi (norm. 36 $)"
+    },
+    "upgrade_fs_1": {
+        "message": "Evästeiden hallinta"
+    },
+    "upgrade_fs_2": {
+        "message": "Salaus ja salauksen purku"
+    },
+    "upgrade_fs_3": {
+        "message": " Evästeiden jakaminen"
+    },
+    "upgrade_fs_4": {
+        "message": " Ei mainoksia"
+    },
+    "upgrade_fs_5": {
+        "message": " Tuki"
+    },
+    "remind_login": {
+        "message": "Sinun täytyy luoda tili ennen kuin voit jakaa evästeen linkillä."
+    },
+    "remind_login_btn": {
+        "message": "Rekisteröidy nyt"
+    },
+    "remind_upgrade_title": {
+        "message": "Päivitä käyttääksesi tätä ominaisuutta."
+    },
+    "remind_upgrade_description": {
+        "message": "Tämä edistynyt ominaisuus on käytettävissä vain maksullisille tileille. Päivitä nyt saadaksesi käyttöoikeuden."
+    },
+    "remind_upgrade_btn": {
+        "message": "Päivitä nyt"
+    },
+    "msg_password_error": {
+        "message": "Salasana on virheellinen."
+    },
+    "msg_cookie_error": {
+        "message": "Virheellinen evästetieto. Kirjaudu sisään uudelleen."
+    },
+    "msg_link_exp": {
+        "message": "Linkki on vanhentunut."
+    },
+    "owner": {
+        "message": "Omistaja"
+    },
+    "page_import_description": {
+        "message": "Käytät evästeiden tuontitoimintoa jaettua linkkiä käyttäen."
     }
 }

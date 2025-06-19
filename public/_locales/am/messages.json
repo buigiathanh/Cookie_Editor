@@ -202,5 +202,296 @@
     },
     "description_buy_me_a_coffee": {
         "message": "ከወደዱት, እኔን ለመደገፍ አስቡ"
+    },
+    "sidebar_clear_browser": {
+        "message": "የድረ-ገጽ መረጃ አጥፋ"
+    },
+    "sidebar_upgrade": {
+        "message": "አሻሽል"
+    },
+    "sidebar_feature_suggestion": {
+        "message": "የባህሪ አስተያየት"
+    },
+    "sidebar_buy_coffee": {
+        "message": "ቡና ይግዙልኝ"
+    },
+    "sidebar_open_source": {
+        "message": "ክፍት ምንጭ"
+    },
+    "clear_browser_title": {
+        "message": "የድረ-ገጽ መረጃ ማጥፋት"
+    },
+    "clear_browser_description": {
+        "message": "ሁሉንም የድረ-ገጽ መረጃዎችን በአንድ ጠቅ ማድረግ አጥፋ።"
+    },
+    "clear_browser_option_appcache": {
+        "message": "የድረ-ገጽ መተግበሪያ ኬሶች።"
+    },
+    "clear_browser_option_cache": {
+        "message": "የድረ-ገጽ ኬስ"
+    },
+    "clear_browser_option_cacheStorage": {
+        "message": "ኬስ ማከማቻ"
+    },
+    "clear_browser_option_cookies": {
+        "message": "ኩኪዎች"
+    },
+    "clear_browser_option_downloads": {
+        "message": "የድረ-ገጽ የማውረጃ ዝርዝር"
+    },
+    "clear_browser_option_history": {
+        "message": "የድረ-ገጽ ታሪክ"
+    },
+    "clear_browser_option_formData": {
+        "message": "የተቀማጭ ቅጽ መረጃ"
+    },
+    "clear_browser_option_fileSystems": {
+        "message": "የድረ-ገጽ ፋይል ስርዓቶች"
+    },
+    "clear_browser_option_indexedDB": {
+        "message": "የድረ-ገጽ IndexedDB መረጃ"
+    },
+    "clear_browser_option_localStorage": {
+        "message": "የድረ-ገጽ አካባቢያዊ ማከማቻ መረጃ"
+    },
+    "clear_browser_option_serviceWorkers": {
+        "message": "አገልግሎት ሰራተኞች"
+    },
+    "clear_browser_option_webSQL": {
+        "message": "የድረ-ገጽ WebSQL መረጃ"
+    },
+    "button_select_all": {
+        "message": "ሁሉንም ምረጥ"
+    },
+    "button_remove_all": {
+        "message": "ሁሉንም አስወግድ"
+    },
+    "message_select_time_clear_browser_data": {
+        "message": "ለምን ያህል ጊዜ መረጃ ማጥፋት ይፈልጋሉ?"
+    },
+    "choice_all_time": {
+        "message": "ሁሉም ጊዜ"
+    },
+    "choice_24h": {
+        "message": "24 ሰዓት"
+    },
+    "choice_last_7days": {
+        "message": "ያለፉት 7 ቀናት"
+    },
+    "choice_last_30days": {
+        "message": "ያለፉት 30 ቀናት"
+    },
+    "button_clear_browser": {
+        "message": "የድረ-ገጽ መረጃ አጥፋ"
+    },
+    "title_confirm_delete_browser_data": {
+        "message": "የድረ-ገጽ መረጃ ማጥፋት አረጋግጥ"
+    },
+    "description_confirm_delete_browser_data": {
+        "message": "የድረ-ገጽ መረጃ ይጠፋል እና መመለስ አይቻልም።"
+    },
+    "tooltip_top_action_share": {
+        "message": "አጋራ"
+    },
+    "sidebar_link": {
+        "message": "አገናኞች"
+    },
+    "bottom_message_upgrade": {
+        "message": "ዛሬ 1-ዓመት እቅድ ሲገዙ 25% ቅናሽ ያግኙ!"
+    },
+    "about_title": {
+        "message": "ስለ ታንብዩ"
+    },
+    "about_content_1": {
+        "message": "እኔ አበልጻጊ ነኝ እና የChrome መስፋፋቶችን መፍጠር እወዳለሁ። ማህበራዊ ሚዲያ ግንኙነቶችን ለማዳበር እና ለገበያ ማስተዋወቅ ይረዳዎታል።"
+    },
+    "about_content_2": {
+        "message": "በሚከተሉት ማህበራዊ ሚዲያ መድረኮች ላይ ስለእኔ ተጨማሪ ማወቅ እና እንደገና ማግኘት ይችላሉ።"
+    },
+    "account_type_premium": {
+        "message": "ፕሪሚየም"
+    },
+    "account_type_free": {
+        "message": "ነፃ"
+    },
+    "email": {
+        "message": "ኢሜይል"
+    },
+    "created_at": {
+        "message": "በተፈጠረበት ጊዜ"
+    },
+    "expiry_date": {
+        "message": "የማብቂያ ቀን"
+    },
+    "logout": {
+        "message": "ውጣ"
+    },
+    "buy_coffee_content_1": {
+        "message": "የሶፍትዌር ጥገና ብዙ ጊዜ �ስቶኛል እና ብዙ ሌሊት ሰዓቶችን ይወስዳል፣ በተለይም ከመደበኛ የቀን ስራዬ በኋላ ስሰራው።"
+    },
+    "buy_coffee_content_2": {
+        "message": "ስራዬን ከደስታችሁ እና ስሜታችሁን ለማሳየት ከፈለጋችሁ፣ የሚደግፉኝ ብዙ መንገዶች አሉ።"
+    },
+    "no_support": {
+        "message": "ድጋፍ ማድረግ አልፈልግም።"
+    },
+    "feature_suggest_title": {
+        "message": "ምን ዓይነት ባህሪ ማከል ይፈልጋሉ?"
+    },
+    "feature_suggest_description": {
+        "message": "ተጨማሪ ለማዳበር ከፈለጉ አስፈላጊ ባህሪ ያቅርቡ።"
+    },
+    "fs_email_description": {
+        "message": "ኢሜይል አድራሻዎን ያስገቡ። ጥያቄዎን ለማብራራት ከፈለግን እናግኝዎታለን። (አማራጭ)"
+    },
+    "label_fs": {
+        "message": "የባህሪ አስተያየት"
+    },
+    "pl_fs_input": {
+        "message": "ቀጥሎ የምንዘጋጅበትን ባህሪ"
+    },
+    "payment_fs": {
+        "message": "ለዚያ ባህሪ ክፍያ መፈጸም ይፈልጋሉ?"
+    },
+    "button_loading": {
+        "message": "በመጫን ላይ ..."
+    },
+    "button_suggest": {
+        "message": "አስተያየት ስጥ"
+    },
+    "website": {
+        "message": "ድረ-ገጽ"
+    },
+    "title": {
+        "message": "ርዕስ"
+    },
+    "title_description": {
+        "message": "የኩኪ አገናኙ ለማንኛውም ድረ-ገጽ እንደሚዛመድ ለማወቅ የሚረዳ የማስታወሻ ስም። (ያስፈልጋል)"
+    },
+    "expiration_time": {
+        "message": "የማብቃት ጊዜ"
+    },
+    "msg_link_not_found": {
+        "message": "ይህ አገናኝ የለም።"
+    },
+    "msg_no_permission": {
+        "message": "አስፈላጊ ፈቃዶች የሉዎትም።"
+    },
+    "msg_error": {
+        "message": "የስርዓት ስህተት ተከስቷል።"
+    },
+    "share_cookie_title": {
+        "message": "ኩኪ አጋራ"
+    },
+    "share_cookie_description": {
+        "message": "ኩኪውን ማጋራት ይፈልጋሉ?"
+    },
+    "time_option_1h": {
+        "message": "1 ሰዓት"
+    },
+    "exp_custom": {
+        "message": "ብጁ"
+    },
+    "unlimited": {
+        "message": "ያልተገደበ"
+    },
+    "type_option_exp_h": {
+        "message": "ሰዓታት"
+    },
+    "type_option_exp_d": {
+        "message": "ቀናት"
+    },
+    "type_option_exp_m": {
+        "message": "ወራት"
+    },
+    "type_option_exp_y": {
+        "message": "ዓመታት"
+    },
+    "msg_title_empty": {
+        "message": "ርዕሱ ባዶ ሊሆን አይችልም።"
+    },
+    "msg_password_empty": {
+        "message": "የይለፍ ቃሉ ባዶ ሊሆን አይችልም።"
+    },
+    "msg_password_length": {
+        "message": "የይለፍ ቃሉ ቢያንስ 8 ቁምፊዎች ሊኖሩት ይገባል።"
+    },
+    "msg_share_error": {
+        "message": "ማጋራቱ አልተሳካም።"
+    },
+    "password_encrypt": {
+        "message": "ኩኪዎችን ለመፍታት የይለፍ ቃል"
+    },
+    "password_encrypt_description": {
+        "message": "ኩኪውን ከመጋራትዎ በፊት �መጠቅለል የይለፍ ቃል ያስገቡ። ይህ የይለፍ ቃሉ ሳይኖር እኛ እንኳን ይዘቱን ማንበብ እንደማንችል ያረጋግጣል። (ያስፈልጋል)"
+    },
+    "link_exp": {
+        "message": "የአገናኝ የማብቃት ጊዜ"
+    },
+    "link_exp_description": {
+        "message": "አገናኙን ለተወሰነ ጊዜ ማጋራት ከፈለጉ የማብቃት ጊዜ ያስገቡ። የማብቃት ጊዜ ካልፈለጉ ባዶ ይተዉት።"
+    },
+    "public_link_cookie": {
+        "message": "ሁሉም ሰው ያጋራኸውን አገናኝ መድረስ ይችላል።"
+    },
+    "title_upgrade": {
+        "message": "ቀላል የዋጋ አሰጣጥ"
+    },
+    "upgrade_description": {
+        "message": "ቀላል፣ ግልጽ የዋጋ አሰጣጥ ያለምንም ገደብ የደንበኞች። እቅዶችን መቀየር ወይም በማንኛውም ጊዜ ማቆም ይችላሉ።"
+    },
+    "btn_upgrade_month": {
+        "message": "ከ$3/ወር ጀምር"
+    },
+    "btn_upgrade_year": {
+        "message": "ከ$27/ዓመት ጀምር"
+    },
+    "msg_upgrade": {
+        "message": "25% ቅናሽ ያግኙ — ከ$36 ይልቅ $27/ዓመት ብቻ ይክፈሉ"
+    },
+    "upgrade_fs_1": {
+        "message": "ኩኪ አስተዳደር"
+    },
+    "upgrade_fs_2": {
+        "message": "ምስጢር እና መፍታት"
+    },
+    "upgrade_fs_3": {
+        "message": "ኩኪዎችን አጋራ"
+    },
+    "upgrade_fs_4": {
+        "message": "ማስታወቂያ የለም"
+    },
+    "upgrade_fs_5": {
+        "message": "ድጋፍ"
+    },
+    "remind_login": {
+        "message": "ኩኪውን በአገናኝ ከመጋራትዎ በፊት መለያ መፍጠር አለብዎት።"
+    },
+    "remind_login_btn": {
+        "message": "አሁን ይመዝገቡ"
+    },
+    "remind_upgrade_title": {
+        "message": "ይህን ባህሪ ለመጠቀም እባክዎ ይሻሽሉ።"
+    },
+    "remind_upgrade_description": {
+        "message": "ይህ የላቀ ባህሪ �ንደ ለክፍያ የሚያደርጉ መለያዎች ብቻ ይገኛል። አሁን ለመድረስ ይሻሽሉ።"
+    },
+    "remind_upgrade_btn": {
+        "message": "አሁን ይሻሽሉ"
+    },
+    "msg_password_error": {
+        "message": "የሚስጥር የይለፍ ቃሉ �ስትኳኪ ነው።"
+    },
+    "msg_cookie_error": {
+        "message": "የማያገለግል የኩኪ መረጃ። እባክዎ እንደገና ይግቡ።"
+    },
+    "msg_link_exp": {
+        "message": "አገናኙ ጊዜው አልፎበታል።"
+    },
+    "owner": {
+        "message": "ባለቤት"
+    },
+    "page_import_description": {
+        "message": "እርስዎ የኩኪ አገናኝ በጋራ አገናኝ በመጠቀም የማስገባት ባህሪን እየተጠቀሙ ነው።"
     }
 }

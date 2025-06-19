@@ -54,15 +54,15 @@ const FeatureSuggest = () => {
                                 animate={{opacity: 1, y: 0}}
                                 exit={{opacity: 0, y: 50}}
                                 transition={{duration: 0.5, ease: "easeOut"}}
-                                className={`fixed bottom-[60px] left-0 p-[10px]`}
+                                className={`fixed ${settingStore.show_ads ? "bottom-[60px]" : "bottom-[10px]"} left-0 p-[10px]`}
                                 style={{zIndex: 50, width: "calc(100% - 50px)"}}
                             >
                                 <div className={`bg-white rounded-[10px] p-5`}>
                                     <p className={`font-bold text-[14px] uppercase mb-2`}>
-                                        What feature would you like to see added?
+                                        {extension.getLang("feature_suggest_title")}
                                     </p>
                                     <p className={`text-[12px] mb-5`}>
-                                        Suggest a necessary feature if you'd like us to develop it further.
+                                        {extension.getLang("feature_suggest_description")}
                                     </p>
                                     <div className={`w-full mb-5`}>
                                         <label
@@ -77,20 +77,19 @@ const FeatureSuggest = () => {
                                             className="bg-gray-50 border border-gray-300 text-gray-900 text-[12px] rounded-lg block w-full p-2.5 mb-1"
                                         />
                                         <p className={`text-gray-500`}>
-                                            Enter your email address. We may contact you if we need to clarify your request.
-                                            (optional)
+                                            {extension.getLang("fs_email_description")}
                                         </p>
                                     </div>
                                     <div className={`w-full mb-5`}>
                                         <label
                                             htmlFor="hostOnly"
                                             className="block mb-2 text-[12px] font-medium text-gray-900">
-                                            Feature Suggest <span className={`text-red-500`}>(*)</span>
+                                            {extension.getLang("label_fs")} <span className={`text-red-500`}>(*)</span>
                                         </label>
                                         <textarea
                                             onChange={(e) => setFeature(e.target.value)}
                                             rows={5}
-                                            placeholder={"A feature you’d like us to develop next"}
+                                            placeholder={extension.getLang("pl_fs_input")}
                                             className="bg-gray-50 border border-gray-300 text-gray-900 text-[12px] rounded-lg block w-full p-2.5 mb-1"
                                         />
                                     </div>
@@ -108,7 +107,7 @@ const FeatureSuggest = () => {
                                         <label
                                             htmlFor={`checkbox_payment`}
                                             className="pl-2 text-[12px] cursor-pointer font-medium text-gray-900">
-                                            Would you be willing to pay for that feature?
+                                            {extension.getLang("payment_fs")}
                                         </label>
                                     </div>
                                     <div className={`w-full flex justify-between`}>
@@ -116,7 +115,7 @@ const FeatureSuggest = () => {
                                             <button
                                                 onClick={handleSuggest}
                                                 className={`h-[40px] w-full rounded-[10px] bg-blue-500 text-white px-5`}>
-                                                {isLoading ? "Loading ..." : "Suggest"}
+                                                {isLoading ? extension.getLang("button_loading") : extension.getLang("button_suggest")}
                                             </button>
                                         </div>
                                         <div className={"inline-block w-[39%]"}>

@@ -202,5 +202,296 @@
     },
     "description_buy_me_a_coffee": {
         "message": "Jika anda menyukainya, pertimbangkan untuk menyokong saya"
+    },
+    "sidebar_clear_browser": {
+        "message": "Kosongkan data pelayar"
+    },
+    "sidebar_upgrade": {
+        "message": "Tingkatkan"
+    },
+    "sidebar_feature_suggestion": {
+        "message": "Cadangan ciri"
+    },
+    "sidebar_buy_coffee": {
+        "message": "Belikan saya kopi"
+    },
+    "sidebar_open_source": {
+        "message": "Sumber Terbuka"
+    },
+    "clear_browser_title": {
+        "message": "KOSONGKAN DATA PELAYAR"
+    },
+    "clear_browser_description": {
+        "message": "Padam semua data pelayaran dengan satu klik."
+    },
+    "clear_browser_option_appcache": {
+        "message": "Appcache laman web"
+    },
+    "clear_browser_option_cache": {
+        "message": "Cache pelayar"
+    },
+    "clear_browser_option_cacheStorage": {
+        "message": "Penyimpanan cache"
+    },
+    "clear_browser_option_cookies": {
+        "message": "Kuki"
+    },
+    "clear_browser_option_downloads": {
+        "message": "Senarai muat turun pelayar"
+    },
+    "clear_browser_option_history": {
+        "message": "Sejarah pelayaran"
+    },
+    "clear_browser_option_formData": {
+        "message": "Data borang tersimpan"
+    },
+    "clear_browser_option_fileSystems": {
+        "message": "Sistem fail laman web"
+    },
+    "clear_browser_option_indexedDB": {
+        "message": "Data IndexedDB laman web"
+    },
+    "clear_browser_option_localStorage": {
+        "message": "Data localStorage laman web"
+    },
+    "clear_browser_option_serviceWorkers": {
+        "message": "Service Worker"
+    },
+    "clear_browser_option_webSQL": {
+        "message": "Data WebSQL laman web"
+    },
+    "button_select_all": {
+        "message": "Pilih semua"
+    },
+    "button_remove_all": {
+        "message": "Buang semua"
+    },
+    "message_select_time_clear_browser_data": {
+        "message": "Untuk tempoh masa manakah anda ingin memadam data?"
+    },
+    "choice_all_time": {
+        "message": "Sepanjang masa"
+    },
+    "choice_24h": {
+        "message": "24 jam terakhir"
+    },
+    "choice_last_7days": {
+        "message": "7 hari terakhir"
+    },
+    "choice_last_30days": {
+        "message": "30 hari terakhir"
+    },
+    "button_clear_browser": {
+        "message": "Kosongkan data"
+    },
+    "title_confirm_delete_browser_data": {
+        "message": "SAHKAN PENGHAPUSAN DATA"
+    },
+    "description_confirm_delete_browser_data": {
+        "message": "Data pelayar akan dipadam dan tidak dapat dipulihkan."
+    },
+    "tooltip_top_action_share": {
+        "message": "Kongsi"
+    },
+    "sidebar_link": {
+        "message": "Pautan"
+    },
+    "bottom_message_upgrade": {
+        "message": "Nikmati diskaun 25% apabila anda menaik taraf ke pelan tahunan hari ini!"
+    },
+    "about_title": {
+        "message": "Tentang ThanhBui"
+    },
+    "about_content_1": {
+        "message": "Saya seorang pembangun dan suka mencipta sambungan Chrome. Saya membantu membangun dan mempromosikan komunikasi media sosial."
+    },
+    "about_content_2": {
+        "message": "Pelajari lebih lanjut tentang saya dan hubungi melalui platform sosial berikut."
+    },
+    "account_type_premium": {
+        "message": "Premium"
+    },
+    "account_type_free": {
+        "message": "Percuma"
+    },
+    "email": {
+        "message": "E-mel"
+    },
+    "created_at": {
+        "message": "Dicipta pada"
+    },
+    "expiry_date": {
+        "message": "Tarikh luput"
+    },
+    "logout": {
+        "message": "Log keluar"
+    },
+    "buy_coffee_content_1": {
+        "message": "Penyelenggaraan perisian memerlukan banyak masa dan malam tanpa tidur, terutama apabila saya menyelesaikannya selepas waktu kerja."
+    },
+    "buy_coffee_content_2": {
+        "message": "Jika anda menghargai kerja saya dan ingin menyokong, terdapat beberapa cara anda boleh membantu."
+    },
+    "no_support": {
+        "message": "Saya tidak mahu menyokong."
+    },
+    "feature_suggest_title": {
+        "message": "Ciri apa yang anda mahu kami tambahkan?"
+    },
+    "feature_suggest_description": {
+        "message": "Cadangkan ciri penting jika anda mahu kami kembangkannya lebih lanjut."
+    },
+    "fs_email_description": {
+        "message": "Masukkan e-mel anda. Kami mungkin akan menghubungi untuk penjelasan. (pilihan)"
+    },
+    "label_fs": {
+        "message": " Cadangan ciri"
+    },
+    "pl_fs_input": {
+        "message": "Ciri yang anda mahu dibangunkan seterusnya"
+    },
+    "payment_fs": {
+        "message": "Adakah anda sanggup membayar untuk ciri tersebut?"
+    },
+    "button_loading": {
+        "message": "Memuatkan ..."
+    },
+    "button_suggest": {
+        "message": "Hantar cadangan"
+    },
+    "website": {
+        "message": "Laman web"
+    },
+    "title": {
+        "message": "Tajuk"
+    },
+    "title_description": {
+        "message": "Nama yang mudah diingati untuk membantu mengenal pasti laman web mana pautan kuki ini. (Wajib)"
+    },
+    "expiration_time": {
+        "message": "Masa tamat"
+    },
+    "msg_link_not_found": {
+        "message": "Pautan ini tidak wujud."
+    },
+    "msg_no_permission": {
+        "message": "Anda tidak mempunyai kebenaran yang diperlukan."
+    },
+    "msg_error": {
+        "message": "Ralat sistem berlaku."
+    },
+    "share_cookie_title": {
+        "message": "KONGSI KUKI"
+    },
+    "share_cookie_description": {
+        "message": "Adakah anda mahu berkongsi kuki ini?"
+    },
+    "time_option_1h": {
+        "message": "1 jam"
+    },
+    "exp_custom": {
+        "message": "Tersuai"
+    },
+    "unlimited": {
+        "message": "Tanpa had"
+    },
+    "type_option_exp_h": {
+        "message": "Jam"
+    },
+    "type_option_exp_d": {
+        "message": "Hari"
+    },
+    "type_option_exp_m": {
+        "message": "Bulan"
+    },
+    "type_option_exp_y": {
+        "message": "Tahun"
+    },
+    "msg_title_empty": {
+        "message": "Tajuk tidak boleh kosong."
+    },
+    "msg_password_empty": {
+        "message": "Kata laluan tidak boleh kosong."
+    },
+    "msg_password_length": {
+        "message": "Kata laluan mesti sekurang-kurangnya 8 aksara."
+    },
+    "msg_share_error": {
+        "message": "Perkongsian gagal."
+    },
+    "password_encrypt": {
+        "message": "Kata laluan untuk nyahsulit kuki"
+    },
+    "password_encrypt_description": {
+        "message": "Masukkan kata laluan untuk menyulitkan kuki sebelum dikongsi. Ini memastikan walaupun kami tidak dapat membacanya tanpa kata laluan. (Wajib)"
+    },
+    "link_exp": {
+        "message": "Tamat pautan"
+    },
+    "link_exp_description": {
+        "message": "Masukkan tempoh tamat jika anda mahu berkongsi pautan untuk tempoh terhad sahaja. Kosongkan jika tiada tamat."
+    },
+    "public_link_cookie": {
+        "message": "Sesiapa yang mempunyai pautan boleh mengaksesnya."
+    },
+    "title_upgrade": {
+        "message": "Harga mudah"
+    },
+    "upgrade_description": {
+        "message": "Harga mudah dan telus dengan pelanggan tanpa had. Tukar pelan atau batal bila-bila masa."
+    },
+    "btn_upgrade_month": {
+        "message": "Dari $3/bulan"
+    },
+    "btn_upgrade_year": {
+        "message": "Dari $27/tahun"
+    },
+    "msg_upgrade": {
+        "message": "Jimpat 25% — bayar hanya $27/tahun, bukannya $36"
+    },
+    "upgrade_fs_1": {
+        "message": "Pengurusan kuki"
+    },
+    "upgrade_fs_2": {
+        "message": "Penyulitan dan penyahsulitan"
+    },
+    "upgrade_fs_3": {
+        "message": " Kongsi kuki"
+    },
+    "upgrade_fs_4": {
+        "message": " Tanpa iklan"
+    },
+    "upgrade_fs_5": {
+        "message": " Sokongan"
+    },
+    "remind_login": {
+        "message": "Anda mesti membuat akaun sebelum berkongsi kuki melalui pautan."
+    },
+    "remind_login_btn": {
+        "message": "Daftar sekarang"
+    },
+    "remind_upgrade_title": {
+        "message": "Sila tingkatkan untuk menggunakan ciri ini."
+    },
+    "remind_upgrade_description": {
+        "message": "Ciri lanjutan ini hanya tersedia untuk akaun berbayar. Tingkatkan sekarang untuk mendapat akses."
+    },
+    "remind_upgrade_btn": {
+        "message": "Tingkatkan sekarang"
+    },
+    "msg_password_error": {
+        "message": "Kata laluan tidak sah."
+    },
+    "msg_cookie_error": {
+        "message": "Maklumat kuki tidak sah. Sila log masuk semula."
+    },
+    "msg_link_exp": {
+        "message": "Pautan telah tamat tempoh."
+    },
+    "owner": {
+        "message": "Pemilik"
+    },
+    "page_import_description": {
+        "message": "Anda menggunakan ciri import kuki melalui pautan yang dikongsi."
     }
 }

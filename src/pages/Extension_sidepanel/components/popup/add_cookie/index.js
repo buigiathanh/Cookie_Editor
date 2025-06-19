@@ -100,8 +100,8 @@ const AddCookie = () => {
                                             rows={3}
                                             onChange={(e) => handleAddCookie("value", e.target.value)}
                                             className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg block w-full p-2">
-                                {cookie?.value}
-                            </textarea>
+                                            {cookie?.value}
+                                        </textarea>
                                     </div>
                                     <div className={`w-full mb-2`}>
                                         <label

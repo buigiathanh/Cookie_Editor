@@ -202,5 +202,296 @@
     },
     "description_buy_me_a_coffee": {
         "message": "Ако ви харесва, помислете да ме подкрепите"
+    },
+    "sidebar_clear_browser": {
+        "message": "Изчистване на данни на браузъра"
+    },
+    "sidebar_upgrade": {
+        "message": "Надграждане"
+    },
+    "sidebar_feature_suggestion": {
+        "message": "Предложение за функция"
+    },
+    "sidebar_buy_coffee": {
+        "message": "Купи ми кафе"
+    },
+    "sidebar_open_source": {
+        "message": "Отворен код"
+    },
+    "clear_browser_title": {
+        "message": "ИЗЧИСТВАНЕ НА ДАННИ НА БРАУЗЪРА"
+    },
+    "clear_browser_description": {
+        "message": "Изчистете всички данни за сърфиране само с едно щракване."
+    },
+    "clear_browser_option_appcache": {
+        "message": "Кеш на приложенията на уебсайтове."
+    },
+    "clear_browser_option_cache": {
+        "message": "Кеш на браузъра"
+    },
+    "clear_browser_option_cacheStorage": {
+        "message": "Съхранение на кеш"
+    },
+    "clear_browser_option_cookies": {
+        "message": "Бисквитки"
+    },
+    "clear_browser_option_downloads": {
+        "message": "Списък с изтегляния на браузъра"
+    },
+    "clear_browser_option_history": {
+        "message": "История на браузъра"
+    },
+    "clear_browser_option_formData": {
+        "message": "Запазени данни от формуляри"
+    },
+    "clear_browser_option_fileSystems": {
+        "message": "Файлови системи на уебсайтове"
+    },
+    "clear_browser_option_indexedDB": {
+        "message": "Данни на уебсайтове в IndexedDB"
+    },
+    "clear_browser_option_localStorage": {
+        "message": "Локално запазени данни на уебсайтове"
+    },
+    "clear_browser_option_serviceWorkers": {
+        "message": "Service Workers"
+    },
+    "clear_browser_option_webSQL": {
+        "message": "Данни на уебсайтове в WebSQL"
+    },
+    "button_select_all": {
+        "message": "Избери всички"
+    },
+    "button_remove_all": {
+        "message": "Премахни всички"
+    },
+    "message_select_time_clear_browser_data": {
+        "message": "За кой период искате да изчистите данните?"
+    },
+    "choice_all_time": {
+        "message": "Цялото време"
+    },
+    "choice_24h": {
+        "message": "24 часа"
+    },
+    "choice_last_7days": {
+        "message": "Последните 7 дни"
+    },
+    "choice_last_30days": {
+        "message": "Последните 30 дни"
+    },
+    "button_clear_browser": {
+        "message": "Изчисти данни на браузъра"
+    },
+    "title_confirm_delete_browser_data": {
+        "message": "ПОТВЪРЖДАВАНЕ НА ИЗТРИВАНЕ НА ДАННИ"
+    },
+    "description_confirm_delete_browser_data": {
+        "message": "Данните на браузъра ще бъдат изтрити и не могат да бъдат възстановени."
+    },
+    "tooltip_top_action_share": {
+        "message": "Споделяне"
+    },
+    "sidebar_link": {
+        "message": "Връзки"
+    },
+    "bottom_message_upgrade": {
+        "message": "Получете 25% отстъпка, ако надстроите до 1-годишен план днес!"
+    },
+    "about_title": {
+        "message": "За ThanhBui"
+    },
+    "about_content_1": {
+        "message": "Аз съм разработчик и обичам да създавам разширения за Chrome. Помагам ви да развивате и маркетирате комуникации в социалните медии."
+    },
+    "about_content_2": {
+        "message": "Можете да научите повече за мен и да се свържете с мен чрез следните социални платформи."
+    },
+    "account_type_premium": {
+        "message": "Премиум"
+    },
+    "account_type_free": {
+        "message": "Безплатно"
+    },
+    "email": {
+        "message": "Имейл"
+    },
+    "created_at": {
+        "message": "Създаден на"
+    },
+    "expiry_date": {
+        "message": "Срок на изтичане"
+    },
+    "logout": {
+        "message": "Изход"
+    },
+    "buy_coffee_content_1": {
+        "message": "Поддръжката на софтуер отнема много време и безсънни нощи, особено когато работя върху него след редовната си работа."
+    },
+    "buy_coffee_content_2": {
+        "message": "Ако харесвате работата ми и искате да покажете признателност, има няколко начина да ме подкрепите."
+    },
+    "no_support": {
+        "message": "Не искам да подкрепям."
+    },
+    "feature_suggest_title": {
+        "message": "Каква функция бихте искали да бъде добавена?"
+    },
+    "feature_suggest_description": {
+        "message": "Предложете необходима функция, ако искате да я разработим."
+    },
+    "fs_email_description": {
+        "message": "Въведете имейл адреса си. Може да се свържем с вас, ако трябва да изясним заявката ви. (по избор)"
+    },
+    "label_fs": {
+        "message": "Предложение за функция"
+    },
+    "pl_fs_input": {
+        "message": "Функция, която бихте искали да разработим"
+    },
+    "payment_fs": {
+        "message": "Бихте ли платили за тази функция?"
+    },
+    "button_loading": {
+        "message": "Зареждане ..."
+    },
+    "button_suggest": {
+        "message": "Предложи"
+    },
+    "website": {
+        "message": "Уебсайт"
+    },
+    "title": {
+        "message": "Заглавие"
+    },
+    "title_description": {
+        "message": "Запомнящо се име, което ви помага да идентифицирате към кой уебсайт принадлежи бисквитката. (Задължително)"
+    },
+    "expiration_time": {
+        "message": "Време на изтичане"
+    },
+    "msg_link_not_found": {
+        "message": "Тази връзка не съществува."
+    },
+    "msg_no_permission": {
+        "message": "Нямате необходимите разрешения."
+    },
+    "msg_error": {
+        "message": "Възникна системна грешка."
+    },
+    "share_cookie_title": {
+        "message": "СПОДЕЛЯНЕ НА БИСКВИТКА"
+    },
+    "share_cookie_description": {
+        "message": "Искате ли да споделите бисквитката?"
+    },
+    "time_option_1h": {
+        "message": "1 час"
+    },
+    "exp_custom": {
+        "message": "Персонализирано"
+    },
+    "unlimited": {
+        "message": "Без ограничение"
+    },
+    "type_option_exp_h": {
+        "message": "Часове"
+    },
+    "type_option_exp_d": {
+        "message": "Дни"
+    },
+    "type_option_exp_m": {
+        "message": "Месеци"
+    },
+    "type_option_exp_y": {
+        "message": "Години"
+    },
+    "msg_title_empty": {
+        "message": "Заглавието не трябва да е празно."
+    },
+    "msg_password_empty": {
+        "message": "Паролата не трябва да е празна."
+    },
+    "msg_password_length": {
+        "message": "Паролата трябва да е поне 8 символа."
+    },
+    "msg_share_error": {
+        "message": "Споделянето не бе успешно."
+    },
+    "password_encrypt": {
+        "message": "Парола за дешифриране на бисквитки"
+    },
+    "password_encrypt_description": {
+        "message": "Въведете парола, за да шифрирате бисквитката преди споделяне. Това гарантира, че дори ние не можем да прочетем съдържанието без паролата. (Задължително)"
+    },
+    "link_exp": {
+        "message": "Време на изтичане на връзката"
+    },
+    "link_exp_description": {
+        "message": "Въведете времето на изтичане на връзката, ако искате да я споделите за определен период. Оставете празно, ако не искате да зададете срок."
+    },
+    "public_link_cookie": {
+        "message": "Всеки може да достъпи връзката, която сте споделили."
+    },
+    "title_upgrade": {
+        "message": "Проста ценообразуване"
+    },
+    "upgrade_description": {
+        "message": "Проста и прозрачна ценообразуване с неограничени абонати. Сменяйте планове или анулирайте по всяко време."
+    },
+    "btn_upgrade_month": {
+        "message": "Започнете от $3/месец"
+    },
+    "btn_upgrade_year": {
+        "message": "Започнете от $27/година"
+    },
+    "msg_upgrade": {
+        "message": "Вземете 25% отстъпка — платете само $27/година вместо $36"
+    },
+    "upgrade_fs_1": {
+        "message": "Управление на бисквитки"
+    },
+    "upgrade_fs_2": {
+        "message": "Шифриране и дешифриране"
+    },
+    "upgrade_fs_3": {
+        "message": "Споделяне на бисквитки"
+    },
+    "upgrade_fs_4": {
+        "message": "Без реклами"
+    },
+    "upgrade_fs_5": {
+        "message": "Поддръжка"
+    },
+    "remind_login": {
+        "message": "Трябва да създадете акаунт, преди да споделите бисквитка чрез връзка."
+    },
+    "remind_login_btn": {
+        "message": "Регистрирайте се сега"
+    },
+    "remind_upgrade_title": {
+        "message": "Моля, надстройте, за да използвате тази функция."
+    },
+    "remind_upgrade_description": {
+        "message": "Тази разширена функция е достъпна само за платени акаунти. Надстройте сега, за да имате достъп."
+    },
+    "remind_upgrade_btn": {
+        "message": "Надстройте сега"
+    },
+    "msg_password_error": {
+        "message": "Паролата за дешифриране е неправилна."
+    },
+    "msg_cookie_error": {
+        "message": "Невалидна информация за бисквитка. Моля, влезте отново."
+    },
+    "msg_link_exp": {
+        "message": "Връзката е изтекла."
+    },
+    "owner": {
+        "message": "Собственик"
+    },
+    "page_import_description": {
+        "message": "Използвате функцията за импортиране на бисквитки чрез споделена връзка."
     }
 }

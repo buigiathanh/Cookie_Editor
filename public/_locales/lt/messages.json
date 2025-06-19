@@ -202,5 +202,296 @@
     },
     "description_buy_me_a_coffee": {
         "message": "Jei jums patinka, apsvarstykite mane palaikyti"
+    },
+    "sidebar_clear_browser": {
+        "message": "Išvalyti naršyklės duomenis"
+    },
+    "sidebar_upgrade": {
+        "message": "Atnaujinti"
+    },
+    "sidebar_feature_suggestion": {
+        "message": "Funkcijos pasiūlymas"
+    },
+    "sidebar_buy_coffee": {
+        "message": "Nupirkite man kavos"
+    },
+    "sidebar_open_source": {
+        "message": "Atvirojo kodo"
+    },
+    "clear_browser_title": {
+        "message": "IŠVALYTI NARŠYKLĖS DUOMENIS"
+    },
+    "clear_browser_description": {
+        "message": "Vienu paspaudimu ištrinkite visus naršymo duomenis."
+    },
+    "clear_browser_option_appcache": {
+        "message": "Svetainės programų talpykla"
+    },
+    "clear_browser_option_cache": {
+        "message": "Naršyklės talpykla"
+    },
+    "clear_browser_option_cacheStorage": {
+        "message": "Talpyklos saugykla"
+    },
+    "clear_browser_option_cookies": {
+        "message": "Slapukai"
+    },
+    "clear_browser_option_downloads": {
+        "message": "Atsisiuntimų sąrašas"
+    },
+    "clear_browser_option_history": {
+        "message": "Naršymo istorija"
+    },
+    "clear_browser_option_formData": {
+        "message": "Išsaugota formų informacija"
+    },
+    "clear_browser_option_fileSystems": {
+        "message": "Svetainių failų sistemos"
+    },
+    "clear_browser_option_indexedDB": {
+        "message": "Svetainių IndexedDB duomenys"
+    },
+    "clear_browser_option_localStorage": {
+        "message": "Svetainių localStorage duomenys"
+    },
+    "clear_browser_option_serviceWorkers": {
+        "message": "Serviso darbuotojai (Service Workers)"
+    },
+    "clear_browser_option_webSQL": {
+        "message": "Svetainių WebSQL duomenys"
+    },
+    "button_select_all": {
+        "message": "Pažymėti viską"
+    },
+    "button_remove_all": {
+        "message": "Ištrinti viską"
+    },
+    "message_select_time_clear_browser_data": {
+        "message": "Per kokį laikotarpį norite ištrinti duomenis?"
+    },
+    "choice_all_time": {
+        "message": "Visus laikus"
+    },
+    "choice_24h": {
+        "message": "Per paskutines 24 valandas"
+    },
+    "choice_last_7days": {
+        "message": "Per paskutines 7 dienas"
+    },
+    "choice_last_30days": {
+        "message": "Per paskutines 30 dienų"
+    },
+    "button_clear_browser": {
+        "message": "Išvalyti duomenis"
+    },
+    "title_confirm_delete_browser_data": {
+        "message": "PATVIRTINKITE DUOMENŲ IŠTRYNIMĄ"
+    },
+    "description_confirm_delete_browser_data": {
+        "message": "Naršyklės duomenys bus ištrinti ir jų atkurti nebegalėsite."
+    },
+    "tooltip_top_action_share": {
+        "message": "Dalintis"
+    },
+    "sidebar_link": {
+        "message": "Nuorodos"
+    },
+    "bottom_message_upgrade": {
+        "message": "Gaukite 25 % nuolaidą atnaujinus į metinį planą šiandien!"
+    },
+    "about_title": {
+        "message": "Apie ThanhBui"
+    },
+    "about_content_1": {
+        "message": "Esu kūrėjas ir mielai kuriu „Chrome“ plėtinius. Padedu vystyti ir reklamuoti socialinės žiniasklaidos komunikaciją."
+    },
+    "about_content_2": {
+        "message": "Sužinokite daugiau apie mane ir susisiekite per žemiau esančias socialines platformas."
+    },
+    "account_type_premium": {
+        "message": "Premium"
+    },
+    "account_type_free": {
+        "message": "Nemokama"
+    },
+    "email": {
+        "message": "El. paštas"
+    },
+    "created_at": {
+        "message": "Sukurta"
+    },
+    "expiry_date": {
+        "message": "Galiojimo pabaiga"
+    },
+    "logout": {
+        "message": "Atsijungti"
+    },
+    "buy_coffee_content_1": {
+        "message": "Programinės įrangos priežiūrai reikia daug laiko ir nemažai bemiegių naktų, ypač dirbant po darbo dienos."
+    },
+    "buy_coffee_content_2": {
+        "message": "Jei mėgstate mano darbą ir norite palaikyti – yra keli būdai tai padaryti."
+    },
+    "no_support": {
+        "message": "Noriu nebesiremti"
+    },
+    "feature_suggest_title": {
+        "message": "Kokią funkciją norėtumėte pridėti?"
+    },
+    "feature_suggest_description": {
+        "message": "Praneškite, kokia funkcija itin reikalinga – stengsimės ją įgyvendinti."
+    },
+    "fs_email_description": {
+        "message": "Įveskite savo el. pašto adresą. Galime susisiekti, jei reikėtų paaiškinimų. (nebūtina)"
+    },
+    "label_fs": {
+        "message": " Funkcijos pasiūlymas"
+    },
+    "pl_fs_input": {
+        "message": "Funkcija, kurią norėtumėte matyti"
+    },
+    "payment_fs": {
+        "message": "Ar būtumėte pasiruošę mokėti už šią funkciją?"
+    },
+    "button_loading": {
+        "message": "Kraunama ..."
+    },
+    "button_suggest": {
+        "message": "Pasiūlyti"
+    },
+    "website": {
+        "message": "Svetainė"
+    },
+    "title": {
+        "message": "Pavadinimas"
+    },
+    "title_description": {
+        "message": "Atmintinas pavadinimas, padėsiantis atpažinti, kuriai svetainei priklauso šis slapukas. (Privaloma)"
+    },
+    "expiration_time": {
+        "message": "Galiojimo laikas"
+    },
+    "msg_link_not_found": {
+        "message": "Tokios nuorodos nėra."
+    },
+    "msg_no_permission": {
+        "message": "Neturite reikalingų leidimų."
+    },
+    "msg_error": {
+        "message": "Įvyko sistemos klaida."
+    },
+    "share_cookie_title": {
+        "message": "DALINTIS SLAPUKU"
+    },
+    "share_cookie_description": {
+        "message": "Noritės dalintis šiuo slapuku?"
+    },
+    "time_option_1h": {
+        "message": "1 valanda"
+    },
+    "exp_custom": {
+        "message": "Pasirinktinis"
+    },
+    "unlimited": {
+        "message": "Neribotai"
+    },
+    "type_option_exp_h": {
+        "message": "Valandos"
+    },
+    "type_option_exp_d": {
+        "message": "Dienos"
+    },
+    "type_option_exp_m": {
+        "message": "Mėnesiai"
+    },
+    "type_option_exp_y": {
+        "message": "Metai"
+    },
+    "msg_title_empty": {
+        "message": "Pavadinimas negali būti tuščias."
+    },
+    "msg_password_empty": {
+        "message": "Slaptažodis negali būti tuščias."
+    },
+    "msg_password_length": {
+        "message": "Slaptažodį turi sudaryti bent 8 simboliai."
+    },
+    "msg_share_error": {
+        "message": "Dalijimasis nepavyko."
+    },
+    "password_encrypt": {
+        "message": "Slaptažodis slapukui dešifruoti"
+    },
+    "password_encrypt_description": {
+        "message": "Įveskite slaptažodį, kad užšifruotumėte slapuką prieš dalijantis. Net mes jo negalėsime perskaityti be slaptažodžio. (Privaloma)"
+    },
+    "link_exp": {
+        "message": "Nuorodos galiojimas"
+    },
+    "link_exp_description": {
+        "message": "Nurodykite, kiek laiko nuoroda galios, jei norite ją dalinti ribotą laiką. Palikite tuščią, jei nenorite riboti."
+    },
+    "public_link_cookie": {
+        "message": "Kiekvienas gali pasiekti dalintą nuorodą."
+    },
+    "title_upgrade": {
+        "message": "Paprasta kainodara"
+    },
+    "upgrade_description": {
+        "message": "Aiški ir atvira kainodara su neribotu prenumeratorių skaičiumi. Keiskite planus arba atšaukite kada tik norite."
+    },
+    "btn_upgrade_month": {
+        "message": "Nuo 3 $/mėn"
+    },
+    "btn_upgrade_year": {
+        "message": "Nuo 27 $/metus"
+    },
+    "msg_upgrade": {
+        "message": "Taupykite 25 % — mokėkite tik 27 $/metus, vietoj 36 $"
+    },
+    "upgrade_fs_1": {
+        "message": "Slapukų valdymas"
+    },
+    "upgrade_fs_2": {
+        "message": "Šifravimas ir dešifravimas"
+    },
+    "upgrade_fs_3": {
+        "message": " Dalintis slapuku"
+    },
+    "upgrade_fs_4": {
+        "message": " Be reklamų"
+    },
+    "upgrade_fs_5": {
+        "message": " Parama"
+    },
+    "remind_login": {
+        "message": "Privalote turėti paskyrą prieš dalijantis slapuku per nuorodą."
+    },
+    "remind_login_btn": {
+        "message": "Registruotis dabar"
+    },
+    "remind_upgrade_title": {
+        "message": "Prašome atnaujinti, norint naudoti šią funkciją."
+    },
+    "remind_upgrade_description": {
+        "message": "Ši pažangi funkcija skirta tik mokamiems paskyroms. Atverkite ją atnaujindami."
+    },
+    "remind_upgrade_btn": {
+        "message": "Atnaujinti dabar"
+    },
+    "msg_password_error": {
+        "message": "Neteisingas slaptažodis."
+    },
+    "msg_cookie_error": {
+        "message": "Neteisinga slapuko informacija. Prašome prisijungti iš naujo."
+    },
+    "msg_link_exp": {
+        "message": "Nuoroda pasibaigė."
+    },
+    "owner": {
+        "message": "Savininkas"
+    },
+    "page_import_description": {
+        "message": "Jūs naudojate slapuko importo funkciją per bendrinamą nuorodą."
     }
 }

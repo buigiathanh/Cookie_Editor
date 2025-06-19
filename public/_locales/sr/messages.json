@@ -202,5 +202,296 @@
     },
     "description_buy_me_a_coffee": {
         "message": "Ако вам се свиђа, размислите о томе да ме подржите"
+    },
+    "sidebar_clear_browser": {
+        "message": "Обриши податке прегледача"
+    },
+    "sidebar_upgrade": {
+        "message": "Надогради"
+    },
+    "sidebar_feature_suggestion": {
+        "message": "Предлог функције"
+    },
+    "sidebar_buy_coffee": {
+        "message": "Узми ми кафу"
+    },
+    "sidebar_open_source": {
+        "message": "Open Source"
+    },
+    "clear_browser_title": {
+        "message": "ОБРИШИ ПОДАТКЕ ПРЕГЛЕДАЧА"
+    },
+    "clear_browser_description": {
+        "message": "Обриши све податке прегледања једним кликом."
+    },
+    "clear_browser_option_appcache": {
+        "message": "Appcache сајтова"
+    },
+    "clear_browser_option_cache": {
+        "message": "Кеш прегледача"
+    },
+    "clear_browser_option_cacheStorage": {
+        "message": "Складиште кеша"
+    },
+    "clear_browser_option_cookies": {
+        "message": "Кукови (cookies)"
+    },
+    "clear_browser_option_downloads": {
+        "message": "Листа преузимања"
+    },
+    "clear_browser_option_history": {
+        "message": "Историја прегледања"
+    },
+    "clear_browser_option_formData": {
+        "message": "Сва формирана уноса"
+    },
+    "clear_browser_option_fileSystems": {
+        "message": "Фајл системи сајтова"
+    },
+    "clear_browser_option_indexedDB": {
+        "message": "IndexedDB подаци сајтова"
+    },
+    "clear_browser_option_localStorage": {
+        "message": "LocalStorage подаци сајтова"
+    },
+    "clear_browser_option_serviceWorkers": {
+        "message": "Service Workers"
+    },
+    "clear_browser_option_webSQL": {
+        "message": "WebSQL подаци сајтова"
+    },
+    "button_select_all": {
+        "message": "Изабери све"
+    },
+    "button_remove_all": {
+        "message": "Уклони све"
+    },
+    "message_select_time_clear_browser_data": {
+        "message": "За који период желите да обришете податке?"
+    },
+    "choice_all_time": {
+        "message": "За цео период"
+    },
+    "choice_24h": {
+        "message": "Последњих 24 сата"
+    },
+    "choice_last_7days": {
+        "message": "Последњих 7 дана"
+    },
+    "choice_last_30days": {
+        "message": "Последњих 30 дана"
+    },
+    "button_clear_browser": {
+        "message": "Обриши податке"
+    },
+    "title_confirm_delete_browser_data": {
+        "message": "ПОТВРДИ ОБРИС ПОДАТАКА"
+    },
+    "description_confirm_delete_browser_data": {
+        "message": "Подаци прегледача ће бити обрисани и неће се моћи вратити."
+    },
+    "tooltip_top_action_share": {
+        "message": "Подели"
+    },
+    "sidebar_link": {
+        "message": "Линкови"
+    },
+    "bottom_message_upgrade": {
+        "message": "Освојите 25% попуста надоградњом на годишњи план данас!"
+    },
+    "about_title": {
+        "message": "О ThanhBui"
+    },
+    "about_content_1": {
+        "message": "Ја сам програмер и волим да правим екстензије за Chrome. Помажем у развоју и промоцији комуникације на друштвеним мрежама."
+    },
+    "about_content_2": {
+        "message": "Сазнајте више о мени и контактирајте ме преко следећих платформи."
+    },
+    "account_type_premium": {
+        "message": "Премиум"
+    },
+    "account_type_free": {
+        "message": "Бесплатно"
+    },
+    "email": {
+        "message": "E‑mail"
+    },
+    "created_at": {
+        "message": "Направљен"
+    },
+    "expiry_date": {
+        "message": "Датум истека"
+    },
+    "logout": {
+        "message": "Одјава"
+    },
+    "buy_coffee_content_1": {
+        "message": "Одржавање софтвера захтева доста времена и ноћи без сна, посебно када радим после посла."
+    },
+    "buy_coffee_content_2": {
+        "message": "Ако цените мој рад и желите да ме подржите, имате неколико начина."
+    },
+    "no_support": {
+        "message": "Не желим да подржим."
+    },
+    "feature_suggest_title": {
+        "message": "Коју функцију бисте желели да додамо?"
+    },
+    "feature_suggest_description": {
+        "message": "Предложите неку корисну функцију коју бисте желели да видите."
+    },
+    "fs_email_description": {
+        "message": "Унесите свој email. Можемо вас контактирати за појашњења. (опционо)"
+    },
+    "label_fs": {
+        "message": " Предлог функције"
+    },
+    "pl_fs_input": {
+        "message": "Функција коју желите да видите"
+    },
+    "payment_fs": {
+        "message": "Да ли бисте платили за ту функцију?"
+    },
+    "button_loading": {
+        "message": "Учитавање..."
+    },
+    "button_suggest": {
+        "message": "Пошаљи предлог"
+    },
+    "website": {
+        "message": "Вебсајт"
+    },
+    "title": {
+        "message": "Наслов"
+    },
+    "title_description": {
+        "message": "Лако памтљиво име како бисте идентификовали ком сајту припада ова веза cookie-а. (Обавезно)"
+    },
+    "expiration_time": {
+        "message": "Рок истека"
+    },
+    "msg_link_not_found": {
+        "message": "Та веза не постоји."
+    },
+    "msg_no_permission": {
+        "message": "Немате потребну дозволу."
+    },
+    "msg_error": {
+        "message": "Дошло је до системске грешке."
+    },
+    "share_cookie_title": {
+        "message": "ПОДЕЛИ COOKIE"
+    },
+    "share_cookie_description": {
+        "message": "Желите ли да поделите овај cookie?"
+    },
+    "time_option_1h": {
+        "message": "1 с"
+    },
+    "exp_custom": {
+        "message": "Прилагођено"
+    },
+    "unlimited": {
+        "message": "Неограничено"
+    },
+    "type_option_exp_h": {
+        "message": "Сати"
+    },
+    "type_option_exp_d": {
+        "message": "Дани"
+    },
+    "type_option_exp_m": {
+        "message": "Месеци"
+    },
+    "type_option_exp_y": {
+        "message": "Године"
+    },
+    "msg_title_empty": {
+        "message": "Наслов не сме бити празан."
+    },
+    "msg_password_empty": {
+        "message": "Лозинка не сме бити празна."
+    },
+    "msg_password_length": {
+        "message": "Лозинка мора имати најмање 8 карактера."
+    },
+    "msg_share_error": {
+        "message": "Слање није успело."
+    },
+    "password_encrypt": {
+        "message": "Лозинка за дешифровање cookie-а"
+    },
+    "password_encrypt_description": {
+        "message": "Унесите лозинку за шифровање cookie-а пре дељења. Чак ни ми не можемо прочитати садржај без ње. (Обавезно)"
+    },
+    "link_exp": {
+        "message": "Веза истиче"
+    },
+    "link_exp_description": {
+        "message": "Унесите датум истека ако желите да веза буде временски ограничена. Оставите празно ако не желите да истиче."
+    },
+    "public_link_cookie": {
+        "message": "Сви који имају везу могу да приступе."
+    },
+    "title_upgrade": {
+        "message": "Једноставне цене"
+    },
+    "upgrade_description": {
+        "message": "Просте и транспарентне цене са неограниченим претплатницима. Можете променити план или отказати кад год желите."
+    },
+    "btn_upgrade_month": {
+        "message": "Од 3 $/мес."
+    },
+    "btn_upgrade_year": {
+        "message": "Од 27 $/год."
+    },
+    "msg_upgrade": {
+        "message": "Уштедите 25% — платите само 27 $/год. уместо 36 $"
+    },
+    "upgrade_fs_1": {
+        "message": "Управљање cookie-јима"
+    },
+    "upgrade_fs_2": {
+        "message": "Шифровање и дешифровање"
+    },
+    "upgrade_fs_3": {
+        "message": " Делите cookie"
+    },
+    "upgrade_fs_4": {
+        "message": " Без реклама"
+    },
+    "upgrade_fs_5": {
+        "message": " Подршка"
+    },
+    "remind_login": {
+        "message": "Морате да се пријавите пре него што поделите cookie преко линка."
+    },
+    "remind_login_btn": {
+        "message": "Пријави се сада"
+    },
+    "remind_upgrade_title": {
+        "message": "Надоградите да бисте користили ову функцију."
+    },
+    "remind_upgrade_description": {
+        "message": "Ова напредна функција доступна је само за плаћене налоге. Надоградите сада за приступ."
+    },
+    "remind_upgrade_btn": {
+        "message": "Надогради сада"
+    },
+    "msg_password_error": {
+        "message": "Неважећа лозинка."
+    },
+    "msg_cookie_error": {
+        "message": "Неважећи подаци cookie-а. Молимо пријавите се поново."
+    },
+    "msg_link_exp": {
+        "message": "Веза је истекла."
+    },
+    "owner": {
+        "message": "Власник"
+    },
+    "page_import_description": {
+        "message": "Користите функцију увоза cookie-ја преко деле нав линка."
     }
 }

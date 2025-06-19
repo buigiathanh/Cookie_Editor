@@ -202,5 +202,296 @@
     },
     "description_buy_me_a_coffee": {
         "message": "যদি আপনি এটি পছন্দ করেন, আমাকে সমর্থন করার কথা বিবেচনা করুন"
+    },
+    "sidebar_clear_browser": {
+        "message": "ব্রাউজার ডেটা পরিষ্কার করুন"
+    },
+    "sidebar_upgrade": {
+        "message": "আপগ্রেড"
+    },
+    "sidebar_feature_suggestion": {
+        "message": "ফিচার সুপারিশ"
+    },
+    "sidebar_buy_coffee": {
+        "message": "আমাকে একটি কফি কিনুন"
+    },
+    "sidebar_open_source": {
+        "message": "ওপেন সোর্স"
+    },
+    "clear_browser_title": {
+        "message": "ব্রাউজার ডেটা পরিষ্কার করুন"
+    },
+    "clear_browser_description": {
+        "message": "একটি ক্লিকেই সমস্ত ব্রাউজিং ডেটা পরিষ্কার করুন।"
+    },
+    "clear_browser_option_appcache": {
+        "message": "ওয়েবসাইটের অ্যাপক্যাশ।"
+    },
+    "clear_browser_option_cache": {
+        "message": "ব্রাউজারের ক্যাশে"
+    },
+    "clear_browser_option_cacheStorage": {
+        "message": "ক্যাশে স্টোরেজ"
+    },
+    "clear_browser_option_cookies": {
+        "message": "কুকিজ"
+    },
+    "clear_browser_option_downloads": {
+        "message": "ব্রাউজারের ডাউনলোড তালিকা"
+    },
+    "clear_browser_option_history": {
+        "message": "ব্রাউজারের ইতিহাস"
+    },
+    "clear_browser_option_formData": {
+        "message": "ব্রাউজারে সংরক্ষিত ফর্ম ডেটা"
+    },
+    "clear_browser_option_fileSystems": {
+        "message": "ওয়েবসাইটের ফাইল সিস্টেম"
+    },
+    "clear_browser_option_indexedDB": {
+        "message": "ওয়েবসাইটের IndexedDB ডেটা"
+    },
+    "clear_browser_option_localStorage": {
+        "message": "ওয়েবসাইটের লোকাল স্টোরেজ ডেটা"
+    },
+    "clear_browser_option_serviceWorkers": {
+        "message": "সার্ভিস ওয়ার্কার্স"
+    },
+    "clear_browser_option_webSQL": {
+        "message": "ওয়েবসাইটের WebSQL ডেটা"
+    },
+    "button_select_all": {
+        "message": "সব নির্বাচন করুন"
+    },
+    "button_remove_all": {
+        "message": "সব সরান"
+    },
+    "message_select_time_clear_browser_data": {
+        "message": "কোন সময়সীমার জন্য আপনি ডেটা পরিষ্কার করতে চান?"
+    },
+    "choice_all_time": {
+        "message": "সব সময়"
+    },
+    "choice_24h": {
+        "message": "24 ঘন্টা"
+    },
+    "choice_last_7days": {
+        "message": "গত 7 দিন"
+    },
+    "choice_last_30days": {
+        "message": "গত 30 দিন"
+    },
+    "button_clear_browser": {
+        "message": "ব্রাউজার ডেটা পরিষ্কার করুন"
+    },
+    "title_confirm_delete_browser_data": {
+        "message": "ব্রাউজার ডেটা ডিলিট নিশ্চিত করুন"
+    },
+    "description_confirm_delete_browser_data": {
+        "message": "ব্রাউজার ডেটা ডিলিট করা হবে এবং পুনরুদ্ধার করা যাবে না।"
+    },
+    "tooltip_top_action_share": {
+        "message": "শেয়ার করুন"
+    },
+    "sidebar_link": {
+        "message": "লিঙ্ক"
+    },
+    "bottom_message_upgrade": {
+        "message": "আজই 1-বছরের প্ল্যানে আপগ্রেড করে 25% ছাড় পান!"
+    },
+    "about_title": {
+        "message": "ThanhBui সম্পর্কে"
+    },
+    "about_content_1": {
+        "message": "আমি একজন ডেভেলপার এবং ক্রোম এক্সটেনশন তৈরি করতে ভালোবাসি। সোশ্যাল মিডিয়া কমিউনিকেশন ডেভেলপ এবং মার্কেট করতে আপনাকে সাহায্য করা।"
+    },
+    "about_content_2": {
+        "message": "আপনি নিচের সোশ্যাল মিডিয়া প্ল্যাটফর্মের মাধ্যমে আমার সম্পর্কে আরও জানতে এবং যোগাযোগ করতে পারেন।"
+    },
+    "account_type_premium": {
+        "message": "প্রিমিয়াম"
+    },
+    "account_type_free": {
+        "message": "ফ্রি"
+    },
+    "email": {
+        "message": "ইমেইল"
+    },
+    "created_at": {
+        "message": "তৈরি হয়েছে"
+    },
+    "expiry_date": {
+        "message": "মেয়াদ শেষের তারিখ"
+    },
+    "logout": {
+        "message": "লগআউট"
+    },
+    "buy_coffee_content_1": {
+        "message": "সফ্টওয়্যার রক্ষণাবেক্ষণে অনেক সময় এবং রাত জাগরণ লাগে, বিশেষ করে যখন আমি আমার নিয়মিত কাজের পর এটি নিয়ে কাজ করি।"
+    },
+    "buy_coffee_content_2": {
+        "message": "আপনি যদি আমার কাজ উপভোগ করেন এবং প্রশংসা দেখাতে চান, তাহলে আপনি আমাকে সমর্থন করার বিভিন্ন উপায় পাবেন।"
+    },
+    "no_support": {
+        "message": "আমি সমর্থন করতে চাই না।"
+    },
+    "feature_suggest_title": {
+        "message": "আপনি কোন ফিচার যোগ করতে চান?"
+    },
+    "feature_suggest_description": {
+        "message": "একটি প্রয়োজনীয় ফিচার সুপারিশ করুন যদি আপনি এটি আরও ডেভেলপ করতে চান।"
+    },
+    "fs_email_description": {
+        "message": "আপনার ইমেইল ঠিকানা লিখুন। আপনার অনুরোধ স্পষ্ট করতে প্রয়োজন হলে আমরা আপনাকে যোগাযোগ করতে পারি। (ঐচ্ছিক)"
+    },
+    "label_fs": {
+        "message": "ফিচার সুপারিশ"
+    },
+    "pl_fs_input": {
+        "message": "একটি ফিচার যা আপনি পরবর্তীতে ডেভেলপ করতে চান"
+    },
+    "payment_fs": {
+        "message": "আপনি কি সেই ফিচারের জন্য অর্থ প্রদান করতে ইচ্ছুক?"
+    },
+    "button_loading": {
+        "message": "লোড হচ্ছে ..."
+    },
+    "button_suggest": {
+        "message": "সুপারিশ করুন"
+    },
+    "website": {
+        "message": "ওয়েবসাইট"
+    },
+    "title": {
+        "message": "শিরোনাম"
+    },
+    "title_description": {
+        "message": "একটি স্মরণীয় নাম যা আপনাকে চিহ্নিত করতে সাহায্য করে যে কুকি লিঙ্কটি কোন ওয়েবসাইটের। (প্রয়োজনীয়)"
+    },
+    "expiration_time": {
+        "message": "মেয়াদ শেষের সময়"
+    },
+    "msg_link_not_found": {
+        "message": "এই লিঙ্কটি বিদ্যমান নেই।"
+    },
+    "msg_no_permission": {
+        "message": "আপনার প্রয়োজনীয় অনুমতি নেই।"
+    },
+    "msg_error": {
+        "message": "একটি সিস্টেম ত্রুটি ঘটেছে।"
+    },
+    "share_cookie_title": {
+        "message": "কুকি শেয়ার করুন"
+    },
+    "share_cookie_description": {
+        "message": "আপনি কি কুকি শেয়ার করতে চান?"
+    },
+    "time_option_1h": {
+        "message": "1 ঘন্টা"
+    },
+    "exp_custom": {
+        "message": "কাস্টম"
+    },
+    "unlimited": {
+        "message": "সীমাহীন"
+    },
+    "type_option_exp_h": {
+        "message": "ঘন্টা"
+    },
+    "type_option_exp_d": {
+        "message": "দিন"
+    },
+    "type_option_exp_m": {
+        "message": "মাস"
+    },
+    "type_option_exp_y": {
+        "message": "বছর"
+    },
+    "msg_title_empty": {
+        "message": "শিরোনাম খালি থাকতে পারে না।"
+    },
+    "msg_password_empty": {
+        "message": "পাসওয়ার্ড খালি থাকতে পারে না।"
+    },
+    "msg_password_length": {
+        "message": "পাসওয়ার্ড কমপক্ষে 8 অক্ষরের হতে হবে।"
+    },
+    "msg_share_error": {
+        "message": "শেয়ার করা ব্যর্থ হয়েছে।"
+    },
+    "password_encrypt": {
+        "message": "কুকি ডিক্রিপ্ট করার পাসওয়ার্ড"
+    },
+    "password_encrypt_description": {
+        "message": "কুকি শেয়ার করার আগে এনক্রিপ্ট করতে একটি পাসওয়ার্ড লিখুন। এটি নিশ্চিত করে যে পাসওয়ার্ড ছাড়া আমরা কন্টেন্ট পড়তে পারব না। (প্রয়োজনীয়)"
+    },
+    "link_exp": {
+        "message": "লিঙ্কের মেয়াদ শেষের সময়"
+    },
+    "link_exp_description": {
+        "message": "যদি আপনি একটি নির্দিষ্ট সময়ের জন্য শেয়ার করতে চান তাহলে লিঙ্কের মেয়াদ শেষের সময় লিখুন। মেয়াদ সেট করতে না চাইলে খালি রাখুন।"
+    },
+    "public_link_cookie": {
+        "message": "আপনি যে লিঙ্ক শেয়ার করেছেন তা সবাই অ্যাক্সেস করতে পারবে।"
+    },
+    "title_upgrade": {
+        "message": "সহজ মূল্য নির্ধারণ"
+    },
+    "upgrade_description": {
+        "message": "সরল, স্বচ্ছ মূল্য নির্ধারণ সীমাহীন সাবস্ক্রাইবার সহ। যেকোনো সময় প্ল্যান পরিবর্তন বা বাতিল করুন।"
+    },
+    "btn_upgrade_month": {
+        "message": "$3/মাস থেকে শুরু করুন"
+    },
+    "btn_upgrade_year": {
+        "message": "$27/বছর থেকে শুরু করুন"
+    },
+    "msg_upgrade": {
+        "message": "25% ছাড় পান — $36 এর পরিবর্তে মাত্র $27/বছর প্রদান করুন"
+    },
+    "upgrade_fs_1": {
+        "message": "কুকি ম্যানেজমেন্ট"
+    },
+    "upgrade_fs_2": {
+        "message": "এনক্রিপশন এবং ডিক্রিপশন"
+    },
+    "upgrade_fs_3": {
+        "message": "কুকি শেয়ার করুন"
+    },
+    "upgrade_fs_4": {
+        "message": "কোন বিজ্ঞাপন নেই"
+    },
+    "upgrade_fs_5": {
+        "message": "সাপোর্ট"
+    },
+    "remind_login": {
+        "message": "লিঙ্কের মাধ্যমে কুকি শেয়ার করার আগে আপনাকে একটি অ্যাকাউন্ট তৈরি করতে হবে।"
+    },
+    "remind_login_btn": {
+        "message": "এখনই সাইন আপ করুন"
+    },
+    "remind_upgrade_title": {
+        "message": "এই ফিচার ব্যবহার করতে আপগ্রেড করুন।"
+    },
+    "remind_upgrade_description": {
+        "message": "এই অ্যাডভান্সড ফিচারটি শুধুমাত্র পেইড অ্যাকাউন্টের জন্য উপলব্ধ। অ্যাক্সেস পেতে এখনই আপগ্রেড করুন।"
+    },
+    "remind_upgrade_btn": {
+        "message": "এখনই আপগ্রেড করুন"
+    },
+    "msg_password_error": {
+        "message": "ডিক্রিপশন পাসওয়ার্ড ভুল।"
+    },
+    "msg_cookie_error": {
+        "message": "অবৈধ কুকি তথ্য। আবার লগইন করুন।"
+    },
+    "msg_link_exp": {
+        "message": "লিঙ্কের মেয়াদ শেষ হয়ে গেছে।"
+    },
+    "owner": {
+        "message": "মালিক"
+    },
+    "page_import_description": {
+        "message": "আপনি একটি শেয়ার্ড লিঙ্কের মাধ্যমে কুকি ইমপোর্ট ফিচার ব্যবহার করছেন।"
     }
 }

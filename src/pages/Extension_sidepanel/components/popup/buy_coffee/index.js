@@ -35,7 +35,7 @@ const PopupBuyCoffee = () => {
                             animate={{opacity: 1, y: 0}}
                             exit={{opacity: 0, y: 50}}
                             transition={{duration: 0.5}}
-                            className={`fixed bottom-[60px] left-0 p-[10px]`}
+                            className={`fixed ${settingStore.show_ads ? "bottom-[60px]" : "bottom-[10px]"} left-0 p-[10px]`}
                             style={{zIndex: 50, width: "calc(100% - 50px)"}}
                         >
                             <div className={`bg-white rounded-[10px] p-5`}>
@@ -43,12 +43,10 @@ const PopupBuyCoffee = () => {
                                     {extension.getLang("sidebar_buy_me_a_coffee")}
                                 </p>
                                 <p className={`text-gray-900 text-[12px] mb-3`}>
-                                    Software maintenance takes up a lot of time and many late nights, especially when I work on it
-                                    after my regular day job.
+                                    {extension.getLang("buy_coffee_content_1")}
                                 </p>
                                 <p className={`text-gray-900 text-[12px] mb-3`}>
-                                    If you enjoy my work and would like to show your appreciation, there are several ways you can
-                                    support me.
+                                    {extension.getLang("buy_coffee_content_2")}
                                 </p>
                                 <div className={`w-full mb-3`}>
                                     <button
@@ -74,7 +72,7 @@ const PopupBuyCoffee = () => {
                                     <p
                                         onClick={disableBuyCoffee}
                                         className={`text-gray-600 underline cursor-pointer`}>
-                                        I don't want to support.
+                                        {extension.getLang("no_support")}
                                     </p>
                                 </div>
                             </div>

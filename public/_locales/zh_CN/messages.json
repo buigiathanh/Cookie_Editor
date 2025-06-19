@@ -202,5 +202,296 @@
     },
     "description_buy_me_a_coffee": {
         "message": "如果你喜欢，请考虑支持我"
+    },
+    "sidebar_clear_browser": {
+        "message": "清除浏览器数据"
+    },
+    "sidebar_upgrade": {
+        "message": "升级"
+    },
+    "sidebar_feature_suggestion": {
+        "message": "功能建议"
+    },
+    "sidebar_buy_coffee": {
+        "message": "请我喝杯咖啡"
+    },
+    "sidebar_open_source": {
+        "message": "开源"
+    },
+    "clear_browser_title": {
+        "message": "清除浏览器数据"
+    },
+    "clear_browser_description": {
+        "message": "一键清除所有浏览数据。"
+    },
+    "clear_browser_option_appcache": {
+        "message": "网站 appcache"
+    },
+    "clear_browser_option_cache": {
+        "message": "浏览器缓存"
+    },
+    "clear_browser_option_cacheStorage": {
+        "message": "缓存存储"
+    },
+    "clear_browser_option_cookies": {
+        "message": "Cookies"
+    },
+    "clear_browser_option_downloads": {
+        "message": "下载列表"
+    },
+    "clear_browser_option_history": {
+        "message": "浏览历史"
+    },
+    "clear_browser_option_formData": {
+        "message": "已保存表单数据"
+    },
+    "clear_browser_option_fileSystems": {
+        "message": "网站文件系统"
+    },
+    "clear_browser_option_indexedDB": {
+        "message": "IndexedDB 数据"
+    },
+    "clear_browser_option_localStorage": {
+        "message": "LocalStorage 数据"
+    },
+    "clear_browser_option_serviceWorkers": {
+        "message": "Service Workers"
+    },
+    "clear_browser_option_webSQL": {
+        "message": "WebSQL 数据"
+    },
+    "button_select_all": {
+        "message": "全选"
+    },
+    "button_remove_all": {
+        "message": "全不选"
+    },
+    "message_select_time_clear_browser_data": {
+        "message": "要清除哪个时间范围的数据？"
+    },
+    "choice_all_time": {
+        "message": "所有时间"
+    },
+    "choice_24h": {
+        "message": "过去 24 小时"
+    },
+    "choice_last_7days": {
+        "message": "过去 7 天"
+    },
+    "choice_last_30days": {
+        "message": "过去 30 天"
+    },
+    "button_clear_browser": {
+        "message": "清除数据"
+    },
+    "title_confirm_delete_browser_data": {
+        "message": "确认清除数据"
+    },
+    "description_confirm_delete_browser_data": {
+        "message": "浏览器数据将被清除且无法恢复。"
+    },
+    "tooltip_top_action_share": {
+        "message": "分享"
+    },
+    "sidebar_link": {
+        "message": "链接"
+    },
+    "bottom_message_upgrade": {
+        "message": "今天升级年费计划立省 25%！"
+    },
+    "about_title": {
+        "message": "关于 ThanhBui"
+    },
+    "about_content_1": {
+        "message": "我是开发者，喜欢制作 Chrome 扩展，助力社交平台传播与推广。"
+    },
+    "about_content_2": {
+        "message": "了解更多并通过以下社交平台联系我。"
+    },
+    "account_type_premium": {
+        "message": "高级"
+    },
+    "account_type_free": {
+        "message": "免费"
+    },
+    "email": {
+        "message": "电子邮件"
+    },
+    "created_at": {
+        "message": "创建于"
+    },
+    "expiry_date": {
+        "message": "到期日期"
+    },
+    "logout": {
+        "message": "退出登录"
+    },
+    "buy_coffee_content_1": {
+        "message": "软件维护需要大量时间和许多不眠之夜，尤其在下班后工作时。"
+    },
+    "buy_coffee_content_2": {
+        "message": "如果你喜欢我的工作并想支持我，可以通过以下方式支持。"
+    },
+    "no_support": {
+        "message": "我不想支持。"
+    },
+    "feature_suggest_title": {
+        "message": "你想新增什么功能？"
+    },
+    "feature_suggest_description": {
+        "message": "欢迎提出你认为有用的功能建议。"
+    },
+    "fs_email_description": {
+        "message": "输入你的邮箱，必要时我们会联系你。（可选）"
+    },
+    "label_fs": {
+        "message": " 功能建议"
+    },
+    "pl_fs_input": {
+        "message": "你希望看到的功能"
+    },
+    "payment_fs": {
+        "message": "你愿意为此付费吗？"
+    },
+    "button_loading": {
+        "message": "加载中…"
+    },
+    "button_suggest": {
+        "message": "提交建议"
+    },
+    "website": {
+        "message": "网站"
+    },
+    "title": {
+        "message": "标题"
+    },
+    "title_description": {
+        "message": "建议一个易记的名称，帮助识别 cookie 来源的网站。（必填）"
+    },
+    "expiration_time": {
+        "message": "过期时间"
+    },
+    "msg_link_not_found": {
+        "message": "未找到该链接。"
+    },
+    "msg_no_permission": {
+        "message": "你没有相应权限。"
+    },
+    "msg_error": {
+        "message": "发生系统错误。"
+    },
+    "share_cookie_title": {
+        "message": "分享 Cookie"
+    },
+    "share_cookie_description": {
+        "message": "你想分享该 Cookie 吗？"
+    },
+    "time_option_1h": {
+        "message": "1 小时"
+    },
+    "exp_custom": {
+        "message": "自定义"
+    },
+    "unlimited": {
+        "message": "不限"
+    },
+    "type_option_exp_h": {
+        "message": "小时"
+    },
+    "type_option_exp_d": {
+        "message": "天"
+    },
+    "type_option_exp_m": {
+        "message": "月"
+    },
+    "type_option_exp_y": {
+        "message": "年"
+    },
+    "msg_title_empty": {
+        "message": "标题不能为空。"
+    },
+    "msg_password_empty": {
+        "message": "密码不能为空。"
+    },
+    "msg_password_length": {
+        "message": "密码至少 8 个字符。"
+    },
+    "msg_share_error": {
+        "message": "分享失败。"
+    },
+    "password_encrypt": {
+        "message": "Cookie 解密密码"
+    },
+    "password_encrypt_description": {
+        "message": "请输入密码加密 Cookie 后再分享——即使我们也无法读取。（必填）"
+    },
+    "link_exp": {
+        "message": "链接过期"
+    },
+    "link_exp_description": {
+        "message": "如需设置链接过期，请填写时间。留空则始终有效。"
+    },
+    "public_link_cookie": {
+        "message": "拥有链接的任何人均可访问。"
+    },
+    "title_upgrade": {
+        "message": "简单定价"
+    },
+    "upgrade_description": {
+        "message": "清晰透明的定价，无限订阅者。随时更改计划或取消。"
+    },
+    "btn_upgrade_month": {
+        "message": "¥30/月 起"
+    },
+    "btn_upgrade_year": {
+        "message": "¥270/年 起"
+    },
+    "msg_upgrade": {
+        "message": "享受 25% 折扣——仅需 ¥270/年，原价 ¥360"
+    },
+    "upgrade_fs_1": {
+        "message": "Cookie 管理"
+    },
+    "upgrade_fs_2": {
+        "message": "加密与解密"
+    },
+    "upgrade_fs_3": {
+        "message": " 分享 Cookie"
+    },
+    "upgrade_fs_4": {
+        "message": " 无广告"
+    },
+    "upgrade_fs_5": {
+        "message": " 支持服务"
+    },
+    "remind_login": {
+        "message": "你需要登录才能通过链接分享 Cookie。"
+    },
+    "remind_login_btn": {
+        "message": "立即注册"
+    },
+    "remind_upgrade_title": {
+        "message": "请升级以使用此功能。"
+    },
+    "remind_upgrade_description": {
+        "message": "该高级功能仅适用于付费账户。立即升级即可使用。"
+    },
+    "remind_upgrade_btn": {
+        "message": "立即升级"
+    },
+    "msg_password_error": {
+        "message": "密码不正确。"
+    },
+    "msg_cookie_error": {
+        "message": "Cookie 信息无效，请重新登录。"
+    },
+    "msg_link_exp": {
+        "message": "链接已过期。"
+    },
+    "owner": {
+        "message": "所有者"
+    },
+    "page_import_description": {
+        "message": "你正通过分享链接使用 Cookie 导入功能。"
     }
 }

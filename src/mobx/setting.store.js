@@ -6,6 +6,8 @@ class SettingStore {
         makeAutoObservable(this);
     }
 
+    show_ads = false;
+    loading = false;
     display_cookie = "default";
     customize_display_cookie = [
         "domain",

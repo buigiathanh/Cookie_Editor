@@ -202,5 +202,296 @@
     },
     "description_buy_me_a_coffee": {
         "message": "Om du gillar det, överväg att stödja mig"
+    },
+    "sidebar_clear_browser": {
+        "message": "Rensa webbläsardata"
+    },
+    "sidebar_upgrade": {
+        "message": "Uppgradera"
+    },
+    "sidebar_feature_suggestion": {
+        "message": "Förslag på funktion"
+    },
+    "sidebar_buy_coffee": {
+        "message": "Bjud mig på en kaffe"
+    },
+    "sidebar_open_source": {
+        "message": "Öppen källkod"
+    },
+    "clear_browser_title": {
+        "message": "RENSA WEBBLÄSARDATA"
+    },
+    "clear_browser_description": {
+        "message": "Ta bort all surfdata med ett klick."
+    },
+    "clear_browser_option_appcache": {
+        "message": "App-cache för webbplatser"
+    },
+    "clear_browser_option_cache": {
+        "message": "Webbläsarens cache"
+    },
+    "clear_browser_option_cacheStorage": {
+        "message": "Cachelagring"
+    },
+    "clear_browser_option_cookies": {
+        "message": "Cookies"
+    },
+    "clear_browser_option_downloads": {
+        "message": "Nedladdningslista"
+    },
+    "clear_browser_option_history": {
+        "message": "Webbhistorik"
+    },
+    "clear_browser_option_formData": {
+        "message": "Sparade formulärdata"
+    },
+    "clear_browser_option_fileSystems": {
+        "message": "Webbplatsers filsystem"
+    },
+    "clear_browser_option_indexedDB": {
+        "message": "IndexedDB-data"
+    },
+    "clear_browser_option_localStorage": {
+        "message": "LocalStorage-data"
+    },
+    "clear_browser_option_serviceWorkers": {
+        "message": "Service Workers"
+    },
+    "clear_browser_option_webSQL": {
+        "message": "WebSQL-data"
+    },
+    "button_select_all": {
+        "message": "Markera allt"
+    },
+    "button_remove_all": {
+        "message": "Ta bort allt"
+    },
+    "message_select_time_clear_browser_data": {
+        "message": "För vilken tidsperiod vill du rensa data?"
+    },
+    "choice_all_time": {
+        "message": "Hela tiden"
+    },
+    "choice_24h": {
+        "message": "Senaste 24 timmar"
+    },
+    "choice_last_7days": {
+        "message": "Senaste 7 dagar"
+    },
+    "choice_last_30days": {
+        "message": "Senaste 30 dagar"
+    },
+    "button_clear_browser": {
+        "message": "Rensa data"
+    },
+    "title_confirm_delete_browser_data": {
+        "message": "BEKRÄFTA RADERING AV DATA"
+    },
+    "description_confirm_delete_browser_data": {
+        "message": "Webbläsardata kommer att tas bort och kan inte återställas."
+    },
+    "tooltip_top_action_share": {
+        "message": "Dela"
+    },
+    "sidebar_link": {
+        "message": "Länkar"
+    },
+    "bottom_message_upgrade": {
+        "message": "Få 25 % rabatt när du uppgraderar till årsplan idag!"
+    },
+    "about_title": {
+        "message": "Om ThanhBui"
+    },
+    "about_content_1": {
+        "message": "Jag är utvecklare och gillar att skapa Chrome‑tillägg. Jag hjälper till att utveckla och marknadsföra kommunikation i sociala medier."
+    },
+    "about_content_2": {
+        "message": "Läs mer om mig och kontakta mig via följande sociala plattformar."
+    },
+    "account_type_premium": {
+        "message": "Premium"
+    },
+    "account_type_free": {
+        "message": "Gratis"
+    },
+    "email": {
+        "message": "E‑post"
+    },
+    "created_at": {
+        "message": "Skapad"
+    },
+    "expiry_date": {
+        "message": "Utgångsdatum"
+    },
+    "logout": {
+        "message": "Logga ut"
+    },
+    "buy_coffee_content_1": {
+        "message": "Underhåll av programvara kräver mycket tid och många sömnlösa nätter, särskilt när jag jobbar efter arbetsdagen."
+    },
+    "buy_coffee_content_2": {
+        "message": "Om du uppskattar mitt arbete och vill stödja mig finns det flera sätt att göra det."
+    },
+    "no_support": {
+        "message": "Jag vill inte stödja."
+    },
+    "feature_suggest_title": {
+        "message": "Vilken funktion vill du att vi lägger till?"
+    },
+    "feature_suggest_description": {
+        "message": "Föreslå en funktion du tycker skulle vara användbar."
+    },
+    "fs_email_description": {
+        "message": "Ange din e‑postadress. Vi kan kontakta dig vid behov. (valfritt)"
+    },
+    "label_fs": {
+        "message": " Förslag på funktion"
+    },
+    "pl_fs_input": {
+        "message": "Funktion du vill se"
+    },
+    "payment_fs": {
+        "message": "Skulle du betala för denna funktion?"
+    },
+    "button_loading": {
+        "message": "Laddar..."
+    },
+    "button_suggest": {
+        "message": "Skicka förslag"
+    },
+    "website": {
+        "message": "Webbplats"
+    },
+    "title": {
+        "message": "Titel"
+    },
+    "title_description": {
+        "message": "Ett minnesvärt namn som hjälper dig att identifiera vilken webbplats denna cookie‑länk hör till. (Obligatoriskt)"
+    },
+    "expiration_time": {
+        "message": "Utgångstid"
+    },
+    "msg_link_not_found": {
+        "message": "Denna länk finns inte."
+    },
+    "msg_no_permission": {
+        "message": "Du har inte rätt behörighet."
+    },
+    "msg_error": {
+        "message": "Ett systemfel har inträffat."
+    },
+    "share_cookie_title": {
+        "message": "DELA COOKIE"
+    },
+    "share_cookie_description": {
+        "message": "Vill du dela denna cookie?"
+    },
+    "time_option_1h": {
+        "message": "1 timme"
+    },
+    "exp_custom": {
+        "message": "Anpassad"
+    },
+    "unlimited": {
+        "message": "Obegränsat"
+    },
+    "type_option_exp_h": {
+        "message": "Timmar"
+    },
+    "type_option_exp_d": {
+        "message": "Dagar"
+    },
+    "type_option_exp_m": {
+        "message": "Månader"
+    },
+    "type_option_exp_y": {
+        "message": "År"
+    },
+    "msg_title_empty": {
+        "message": "Titeln får inte vara tom."
+    },
+    "msg_password_empty": {
+        "message": "Lösenordet får inte vara tomt."
+    },
+    "msg_password_length": {
+        "message": "Lösenordet måste vara minst 8 tecken."
+    },
+    "msg_share_error": {
+        "message": "Delning misslyckades."
+    },
+    "password_encrypt": {
+        "message": "Lösenord för att dekryptera cookien"
+    },
+    "password_encrypt_description": {
+        "message": "Ange ett lösenord för att kryptera cookien innan du delar den. Inte ens vi kan läsa innehållet utan det. (Obligatoriskt)"
+    },
+    "link_exp": {
+        "message": "Länken löper ut"
+    },
+    "link_exp_description": {
+        "message": "Ange ett utgångsdatum om du vill begränsa tiden för länken. Lämna tomt för att inte sätta en gräns."
+    },
+    "public_link_cookie": {
+        "message": "Alla med länken kan få åtkomst."
+    },
+    "title_upgrade": {
+        "message": "Enkla priser"
+    },
+    "upgrade_description": {
+        "message": "Enkla, transparenta priser med obegränsat antal prenumeranter. Byt plan eller avbryt när du vill."
+    },
+    "btn_upgrade_month": {
+        "message": "Från 30 kr/månad"
+    },
+    "btn_upgrade_year": {
+        "message": "Från 270 kr/år"
+    },
+    "msg_upgrade": {
+        "message": "Spara 25 % – betala endast 270 kr/år istället för 360 kr"
+    },
+    "upgrade_fs_1": {
+        "message": "Cookie‑hantering"
+    },
+    "upgrade_fs_2": {
+        "message": "Kryptering och dekryptering"
+    },
+    "upgrade_fs_3": {
+        "message": " Dela cookie"
+    },
+    "upgrade_fs_4": {
+        "message": " Inga annonser"
+    },
+    "upgrade_fs_5": {
+        "message": " Support"
+    },
+    "remind_login": {
+        "message": "Du måste skapa ett konto innan du delar cookie via länk."
+    },
+    "remind_login_btn": {
+        "message": "Registrera dig nu"
+    },
+    "remind_upgrade_title": {
+        "message": "Uppgradera för att använda den här funktionen."
+    },
+    "remind_upgrade_description": {
+        "message": "Denna avancerade funktion är endast tillgänglig för betalkonton. Uppgradera nu för åtkomst."
+    },
+    "remind_upgrade_btn": {
+        "message": "Uppgradera nu"
+    },
+    "msg_password_error": {
+        "message": "Ogiltigt lösenord."
+    },
+    "msg_cookie_error": {
+        "message": "Ogiltiga cookie‑uppgifter. Vänligen logga in igen."
+    },
+    "msg_link_exp": {
+        "message": "Länken har löpt ut."
+    },
+    "owner": {
+        "message": "Ägare"
+    },
+    "page_import_description": {
+        "message": "Du använder funktionen för att importera cookies via delad länk."
     }
 }

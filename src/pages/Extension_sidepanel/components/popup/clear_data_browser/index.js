@@ -27,10 +27,10 @@ const PopupClearDataBrowser = ({clear}) => {
                         >
                             <div className={`bg-white rounded-[10px] p-5`}>
                                 <p className={`font-bold text-[14px] mb-2`}>
-                                    CONFIRM BROWSER DATA DELETION
+                                    {extension.getLang("title_confirm_delete_browser_data")}
                                 </p>
                                 <p className={`text-[12px] mb-5`}>
-                                    Browser data will be deleted and cannot be recovered.
+                                    {extension.getLang("description_confirm_delete_browser_data")}
                                 </p>
                                 <div className={`w-full flex justify-between`}>
                                     <div className={"inline-block w-[59%]"}>

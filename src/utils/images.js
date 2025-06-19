@@ -1,5 +1,7 @@
 /*global chrome*/
 
+import {icons} from "../constants/icon";
+
 const image = {
     inExtension: (path) => {
         return `chrome-extension://${chrome.runtime.id}${path}`;

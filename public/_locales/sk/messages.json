@@ -202,5 +202,296 @@
     },
     "description_buy_me_a_coffee": {
         "message": "Ak sa vám to páči, zvážte ma podporiť"
+    },
+    "sidebar_clear_browser": {
+        "message": "Vymazať údaje prehliadača"
+    },
+    "sidebar_upgrade": {
+        "message": "Aktualizovať"
+    },
+    "sidebar_feature_suggestion": {
+        "message": "Návrh funkcie"
+    },
+    "sidebar_buy_coffee": {
+        "message": "Kúp mi kávu"
+    },
+    "sidebar_open_source": {
+        "message": "Open Source"
+    },
+    "clear_browser_title": {
+        "message": "VYMAZAŤ ÚDAJE PREHLIADAČA"
+    },
+    "clear_browser_description": {
+        "message": "Odstráňte všetky údaje prehliadania jedným kliknutím."
+    },
+    "clear_browser_option_appcache": {
+        "message": "Appcache webu"
+    },
+    "clear_browser_option_cache": {
+        "message": "Cache prehliadača"
+    },
+    "clear_browser_option_cacheStorage": {
+        "message": "Ukladanie cache"
+    },
+    "clear_browser_option_cookies": {
+        "message": "Cookies"
+    },
+    "clear_browser_option_downloads": {
+        "message": "Zoznam sťahovaní"
+    },
+    "clear_browser_option_history": {
+        "message": "História prehliadania"
+    },
+    "clear_browser_option_formData": {
+        "message": "Uložené údaje z formulárov"
+    },
+    "clear_browser_option_fileSystems": {
+        "message": "Systémy súborov webu"
+    },
+    "clear_browser_option_indexedDB": {
+        "message": "Údaje IndexedDB stránok"
+    },
+    "clear_browser_option_localStorage": {
+        "message": "Údaje localStorage stránok"
+    },
+    "clear_browser_option_serviceWorkers": {
+        "message": "Service Workers"
+    },
+    "clear_browser_option_webSQL": {
+        "message": "WebSQL údaje stránok"
+    },
+    "button_select_all": {
+        "message": "Vybrať všetko"
+    },
+    "button_remove_all": {
+        "message": "Odstrániť všetko"
+    },
+    "message_select_time_clear_browser_data": {
+        "message": "Za aké obdobie chcete údaje vymazať?"
+    },
+    "choice_all_time": {
+        "message": "Za celý čas"
+    },
+    "choice_24h": {
+        "message": "Posledných 24 hodín"
+    },
+    "choice_last_7days": {
+        "message": "Posledných 7 dní"
+    },
+    "choice_last_30days": {
+        "message": "Posledných 30 dní"
+    },
+    "button_clear_browser": {
+        "message": "Vymazať údaje"
+    },
+    "title_confirm_delete_browser_data": {
+        "message": "POTVRĎTE VYMAZANIE ÚDAJOV"
+    },
+    "description_confirm_delete_browser_data": {
+        "message": "Údaje prehliadača budú odstránené a nebude možné ich obnoviť."
+    },
+    "tooltip_top_action_share": {
+        "message": "Zdieľať"
+    },
+    "sidebar_link": {
+        "message": "Odkazy"
+    },
+    "bottom_message_upgrade": {
+        "message": "Získajte dnes 25% zľavu pri prechode na ročný plán!"
+    },
+    "about_title": {
+        "message": "OThanhBui"
+    },
+    "about_content_1": {
+        "message": "Som vývojár a rád vytváram rozšírenia pre Chrome. Pomáham rozvíjať a propagovať komunikáciu na sociálnych sieťach."
+    },
+    "about_content_2": {
+        "message": "Viac o mne sa môžete dozvedieť a kontaktovať ma cez nasledujúce platformy."
+    },
+    "account_type_premium": {
+        "message": "Premium"
+    },
+    "account_type_free": {
+        "message": "Zdarma"
+    },
+    "email": {
+        "message": "E‑mail"
+    },
+    "created_at": {
+        "message": "Vytvorené"
+    },
+    "expiry_date": {
+        "message": "Dátum vypršania"
+    },
+    "logout": {
+        "message": "Odhlásiť sa"
+    },
+    "buy_coffee_content_1": {
+        "message": "Údržba softvéru zaberá veľa času a nespávam nocami, najmä keď na ňom pracujem po pracovnej dobe."
+    },
+    "buy_coffee_content_2": {
+        "message": "Ak oceňujete moju prácu a chcete ma podporiť, existuje niekoľko spôsobov, ako to môžete urobiť."
+    },
+    "no_support": {
+        "message": "Nechcem podporovať."
+    },
+    "feature_suggest_title": {
+        "message": "Akú funkciu by ste chceli pridať?"
+    },
+    "feature_suggest_description": {
+        "message": "Navrhnite užitočnú funkciu, ktorú by ste chceli vidieť."
+    },
+    "fs_email_description": {
+        "message": "Zadajte svoj e‑mail. V prípade potreby vás môžeme kontaktovať. (voliteľné)"
+    },
+    "label_fs": {
+        "message": " Návrh funkcie"
+    },
+    "pl_fs_input": {
+        "message": "Funkcia, ktorú by ste chceli mať"
+    },
+    "payment_fs": {
+        "message": "Boli by ste ochotní zaplatiť za túto funkciu?"
+    },
+    "button_loading": {
+        "message": "Načítavam..."
+    },
+    "button_suggest": {
+        "message": "Odošli návrh"
+    },
+    "website": {
+        "message": "Webová stránka"
+    },
+    "title": {
+        "message": "Názov"
+    },
+    "title_description": {
+        "message": "Zapamätateľný názov, ktorý pomôže identifikovať, ku ktorej stránke tento odkaz cookie patrí. (Povinné)"
+    },
+    "expiration_time": {
+        "message": "Dátum vypršania"
+    },
+    "msg_link_not_found": {
+        "message": "Tento odkaz neexistuje."
+    },
+    "msg_no_permission": {
+        "message": "Nemáte potrebné povolenie."
+    },
+    "msg_error": {
+        "message": "Nastala systémová chyba."
+    },
+    "share_cookie_title": {
+        "message": "ZDIEĽAŤ COOKIE"
+    },
+    "share_cookie_description": {
+        "message": "Chcete zdieľať tento cookie?"
+    },
+    "time_option_1h": {
+        "message": "1hodina"
+    },
+    "exp_custom": {
+        "message": "Vlastné"
+    },
+    "unlimited": {
+        "message": "Neobmedzené"
+    },
+    "type_option_exp_h": {
+        "message": "Hodiny"
+    },
+    "type_option_exp_d": {
+        "message": "Dni"
+    },
+    "type_option_exp_m": {
+        "message": "Mesiace"
+    },
+    "type_option_exp_y": {
+        "message": "Roky"
+    },
+    "msg_title_empty": {
+        "message": "Názov nemôže byť prázdny."
+    },
+    "msg_password_empty": {
+        "message": "Heslo nemôže byť prázdne."
+    },
+    "msg_password_length": {
+        "message": "Heslo musí mať aspoň 8 znakov."
+    },
+    "msg_share_error": {
+        "message": "Nepodarilo sa zdieľať."
+    },
+    "password_encrypt": {
+        "message": "Heslo na dešifrovanie cookie"
+    },
+    "password_encrypt_description": {
+        "message": "Zadajte heslo na zašifrovanie cookie pred zdieľaním. Ani my nebudeme môcť zobraziť obsah bez neho. (Povinné)"
+    },
+    "link_exp": {
+        "message": "Odkaz vyprší"
+    },
+    "link_exp_description": {
+        "message": "Zadajte dátum vypršania, ak chcete odkaz zdieľať časovo obmedzene. Nechajte prázdne, ak nechcete vypršanie."
+    },
+    "public_link_cookie": {
+        "message": "Kto má odkaz, má prístup."
+    },
+    "title_upgrade": {
+        "message": "Jednoduché ceny"
+    },
+    "upgrade_description": {
+        "message": "Jednoduché a prehľadné ceny s neobmedzenými predplatiteľmi. Plán môžete kedykoľvek zmeniť alebo zrušiť."
+    },
+    "btn_upgrade_month": {
+        "message": "Od 3 $/mesiac"
+    },
+    "btn_upgrade_year": {
+        "message": "Od 27 $/rok"
+    },
+    "msg_upgrade": {
+        "message": "Ušetrite 25 % – plaťte len 27 $/rok namiesto 36 $"
+    },
+    "upgrade_fs_1": {
+        "message": "Správa cookie"
+    },
+    "upgrade_fs_2": {
+        "message": "Šifrovanie a dešifrovanie"
+    },
+    "upgrade_fs_3": {
+        "message": " Zdieľať cookie"
+    },
+    "upgrade_fs_4": {
+        "message": " Bez reklám"
+    },
+    "upgrade_fs_5": {
+        "message": " Podpora"
+    },
+    "remind_login": {
+        "message": "Musíte mať účet, aby ste mohli zdieľať cookie cez odkaz."
+    },
+    "remind_login_btn": {
+        "message": "Zaregistruj sa teraz"
+    },
+    "remind_upgrade_title": {
+        "message": "Aktualizujte, aby ste mohli používať túto funkciu."
+    },
+    "remind_upgrade_description": {
+        "message": "Táto pokročilá funkcia je dostupná len pre platené účty. Aktualizujte teraz pre prístup."
+    },
+    "remind_upgrade_btn": {
+        "message": "Aktualizovať teraz"
+    },
+    "msg_password_error": {
+        "message": "Neplatné heslo."
+    },
+    "msg_cookie_error": {
+        "message": "Neplatné údaje cookie. Prosím, prihláste sa znova."
+    },
+    "msg_link_exp": {
+        "message": "Odkaz vypršal."
+    },
+    "owner": {
+        "message": "Vlastník"
+    },
+    "page_import_description": {
+        "message": "Používate import cookie cez zdieľaný odkaz."
     }
 }

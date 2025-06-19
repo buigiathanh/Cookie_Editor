@@ -4,14 +4,22 @@ import {observer} from "mobx-react-lite";
 import Sidebar from "./components/sidebar";
 import AlertComponent from "./components/alert";
 import ShowCookie from "./tabs/cookie";
-import Setting from "./tabs/setting";
 import {googleAnalytics} from "../../utils/google_analytics";
 import About from "./components/popup/about";
 import Ads from "./components/ads";
 import PopupBuyCoffee from "./components/popup/buy_coffee";
-import ClearData from "./tabs/clear_data";
 import FeatureSuggest from "./components/popup/feature_suggest";
 import {settingStore} from "../../mobx/setting.store";
+import {accountStore} from "../../mobx/account.store";
+import AccountPopup from "./components/popup/account";
+import RemindUpgrade from "./components/popup/remind_upgrade";
+import Upgrade from "./components/popup/upgrade";
+import RemindLogin from "./components/popup/remind_login";
+import ClearData from "./tabs/clear_data";
+import Setting from "./tabs/setting";
+import LinkCookies from "./tabs/links";
+import PopupDetailCookie from "./components/popup/detail_cookie";
+import Loading from "./components/loading";
 
 const ExtensionSidePanel = () => {
     const lastDayActive = settingStore.day_active;
@@ -69,8 +77,17 @@ const ExtensionSidePanel = () => {
     }, [lastDayActive, countDayActive, autoShowPopupFeatureSuggest])
 
     useEffect(() => {
+        chrome.runtime.onMessageExternal.addListener((request, sender, sendResponse) => {
+            if (request.action === "update_account") {
+                accountStore.getAccount().then();
+            }
+
+            sendResponse({status: true})
+        })
+
         googleAnalytics({name: "use_extension", params: []});
         settingStore.setDataSetting();
+        accountStore.getAccount().then();
     }, [])
 
     return (
@@ -80,26 +97,47 @@ const ExtensionSidePanel = () => {
                     className="h-full inline-block"
                     style={{width: "calc(100% - 50px)"}}
                 >
-                    <div
-                        className={`w-full h-full p-[10px] pb-[70px] overflow-y-auto relative`}>
+                    <div className={`w-full h-full p-[10px] ${settingStore.show_ads ? "pb-[70px]" : "pb-[20px]"} overflow-y-auto relative`}>
                         <ShowCookie/>
 
                         <Setting/>
 
                         <ClearData/>
 
+                        {
+                            settingStore.tab === "link_cookies" && (
+                                <LinkCookies />
+                            )
+                        }
+
                         <AlertComponent/>
 
                         <About/>
 
+                        <AccountPopup />
+
+                        <RemindUpgrade />
+
+                        <RemindLogin />
+
+                        <Upgrade />
+
+                        <PopupDetailCookie />
+
                         <FeatureSuggest/>
 
-                        <div
-                            className={`h-[60px] fixed bottom-0 left-0 p-[5px] bg-white`}
-                            style={{zIndex: 50, width: "calc(100% - 50px)"}}
-                        >
-                            <Ads/>
-                        </div>
+                        <Loading />
+
+                        {
+                            settingStore.show_ads && (
+                                <div
+                                    className={`h-[60px] fixed bottom-0 left-0 p-[5px] bg-white`}
+                                    style={{zIndex: 50, width: "calc(100% - 50px)"}}
+                                >
+                                    <Ads/>
+                                </div>
+                            )
+                        }
 
                         <PopupBuyCoffee/>
 

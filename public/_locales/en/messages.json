@@ -202,5 +202,296 @@
     },
     "description_password_decrypt": {
         "message": "Enter the decryption password if the cookies are protected by encryption. (optional)."
+    },
+    "sidebar_clear_browser": {
+        "message": "Clear data browser"
+    },
+    "sidebar_upgrade": {
+        "message": "Upgrade"
+    },
+    "sidebar_feature_suggestion": {
+        "message": "Feature suggestion"
+    },
+    "sidebar_buy_coffee": {
+        "message": "Buy me a coffee"
+    },
+    "sidebar_open_source": {
+        "message": "Open Source"
+    },
+    "clear_browser_title": {
+        "message": "CLEAR DATA BROWSER"
+    },
+    "clear_browser_description": {
+        "message": "Clear all browsing data with just a simple click."
+    },
+    "clear_browser_option_appcache": {
+        "message": "Website's appcaches."
+    },
+    "clear_browser_option_cache": {
+        "message": "The browser's cache"
+    },
+    "clear_browser_option_cacheStorage": {
+        "message": "Cache storage"
+    },
+    "clear_browser_option_cookies": {
+        "message": "Cookies"
+    },
+    "clear_browser_option_downloads": {
+        "message": "The browser's download list"
+    },
+    "clear_browser_option_history": {
+        "message": "The browser's history"
+    },
+    "clear_browser_option_formData": {
+        "message": "The browser's stored form data"
+    },
+    "clear_browser_option_fileSystems": {
+        "message": "Websites' file systems"
+    },
+    "clear_browser_option_indexedDB": {
+        "message": "Websites' IndexedDB data"
+    },
+    "clear_browser_option_localStorage": {
+        "message": "Websites' local storage data"
+    },
+    "clear_browser_option_serviceWorkers": {
+        "message": "Service Workers"
+    },
+    "clear_browser_option_webSQL": {
+        "message": "Websites' WebSQL data"
+    },
+    "button_select_all": {
+        "message": "Select All"
+    },
+    "button_remove_all": {
+        "message": "Remove All"
+    },
+    "message_select_time_clear_browser_data": {
+        "message": "What time range do you want to clear the data for?"
+    },
+    "choice_all_time": {
+        "message": "All time"
+    },
+    "choice_24h": {
+        "message": "24h"
+    },
+    "choice_last_7days": {
+        "message": "Last 7 days"
+    },
+    "choice_last_30days": {
+        "message": "Last 30 days"
+    },
+    "button_clear_browser": {
+        "message": "Clear data browser"
+    },
+    "title_confirm_delete_browser_data": {
+        "message": "CONFIRM BROWSER DATA DELETION"
+    },
+    "description_confirm_delete_browser_data": {
+        "message": "Browser data will be deleted and cannot be recovered."
+    },
+    "tooltip_top_action_share": {
+        "message": "Share"
+    },
+    "sidebar_link": {
+        "message": "Links"
+    },
+    "bottom_message_upgrade": {
+        "message": " Enjoy 25% off when you upgrade to a 1-year plan today!"
+    },
+    "about_title": {
+        "message": "About ThanhBui"
+    },
+    "about_content_1": {
+        "message": "I am a developer and I enjoy creating extensions for Chrome. Helping you develop and market social media communications."
+    },
+    "about_content_2": {
+        "message": " You can learn more about me and get in touch through the following social media platforms."
+    },
+    "account_type_premium": {
+        "message": "Premium"
+    },
+    "account_type_free": {
+        "message": "Free"
+    },
+    "email": {
+        "message": "Email"
+    },
+    "created_at": {
+        "message": "Created at"
+    },
+    "expiry_date": {
+        "message": "Expiry Date"
+    },
+    "logout": {
+        "message": "Logout"
+    },
+    "buy_coffee_content_1": {
+        "message": "Software maintenance takes up a lot of time and many late nights, especially when I work on it after my regular day job."
+    },
+    "buy_coffee_content_2": {
+        "message": "If you enjoy my work and would like to show your appreciation, there are several ways you can support me."
+    },
+    "no_support": {
+        "message": "I don't want to support."
+    },
+    "feature_suggest_title": {
+        "message": "What feature would you like to see added?"
+    },
+    "feature_suggest_description": {
+        "message": "Suggest a necessary feature if you'd like us to develop it further."
+    },
+    "fs_email_description": {
+        "message": "Enter your email address. We may contact you if we need to clarify your request. (optional)"
+    },
+    "label_fs": {
+        "message": " Feature Suggest"
+    },
+    "pl_fs_input": {
+        "message": "A feature you’d like us to develop next"
+    },
+    "payment_fs": {
+        "message": "Would you be willing to pay for that feature?"
+    },
+    "button_loading": {
+        "message": "Loading ..."
+    },
+    "button_suggest": {
+        "message": "Suggest"
+    },
+    "website": {
+        "message": "Website"
+    },
+    "title": {
+        "message": "Title"
+    },
+    "title_description": {
+        "message": " A memorable name to help you identify which website the cookie link belongs to. (Required)"
+    },
+    "expiration_time": {
+        "message": "Expiration time"
+    },
+    "msg_link_not_found": {
+        "message": "This link doesn't exist."
+    },
+    "msg_no_permission": {
+        "message": "You don't have the required permissions."
+    },
+    "msg_error": {
+        "message": "A system error has occurred."
+    },
+    "share_cookie_title": {
+        "message": "SHARE COOKIE"
+    },
+    "share_cookie_description": {
+        "message": "Do you want to share the cookie?"
+    },
+    "time_option_1h": {
+        "message": "1 hour"
+    },
+    "exp_custom": {
+        "message": "Custom"
+    },
+    "unlimited": {
+        "message": "Unlimited"
+    },
+    "type_option_exp_h": {
+        "message": "Hours"
+    },
+    "type_option_exp_d": {
+        "message": "Days"
+    },
+    "type_option_exp_m": {
+        "message": "Months"
+    },
+    "type_option_exp_y": {
+        "message": "Years"
+    },
+    "msg_title_empty": {
+        "message": "Title must not be empty."
+    },
+    "msg_password_empty": {
+        "message": "Password must not be empty."
+    },
+    "msg_password_length": {
+        "message": "Password must be at least 8 characters long."
+    },
+    "msg_share_error": {
+        "message": "Sharing was unsuccessful."
+    },
+    "password_encrypt": {
+        "message": "Password to decrypt cookies"
+    },
+    "password_encrypt_description": {
+        "message": "Enter a password to encrypt the cookie before sharing. This ensures that even we cannot read the content without the password. (Required)"
+    },
+    "link_exp": {
+        "message": "Link expiration time"
+    },
+    "link_exp_description": {
+        "message": "Enter the link expiration time if you want to share it for a specific period. Leave it blank if you don’t want to set an expiration time."
+    },
+    "public_link_cookie": {
+        "message": "Everyone can access the link you shared."
+    },
+    "title_upgrade": {
+        "message": "Simple pricing"
+    },
+    "upgrade_description": {
+        "message": "Simple, transparent pricing with unlimited subscribers. Switch plans or cancel anytime."
+    },
+    "btn_upgrade_month": {
+        "message": "Start from $3/month"
+    },
+    "btn_upgrade_year": {
+        "message": "Start from $27/year"
+    },
+    "msg_upgrade": {
+        "message": "Get 25% off — pay just $27/year instead of $36"
+    },
+    "upgrade_fs_1": {
+        "message": "Cookie Management"
+    },
+    "upgrade_fs_2": {
+        "message": "Encryption and decryption"
+    },
+    "upgrade_fs_3": {
+        "message": " Share Cookies"
+    },
+    "upgrade_fs_4": {
+        "message": " No advertisements"
+    },
+    "upgrade_fs_5": {
+        "message": " Support"
+    },
+    "remind_login": {
+        "message": " You need to create an account before sharing the cookie via a link."
+    },
+    "remind_login_btn": {
+        "message": "Sign up now"
+    },
+    "remind_upgrade_title": {
+        "message": "Please upgrade to use this feature."
+    },
+    "remind_upgrade_description": {
+        "message": "This advanced feature is available for paid accounts only. Upgrade now to access it."
+    },
+    "remind_upgrade_btn": {
+        "message": "Upgrade now"
+    },
+    "msg_password_error": {
+        "message": "The decryption password is incorrect."
+    },
+    "msg_cookie_error": {
+        "message": "Invalid cookie information. Please log in again."
+    },
+    "msg_link_exp": {
+        "message": "The link has expired."
+    },
+    "owner": {
+        "message": "Owner"
+    },
+    "page_import_description": {
+        "message": "You're using the cookie import feature through a shared link."
     }
 }

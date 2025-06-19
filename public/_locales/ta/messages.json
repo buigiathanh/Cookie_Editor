@@ -202,5 +202,296 @@
     },
     "description_buy_me_a_coffee": {
         "message": "உங்களுக்கு பிடித்தால், என்னை ஆதரிப்பதைக் கவனியுங்கள் "
+    },
+    "sidebar_clear_browser": {
+        "message": "உலாவி தரவுகள் அழி"
+    },
+    "sidebar_upgrade": {
+        "message": "மேம்படுத்தம்"
+    },
+    "sidebar_feature_suggestion": {
+        "message": "திறன் குறிப்புரை"
+    },
+    "sidebar_buy_coffee": {
+        "message": "ஒரு காபி வாங்கி தாருங்கள்"
+    },
+    "sidebar_open_source": {
+        "message": "திறந்த மூலக் குறியீடு"
+    },
+    "clear_browser_title": {
+        "message": "உலாவி தரவுகளை அழி"
+    },
+    "clear_browser_description": {
+        "message": "ஒரே கிளிக்கில் அனைத்து உலாவல் தரவுகளையும் நீக்கவும்."
+    },
+    "clear_browser_option_appcache": {
+        "message": "வலைத்தளங்களின் செயலி kcache"
+    },
+    "clear_browser_option_cache": {
+        "message": "உலாவி கேஷ்"
+    },
+    "clear_browser_option_cacheStorage": {
+        "message": "கேஷ் சேமிப்பு"
+    },
+    "clear_browser_option_cookies": {
+        "message": "குக்கீஸ்"
+    },
+    "clear_browser_option_downloads": {
+        "message": "பதிவிறக்க பட்டியல்"
+    },
+    "clear_browser_option_history": {
+        "message": "உலாவல் வரலாறு"
+    },
+    "clear_browser_option_formData": {
+        "message": "சேமிக்கப்பட்ட படிவத் தரவுகள்"
+    },
+    "clear_browser_option_fileSystems": {
+        "message": "வலைத்தள கோப்பு அமைப்புகள்"
+    },
+    "clear_browser_option_indexedDB": {
+        "message": "IndexedDB தரவுகள்"
+    },
+    "clear_browser_option_localStorage": {
+        "message": "localStorage தரவுகள்"
+    },
+    "clear_browser_option_serviceWorkers": {
+        "message": "சேவை பணியாளர்கள்"
+    },
+    "clear_browser_option_webSQL": {
+        "message": "WebSQL தரவுகள்"
+    },
+    "button_select_all": {
+        "message": "அனைத்தையும் தேர்வு செய்"
+    },
+    "button_remove_all": {
+        "message": "அனைத்தையும் நீக்கு"
+    },
+    "message_select_time_clear_browser_data": {
+        "message": "எந்த காலத்திற்கான தரவுகளை நீக்க விரும்புகிறீர்கள்?"
+    },
+    "choice_all_time": {
+        "message": "முழு காலம்"
+    },
+    "choice_24h": {
+        "message": "கடந்த 24 மணி"
+    },
+    "choice_last_7days": {
+        "message": "கடந்த 7 நாட்கள்"
+    },
+    "choice_last_30days": {
+        "message": "கடந்த 30 நாட்கள்"
+    },
+    "button_clear_browser": {
+        "message": "தரவுகளை அழி"
+    },
+    "title_confirm_delete_browser_data": {
+        "message": "தரவுகளை அழிப்பதை உறுதிப்படுத்து"
+    },
+    "description_confirm_delete_browser_data": {
+        "message": "உலாவி தரவை நீக்குவதால் மீட்க முடியாது."
+    },
+    "tooltip_top_action_share": {
+        "message": "பகிர்"
+    },
+    "sidebar_link": {
+        "message": " இணைப்புகள்"
+    },
+    "bottom_message_upgrade": {
+        "message": "இன்றே வருடாந்திர திட்டத்திற்கு 25 % தள்ளுபடி பெறுங்கள்!"
+    },
+    "about_title": {
+        "message": "ThanhBui இன் பற்றில்"
+    },
+    "about_content_1": {
+        "message": "நான் ஒரு டெவலப்பர். Chrome நீட்சிகள் உருவாக்க விரும்புகிறேன். சமூக ஊடகங்களில் தகவல்பரப்பிற்கும் விளம்பரத்திற்கும் உதவுகிறேன்."
+    },
+    "about_content_2": {
+        "message": "என்னைப் பற்றி மேலும் அறிந்து கீழ்காணும் சமூக தளங்களில் தொடர்பு கொள்ளலாம்."
+    },
+    "account_type_premium": {
+        "message": "ப்ரீமியம்"
+    },
+    "account_type_free": {
+        "message": "இலவசம்"
+    },
+    "email": {
+        "message": "மின்னஞ்சல்"
+    },
+    "created_at": {
+        "message": "உருவாக்கப்பட்டது"
+    },
+    "expiry_date": {
+        "message": "காலாவதி தேதி"
+    },
+    "logout": {
+        "message": "வெளியேறு"
+    },
+    "buy_coffee_content_1": {
+        "message": "மென்பொருள் பராமரிப்பு பல நேரமும் தூக்கமில்லாத இரவுகளும் எடுக்கும், குறிப்பாக வேலை நேரத்திற்குப் பிறகு."
+    },
+    "buy_coffee_content_2": {
+        "message": "என் பணியை மதித்து ஆதரிக்க விரும்பினால், பல வழிகளுண்டு."
+    },
+    "no_support": {
+        "message": "ஆதரிக்க விரும்பவில்லை."
+    },
+    "feature_suggest_title": {
+        "message": "哪ர் 기능을 원하세요?"
+    },
+    "feature_suggest_description": {
+        "message": "உங்கள் விருப்பமான பயன்பாட்டை தயவுசெய்து குறிப்பிட்டு அனுப்பவும்."
+    },
+    "fs_email_description": {
+        "message": "உங்கள் மின்னஞ்சலை உள்ளிடவும். வேண்டுமானால் தெளிவுக்கு தொடர்புக்கு உங்களை அணுகலாம். (ஆய்வற்றது)"
+    },
+    "label_fs": {
+        "message": "க功能 பரிந்துரையின் தலைப்பு"
+    },
+    "pl_fs_input": {
+        "message": "நீங்கள் விரும்பும் பயன்பாடு"
+    },
+    "payment_fs": {
+        "message": "இந்த பயன்பாட்டுக்காக சம்பளம் கிடைக்குமா?"
+    },
+    "button_loading": {
+        "message": "ஓதப்படுகிறது …"
+    },
+    "button_suggest": {
+        "message": "பரிந்துரையை அனுப்பு"
+    },
+    "website": {
+        "message": "இணையதளம்"
+    },
+    "title": {
+        "message": "தலைப்பு"
+    },
+    "title_description": {
+        "message": "இப்பக்கத்தில் இருந்து cookie இணைப்பு எந்த இணையதளத்திற்கு சென்று சேரும் என்பதைப் புழிக்க உதவும் நினைவூட்டும் பெயர். (தேவை)"
+    },
+    "expiration_time": {
+        "message": "காலாவதி நேரம்"
+    },
+    "msg_link_not_found": {
+        "message": "இந்த இணைப்பை கிடைக்கவில்லை."
+    },
+    "msg_no_permission": {
+        "message": "உங்களுக்கு அனுமதி இல்லை."
+    },
+    "msg_error": {
+        "message": "கணினி கணினியில் பிழை ஏற்பட்டுள்ளது."
+    },
+    "share_cookie_title": {
+        "message": "COOKIE பகிர்"
+    },
+    "share_cookie_description": {
+        "message": "இந்த cookie பகிர விரும்புகிறீர்களா?"
+    },
+    "time_option_1h": {
+        "message": "1 மணி"
+    },
+    "exp_custom": {
+        "message": "தனிப்பயன்"
+    },
+    "unlimited": {
+        "message": "வரம்பற்ற"
+    },
+    "type_option_exp_h": {
+        "message": "மணி"
+    },
+    "type_option_exp_d": {
+        "message": "நாள்"
+    },
+    "type_option_exp_m": {
+        "message": "மாதம்"
+    },
+    "type_option_exp_y": {
+        "message": "ஆண்டு"
+    },
+    "msg_title_empty": {
+        "message": "தலைப்பு காலியாக இருக்க கூடாது."
+    },
+    "msg_password_empty": {
+        "message": "கடவுச்சொல் காலியாக இருக்க கூடாது."
+    },
+    "msg_password_length": {
+        "message": "கடவுச்சொல் குறைந்தது 8 எழுத்துகள் இருக்க வேண்டும்."
+    },
+    "msg_share_error": {
+        "message": "பகிர்வுப் பிழை."
+    },
+    "password_encrypt": {
+        "message": "COOKIE நகலை திறக்க கடவுச்சொல்"
+    },
+    "password_encrypt_description": {
+        "message": "COOKIE பகிர்வுக்கு முன் வழிமுறை ரகசியமாக்கு. நம் கூட இல்லாமல் பார்வையிடமுடியாது. (தேவை)"
+    },
+    "link_exp": {
+        "message": "இணைப்பு காலாவதியாகும்"
+    },
+    "link_exp_description": {
+        "message": "நீங்கள் அட்டவணைக்கு மீட்டமைக்க விரும்பினால் காலாவதி காலத்தை கொடுக்கவும். காலாவதி இல்லாமல் விட அட்டவணை."
+    },
+    "public_link_cookie": {
+        "message": "இணைப்பைக் கொண்ட யாரும் அணுகலாம்."
+    },
+    "title_upgrade": {
+        "message": "எளிய விலை"
+    },
+    "upgrade_description": {
+        "message": "எளிய, தெளிவான விலை, கண்டின்நிலை சந்தா பதிவு. எப்போதும் திட்டம் மாற்றலாம் அல்லது நிறுத்தலாம்."
+    },
+    "btn_upgrade_month": {
+        "message": "மாதம் $3 முதல்"
+    },
+    "btn_upgrade_year": {
+        "message": "ஆண்டு $27 முதல்"
+    },
+    "msg_upgrade": {
+        "message": "25 % சலுகை — $36 பதிலாக $27 மட்டும் செலவு!"
+    },
+    "upgrade_fs_1": {
+        "message": "COOKIE மேலாண்மை"
+    },
+    "upgrade_fs_2": {
+        "message": "குறியாக்கமும் திறப்பும்"
+    },
+    "upgrade_fs_3": {
+        "message": "COOKIE பகிர்வு"
+    },
+    "upgrade_fs_4": {
+        "message": "விளம்பரம் இல்லை"
+    },
+    "upgrade_fs_5": {
+        "message": "ஆதரவு"
+    },
+    "remind_login": {
+        "message": "COOKIE இணைப்பு மூலம் பகிர்வதற்கு முன் உங்களால் கணக்கு தேவை."
+    },
+    "remind_login_btn": {
+        "message": "இப்போது புகுபதிகை"
+    },
+    "remind_upgrade_title": {
+        "message": "இந்த வசதியை பயன்படுத்த வேண்டுமா? மேம்படுத்தவும்."
+    },
+    "remind_upgrade_description": {
+        "message": "இந்த மேம்பட்ட வசதி செயற்கணினி கணக்குகளுக்கு மட்டுமே கிடைக்கிறது. அணுகவேண்டும் என்றால் இப்போது மேம்படுத்தவும்."
+    },
+    "remind_upgrade_btn": {
+        "message": "இப்போது மேம்படுத்தவும்"
+    },
+    "msg_password_error": {
+        "message": "கடவுச்சொல் தவறானது."
+    },
+    "msg_cookie_error": {
+        "message": "COOKIE தகவல்கள் தவறு. தயவுசெய்து மீண்டும் உள்நுழைக."
+    },
+    "msg_link_exp": {
+        "message": "இணைப்பு காலாவதியானது."
+    },
+    "owner": {
+        "message": "உரிமையாளர்"
+    },
+    "page_import_description": {
+        "message": "பகிரப்பட்டCOOKIE இணைப்பின் மூலம் நீங்கள் COOKIE இறக்குமதி செயல்பாட்டைப் பயன்படுத்துகிறீர்கள்."
     }
 }

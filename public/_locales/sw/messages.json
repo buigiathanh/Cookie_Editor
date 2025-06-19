@@ -202,5 +202,296 @@
     },
     "description_buy_me_a_coffee": {
         "message": "Ikiwa unapenda, fikiria kunisaidia"
+    },
+    "sidebar_clear_browser": {
+        "message": "Futa data za kivinjari"
+    },
+    "sidebar_upgrade": {
+        "message": "Sasisha"
+    },
+    "sidebar_feature_suggestion": {
+        "message": "Pendekezo la kipengele"
+    },
+    "sidebar_buy_coffee": {
+        "message": "Nipatie kahawa"
+    },
+    "sidebar_open_source": {
+        "message": "Chanzo wazi"
+    },
+    "clear_browser_title": {
+        "message": "FUTA DATA ZA KIVINJARI"
+    },
+    "clear_browser_description": {
+        "message": "Ondoa data zote za kuvinjari kwa bonyeza moja."
+    },
+    "clear_browser_option_appcache": {
+        "message": "Appcache ya tovuti"
+    },
+    "clear_browser_option_cache": {
+        "message": "Kache ya kivinjari"
+    },
+    "clear_browser_option_cacheStorage": {
+        "message": "Hifadhi ya kache"
+    },
+    "clear_browser_option_cookies": {
+        "message": "Vikuki (cookies)"
+    },
+    "clear_browser_option_downloads": {
+        "message": "Orodha ya kupakua"
+    },
+    "clear_browser_option_history": {
+        "message": "Historia ya kuvinjari"
+    },
+    "clear_browser_option_formData": {
+        "message": "Data zilizohifadhiwa za fomu"
+    },
+    "clear_browser_option_fileSystems": {
+        "message": "Mifumo ya faili ya tovuti"
+    },
+    "clear_browser_option_indexedDB": {
+        "message": "Data za IndexedDB za tovuti"
+    },
+    "clear_browser_option_localStorage": {
+        "message": "Data za localStorage za tovuti"
+    },
+    "clear_browser_option_serviceWorkers": {
+        "message": "Service Workers"
+    },
+    "clear_browser_option_webSQL": {
+        "message": "Data za WebSQL za tovuti"
+    },
+    "button_select_all": {
+        "message": "Chagua vyote"
+    },
+    "button_remove_all": {
+        "message": "Ondoa vyote"
+    },
+    "message_select_time_clear_browser_data": {
+        "message": "Kwa kipindi gani unahitaji kufuta data?"
+    },
+    "choice_all_time": {
+        "message": "Kwa wakati wote"
+    },
+    "choice_24h": {
+        "message": "Saa 24 zilizopita"
+    },
+    "choice_last_7days": {
+        "message": "Siku 7 zilizopita"
+    },
+    "choice_last_30days": {
+        "message": "Siku 30 zilizopita"
+    },
+    "button_clear_browser": {
+        "message": "Futa data"
+    },
+    "title_confirm_delete_browser_data": {
+        "message": "THIBITISHA UFUTAJI DATA"
+    },
+    "description_confirm_delete_browser_data": {
+        "message": "Data ya kivinjari itaondolewa na haiwezi kurejeshwa."
+    },
+    "tooltip_top_action_share": {
+        "message": "Sambaza"
+    },
+    "sidebar_link": {
+        "message": "Viungo"
+    },
+    "bottom_message_upgrade": {
+        "message": "Pata punguzo la 25 % ukiwasilisha mpango wa kila mwaka leo!"
+    },
+    "about_title": {
+        "message": "Kuhusu ThanhBui"
+    },
+    "about_content_1": {
+        "message": "Mimi ni mtengenezaji na napenda kuunda nyongeza za Chrome. Nisaidie kukuza mawasiliano ya mitandao ya kijamii."
+    },
+    "about_content_2": {
+        "message": "Unaweza kujifunza zaidi kuhusu mimi na kuniwasiliana kupitia mitandao ifuatayo."
+    },
+    "account_type_premium": {
+        "message": "Premium"
+    },
+    "account_type_free": {
+        "message": "Bure"
+    },
+    "email": {
+        "message": "Barua pepe"
+    },
+    "created_at": {
+        "message": "Imeundwa"
+    },
+    "expiry_date": {
+        "message": "Tarehe ya kumalizika"
+    },
+    "logout": {
+        "message": "Toka"
+    },
+    "buy_coffee_content_1": {
+        "message": "Matengenezo ya programu yanachukua muda mwingi na usiku mwingi bila usingizi, hasa ninapofanya kazi baada ya saa za kawaida."
+    },
+    "buy_coffee_content_2": {
+        "message": "Kama unapenda kazi yangu na ungependa kuunga mkono, kuna njia kadhaa za kufanya hivyo."
+    },
+    "no_support": {
+        "message": "Sitingei."
+    },
+    "feature_suggest_title": {
+        "message": "Ni kipengele gani ungependa tuongeze?"
+    },
+    "feature_suggest_description": {
+        "message": "Pendekeza kipengele muhimu ungependa tuendeleze."
+    },
+    "fs_email_description": {
+        "message": "Weka barua pepe yako. Tunaweza kuwasiliana kwa ufafanuzi. (hiari)"
+    },
+    "label_fs": {
+        "message": " Pendekezo la kipengele"
+    },
+    "pl_fs_input": {
+        "message": "Kipengele unachotaka tuongeze"
+    },
+    "payment_fs": {
+        "message": "Je, utalipa kwa kipengele hicho?"
+    },
+    "button_loading": {
+        "message": "Inapakia..."
+    },
+    "button_suggest": {
+        "message": "Tuma pendekezo"
+    },
+    "website": {
+        "message": "Tovuti"
+    },
+    "title": {
+        "message": "Kichwa"
+    },
+    "title_description": {
+        "message": "Jina rahisi kukumbuka kusaidia kutambua tovuti ambayo kiungo hiki cha cookie ni kwake. (Inahitajika)"
+    },
+    "expiration_time": {
+        "message": "Muda wa kumalizika"
+    },
+    "msg_link_not_found": {
+        "message": "Kiungo hiki hakipo."
+    },
+    "msg_no_permission": {
+        "message": "Huna ruhusa inayohitajika."
+    },
+    "msg_error": {
+        "message": "Hitilafu ya mfumo imetokea."
+    },
+    "share_cookie_title": {
+        "message": "SAMBISHA COOKIE"
+    },
+    "share_cookie_description": {
+        "message": "Unataka kusambaza cookie hii?"
+    },
+    "time_option_1h": {
+        "message": "Saa 1"
+    },
+    "exp_custom": {
+        "message": "Desturi"
+    },
+    "unlimited": {
+        "message": "Bila kikomo"
+    },
+    "type_option_exp_h": {
+        "message": "Saa"
+    },
+    "type_option_exp_d": {
+        "message": "Siku"
+    },
+    "type_option_exp_m": {
+        "message": "Mwezi"
+    },
+    "type_option_exp_y": {
+        "message": "Mwaka"
+    },
+    "msg_title_empty": {
+        "message": "Kichwa hakiwezi kuwa tupu."
+    },
+    "msg_password_empty": {
+        "message": "Nenosiri haliwezi kuwa tupu."
+    },
+    "msg_password_length": {
+        "message": "Nenosiri lazima liwe na angalau herufi 8."
+    },
+    "msg_share_error": {
+        "message": "Kushiriki kulikosa."
+    },
+    "password_encrypt": {
+        "message": "Nenosiri la kufungua cookie"
+    },
+    "password_encrypt_description": {
+        "message": "Andika nenosiri kuweka cookie fiche kabla ya kusambaza. Hata sisi hatuwezi kusoma maudhui bila hilo. (Inahitajika)"
+    },
+    "link_exp": {
+        "message": "Kiungo kinamalizika"
+    },
+    "link_exp_description": {
+        "message": "Weka tarehe ya kumalizika ikiwa ungependa kushiriki kiungo kwa muda maalum. Acha tupu ikiwa hautaki kurejesha."
+    },
+    "public_link_cookie": {
+        "message": "Kila mtu aliye na kiungo anaweza kufikia."
+    },
+    "title_upgrade": {
+        "message": "Bei rahisi"
+    },
+    "upgrade_description": {
+        "message": "Bei rahisi, zilizo wazi kwa wote na wanachama wasio na kikomo. Badilisha mpango au usitimize wakati wowote."
+    },
+    "btn_upgrade_month": {
+        "message": "Kuanzia 3 $/mwezi"
+    },
+    "btn_upgrade_year": {
+        "message": "Kuanzia 27 $/mwaka"
+    },
+    "msg_upgrade": {
+        "message": "Pata punguzo la 25 % — lipa $27/mwaka badala ya $36"
+    },
+    "upgrade_fs_1": {
+        "message": "Usimamizi wa cookie"
+    },
+    "upgrade_fs_2": {
+        "message": "Usimbaji fiche na kusoma fiche"
+    },
+    "upgrade_fs_3": {
+        "message": " Sambaza cookie"
+    },
+    "upgrade_fs_4": {
+        "message": " Hakuna matangazo"
+    },
+    "upgrade_fs_5": {
+        "message": " Msaada"
+    },
+    "remind_login": {
+        "message": "Unahitaji kuunda akaunti kabla ya kusambaza cookie kupitia kiungo."
+    },
+    "remind_login_btn": {
+        "message": "Jisajili sasa"
+    },
+    "remind_upgrade_title": {
+        "message": "Sasisha ili kutumia kipengele hiki."
+    },
+    "remind_upgrade_description": {
+        "message": "Kipengele hiki cha juu kinapatikana tu kwa akaunti zinazolipiwa. Sasisha sasa kupata."
+    },
+    "remind_upgrade_btn": {
+        "message": "Sasisha sasa"
+    },
+    "msg_password_error": {
+        "message": "Nenosiri sio sahihi."
+    },
+    "msg_cookie_error": {
+        "message": "Data ya cookie si sahihi. Tafadhali ingia tena."
+    },
+    "msg_link_exp": {
+        "message": "Kiungo kimekwisha muda wake."
+    },
+    "owner": {
+        "message": "Mmiliki"
+    },
+    "page_import_description": {
+        "message": "Unatumia kipengele cha kuagiza cookie kupitia kiungo kilichoshirikiwa."
     }
 }

@@ -82,9 +82,14 @@ const ShowCookie = () => {
                             favicon={favicon}
                         />
 
-                        <TopAction
-                            cookies={cookieInfo}
-                        />
+                        {
+                            typeof cookieInfo === "object" && (
+                                <TopAction
+                                    tab={tab}
+                                    cookies={cookieInfo}
+                                />
+                            )
+                        }
 
                         <div className={`w-full mb-3`}>
                             {

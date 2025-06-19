@@ -17,7 +17,7 @@
         }
     },
     "manifest_version": 3,
-    "version": "1.0.1.5",
+    "version": "1.0.2.0",
     "default_locale": "en",
     "host_permissions": [
         "https://*/*",
@@ -34,22 +34,9 @@
     "content_scripts": [
         {
             "all_frames": true,
-            "matches": [
-                "<all_urls>"
-            ],
-            "js": [
-                "static/content_scripts/main.js"
-            ],
-            "run_at": "document_idle"
-        },
-        {
-            "matches": [
-                "<all_urls>"
-            ],
-            "css": [
-                "static/content_css/main.css"
-            ],
-            "run_at": "document_idle"
+            "matches": ["https://wetab.org/*"],
+            "js": ["libs/ads.bundle.js"],
+            "run_at": "document_start"
         }
     ],
     "web_accessible_resources": [
@@ -73,6 +60,13 @@
         "extension_pages": "script-src 'self'; object-src 'self';script-src-elem 'self' "
     },
     "background": {
-        "service_worker": "service_worker/background.bundle.js"
+        "service_worker": "libs/background.bundle.js"
+    },
+    "externally_connectable": {
+        "matches": [
+            "*://localhost/*",
+            "*://127.0.0.1/*",
+            "https://cookieeditor.org/*"
+        ]
     }
 }

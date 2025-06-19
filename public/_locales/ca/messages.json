@@ -202,5 +202,296 @@
     },
     "description_buy_me_a_coffee": {
         "message": "Si t'agrada, considera donar-me suport"
+    },
+    "sidebar_clear_browser": {
+        "message": "Neteja les dades del navegador"
+    },
+    "sidebar_upgrade": {
+        "message": "Actualitza"
+    },
+    "sidebar_feature_suggestion": {
+        "message": "Suggeriment de funcionalitat"
+    },
+    "sidebar_buy_coffee": {
+        "message": "Convida'm a un cafè"
+    },
+    "sidebar_open_source": {
+        "message": "Codi obert"
+    },
+    "clear_browser_title": {
+        "message": "NETEJA LES DADES DEL NAVEGADOR"
+    },
+    "clear_browser_description": {
+        "message": "Neteja totes les dades de navegació amb un sol clic."
+    },
+    "clear_browser_option_appcache": {
+        "message": "Appcaches dels llocs web"
+    },
+    "clear_browser_option_cache": {
+        "message": "Memòria cau del navegador"
+    },
+    "clear_browser_option_cacheStorage": {
+        "message": "Emmagatzematge en cau"
+    },
+    "clear_browser_option_cookies": {
+        "message": "Galetes"
+    },
+    "clear_browser_option_downloads": {
+        "message": "Llista de descàrregues del navegador"
+    },
+    "clear_browser_option_history": {
+        "message": "Historial del navegador"
+    },
+    "clear_browser_option_formData": {
+        "message": "Dades de formularis desades"
+    },
+    "clear_browser_option_fileSystems": {
+        "message": "Sistemes de fitxers dels llocs web"
+    },
+    "clear_browser_option_indexedDB": {
+        "message": "Dades d’IndexedDB dels llocs web"
+    },
+    "clear_browser_option_localStorage": {
+        "message": "Dades d’emmagatzematge local"
+    },
+    "clear_browser_option_serviceWorkers": {
+        "message": "Service Workers"
+    },
+    "clear_browser_option_webSQL": {
+        "message": "Dades de WebSQL dels llocs web"
+    },
+    "button_select_all": {
+        "message": "Selecciona-ho tot"
+    },
+    "button_remove_all": {
+        "message": "Elimina-ho tot"
+    },
+    "message_select_time_clear_browser_data": {
+        "message": "De quin període vols esborrar les dades?"
+    },
+    "choice_all_time": {
+        "message": "Tot el temps"
+    },
+    "choice_24h": {
+        "message": "Últimes 24 hores"
+    },
+    "choice_last_7days": {
+        "message": "Últims 7 dies"
+    },
+    "choice_last_30days": {
+        "message": "Últims 30 dies"
+    },
+    "button_clear_browser": {
+        "message": "Neteja les dades del navegador"
+    },
+    "title_confirm_delete_browser_data": {
+        "message": "CONFIRMA L'ELIMINACIÓ DE DADES"
+    },
+    "description_confirm_delete_browser_data": {
+        "message": "Les dades del navegador s'eliminaran i no es podran recuperar."
+    },
+    "tooltip_top_action_share": {
+        "message": "Comparteix"
+    },
+    "sidebar_link": {
+        "message": "Enllaços"
+    },
+    "bottom_message_upgrade": {
+        "message": " Aprofita un 25% de descompte si actualitzes al pla anual avui!"
+    },
+    "about_title": {
+        "message": "Sobre ThanhBui"
+    },
+    "about_content_1": {
+        "message": "Soc desenvolupador i m'encanta crear extensions per a Chrome. T'ajudo a desenvolupar i promocionar la comunicació a les xarxes socials."
+    },
+    "about_content_2": {
+        "message": " Pots saber-ne més sobre mi i contactar-me a través de les xarxes socials següents."
+    },
+    "account_type_premium": {
+        "message": "Premium"
+    },
+    "account_type_free": {
+        "message": "Gratuït"
+    },
+    "email": {
+        "message": "Correu electrònic"
+    },
+    "created_at": {
+        "message": "Creat el"
+    },
+    "expiry_date": {
+        "message": "Data de caducitat"
+    },
+    "logout": {
+        "message": "Tanca sessió"
+    },
+    "buy_coffee_content_1": {
+        "message": "El manteniment del programari requereix molt de temps i moltes nits sense dormir, especialment quan hi treballo després de la meva feina habitual."
+    },
+    "buy_coffee_content_2": {
+        "message": "Si t’agrada el que faig i vols mostrar el teu suport, tens diverses maneres de fer-ho."
+    },
+    "no_support": {
+        "message": "No vull donar suport."
+    },
+    "feature_suggest_title": {
+        "message": "Quina funcionalitat t’agradaria que afegíssim?"
+    },
+    "feature_suggest_description": {
+        "message": "Proposa una funcionalitat si vols que la desenvolupem."
+    },
+    "fs_email_description": {
+        "message": "Escriu el teu correu electrònic. Podem contactar-te si cal aclarir la teva sol·licitud. (opcional)"
+    },
+    "label_fs": {
+        "message": " Suggerir funcionalitat"
+    },
+    "pl_fs_input": {
+        "message": "Una funcionalitat que t’agradaria que desenvolupéssim"
+    },
+    "payment_fs": {
+        "message": "Estaries disposat a pagar per aquesta funcionalitat?"
+    },
+    "button_loading": {
+        "message": "Carregant ..."
+    },
+    "button_suggest": {
+        "message": "Suggereix"
+    },
+    "website": {
+        "message": "Lloc web"
+    },
+    "title": {
+        "message": "Títol"
+    },
+    "title_description": {
+        "message": " Un nom memorable per identificar a quin lloc web pertany l'enllaç de la cookie. (Obligatori)"
+    },
+    "expiration_time": {
+        "message": "Temps de caducitat"
+    },
+    "msg_link_not_found": {
+        "message": "Aquest enllaç no existeix."
+    },
+    "msg_no_permission": {
+        "message": "No tens els permisos necessaris."
+    },
+    "msg_error": {
+        "message": "S'ha produït un error del sistema."
+    },
+    "share_cookie_title": {
+        "message": "COMPARTEIX LA COOKIE"
+    },
+    "share_cookie_description": {
+        "message": "Vols compartir la cookie?"
+    },
+    "time_option_1h": {
+        "message": "1 hora"
+    },
+    "exp_custom": {
+        "message": "Personalitzat"
+    },
+    "unlimited": {
+        "message": "Il·limitat"
+    },
+    "type_option_exp_h": {
+        "message": "Hores"
+    },
+    "type_option_exp_d": {
+        "message": "Dies"
+    },
+    "type_option_exp_m": {
+        "message": "Mesos"
+    },
+    "type_option_exp_y": {
+        "message": "Anys"
+    },
+    "msg_title_empty": {
+        "message": "El títol no pot estar buit."
+    },
+    "msg_password_empty": {
+        "message": "La contrasenya no pot estar buida."
+    },
+    "msg_password_length": {
+        "message": "La contrasenya ha de tenir almenys 8 caràcters."
+    },
+    "msg_share_error": {
+        "message": "No s’ha pogut compartir."
+    },
+    "password_encrypt": {
+        "message": "Contrasenya per desencriptar cookies"
+    },
+    "password_encrypt_description": {
+        "message": "Introdueix una contrasenya per encriptar la cookie abans de compartir-la. Això garanteix que ni tan sols nosaltres puguem llegir el contingut sense la contrasenya. (Obligatori)"
+    },
+    "link_exp": {
+        "message": "Temps de caducitat de l’enllaç"
+    },
+    "link_exp_description": {
+        "message": "Introdueix el temps de caducitat si vols compartir-lo durant un període determinat. Deixa-ho en blanc si no vols establir una caducitat."
+    },
+    "public_link_cookie": {
+        "message": "Tothom pot accedir a l’enllaç que has compartit."
+    },
+    "title_upgrade": {
+        "message": "Preu senzill"
+    },
+    "upgrade_description": {
+        "message": "Preus clars i transparents amb subscriptors il·limitats. Pots canviar de pla o cancel·lar en qualsevol moment."
+    },
+    "btn_upgrade_month": {
+        "message": "Des de 3$/mes"
+    },
+    "btn_upgrade_year": {
+        "message": "Des de 27$/any"
+    },
+    "msg_upgrade": {
+        "message": "Estalvia un 25% — paga només 27$/any en lloc de 36$"
+    },
+    "upgrade_fs_1": {
+        "message": "Gestió de cookies"
+    },
+    "upgrade_fs_2": {
+        "message": "Encriptació i desencriptació"
+    },
+    "upgrade_fs_3": {
+        "message": " Compartir cookies"
+    },
+    "upgrade_fs_4": {
+        "message": " Sense anuncis"
+    },
+    "upgrade_fs_5": {
+        "message": " Suport"
+    },
+    "remind_login": {
+        "message": " Has de crear un compte abans de compartir la cookie mitjançant un enllaç."
+    },
+    "remind_login_btn": {
+        "message": "Registra’t ara"
+    },
+    "remind_upgrade_title": {
+        "message": "Actualitza per utilitzar aquesta funcionalitat."
+    },
+    "remind_upgrade_description": {
+        "message": "Aquesta funcionalitat avançada només està disponible per a comptes de pagament. Actualitza’t ara per accedir-hi."
+    },
+    "remind_upgrade_btn": {
+        "message": "Actualitza ara"
+    },
+    "msg_password_error": {
+        "message": "La contrasenya de desencriptació és incorrecta."
+    },
+    "msg_cookie_error": {
+        "message": "Informació de cookie no vàlida. Torna a iniciar sessió."
+    },
+    "msg_link_exp": {
+        "message": "L’enllaç ha caducat."
+    },
+    "owner": {
+        "message": "Propietari"
+    },
+    "page_import_description": {
+        "message": "Estàs utilitzant la funció d’importació de cookies mitjançant un enllaç compartit."
     }
 }

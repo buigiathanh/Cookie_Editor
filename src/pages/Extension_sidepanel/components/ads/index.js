@@ -1,8 +1,9 @@
 /*global chrome*/
-import BuyMeACoffee from "../buy_me_a_coffe";
 import {useEffect, useMemo} from "react";
 import {v4 as UUID} from 'uuid';
 import {googleAnalytics} from "../../../../utils/google_analytics";
+import {settingStore} from "../../../../mobx/setting.store";
+import {extension} from "../../../../utils/chrome";
 
 const Ads = () => {
     const renderAds = useMemo(() => {
@@ -40,9 +41,17 @@ const Ads = () => {
     return (
         <div className={`w-full h-full relative`}>
             <div id={"buy_me_coffee"} className={`w-full h-full absolute top-0 left-0`} style={{zIndex: 901}}>
-                <BuyMeACoffee/>
+                <div onClick={() => settingStore.popup = "upgrade"} className={`w-full h-full px-[5px] bg-blue-600 rounded flex cursor-pointer items-center`}>
+                    <div className={`inline-block px-2 w-full text-center`}>
+                        <p className={`text-white text-xs font-bold uppercase`}>
+                            {extension.getLang("bottom_message_upgrade")}
+                        </p>
+                    </div>
+                </div>
+                {/*<BuyMeACoffee/>*/}
             </div>
-            <div id={"ads_banner"} className={`w-full h-full overflow-hidden absolute top-0 left-0`} style={{zIndex: 900}}>
+            <div id={"ads_banner"} className={`w-full h-full overflow-hidden absolute top-0 left-0`}
+                 style={{zIndex: 900}}>
                 {renderAds}
             </div>
         </div>

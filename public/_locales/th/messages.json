@@ -202,5 +202,296 @@
     },
     "description_buy_me_a_coffee": {
         "message": "ถ้าคุณชอบ พิจารณาสนับสนุนฉัน "
+    },
+    "sidebar_clear_browser": {
+        "message": "ล้างข้อมูลเบราว์เซอร์"
+    },
+    "sidebar_upgrade": {
+        "message": "อัปเกรด"
+    },
+    "sidebar_feature_suggestion": {
+        "message": "แนะนำฟีเจอร์"
+    },
+    "sidebar_buy_coffee": {
+        "message": "เลี้ยงกาแฟฉันหน่อย"
+    },
+    "sidebar_open_source": {
+        "message": "โอเพนซอร์ส"
+    },
+    "clear_browser_title": {
+        "message": "ล้างข้อมูลเบราว์เซอร์"
+    },
+    "clear_browser_description": {
+        "message": "ล้างข้อมูลการใช้งานทั้งหมดด้วยคลิกเดียว"
+    },
+    "clear_browser_option_appcache": {
+        "message": "แคชแอปของเว็บไซต์"
+    },
+    "clear_browser_option_cache": {
+        "message": "แคชเบราว์เซอร์"
+    },
+    "clear_browser_option_cacheStorage": {
+        "message": "ที่เก็บแคช"
+    },
+    "clear_browser_option_cookies": {
+        "message": "คุกกี้"
+    },
+    "clear_browser_option_downloads": {
+        "message": "รายการดาวน์โหลด"
+    },
+    "clear_browser_option_history": {
+        "message": "ประวัติการใช้งาน"
+    },
+    "clear_browser_option_formData": {
+        "message": "ข้อมูลฟอร์มที่บันทึกไว้"
+    },
+    "clear_browser_option_fileSystems": {
+        "message": "ระบบไฟล์ของเว็บไซต์"
+    },
+    "clear_browser_option_indexedDB": {
+        "message": "ข้อมูล IndexedDB ของเว็บไซต์"
+    },
+    "clear_browser_option_localStorage": {
+        "message": "ข้อมูล localStorage ของเว็บไซต์"
+    },
+    "clear_browser_option_serviceWorkers": {
+        "message": "Service Workers"
+    },
+    "clear_browser_option_webSQL": {
+        "message": "ข้อมูล WebSQL ของเว็บไซต์"
+    },
+    "button_select_all": {
+        "message": "เลือกทั้งหมด"
+    },
+    "button_remove_all": {
+        "message": "ลบทั้งหมด"
+    },
+    "message_select_time_clear_browser_data": {
+        "message": "ต้องการล้างข้อมูลของช่วงเวลาใด?"
+    },
+    "choice_all_time": {
+        "message": "ทั้งหมด"
+    },
+    "choice_24h": {
+        "message": "24 ชั่วโมงล่าสุด"
+    },
+    "choice_last_7days": {
+        "message": "7 วันที่ผ่านมา"
+    },
+    "choice_last_30days": {
+        "message": "30 วันที่ผ่านมา"
+    },
+    "button_clear_browser": {
+        "message": "ล้างข้อมูล"
+    },
+    "title_confirm_delete_browser_data": {
+        "message": "ยืนยันการล้างข้อมูล"
+    },
+    "description_confirm_delete_browser_data": {
+        "message": "ข้อมูลเบราว์เซอร์จะถูกล้างและไม่สามารถกู้คืนได้"
+    },
+    "tooltip_top_action_share": {
+        "message": "แชร์"
+    },
+    "sidebar_link": {
+        "message": "ลิงก์"
+    },
+    "bottom_message_upgrade": {
+        "message": "รับส่วนลด 25% เมื่ออัปเกรดเป็นแผนรายปีวันนี้!"
+    },
+    "about_title": {
+        "message": "เกี่ยวกับ ThanhBui"
+    },
+    "about_content_1": {
+        "message": "ฉันเป็นนักพัฒนาและชอบสร้างส่วนขยายสำหรับ Chrome ช่วยพัฒนาการสื่อสารบนโซเชียลมีเดีย"
+    },
+    "about_content_2": {
+        "message": "ดูข้อมูลเพิ่มเติมเกี่ยวกับฉันและติดต่อผ่านโซเชียลมีเดียด้านล่าง"
+    },
+    "account_type_premium": {
+        "message": "พรีเมียม"
+    },
+    "account_type_free": {
+        "message": "ฟรี"
+    },
+    "email": {
+        "message": "อีเมล"
+    },
+    "created_at": {
+        "message": "สร้างเมื่อ"
+    },
+    "expiry_date": {
+        "message": "วันหมดอายุ"
+    },
+    "logout": {
+        "message": "ออกจากระบบ"
+    },
+    "buy_coffee_content_1": {
+        "message": "การดูแลซอฟต์แวร์ใช้เวลามากและทำให้หลายคืนไม่ได้หลับ โดยเฉพาะตอนทำงานหลังเลิกงานหลัก"
+    },
+    "buy_coffee_content_2": {
+        "message": "หากคุณชอบงานของฉันและต้องการสนับสนุน มีหลายวิธีที่คุณสามารถทำได้"
+    },
+    "no_support": {
+        "message": "ฉันไม่ต้องการสนับสนุน"
+    },
+    "feature_suggest_title": {
+        "message": "คุณอยากให้เราสร้างฟีเจอร์อะไร?"
+    },
+    "feature_suggest_description": {
+        "message": "เสนอฟีเจอร์ที่คุณคิดว่าน่าจะมีประโยชน์และอยากให้เราพัฒนาต่อ"
+    },
+    "fs_email_description": {
+        "message": "กรอกอีเมลของคุณ เราอาจติดต่อกลับเพื่อสอบถามเพิ่มเติม (ไม่บังคับ)"
+    },
+    "label_fs": {
+        "message": " แนะนำฟีเจอร์"
+    },
+    "pl_fs_input": {
+        "message": "ฟีเจอร์ที่คุณอยากเห็น"
+    },
+    "payment_fs": {
+        "message": "คุณจะยอมจ่ายสำหรับฟีเจอร์นี้หรือไม่?"
+    },
+    "button_loading": {
+        "message": "กำลังโหลด..."
+    },
+    "button_suggest": {
+        "message": "ส่งคำแนะนำ"
+    },
+    "website": {
+        "message": "เว็บไซต์"
+    },
+    "title": {
+        "message": "หัวข้อ"
+    },
+    "title_description": {
+        "message": "ชื่อที่จำง่ายเพื่อช่วยระบุเว็บไซต์ที่ลิงก์คุกกี้นี้เป็นของ (จำเป็น)"
+    },
+    "expiration_time": {
+        "message": "วันหมดอายุ"
+    },
+    "msg_link_not_found": {
+        "message": "ไม่พบลิงก์นี้"
+    },
+    "msg_no_permission": {
+        "message": "คุณไม่มีสิทธิ์เพียงพอ"
+    },
+    "msg_error": {
+        "message": "เกิดข้อผิดพลาดในระบบ"
+    },
+    "share_cookie_title": {
+        "message": "แชร์คุกกี้"
+    },
+    "share_cookie_description": {
+        "message": "ต้องการแชร์คุกกี้นี้หรือไม่?"
+    },
+    "time_option_1h": {
+        "message": "1 ชั่วโมง"
+    },
+    "exp_custom": {
+        "message": "กำหนดเอง"
+    },
+    "unlimited": {
+        "message": "ไม่จำกัด"
+    },
+    "type_option_exp_h": {
+        "message": "ชั่วโมง"
+    },
+    "type_option_exp_d": {
+        "message": "วัน"
+    },
+    "type_option_exp_m": {
+        "message": "เดือน"
+    },
+    "type_option_exp_y": {
+        "message": "ปี"
+    },
+    "msg_title_empty": {
+        "message": "หัวข้อต้องไม่ว่าง"
+    },
+    "msg_password_empty": {
+        "message": "รหัสผ่านต้องไม่ว่าง"
+    },
+    "msg_password_length": {
+        "message": "รหัสผ่านต้องมีอย่างน้อย 8 ตัวอักษร"
+    },
+    "msg_share_error": {
+        "message": "การแชร์ล้มเหลว"
+    },
+    "password_encrypt": {
+        "message": "รหัสผ่านสำหรับถอดรหัสคุกกี้"
+    },
+    "password_encrypt_description": {
+        "message": "กำหนดรหัสผ่านเพื่อเข้ารหัสคุกกี้ก่อนแชร์ แม้แต่เราเองก็ไม่สามารถอ่านได้หากไม่มีรหัสนี้ (จำเป็น)"
+    },
+    "link_exp": {
+        "message": "ลิงก์หมดอายุ"
+    },
+    "link_exp_description": {
+        "message": "กรอกวันหมดอายุหากต้องการแชร์ลิงก์ช่วงเวลา ปล่อยว่างหากไม่ต้องการกำหนดวัน"
+    },
+    "public_link_cookie": {
+        "message": "ใครมีลิงก์ก็เข้าถึงได้"
+    },
+    "title_upgrade": {
+        "message": "ราคาแบบเรียบง่าย"
+    },
+    "upgrade_description": {
+        "message": "ราคาชัดเจน โปร่งใส พร้อมผู้ใช้ไม่จำกัด เปลี่ยนแผนหรือยกเลิกได้ทุกเมื่อ"
+    },
+    "btn_upgrade_month": {
+        "message": "เริ่มต้นที่ 3 $/เดือน"
+    },
+    "btn_upgrade_year": {
+        "message": "เริ่มต้นที่ 27 $/ปี"
+    },
+    "msg_upgrade": {
+        "message": "รับส่วนลด 25% — จ่ายเพียง 27 $/ปี จากปกติ 36 $"
+    },
+    "upgrade_fs_1": {
+        "message": "จัดการคุกกี้"
+    },
+    "upgrade_fs_2": {
+        "message": "เข้ารหัสและถอดรหัส"
+    },
+    "upgrade_fs_3": {
+        "message": " แชร์คุกกี้"
+    },
+    "upgrade_fs_4": {
+        "message": " ไม่มีโฆษณา"
+    },
+    "upgrade_fs_5": {
+        "message": " การสนับสนุน"
+    },
+    "remind_login": {
+        "message": "คุณต้องมีบัญชีก่อนแชร์คุกกี้ผ่านลิงก์"
+    },
+    "remind_login_btn": {
+        "message": "สมัครสมาชิกตอนนี้"
+    },
+    "remind_upgrade_title": {
+        "message": "อัปเกรดเพื่อใช้ฟีเจอร์นี้"
+    },
+    "remind_upgrade_description": {
+        "message": "ฟีเจอร์ขั้นสูงนี้ใช้ได้เฉพาะบัญชีแบบชำระเงิน อัปเกรดตอนนี้เพื่อใช้"
+    },
+    "remind_upgrade_btn": {
+        "message": "อัปเกรดเลย"
+    },
+    "msg_password_error": {
+        "message": "รหัสผ่านไม่ถูกต้อง"
+    },
+    "msg_cookie_error": {
+        "message": "ข้อมูลคุกกี้ไม่ถูกต้อง กรุณาเข้าสู่ระบบอีกครั้ง"
+    },
+    "msg_link_exp": {
+        "message": "ลิงก์หมดอายุแล้ว"
+    },
+    "owner": {
+        "message": "เจ้าของ"
+    },
+    "page_import_description": {
+        "message": "คุณกำลังใช้ฟีเจอร์นำเข้าคุกกี้ผ่านลิงก์ที่แชร์"
     }
 }

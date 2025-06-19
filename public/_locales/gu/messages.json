@@ -202,5 +202,296 @@
     },
     "description_buy_me_a_coffee": {
         "message": "જો તમને ગમે છે, તો મને ટેકો આપવાનું વિચારો"
+    },
+    "sidebar_clear_browser": {
+        "message": "બ્રાઉઝર માહિતી સાફ કરો"
+    },
+    "sidebar_upgrade": {
+        "message": "અપગ્રેડ"
+    },
+    "sidebar_feature_suggestion": {
+        "message": "વિધિ સૂચન"
+    },
+    "sidebar_buy_coffee": {
+        "message": "મને કોફી આપો"
+    },
+    "sidebar_open_source": {
+        "message": "ઑપન સોર્સ"
+    },
+    "clear_browser_title": {
+        "message": "બ્રાઉઝર માહિતી સાફ કરો"
+    },
+    "clear_browser_description": {
+        "message": "એક ક્લિકમાં તમામ બ્રાઉઝિંગ માહિતી સાફ કરો."
+    },
+    "clear_browser_option_appcache": {
+        "message": "સાઇટનું એપ્લિકેશન કેચ"
+    },
+    "clear_browser_option_cache": {
+        "message": "બ્રાઉઝરના કેચ"
+    },
+    "clear_browser_option_cacheStorage": {
+        "message": "કેચ સ્ટોયરેج"
+    },
+    "clear_browser_option_cookies": {
+        "message": "કૂકીઝ"
+    },
+    "clear_browser_option_downloads": {
+        "message": "ડાઉનલોડ્સ કેવી"
+    },
+    "clear_browser_option_history": {
+        "message": "એવી બ્રાઉઝિંગ ઇતિહાસ"
+    },
+    "clear_browser_option_formData": {
+        "message": "ભરેલ ફોર્મ ડેટા"
+    },
+    "clear_browser_option_fileSystems": {
+        "message": "સાઇટની ફાઇલ સિસ્ટમ"
+    },
+    "clear_browser_option_indexedDB": {
+        "message": "IndexDB માહિતી"
+    },
+    "clear_browser_option_localStorage": {
+        "message": "સ્થાનિક સ્ટોરેજ"
+    },
+    "clear_browser_option_serviceWorkers": {
+        "message": "સેવા વર્કર્સ"
+    },
+    "clear_browser_option_webSQL": {
+        "message": "WebSQL માહિતી"
+    },
+    "button_select_all": {
+        "message": "બધું પસંદ કરો"
+    },
+    "button_remove_all": {
+        "message": "બધું કાઢી નાખો"
+    },
+    "message_select_time_clear_browser_data": {
+        "message": "ક્યા સમયગાળાનું ડેટા કાઢી નાખવું છે?"
+    },
+    "choice_all_time": {
+        "message": "બધુ સમય"
+    },
+    "choice_24h": {
+        "message": "છેલ્લાં 24 કલાક"
+    },
+    "choice_last_7days": {
+        "message": "છેલ્લાં 7 દિવસ"
+    },
+    "choice_last_30days": {
+        "message": "છેલ્લાં 30 દિવસ"
+    },
+    "button_clear_browser": {
+        "message": "બ્રાઉઝર માહિતી સાફ કરો"
+    },
+    "title_confirm_delete_browser_data": {
+        "message": "ડેટા કાઢવાની પુષ્ટિ કરો"
+    },
+    "description_confirm_delete_browser_data": {
+        "message": "બ્રાઉઝર ડેટા કાઢી નાખવામાં આવશે અને ફરી મેળવી શકાતી નહિ."
+    },
+    "tooltip_top_action_share": {
+        "message": "શેર કરો"
+    },
+    "sidebar_link": {
+        "message": "લિંક્સ"
+    },
+    "bottom_message_upgrade": {
+        "message": "આજે વાર્ષિક યોજના પર અપગ્રેડ કરીને 25% બચાવો!"
+    },
+    "about_title": {
+        "message": "ThanhBui વિશે"
+    },
+    "about_content_1": {
+        "message": "હું ડેવલપર છું અને Chrome Extension બનાવવામાં મને મજા આવે છે. હું સોશિયલ મીડિયા કોમ્યુનિકેશન વિકાસમાં મદદ કરું છું."
+    },
+    "about_content_2": {
+        "message": "તમે મારા વિશે વધુ જાણવા અને નીચેની સોશિયલ પ્લેટફોર્મ્સ દ્વારા મારો સંપર્ક કરી શકો છો."
+    },
+    "account_type_premium": {
+        "message": "પ્રીમિયમ"
+    },
+    "account_type_free": {
+        "message": "મફત"
+    },
+    "email": {
+        "message": "ઈ‑મેલ"
+    },
+    "created_at": {
+        "message": "બનાવેલ દિવસે"
+    },
+    "expiry_date": {
+        "message": "સમાપ્તિ તારીખ"
+    },
+    "logout": {
+        "message": "લૉગ આઉટ"
+    },
+    "buy_coffee_content_1": {
+        "message": "સોફ્ટવેર સંભાળમાં સમય લાગે છે અને ઘણી રાત્રિઓ જાગ્રત રહેવી પડે છે, ખાસ કરીને જ્યારે હું સામાન્ય નોકરી પછી કામ કરું છું."
+    },
+    "buy_coffee_content_2": {
+        "message": "જો તમને મારી મહેનત ગમે છે અને માહોલ બદલવો હોય, તો તમે મારી મદદ કરવા માટે અનેક રીતે કરી શકો છો."
+    },
+    "no_support": {
+        "message": "હું ટેકો આપતા નથી."
+    },
+    "feature_suggest_title": {
+        "message": "કઈ વિધિ ઉમેરવી ઈચ્છો છો?"
+    },
+    "feature_suggest_description": {
+        "message": "જો તમે અમને ત્યાં સુધી નવી વિધિ વિકસાવવા માટે કશું હજુ માગતા હોવ, તો સૂચવો."
+    },
+    "fs_email_description": {
+        "message": "તમારો ઇ‑મેલ નાખો. જરૂર જણાય તો અમે સંપર્ક કરી શકીએ. (વૈકલ્પિક)"
+    },
+    "label_fs": {
+        "message": "વિધિ સૂચવો"
+    },
+    "pl_fs_input": {
+        "message": "તમે આગળ વિકસાવવા માગતા વિધિ"
+    },
+    "payment_fs": {
+        "message": "શું તમે તે વિધિ માટે ચૂકવવા તૈયાર છો?"
+    },
+    "button_loading": {
+        "message": "લોડ થઈ રહ્યું છે..."
+    },
+    "button_suggest": {
+        "message": "સૂચવો"
+    },
+    "website": {
+        "message": "વેબસાઇટ"
+    },
+    "title": {
+        "message": "શીર્ષક"
+    },
+    "title_description": {
+        "message": "એક યાદગાર નામ સમય બતાવવા માટે કે કુંઇ કોમ્પ્યુટર લિંક છે. (જરૂરિયાત)"
+    },
+    "expiration_time": {
+        "message": "સમાપ્તિ સમય"
+    },
+    "msg_link_not_found": {
+        "message": "આ લિંક અસ્તિત્વમાં નથી."
+    },
+    "msg_no_permission": {
+        "message": "તમારે જરૂરી પરવાનગી નથી."
+    },
+    "msg_error": {
+        "message": "સિસ્ટમમાં સમસ્યા સામે આવી."
+    },
+    "share_cookie_title": {
+        "message": "કૂકી શેર કરો"
+    },
+    "share_cookie_description": {
+        "message": "શું તમે કૂકી શેર કરવા ઇચ્છો છો?"
+    },
+    "time_option_1h": {
+        "message": "1 કલાક"
+    },
+    "exp_custom": {
+        "message": "વિધિબધ્ધ"
+    },
+    "unlimited": {
+        "message": "અસીમિત"
+    },
+    "type_option_exp_h": {
+        "message": "કલાકો"
+    },
+    "type_option_exp_d": {
+        "message": "દિવસો"
+    },
+    "type_option_exp_m": {
+        "message": "મહિના"
+    },
+    "type_option_exp_y": {
+        "message": "વર્ષો"
+    },
+    "msg_title_empty": {
+        "message": "શીર્ષક ખાલી હોઈ શકે નહીં."
+    },
+    "msg_password_empty": {
+        "message": "પાસવર્ડ ખાલી હોઇ શકતો નથી."
+    },
+    "msg_password_length": {
+        "message": "પાસવર્ડ લઈને ઓછામાં ઓછા 8 અક્ષરો હોવા જોઈએ."
+    },
+    "msg_share_error": {
+        "message": "શેરમાં ભૂલ."
+    },
+    "password_encrypt": {
+        "message": "કૂકી અનક્રિપ્ટ કરવા પાસવર્ડ"
+    },
+    "password_encrypt_description": {
+        "message": "શેર કરતાં પહેલાં કૂકી એન્ક્રિપ્ટ કરવા માટે પાસવર્ડ દાખલ કરો. (જરૂરી)"
+    },
+    "link_exp": {
+        "message": "લિંકની સમાપ્તિ"
+    },
+    "link_exp_description": {
+        "message": "લિંક એક અવધિ માટે જ લાગુ જેવી હોવી જો તમે ઇચ્છતા હોવ તો મુકો. નહીં તો ખાલી રહો."
+    },
+    "public_link_cookie": {
+        "message": "તમારા શેર કરેલો લિંક કોઈ પણ જોઈ શકે છે."
+    },
+    "title_upgrade": {
+        "message": "સરળ ભાવના યોજના"
+    },
+    "upgrade_description": {
+        "message": "સંદર્ભીત ભાવ સાથે અનિયંત્રિત સબ્સ્ક્રાઇબર. જ્યારે પણ પ્લાન બદલવો અથવા રદ કરવું."
+    },
+    "btn_upgrade_month": {
+        "message": "$3/મહિની થી"
+    },
+    "btn_upgrade_year": {
+        "message": "$27/વર્ષ થી"
+    },
+    "msg_upgrade": {
+        "message": "25% બચાવો — રૂદ્ર 27$ માં વર્ષનું પ્લાન"
+    },
+    "upgrade_fs_1": {
+        "message": "કૂકી મેનેજમેન્ટ"
+    },
+    "upgrade_fs_2": {
+        "message": "એન્ક્રિપ્શન અને ડિક્રિપ્શન"
+    },
+    "upgrade_fs_3": {
+        "message": "કૂકી શેર"
+    },
+    "upgrade_fs_4": {
+        "message": "જાહેરાત મુક્ત"
+    },
+    "upgrade_fs_5": {
+        "message": "સપોર્ટ"
+    },
+    "remind_login": {
+        "message": "લિંક દ્વારા કૂકી શેર કરવા માટે એકાઉન્ટ બનાવવું પડશે."
+    },
+    "remind_login_btn": {
+        "message": "હવે નોંધણી કરો"
+    },
+    "remind_upgrade_title": {
+        "message": "આ વિધિ ઉપયોગ કરવા માટે અપગ્રેડ કરો."
+    },
+    "remind_upgrade_description": {
+        "message": "આ વિધિ ફક્ત પેઇડ એકાઉન્ટ માટે ઉપલબ્ધ છે."
+    },
+    "remind_upgrade_btn": {
+        "message": "હવે અપગ્રેડ કરો"
+    },
+    "msg_password_error": {
+        "message": "અમાન્ય પાસવર્ડ."
+    },
+    "msg_cookie_error": {
+        "message": "અમાન્ય કૂકિ માહિતી. ફરી લૉગિન કરો."
+    },
+    "msg_link_exp": {
+        "message": "લિંક સમાપ્ત થઈ ગઈ."
+    },
+    "owner": {
+        "message": "માલિક"
+    },
+    "page_import_description": {
+        "message": "તમે શેર કરેલ લિંક દ્વારા કૂકીઝ આયાત કરી રહ્યાં છો."
     }
 }

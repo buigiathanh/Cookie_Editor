@@ -202,5 +202,296 @@
     },
     "description_buy_me_a_coffee": {
         "message": "Αν σας αρέσει, σκεφτείτε να με υποστηρίξετε "
+    },
+    "sidebar_clear_browser": {
+        "message": "Εκκαθάριση δεδομένων περιήγησης"
+    },
+    "sidebar_upgrade": {
+        "message": "Αναβάθμιση"
+    },
+    "sidebar_feature_suggestion": {
+        "message": "Πρόταση λειτουργίας"
+    },
+    "sidebar_buy_coffee": {
+        "message": "Κεράστε μου έναν καφέ"
+    },
+    "sidebar_open_source": {
+        "message": "Ανοιχτός Κώδικας"
+    },
+    "clear_browser_title": {
+        "message": "ΕΚΚΑΘΑΡΙΣΗ ΔΕΔΟΜΕΝΩΝ ΠΕΡΙΗΓΗΣΗΣ"
+    },
+    "clear_browser_description": {
+        "message": "Διαγράψτε όλα τα δεδομένα περιήγησης με ένα απλό κλικ."
+    },
+    "clear_browser_option_appcache": {
+        "message": "Appcache ιστοσελίδων"
+    },
+    "clear_browser_option_cache": {
+        "message": "Προσωρινή μνήμη του προγράμματος περιήγησης"
+    },
+    "clear_browser_option_cacheStorage": {
+        "message": "Αποθήκευση προσωρινής μνήμης"
+    },
+    "clear_browser_option_cookies": {
+        "message": "Cookies"
+    },
+    "clear_browser_option_downloads": {
+        "message": "Λίστα λήψεων του προγράμματος περιήγησης"
+    },
+    "clear_browser_option_history": {
+        "message": "Ιστορικό περιήγησης"
+    },
+    "clear_browser_option_formData": {
+        "message": "Αποθηκευμένα δεδομένα φορμών"
+    },
+    "clear_browser_option_fileSystems": {
+        "message": "Συστήματα αρχείων ιστοσελίδων"
+    },
+    "clear_browser_option_indexedDB": {
+        "message": "Δεδομένα IndexedDB ιστοσελίδων"
+    },
+    "clear_browser_option_localStorage": {
+        "message": "Δεδομένα τοπικής αποθήκευσης ιστοσελίδων"
+    },
+    "clear_browser_option_serviceWorkers": {
+        "message": "Service Workers"
+    },
+    "clear_browser_option_webSQL": {
+        "message": "Δεδομένα WebSQL ιστοσελίδων"
+    },
+    "button_select_all": {
+        "message": "Επιλογή όλων"
+    },
+    "button_remove_all": {
+        "message": "Αφαίρεση όλων"
+    },
+    "message_select_time_clear_browser_data": {
+        "message": "Για ποια χρονική περίοδο θέλετε να διαγράψετε τα δεδομένα;"
+    },
+    "choice_all_time": {
+        "message": "Όλος ο χρόνος"
+    },
+    "choice_24h": {
+        "message": "Τελευταίες 24 ώρες"
+    },
+    "choice_last_7days": {
+        "message": "Τελευταίες 7 ημέρες"
+    },
+    "choice_last_30days": {
+        "message": "Τελευταίες 30 ημέρες"
+    },
+    "button_clear_browser": {
+        "message": "Εκκαθάριση δεδομένων περιήγησης"
+    },
+    "title_confirm_delete_browser_data": {
+        "message": "ΕΠΙΒΕΒΑΙΩΣΗ ΔΙΑΓΡΑΦΗΣ ΔΕΔΟΜΕΝΩΝ ΠΕΡΙΗΓΗΣΗΣ"
+    },
+    "description_confirm_delete_browser_data": {
+        "message": "Τα δεδομένα περιήγησης θα διαγραφούν και δεν θα μπορούν να ανακτηθούν."
+    },
+    "tooltip_top_action_share": {
+        "message": "Κοινοποίηση"
+    },
+    "sidebar_link": {
+        "message": "Σύνδεσμοι"
+    },
+    "bottom_message_upgrade": {
+        "message": " Εξοικονομήστε 25% αναβαθμίζοντας σε ετήσιο πρόγραμμα σήμερα!"
+    },
+    "about_title": {
+        "message": "Σχετικά με τον ThanhBui"
+    },
+    "about_content_1": {
+        "message": "Είμαι προγραμματιστής και μου αρέσει να δημιουργώ επεκτάσεις για το Chrome. Σας βοηθώ να αναπτύξετε και να προωθήσετε την επικοινωνία στα μέσα κοινωνικής δικτύωσης."
+    },
+    "about_content_2": {
+        "message": " Μπορείτε να μάθετε περισσότερα για εμένα και να επικοινωνήσετε μέσω των παρακάτω κοινωνικών πλατφορμών."
+    },
+    "account_type_premium": {
+        "message": "Premium"
+    },
+    "account_type_free": {
+        "message": "Δωρεάν"
+    },
+    "email": {
+        "message": "Ηλεκτρονικό ταχυδρομείο"
+    },
+    "created_at": {
+        "message": "Ημερομηνία δημιουργίας"
+    },
+    "expiry_date": {
+        "message": "Ημερομηνία λήξης"
+    },
+    "logout": {
+        "message": "Αποσύνδεση"
+    },
+    "buy_coffee_content_1": {
+        "message": "Η συντήρηση λογισμικού απαιτεί πολύ χρόνο και αργά βράδια, ειδικά όταν δουλεύω σε αυτό μετά την κανονική εργασία."
+    },
+    "buy_coffee_content_2": {
+        "message": "Αν απολαμβάνετε τη δουλειά μου και θέλετε να δείξετε την εκτίμησή σας, υπάρχουν αρκετοί τρόποι να με υποστηρίξετε."
+    },
+    "no_support": {
+        "message": "Δεν θέλω να υποστηρίξω."
+    },
+    "feature_suggest_title": {
+        "message": "Ποια λειτουργία θέλετε να προσθέσουμε;"
+    },
+    "feature_suggest_description": {
+        "message": "Προτείνετε μια απαραίτητη λειτουργία εάν θέλετε να την αναπτύξουμε περαιτέρω."
+    },
+    "fs_email_description": {
+        "message": "Εισάγετε τη διεύθυνση email σας. Ενδέχεται να επικοινωνήσουμε μαζί σας για διευκρινίσεις. (προαιρετικό)"
+    },
+    "label_fs": {
+        "message": " Πρόταση λειτουργίας"
+    },
+    "pl_fs_input": {
+        "message": "Μια λειτουργία που θέλετε να αναπτύξουμε"
+    },
+    "payment_fs": {
+        "message": "Θα πληρώνατε για αυτήν τη λειτουργία;"
+    },
+    "button_loading": {
+        "message": "Φόρτωση..."
+    },
+    "button_suggest": {
+        "message": "Πρόταση"
+    },
+    "website": {
+        "message": "Ιστότοπος"
+    },
+    "title": {
+        "message": "Τίτλος"
+    },
+    "title_description": {
+        "message": " Ένα όνομα που να σας βοηθά να αναγνωρίσετε σε ποιον ιστότοπο ανήκει ο σύνδεσμος του cookie. (Απαιτείται)"
+    },
+    "expiration_time": {
+        "message": "Χρόνος λήξης"
+    },
+    "msg_link_not_found": {
+        "message": "Αυτός ο σύνδεσμος δεν υπάρχει."
+    },
+    "msg_no_permission": {
+        "message": "Δεν έχετε τα απαραίτητα δικαιώματα."
+    },
+    "msg_error": {
+        "message": "Παρουσιάστηκε σφάλμα συστήματος."
+    },
+    "share_cookie_title": {
+        "message": "ΚΟΙΝΟΠΟΙΗΣΗ COOKIE"
+    },
+    "share_cookie_description": {
+        "message": "Θέλετε να κοινοποιήσετε το cookie;"
+    },
+    "time_option_1h": {
+        "message": "1 ώρα"
+    },
+    "exp_custom": {
+        "message": "Προσαρμοσμένο"
+    },
+    "unlimited": {
+        "message": "Απεριόριστο"
+    },
+    "type_option_exp_h": {
+        "message": "Ώρες"
+    },
+    "type_option_exp_d": {
+        "message": "Ημέρες"
+    },
+    "type_option_exp_m": {
+        "message": "Μήνες"
+    },
+    "type_option_exp_y": {
+        "message": "Έτη"
+    },
+    "msg_title_empty": {
+        "message": "Ο τίτλος δεν πρέπει να είναι κενός."
+    },
+    "msg_password_empty": {
+        "message": "Ο κωδικός δεν πρέπει να είναι κενός."
+    },
+    "msg_password_length": {
+        "message": "Ο κωδικός πρέπει να έχει τουλάχιστον 8 χαρακτήρες."
+    },
+    "msg_share_error": {
+        "message": "Η κοινοποίηση απέτυχε."
+    },
+    "password_encrypt": {
+        "message": "Κωδικός για αποκρυπτογράφηση των cookies"
+    },
+    "password_encrypt_description": {
+        "message": "Εισάγετε έναν κωδικό για να κρυπτογραφήσετε το cookie πριν το κοινοποιήσετε. Αυτό εξασφαλίζει ότι ούτε εμείς μπορούμε να το διαβάσουμε χωρίς τον κωδικό. (Απαιτείται)"
+    },
+    "link_exp": {
+        "message": "Χρόνος λήξης του συνδέσμου"
+    },
+    "link_exp_description": {
+        "message": "Εισάγετε χρόνο λήξης αν θέλετε ο σύνδεσμος να είναι διαθέσιμος για συγκεκριμένο διάστημα. Αφήστε κενό για απεριόριστη διάρκεια."
+    },
+    "public_link_cookie": {
+        "message": "Ο καθένας μπορεί να έχει πρόσβαση στον σύνδεσμο που κοινοποιήσατε."
+    },
+    "title_upgrade": {
+        "message": "Απλή τιμολόγηση"
+    },
+    "upgrade_description": {
+        "message": "Απλή και διαφανής τιμολόγηση με απεριόριστους συνδρομητές. Αλλαγή ή ακύρωση ανά πάσα στιγμή."
+    },
+    "btn_upgrade_month": {
+        "message": "Ξεκινά από $3/μήνα"
+    },
+    "btn_upgrade_year": {
+        "message": "Ξεκινά από $27/έτος"
+    },
+    "msg_upgrade": {
+        "message": "Κερδίστε 25% έκπτωση — πληρώστε μόνο $27/έτος αντί για $36"
+    },
+    "upgrade_fs_1": {
+        "message": "Διαχείριση Cookies"
+    },
+    "upgrade_fs_2": {
+        "message": "Κρυπτογράφηση και αποκρυπτογράφηση"
+    },
+    "upgrade_fs_3": {
+        "message": " Κοινοποίηση Cookies"
+    },
+    "upgrade_fs_4": {
+        "message": " Χωρίς διαφημίσεις"
+    },
+    "upgrade_fs_5": {
+        "message": " Υποστήριξη"
+    },
+    "remind_login": {
+        "message": " Πρέπει να δημιουργήσετε λογαριασμό πριν κοινοποιήσετε το cookie μέσω συνδέσμου."
+    },
+    "remind_login_btn": {
+        "message": "Εγγραφή τώρα"
+    },
+    "remind_upgrade_title": {
+        "message": "Αναβαθμίστε για να χρησιμοποιήσετε αυτήν τη λειτουργία."
+    },
+    "remind_upgrade_description": {
+        "message": "Αυτή η προχωρημένη λειτουργία είναι διαθέσιμη μόνο για επί πληρωμή λογαριασμούς. Αναβαθμίστε τώρα για πρόσβαση."
+    },
+    "remind_upgrade_btn": {
+        "message": "Αναβάθμιση τώρα"
+    },
+    "msg_password_error": {
+        "message": "Ο κωδικός αποκρυπτογράφησης είναι λανθασμένος."
+    },
+    "msg_cookie_error": {
+        "message": "Μη έγκυρες πληροφορίες cookie. Παρακαλώ συνδεθείτε ξανά."
+    },
+    "msg_link_exp": {
+        "message": "Ο σύνδεσμος έχει λήξει."
+    },
+    "owner": {
+        "message": "Ιδιοκτήτης"
+    },
+    "page_import_description": {
+        "message": "Χρησιμοποιείτε τη λειτουργία εισαγωγής cookie μέσω κοινοποιημένου συνδέσμου."
     }
 }

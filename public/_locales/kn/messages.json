@@ -202,5 +202,296 @@
     },
     "description_buy_me_a_coffee": {
         "message": "ನಿಮಗೆ ಇಷ್ಟವಾದರೆ, ನನ್ನನ್ನು ಬೆಂಬಲಿಸುವುದನ್ನು ಪರಿಗಣಿಸಿ"
+    },
+    "sidebar_clear_browser": {
+        "message": "ಬ್ರೌಸರ್ ದತ್ತಾಂಶ ತೆರವುಗೊಳಿಸಿ"
+    },
+    "sidebar_upgrade": {
+        "message": "ಅಪ್‌ಗ್ರೇಡ್ ಮಾಡಿ"
+    },
+    "sidebar_feature_suggestion": {
+        "message": "ವೈಶಿಷ್ಟ್ಯ ಸೂಚನೆ"
+    },
+    "sidebar_buy_coffee": {
+        "message": "ನನಗೆ ಕಾಫೀ ಕುದ್ದಿ ನೀಡಿ"
+    },
+    "sidebar_open_source": {
+        "message": "ಓಪನ್ ಸೋರ್ಸ್"
+    },
+    "clear_browser_title": {
+        "message": "ಬ್ರೌಸರ್ ದತ್ತಾಂಶವನ್ನು ತೆರವುಗೊಳಿಸಿ"
+    },
+    "clear_browser_description": {
+        "message": "ಒಂದು ಕ್ಲಿಕ್ಕಲ್ಲಿ ಎಲ್ಲಾ ಬ್ರೌಜಿಂಗ್ ದತ್ತಾಂಶವನ್ನು ತೆಗೆದುಹಾಕಿ."
+    },
+    "clear_browser_option_appcache": {
+        "message": "ವೆಬ್‌ಸೈಟ್ ಆ್ಯಪ್ ಕ್ಯಾಶೆ"
+    },
+    "clear_browser_option_cache": {
+        "message": "ಬ್ರೌಸರ್ ಕ್ಯಾಶೆ"
+    },
+    "clear_browser_option_cacheStorage": {
+        "message": "ಕ್ಯಾಶೆ ಸಂಗ್ರಹಣೆ"
+    },
+    "clear_browser_option_cookies": {
+        "message": "ಕುಕೀಸ್"
+    },
+    "clear_browser_option_downloads": {
+        "message": "ಡೌನ್ಲೋಡ್ ಪಟ್ಟಿ"
+    },
+    "clear_browser_option_history": {
+        "message": "ಬ್ರೌಸಿಂಗ್ ಇತಿಹಾಸ"
+    },
+    "clear_browser_option_formData": {
+        "message": "ಸೇವ್ ಮಾಡಿದ ಫಾರ್ಮ್‌ ಡೇಟಾ"
+    },
+    "clear_browser_option_fileSystems": {
+        "message": "ವೆಬ್‌ಸೈಟ್ ಫೈಲ್ ಸಿಸ್ಟಮ್‌ಗಳು"
+    },
+    "clear_browser_option_indexedDB": {
+        "message": "IndexedDB ದತ್ತಾಂಶ"
+    },
+    "clear_browser_option_localStorage": {
+        "message": "ಲೋಕಲ್‌ಸ್ಟೆಾರೇಜ್ ದತ್ತಾಂಶ"
+    },
+    "clear_browser_option_serviceWorkers": {
+        "message": "ಸೇವಕ ಕಾರ್ಯಕರು"
+    },
+    "clear_browser_option_webSQL": {
+        "message": "WebSQL ದತ್ತಾಂಶ"
+    },
+    "button_select_all": {
+        "message": "ಎಲ್ಲವನ್ನು ಆಯ್ಕೆಮಾಡಿ"
+    },
+    "button_remove_all": {
+        "message": "ಎಲ್ಲವನ್ನು ತೆರವುಗೊಳಿಸಿ"
+    },
+    "message_select_time_clear_browser_data": {
+        "message": "ಯಾವ ಅವಧಿಯ ದತ್ತಾಂಶವನ್ನು ತೆರವುಗೊಳಿಸಲು ನೀವು ಬಯಸುತ್ತೀರಿ?"
+    },
+    "choice_all_time": {
+        "message": "ಎಲ್ಲಾ ಸಮಯ"
+    },
+    "choice_24h": {
+        "message": "ಕಳೆದ 24 ಗಂಟೆ"
+    },
+    "choice_last_7days": {
+        "message": "ಕಳೆದ 7 ದಿನಗಳು"
+    },
+    "choice_last_30days": {
+        "message": "ಕಳೆದ 30 ದಿನಗಳು"
+    },
+    "button_clear_browser": {
+        "message": "ದತ್ತಾಂಶ ತೆರವುಗೊಳಿಸಿ"
+    },
+    "title_confirm_delete_browser_data": {
+        "message": "ದತ್ತಾಂಶ ಅಳಿಸುವಿಕೆಯನ್ನು ದೃಢೀಕರಿಸಿ"
+    },
+    "description_confirm_delete_browser_data": {
+        "message": "ಬ್ರೌಸರ್‌ ದತ್ತಾಂಶ ಅಳಿಸಲಾಗುತ್ತದೆ ಮತ್ತು ಮರುಸ್ಥಾಪಿಸಲಾಗುವುದಿಲ್ಲ."
+    },
+    "tooltip_top_action_share": {
+        "message": "ಹಂಚಿಕೊಳ್ಳಿ"
+    },
+    "sidebar_link": {
+        "message": "ಲಿಂಕುಗಳು"
+    },
+    "bottom_message_upgrade": {
+        "message": "ಇ היום ವಾರ್ಷಿಕ ಯೋಜನೆಯನ್ನು ನವೀಕರಿಸಿ 25% ರಿಯಾಯಿತಿ ಪಡೆಯಿರಿ!"
+    },
+    "about_title": {
+        "message": "ThanhBui ಬಗ್ಗೆ"
+    },
+    "about_content_1": {
+        "message": "ನಾನು ಅಭಿವೃದ್ಧಿಕೋರನಾಗಿದ್ದು, Chrome‍ಗಾಗಿ ವಿಸ್ತರಣೆಗಳನ್ನು ರಚಿಸುವುದನ್ನು ಇಷ್ಟಪಡುತ್ತೇನೆ. ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮ ಸಂವಹನವನ್ನು ಅಭಿವೃದ್ಧಿಪಡಿಸಲು ರಚಿಸಲು ಮತ್ತು ಮಾರ್ಕೆಟ್ ಮಾಡಲು ಸಹಾಯ ಮಾಡುತ್ತೇನೆ."
+    },
+    "about_content_2": {
+        "message": "ನನ್ನ ಬಗ್ಗೆ ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ ಮತ್ತು ಸಂಪರ್ಕಿಸಲು ಈ ಕೆಳಗಿನ ಸಾಮಾಜಿಕ ವೇದಿಕೆಗಳನ್ನು ಬಳಸಬಹುದು."
+    },
+    "account_type_premium": {
+        "message": "ಪ್ರೀಮಿಯಂ"
+    },
+    "account_type_free": {
+        "message": "ಉಚಿತ"
+    },
+    "email": {
+        "message": "ಇಮೇಲ್"
+    },
+    "created_at": {
+        "message": "ರಚಿಸಿದ ದಿನಾಂಕ"
+    },
+    "expiry_date": {
+        "message": "ಕಾಲಾವಧಿ ದಿನಾಂಕ"
+    },
+    "logout": {
+        "message": "ಲಾಗ್ ಔಟ್"
+    },
+    "buy_coffee_content_1": {
+        "message": "ಸಾಫ್ಟ್‌ವೇರ್ ನಿರ್ವಹಣೆ ಬಹಳಷ್ಟು ಸಮಯ ತೆಗೆದುಕೊಳ್ಳುತ್ತದೆ ಮತ್ತು ಅನೇಕ ರಾತ್ರಿ ಜಾಗ್ರತಿಯಾಗಿರುತ್ತವೆ, ವಿಶೇಷವಾಗಿ ನಾನು ಇದನ್ನು ನನ್ನ ದೈನಂದಿನ ಕೆಲಸದ ನಂತರ ಮಾಡುತ್ತಿದ್ದೇನೆ."
+    },
+    "buy_coffee_content_2": {
+        "message": "ನನ್ನ ಕೆಲಸವನ್ನು ನೀವು ಮೆಚ್ಚಿದ್ದರೆ ಮತ್ತು ಬೆಂಬಲಿಸಲು ಬಯಸಿದರೆ, ನಿಮಗೆ ಸಹಾಯ ಮಾಡಲು ಹಲವಾರು ಮಾರ್ಗಗಳಿವೆ."
+    },
+    "no_support": {
+        "message": "ನಾನು ಬೆಂಬಲಿಸಲು ಇಚ್ಛಿಸುವೆನು."
+    },
+    "feature_suggest_title": {
+        "message": "ನೀವು ಯಾವ ವೈಶಿಷ್ಟ್ಯವನ್ನು ಸೇರಿಸಲು ಇಚ್ಛಿಸುತ್ತೀರಿ?"
+    },
+    "feature_suggest_description": {
+        "message": "ನೀವು ಮುಂದುವರೆಸಲು ಬೇಕಾದ ಅಗತ್ಯ ವೈಶಿಷ್ಟ್ಯವನ್ನು ಸೂಚಿಸಿ."
+    },
+    "fs_email_description": {
+        "message": "ದಯವಿಟ್ಟು ನಿಮ್ಮ ಇಮೇಲ್ ಅನ್ನು ನಮೂದಿಸಿ. ಸ್ಪಷ್ಟತೆಯನ್ನು ಬೇಕಾದಲ್ಲಿ ನಾವು ಸಂಪರ್ಕಿಸಬಹುದು. (ಐಚ್ಛಿಕ)"
+    },
+    "label_fs": {
+        "message": " ವೈಶಿಷ್ಟ್ಯ ಸೂಚಿಸಿ"
+    },
+    "pl_fs_input": {
+        "message": "ನೀವು ಮುಂದಿನ में ನೋಡಲು ಬಯಸುವ ವೈಶಿಷ್ಟ್ಯ"
+    },
+    "payment_fs": {
+        "message": "ಆ ವೈಶಿಷ್ಟ್ಯಕ್ಕಾಗಿ ಪಾವತಿ ಮಾಡಲು ನೀವು ಸಿದ್ಧರಿದ್ದೀರಾ?"
+    },
+    "button_loading": {
+        "message": "ಲೋಡ್ হচ্ছে…"
+    },
+    "button_suggest": {
+        "message": "ಸೂಚಿಸಿ"
+    },
+    "website": {
+        "message": "ವೆಬ್‌ಸೈಟ್"
+    },
+    "title": {
+        "message": "ಶೀರ್ಷಿಕೆ"
+    },
+    "title_description": {
+        "message": "ಈ ಕುಕಿ ಲಿಂಕು ಯಾವ ವೆಬ್‌ಸೈಟ್‌ಗೆ ಸಂಬಂಧಿಸಿದೆ ಎಂಬುದನ್ನು ಗುರುತಿಸಲು ಸಹಾಯಕವಾಗಿ ನೆನಪಿಸಬಹುದಾದ ಹೆಸರು. (ಅಗತ್ಯ)"
+    },
+    "expiration_time": {
+        "message": "ಕಾಲಾವಧಿ"
+    },
+    "msg_link_not_found": {
+        "message": "ಈ ಲಿಂಕು ಇತ್ತುಕೊಂಡಿದೆ."
+    },
+    "msg_no_permission": {
+        "message": "ನಿಮ್ಮ ಬಳಿ ಅಗತ್ಯ ಅನುಮತಿಗಳು ಇಲ್ಲ."
+    },
+    "msg_error": {
+        "message": "ಸಿಸ್ಟಮ್ ದೋಷ ಸಂಭವಿಸಿದೆ."
+    },
+    "share_cookie_title": {
+        "message": "ಕುಕಿ ಹಂಚಿಕೊಳ್ಳಿ"
+    },
+    "share_cookie_description": {
+        "message": "ನೀವು ಕುಕಿಯನ್ನು ಹಂಚಿಕೊಳ್ಳಲು ಬಯಸುತ್ತೀರಾ?"
+    },
+    "time_option_1h": {
+        "message": "1 ಗಂಟೆ"
+    },
+    "exp_custom": {
+        "message": "ಕಸ್ಟಮ್"
+    },
+    "unlimited": {
+        "message": "ಅಸೀಮಿತ"
+    },
+    "type_option_exp_h": {
+        "message": "ಗಂಟೆಗಳು"
+    },
+    "type_option_exp_d": {
+        "message": "ದಿನಗಳು"
+    },
+    "type_option_exp_m": {
+        "message": "ತಿಂಗಳು"
+    },
+    "type_option_exp_y": {
+        "message": "ವರ್ಷಗಳು"
+    },
+    "msg_title_empty": {
+        "message": "ಶೀರ್ಷಿಕೆ ಖಾಲಿ ಇರಬಾರದು."
+    },
+    "msg_password_empty": {
+        "message": "ಗುಪ್ತಪದ ಖಾಲಿಯಾಗಬಾರದು."
+    },
+    "msg_password_length": {
+        "message": "ಗುಪ್ತಪದವು ಕನಿಷ್ಠ 8 ಅಕ್ಷರಗಳಿರಬೇಕು."
+    },
+    "msg_share_error": {
+        "message": "ಹಂಚುವಲ್ಲಿ ವಿಫಲವಾಗಿದೆ."
+    },
+    "password_encrypt": {
+        "message": "ಕುಕಿ ಡಿಕ್ರಿಪ್ಟ್ ಮಾಡುವ ಗುಪ್ತಪದ"
+    },
+    "password_encrypt_description": {
+        "message": "ಹಂಚಾದ ಮುನ್ನ ಕುಕಿಯನ್ನು ಎನ್‌ಕ್ರಿಪ್ಟ್ ಮಾಡುವ ಗುಪ್ತಪದವನ್ನು ನಮೂದಿಸಿ. ನಾವು ಅದರ ವಿಷಯವನ್ನು ನೋಡಲಾರೆವು. (ಅಗತ್ಯ)"
+    },
+    "link_exp": {
+        "message": "ಲಿಂಕು ಅವಧಿ"
+    },
+    "link_exp_description": {
+        "message": "ನೀವು ಲಿಂಕು ನಿರ್ದಿಷ್ಟ ಅವಧಿಗೆ ಹಂಚಿಕೊಳ್ಳಲು ಬಯಸಿದರೆ ಅವಧಿಯನ್ನು ನಮೂದಿಸಿ. ಇಲ್ಲದಿದ್ದಲ್ಲಿ ಖಾಲಿ ಇರಲಿ."
+    },
+    "public_link_cookie": {
+        "message": "ನೀವು ಹಂಚಿದ ಲಿಂಕು ಎಲ್ಲರೂ ನೋಡಬಹುದು."
+    },
+    "title_upgrade": {
+        "message": "ಸರಳ ಬೆಲೆ"
+    },
+    "upgrade_description": {
+        "message": "ಅಸೀಮಿತ ಸಬ್ಸ್ಕ್ರಿಪ್ಷನ್‌ಗಳೊಂದಿಗೆ ಸರಳ, ಪಾರದರ್ಶಕ ಬೆಲೆಗೆ. ಯಾವಾಗ ಬೇಕಾದರೂ ಪ್ಲಾನ್ ಬದಲಿಸಿ ಅಥವಾ ರದ್ದು ಮಾಡಿ."
+    },
+    "btn_upgrade_month": {
+        "message": "ತಿಂಗಳಿಗೆ $3 ಮು<span>ಕ್</span>"
+    },
+    "btn_upgrade_year": {
+        "message": "ವರ್ಷಕ್ಕೆ $27 ಮು<span>ಕ್</span>"
+    },
+    "msg_upgrade": {
+        "message": "25% ಉಳಿತಾಯ ಮಾಡಿ — $36 ಬದಲು $27/ವರ್ಷ ಮಾತ್ರ ಪಾವತಿಸಿ"
+    },
+    "upgrade_fs_1": {
+        "message": "ಕುಕಿ ನಿರ್ವಹಣೆ"
+    },
+    "upgrade_fs_2": {
+        "message": "ಎನ್ಕ್ರಿಪ್ಷನ್ ಮತ್ತು ಡಿಕ್ರಿಪ್ಷನ್"
+    },
+    "upgrade_fs_3": {
+        "message": " ಕುಕಿ ಹಂಚಿಕೊಳ್ಳಿ"
+    },
+    "upgrade_fs_4": {
+        "message": " ಜಾಹೀರಾತಿಲ್ಲ"
+    },
+    "upgrade_fs_5": {
+        "message": " ಬೆಂಬಲ"
+    },
+    "remind_login": {
+        "message": "ಕುರಿ ಹಂಚೊಳ್ಳುವುದಕ್ಕೂ ಮುನ್ನ ಖಾತೆಯನ್ನು ರಚಿಸಿರಿ."
+    },
+    "remind_login_btn": {
+        "message": "ಈಗ ಪತ್ತೆ ಮಾಡಿ"
+    },
+    "remind_upgrade_title": {
+        "message": "ಈ ವೈಶಿಷ್ಟ್ಯವನ್ನು ಬಳಸಲು ದಯವಿಟ್ಟು ಅಪ್‌ಗ್ರೇಡ್ ಮಾಡಿ."
+    },
+    "remind_upgrade_description": {
+        "message": "ಈ ಪ್ರಗತ ವೈಶಿಷ್ಠ್ಯ ಪೇಡ್ ಖಾತೆಗಳಿಗೆ ಮಾತ್ರ ಲಭ್ಯವಿದೆ. ಪ್ರವೇಶಕ್ಕಾಗಿ ಈಗ ಅಪ್‌ಗ್ರೇಡ್ ಮಾಡಿ."
+    },
+    "remind_upgrade_btn": {
+        "message": "ಈಗ ಅಪ್‌ಗ್ರೇಡ್ ಮಾಡಿ"
+    },
+    "msg_password_error": {
+        "message": "ಅಮಾನ್ಯ ಗುಪ್ತಪದ."
+    },
+    "msg_cookie_error": {
+        "message": "ಅಮಾನ್ಯ ಕುಕಿ ಮಾಹಿತಿ. ದಯವಿಟ್ಟು ಮರು ಲಾಗಿನ್ ಆಗಿ."
+    },
+    "msg_link_exp": {
+        "message": "ಲಿಂಕು ಅವಧಿ ಮುಗಿದಿದೆ."
+    },
+    "owner": {
+        "message": "ಹೊಂದಿಕೆಯ"
+    },
+    "page_import_description": {
+        "message": "ನೀವು ಹಂಚಿದ ಲಿಂಕ್ ಮೂಲಕ ಕುಕಿ ಆಮದು ವೈಶಿಷ್ಟ್ಯವನ್ನು ಬಳಸುತ್ತಿದ್ದೀರಿ."
     }
 }

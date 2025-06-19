@@ -202,5 +202,296 @@
     },
     "description_buy_me_a_coffee": {
         "message": "Ha tetszik, fontold meg, hogy támogatsz engem"
+    },
+    "sidebar_clear_browser": {
+        "message": "Böngészőadatok törlése"
+    },
+    "sidebar_upgrade": {
+        "message": "Frissítés"
+    },
+    "sidebar_feature_suggestion": {
+        "message": "Funkciójavaslat"
+    },
+    "sidebar_buy_coffee": {
+        "message": "Vegyél nekem kávét"
+    },
+    "sidebar_open_source": {
+        "message": "Nyílt forráskód"
+    },
+    "clear_browser_title": {
+        "message": "BÖNGÉSZŐADATOK TÖRLÉSE"
+    },
+    "clear_browser_description": {
+        "message": "Töröld az összes böngészési adatot egyetlen kattintással."
+    },
+    "clear_browser_option_appcache": {
+        "message": "Webalkalmazás gyorsítótára"
+    },
+    "clear_browser_option_cache": {
+        "message": "Böngésző gyorsítótára"
+    },
+    "clear_browser_option_cacheStorage": {
+        "message": "Gyorsítótár tároló"
+    },
+    "clear_browser_option_cookies": {
+        "message": "Sütik"
+    },
+    "clear_browser_option_downloads": {
+        "message": "Letöltési lista"
+    },
+    "clear_browser_option_history": {
+        "message": "Böngészési előzmények"
+    },
+    "clear_browser_option_formData": {
+        "message": "Mentett űrlapadatok"
+    },
+    "clear_browser_option_fileSystems": {
+        "message": "Weboldalak fájlrendszerei"
+    },
+    "clear_browser_option_indexedDB": {
+        "message": "IndexedDB adatok"
+    },
+    "clear_browser_option_localStorage": {
+        "message": "Helyi tároló adatok"
+    },
+    "clear_browser_option_serviceWorkers": {
+        "message": "Szolgáltatámunkások"
+    },
+    "clear_browser_option_webSQL": {
+        "message": "WebSQL adatok"
+    },
+    "button_select_all": {
+        "message": "Összes kijelölése"
+    },
+    "button_remove_all": {
+        "message": "Mind eltávolítása"
+    },
+    "message_select_time_clear_browser_data": {
+        "message": "Mely időszak adatát szeretnéd törölni?"
+    },
+    "choice_all_time": {
+        "message": "Minden időszak"
+    },
+    "choice_24h": {
+        "message": "Az elmúlt 24 óra"
+    },
+    "choice_last_7days": {
+        "message": "Az elmúlt 7 nap"
+    },
+    "choice_last_30days": {
+        "message": "Az elmúlt 30 nap"
+    },
+    "button_clear_browser": {
+        "message": "Böngészőadatok törlése"
+    },
+    "title_confirm_delete_browser_data": {
+        "message": "ADATOK TÖRLÉSÉNEK MEGERŐSÍTÉSE"
+    },
+    "description_confirm_delete_browser_data": {
+        "message": "A böngészőadataid törlésre kerülnek, és nem állíthatók vissza."
+    },
+    "tooltip_top_action_share": {
+        "message": "Megosztás"
+    },
+    "sidebar_link": {
+        "message": "Linkek"
+    },
+    "bottom_message_upgrade": {
+        "message": "Élj 25% kedvezménnyel az éves tervre történő frissítéssel ma!"
+    },
+    "about_title": {
+        "message": "A fejlesztőről – ThanhBui"
+    },
+    "about_content_1": {
+        "message": "Fejlesztő vagyok, és élvezem a Chrome-bővítmények készítését. Segítek a közösségi média kommunikáció fejlesztésében és marketingjében."
+    },
+    "about_content_2": {
+        "message": "További információkért és kapcsolattartásért keresd a következő közösségi felületeket."
+    },
+    "account_type_premium": {
+        "message": "Prémium"
+    },
+    "account_type_free": {
+        "message": "Ingyenes"
+    },
+    "email": {
+        "message": "E-mail"
+    },
+    "created_at": {
+        "message": "Létrehozva"
+    },
+    "expiry_date": {
+        "message": "Lejárati dátum"
+    },
+    "logout": {
+        "message": "Kijelentkezés"
+    },
+    "buy_coffee_content_1": {
+        "message": "A szoftver karbantartása sok időt és késő éjszakákat igényel, különösen a mindennapi munka után."
+    },
+    "buy_coffee_content_2": {
+        "message": "Ha szereted a munkámat és támogatnád, többféleképpen megteheted."
+    },
+    "no_support": {
+        "message": "Nem szeretnék támogatni."
+    },
+    "feature_suggest_title": {
+        "message": "Milyen funkciót szeretnél, hogy hozzáadjunk?"
+    },
+    "feature_suggest_description": {
+        "message": "Javasolj egy hasznos funkciót, ha szeretnéd, hogy továbbfejlesszük."
+    },
+    "fs_email_description": {
+        "message": "Add meg az e-mailcímedet. Kapcsolatba léphetünk, ha többet szeretnénk tudni. (opcionális)"
+    },
+    "label_fs": {
+        "message": " Funkció javaslat"
+    },
+    "pl_fs_input": {
+        "message": "Egy funkció, amit szeretnél látni"
+    },
+    "payment_fs": {
+        "message": "Lennél hajlandó fizetni ezért a funkcióért?"
+    },
+    "button_loading": {
+        "message": "Betöltés..."
+    },
+    "button_suggest": {
+        "message": "Javaslat küldése"
+    },
+    "website": {
+        "message": "Webhely"
+    },
+    "title": {
+        "message": "Cím"
+    },
+    "title_description": {
+        "message": "Egy könnyen megjegyezhető név, ami segít azonosítani, hogy melyik weboldalhoz tartozik ez a süti link. (Kötelező)"
+    },
+    "expiration_time": {
+        "message": "Lejárati idő"
+    },
+    "msg_link_not_found": {
+        "message": "Ez a link nem létezik."
+    },
+    "msg_no_permission": {
+        "message": "Nincs megfelelő jogosultságod."
+    },
+    "msg_error": {
+        "message": "Rendszerhiba történt."
+    },
+    "share_cookie_title": {
+        "message": "SÜTI MEGOSZTÁSA"
+    },
+    "share_cookie_description": {
+        "message": "Szeretnéd megosztani a sütit?"
+    },
+    "time_option_1h": {
+        "message": "1 óra"
+    },
+    "exp_custom": {
+        "message": "Egyéni"
+    },
+    "unlimited": {
+        "message": "Korlátlan"
+    },
+    "type_option_exp_h": {
+        "message": "Órák"
+    },
+    "type_option_exp_d": {
+        "message": "Napok"
+    },
+    "type_option_exp_m": {
+        "message": "Hónapok"
+    },
+    "type_option_exp_y": {
+        "message": "Évek"
+    },
+    "msg_title_empty": {
+        "message": "A cím nem lehet üres."
+    },
+    "msg_password_empty": {
+        "message": "A jelszó nem lehet üres."
+    },
+    "msg_password_length": {
+        "message": "A jelszónak legalább 8 karakter hosszúnak kell lennie."
+    },
+    "msg_share_error": {
+        "message": "A megosztás sikertelen."
+    },
+    "password_encrypt": {
+        "message": "Jelszó a sütik dekódolásához"
+    },
+    "password_encrypt_description": {
+        "message": "Add meg a jelszót a süti titkosításához megosztás előtt. Így mi sem férünk hozzá enélkül. (Kötelező)"
+    },
+    "link_exp": {
+        "message": "Link lejárati ideje"
+    },
+    "link_exp_description": {
+        "message": "Add meg, meddig legyen érvényes a link. Hagyd üresen, ha nincs lejárat."
+    },
+    "public_link_cookie": {
+        "message": "A megosztott linket bárki elérheti."
+    },
+    "title_upgrade": {
+        "message": "Egyszerű árazás"
+    },
+    "upgrade_description": {
+        "message": "Világos, átlátható árazás korlátlan felhasználóval. Bármikor válthatsz vagy lemondhatod a csomagot."
+    },
+    "btn_upgrade_month": {
+        "message": "3 $/hó‑tól"
+    },
+    "btn_upgrade_year": {
+        "message": "27 $/év‑től"
+    },
+    "msg_upgrade": {
+        "message": "Spórolj 25 %‑ot – fizess csak 27 $/év‑t helyett 36 $"
+    },
+    "upgrade_fs_1": {
+        "message": "Süti-kezelés"
+    },
+    "upgrade_fs_2": {
+        "message": "Titkosítás és dekódolás"
+    },
+    "upgrade_fs_3": {
+        "message": " Süti megosztása"
+    },
+    "upgrade_fs_4": {
+        "message": " Nincs reklám"
+    },
+    "upgrade_fs_5": {
+        "message": " Támogatás"
+    },
+    "remind_login": {
+        "message": "Először szerezz fiókot, mielőtt linkkel megosztanád a sütit."
+    },
+    "remind_login_btn": {
+        "message": "Regisztrálj most"
+    },
+    "remind_upgrade_title": {
+        "message": "Frissíts, hogy ezt a funkciót használd."
+    },
+    "remind_upgrade_description": {
+        "message": "Ez az előrehaladott funkció csak fizetős fiókok számára elérhető. Frissíts most hozzáférésért."
+    },
+    "remind_upgrade_btn": {
+        "message": "Frissítés most"
+    },
+    "msg_password_error": {
+        "message": "Érvénytelen jelszó."
+    },
+    "msg_cookie_error": {
+        "message": "Érvénytelen sütiadat. Kérlek lépj be újra."
+    },
+    "msg_link_exp": {
+        "message": "A link lejárt."
+    },
+    "owner": {
+        "message": "Tulajdonos"
+    },
+    "page_import_description": {
+        "message": "A süti importálás funkciót használod, megosztott linkkel."
     }
 }

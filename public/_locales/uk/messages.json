@@ -202,5 +202,296 @@
     },
     "description_buy_me_a_coffee": {
         "message": "Якщо вам сподобалося, подумайте про підтримку мене"
+    },
+    "sidebar_clear_browser": {
+        "message": "Очистити дані браузера"
+    },
+    "sidebar_upgrade": {
+        "message": "Оновити"
+    },
+    "sidebar_feature_suggestion": {
+        "message": "Пропозиція функції"
+    },
+    "sidebar_buy_coffee": {
+        "message": "Пригости мене кавою"
+    },
+    "sidebar_open_source": {
+        "message": "Відкритий код"
+    },
+    "clear_browser_title": {
+        "message": "ОЧИСТИТИ ДАНІ БРАУЗЕРА"
+    },
+    "clear_browser_description": {
+        "message": "Видаліть всі дані перегляду одним кліком."
+    },
+    "clear_browser_option_appcache": {
+        "message": "Appcache сайтів"
+    },
+    "clear_browser_option_cache": {
+        "message": "Кеш браузера"
+    },
+    "clear_browser_option_cacheStorage": {
+        "message": "Сховище кешу"
+    },
+    "clear_browser_option_cookies": {
+        "message": "Кукі"
+    },
+    "clear_browser_option_downloads": {
+        "message": "Список завантажень"
+    },
+    "clear_browser_option_history": {
+        "message": "Історія переглядів"
+    },
+    "clear_browser_option_formData": {
+        "message": "Збережені дані форм"
+    },
+    "clear_browser_option_fileSystems": {
+        "message": "Файлові системи сайтів"
+    },
+    "clear_browser_option_indexedDB": {
+        "message": "IndexedDB дані сайтів"
+    },
+    "clear_browser_option_localStorage": {
+        "message": "LocalStorage дані сайтів"
+    },
+    "clear_browser_option_serviceWorkers": {
+        "message": "Service Workers"
+    },
+    "clear_browser_option_webSQL": {
+        "message": "WebSQL дані сайтів"
+    },
+    "button_select_all": {
+        "message": "Вибрати все"
+    },
+    "button_remove_all": {
+        "message": "Видалити все"
+    },
+    "message_select_time_clear_browser_data": {
+        "message": "За який період ви хочете очистити дані?"
+    },
+    "choice_all_time": {
+        "message": "Увесь час"
+    },
+    "choice_24h": {
+        "message": "Останні 24 години"
+    },
+    "choice_last_7days": {
+        "message": "Останні 7 днів"
+    },
+    "choice_last_30days": {
+        "message": "Останні 30 днів"
+    },
+    "button_clear_browser": {
+        "message": "Очистити дані"
+    },
+    "title_confirm_delete_browser_data": {
+        "message": "ПІДТВЕРДІТЬ ВИДАЛЕННЯ ДАНИХ"
+    },
+    "description_confirm_delete_browser_data": {
+        "message": "Дані браузера буде видалено, і їх не можна буде відновити."
+    },
+    "tooltip_top_action_share": {
+        "message": "Поділитися"
+    },
+    "sidebar_link": {
+        "message": "Посилання"
+    },
+    "bottom_message_upgrade": {
+        "message": "Отримайте знижку 25 %, оновившись сьогодні до річного плану!"
+    },
+    "about_title": {
+        "message": "Про ThanhBui"
+    },
+    "about_content_1": {
+        "message": "Я – розробник і люблю створювати розширення для Chrome. Я допомагаю розвивати та просувати комунікацію в соціальних мережах."
+    },
+    "about_content_2": {
+        "message": "Детальніше про мене та контакти можна знайти через наведені нижче соціальні платформи."
+    },
+    "account_type_premium": {
+        "message": "Преміум"
+    },
+    "account_type_free": {
+        "message": "Безкоштовно"
+    },
+    "email": {
+        "message": "Е‑mail"
+    },
+    "created_at": {
+        "message": "Створено"
+    },
+    "expiry_date": {
+        "message": "Дата закінчення"
+    },
+    "logout": {
+        "message": "Вийти"
+    },
+    "buy_coffee_content_1": {
+        "message": "Підтримка ПЗ потребує багато часу та безсонних ночей, особливо коли я працюю після основної роботи."
+    },
+    "buy_coffee_content_2": {
+        "message": "Якщо вам подобається моя робота і ви хочете її підтримати, є кілька способів."
+    },
+    "no_support": {
+        "message": "Я не хочу підтримувати."
+    },
+    "feature_suggest_title": {
+        "message": "Яку функцію ви хотіли б додати?"
+    },
+    "feature_suggest_description": {
+        "message": "Запропонуйте корисну функцію, яку хотіли б бачити."
+    },
+    "fs_email_description": {
+        "message": "Введіть вашу електронну пошту. Ми можемо зв’язатися, якщо потрібні уточнення. (необов’язково)"
+    },
+    "label_fs": {
+        "message": " Пропозиція функції"
+    },
+    "pl_fs_input": {
+        "message": "Функція, яку ви хочете бачити"
+    },
+    "payment_fs": {
+        "message": "Ви б заплатили за цю функцію?"
+    },
+    "button_loading": {
+        "message": "Завантаження..."
+    },
+    "button_suggest": {
+        "message": "Надіслати пропозицію"
+    },
+    "website": {
+        "message": "Вебсайт"
+    },
+    "title": {
+        "message": "Заголовок"
+    },
+    "title_description": {
+        "message": "Запам’ятовується назва, що допоможе ідентифікувати, якому сайту належить це посилання з cookie. (необхідно)"
+    },
+    "expiration_time": {
+        "message": "Час закінчення"
+    },
+    "msg_link_not_found": {
+        "message": "Це посилання не знайдено."
+    },
+    "msg_no_permission": {
+        "message": "У вас немає потрібних дозволів."
+    },
+    "msg_error": {
+        "message": "Сталася системна помилка."
+    },
+    "share_cookie_title": {
+        "message": "ПОДІЛИТИСЯ COOKIE"
+    },
+    "share_cookie_description": {
+        "message": "Бажаєте поділитися цим cookie?"
+    },
+    "time_option_1h": {
+        "message": "1 година"
+    },
+    "exp_custom": {
+        "message": "Власний"
+    },
+    "unlimited": {
+        "message": "Безліміт"
+    },
+    "type_option_exp_h": {
+        "message": "Години"
+    },
+    "type_option_exp_d": {
+        "message": "Дні"
+    },
+    "type_option_exp_m": {
+        "message": "Місяці"
+    },
+    "type_option_exp_y": {
+        "message": "Роки"
+    },
+    "msg_title_empty": {
+        "message": "Заголовок не може бути пустим."
+    },
+    "msg_password_empty": {
+        "message": "Пароль не може бути пустим."
+    },
+    "msg_password_length": {
+        "message": "Пароль має містити щонайменше 8 символів."
+    },
+    "msg_share_error": {
+        "message": "Не вдалося поділитися."
+    },
+    "password_encrypt": {
+        "message": "Пароль для дешифрування cookie"
+    },
+    "password_encrypt_description": {
+        "message": "Введіть пароль, щоб зашифрувати cookie перед спільним доступом. Навіть ми не зможемо прочитати його без пароля. (необхідно)"
+    },
+    "link_exp": {
+        "message": "Термін дії посилання закінчився"
+    },
+    "link_exp_description": {
+        "message": "Вкажіть дату закінчення, якщо хочете обмежити дію посилання. Залиште порожнім, якщо без обмежень."
+    },
+    "public_link_cookie": {
+        "message": "Кожен, хто має посилання, зможе отримати доступ."
+    },
+    "title_upgrade": {
+        "message": "Прості ціни"
+    },
+    "upgrade_description": {
+        "message": "Прозора ціноутворення з необмеженою кількістю підписників. Змінити план або скасувати можна будь-коли."
+    },
+    "btn_upgrade_month": {
+        "message": "Від $3/місяць"
+    },
+    "btn_upgrade_year": {
+        "message": "Від $27/рік"
+    },
+    "msg_upgrade": {
+        "message": "Отримайте знижку 25 % — сплачуйте лише $27/рік замість $36"
+    },
+    "upgrade_fs_1": {
+        "message": "Управління cookie"
+    },
+    "upgrade_fs_2": {
+        "message": "Шифрування та дешифрування"
+    },
+    "upgrade_fs_3": {
+        "message": " Поділитися cookie"
+    },
+    "upgrade_fs_4": {
+        "message": " Без реклами"
+    },
+    "upgrade_fs_5": {
+        "message": " Підтримка"
+    },
+    "remind_login": {
+        "message": "Вам потрібно мати акаунт, щоб поділитися cookie через посилання."
+    },
+    "remind_login_btn": {
+        "message": "Зареєструйтеся зараз"
+    },
+    "remind_upgrade_title": {
+        "message": "Оновіть, щоб використовувати цю функцію."
+    },
+    "remind_upgrade_description": {
+        "message": "Ця розширена функція доступна тільки для платних акаунтів. Оновіть зараз для доступу."
+    },
+    "remind_upgrade_btn": {
+        "message": "Оновити зараз"
+    },
+    "msg_password_error": {
+        "message": "Невірний пароль."
+    },
+    "msg_cookie_error": {
+        "message": "Недійсні дані cookie. Будь-ласка, увійдіть знову."
+    },
+    "msg_link_exp": {
+        "message": "Посилання більше не активне."
+    },
+    "owner": {
+        "message": "Власник"
+    },
+    "page_import_description": {
+        "message": "Ви використовуєте функцію імпорту cookie через спільне посилання."
     }
 }
