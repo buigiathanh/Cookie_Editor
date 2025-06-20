@@ -441,13 +441,13 @@
         "message": "Jednoduché a prehľadné ceny s neobmedzenými predplatiteľmi. Plán môžete kedykoľvek zmeniť alebo zrušiť."
     },
     "btn_upgrade_month": {
-        "message": "Od 3 $/mesiac"
+        "message": "Od ___price___/mesiac"
     },
     "btn_upgrade_year": {
-        "message": "Od 27 $/rok"
+        "message": "Od ___price___/rok"
     },
     "msg_upgrade": {
-        "message": "Ušetrite 25 % – plaťte len 27 $/rok namiesto 36 $"
+        "message": "Získajte 25 % zľavu — zaplaťte iba ___sale___/rok namiesto ___price___"
     },
     "upgrade_fs_1": {
         "message": "Správa cookie"

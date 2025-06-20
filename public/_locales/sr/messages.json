@@ -441,13 +441,13 @@
         "message": "Просте и транспарентне цене са неограниченим претплатницима. Можете променити план или отказати кад год желите."
     },
     "btn_upgrade_month": {
-        "message": "Од 3 $/мес."
+        "message": "Počinje od ___price___/mesec"
     },
     "btn_upgrade_year": {
-        "message": "Од 27 $/год."
+        "message": "Počinje od ___price___/godina"
     },
     "msg_upgrade": {
-        "message": "Уштедите 25% — платите само 27 $/год. уместо 36 $"
+        "message": "Ostvarite 25% popusta — platite samo ___sale___/godina umesto ___price___"
     },
     "upgrade_fs_1": {
         "message": "Управљање cookie-јима"

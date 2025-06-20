@@ -441,13 +441,13 @@
         "message": "Precios simples y transparentes con suscriptores ilimitados. Cambia de plan o cancela cuando quieras."
     },
     "btn_upgrade_month": {
-        "message": "Desde $3/mes"
+        "message": "Začíná na ___price___/měsíc"
     },
     "btn_upgrade_year": {
-        "message": "Desde $27/año"
+        "message": "Začíná na ___price___/rok"
     },
     "msg_upgrade": {
-        "message": "Ahorra un 25% — paga solo $27/año en lugar de $36"
+        "message": "Získejte 25% slevu — zaplaťte pouze ___sale___/rok místo ___price___"
     },
     "upgrade_fs_1": {
         "message": "Gestión de cookies"

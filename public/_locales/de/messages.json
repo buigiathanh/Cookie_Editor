@@ -441,13 +441,13 @@
         "message": "Einfache, transparente Preisgestaltung mit unbegrenzten Abonnenten. Wechsle jederzeit den Plan oder kündige ihn."
     },
     "btn_upgrade_month": {
-        "message": "Ab 3 $/Monat"
+        "message": "Ab ___price___/Monat"
     },
     "btn_upgrade_year": {
-        "message": "Ab 27 $/Jahr"
+        "message": "Ab ___price___/Jahr"
     },
     "msg_upgrade": {
-        "message": "Spare 25 % – bezahle nur 27 $/Jahr statt 36 $"
+        "message": "Erhalten Sie 25 % Rabatt – zahlen Sie nur ___sale___/Jahr statt ___price___"
     },
     "upgrade_fs_1": {
         "message": "Cookie-Verwaltung"

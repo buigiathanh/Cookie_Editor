@@ -1,3 +1,4 @@
+/*global chrome*/
 import {useRef} from "react";
 import {useClickOutside} from "../../../../../hooks/useClickOutside";
 import {settingStore} from "../../../../../mobx/setting.store";
@@ -71,21 +72,21 @@ const Upgrade = () => {
                                         <button
                                             onClick={() => handleUpgrade("month")}
                                             className={`w-full text-xs py-2.5 border border-blue-600 bg-white text-blue-600 rounded-lg hover:bg-blue-700 hover:text-white cursor-pointer`}>
-                                            {extension.getLang("btn_upgrade_month")}
+                                            {extension.getLang("btn_upgrade_month").replaceAll("___price___", `$3`)}
                                         </button>
                                     </div>
                                     <div className={`w-full md:w-[59%] inline-block mb-2`}>
                                         <button
                                             onClick={() => handleUpgrade("year")}
                                             className={`w-full text-xs py-2.5 border-1 border-blue-600 bg-blue-600 rounded-lg text-white hover:bg-blue-700 cursor-pointer`}>
-                                            {extension.getLang("btn_upgrade_year")}
+                                            {extension.getLang("btn_upgrade_year").replaceAll("___price___", `$27`)}
                                         </button>
                                     </div>
                                 </div>
 
                                 <div className={`w-full my-2 text-center`}>
                                     <p className={`text-blue-600 font-bold text-xs uppercase`}>
-                                        Get 25% off — pay just $27/year instead of $36
+                                        {extension.getLang("msg_upgrade").replaceAll("___price___", `$36`).replaceAll("___sale___", "$27")}
                                     </p>
                                 </div>
 

@@ -441,13 +441,13 @@
         "message": "సాదా, పారదర్శక ధరలు, అపరిమిత సభ్యత్వాలతో. ప్లాన్ మార్చండి లేదా రద్దు చేయండి ఎప్పుడైనా."
     },
     "btn_upgrade_month": {
-        "message": "నుండి $3/నెల"
+        "message": "___price___/నెల నుండి ప్రారంభించండి"
     },
     "btn_upgrade_year": {
-        "message": "నుండి $27/సంవత్సరం"
+        "message": "___price___/సంవత్సరం నుండి ప్రారంభించండి"
     },
     "msg_upgrade": {
-        "message": "Pata punguzo la 25 % — lipa $27/mwaka badala ya $36"
+        "message": "25% రాయితీ పొందండి — ___price___ బదులుగా కేవలం ___sale___/సంవత్సరం చెల్లించండి"
     },
     "upgrade_fs_1": {
         "message": "Usimamizi wa cookie"

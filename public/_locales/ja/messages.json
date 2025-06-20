@@ -441,13 +441,13 @@
         "message": "わかりやすく透明な価格体系、無制限の利用者。いつでもプラン変更・キャンセル可能です。"
     },
     "btn_upgrade_month": {
-        "message": "月額3ドルからスタート"
+        "message": "___price___/月から開始"
     },
     "btn_upgrade_year": {
-        "message": "年額27ドルからスタート"
+        "message": "___price___/年から開始"
     },
     "msg_upgrade": {
-        "message": "25％割引 — 年額27ドル（通常36ドル）"
+        "message": "25%割引 — ___price___ の代わりに ___sale___/年で購入可能"
     },
     "upgrade_fs_1": {
         "message": "クッキー管理"

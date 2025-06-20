@@ -345,7 +345,7 @@
         "message": "Enter your email address. We may contact you if we need to clarify your request. (optional)"
     },
     "label_fs": {
-        "message": " Feature Suggest"
+        "message": "Feature Suggest"
     },
     "pl_fs_input": {
         "message": "A feature you’d like us to develop next"
@@ -441,13 +441,13 @@
         "message": "Simple, transparent pricing with unlimited subscribers. Switch plans or cancel anytime."
     },
     "btn_upgrade_month": {
-        "message": "Start from $3/month"
+        "message": "Start from ___price___/month"
     },
     "btn_upgrade_year": {
-        "message": "Start from $27/year"
+        "message": "Start from ___price___/year"
     },
     "msg_upgrade": {
-        "message": "Get 25% off — pay just $27/year instead of $36"
+        "message": "Get 25% off — pay just ___sale___/year instead of ___price___"
     },
     "upgrade_fs_1": {
         "message": "Cookie Management"

@@ -441,13 +441,13 @@
         "message": "Enkel og gennemsigtig prissætning med ubegrænset antal abonnenter. Skift plan eller annuller når som helst."
     },
     "btn_upgrade_month": {
-        "message": "Fra $3/md"
+        "message": "Start fra ___price___/måned"
     },
     "btn_upgrade_year": {
-        "message": "Fra $27/år"
+        "message": "Start fra ___price___/år"
     },
     "msg_upgrade": {
-        "message": "Få 25 % rabat – betal kun $27/år i stedet for $36"
+        "message": "Få 25% rabat — betal kun ___sale___/år i stedet for ___price___"
     },
     "upgrade_fs_1": {
         "message": "Cookiehåndtering"

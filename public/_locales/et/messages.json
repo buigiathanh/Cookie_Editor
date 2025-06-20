@@ -441,13 +441,13 @@
         "message": "Lihtne, läbipaistev hinnastamine piiramatute tellijatega. Muuda plaani või tühista igal ajal."
     },
     "btn_upgrade_month": {
-        "message": "Alates $3/kuu"
+        "message": "Alates ___price___/kuu"
     },
     "btn_upgrade_year": {
-        "message": "Alates $27/aasta"
+        "message": "Alates ___price___/aasta"
     },
     "msg_upgrade": {
-        "message": "Säästa 25% — maksa ainult $27/aastas asemel $36"
+        "message": "Saate 25% soodustust — makske ainult ___sale___/aasta asemel ___price___"
     },
     "upgrade_fs_1": {
         "message": "Küpsiste haldamine"

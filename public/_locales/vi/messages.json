@@ -441,13 +441,13 @@
         "message": "Giá cả minh bạch, đơn giản với số lượng người đăng ký không giới hạn. Có thể thay đổi hoặc hủy bất cứ lúc nào."
     },
     "btn_upgrade_month": {
-        "message": "Chỉ từ $3/tháng"
+        "message": "Bắt đầu từ ___price___/tháng"
     },
     "btn_upgrade_year": {
-        "message": "Chỉ từ $27/năm"
+        "message": "Bắt đầu từ ___price___/năm"
     },
     "msg_upgrade": {
-        "message": "Giảm 25% — chỉ $27/năm thay vì $36"
+        "message": "Giảm 25% — chỉ cần trả ___sale___/năm thay vì ___price___"
     },
     "upgrade_fs_1": {
         "message": "Quản lý Cookie"

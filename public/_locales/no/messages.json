@@ -441,13 +441,13 @@
         "message": "Enkel, gjennomsiktig prising med ubegrenset abonnerte. Bytt plan eller avbestill når som helst."
     },
     "btn_upgrade_month": {
-        "message": "Fra kr 30/mnd"
+        "message": "Fra ___price___/måned"
     },
     "btn_upgrade_year": {
-        "message": "Fra kr 270/år"
+        "message": "Fra ___price___/år"
     },
     "msg_upgrade": {
-        "message": "Spar 25 % – betal kun kr 270/år i stedet for kr 360"
+        "message": "Få 25% rabatt — betal kun ___sale___/år i stedet for ___price___"
     },
     "upgrade_fs_1": {
         "message": "Cookie-administrasjon"

@@ -441,13 +441,13 @@
         "message": "ቀላል፣ ግልጽ የዋጋ አሰጣጥ ያለምንም ገደብ የደንበኞች። እቅዶችን መቀየር ወይም በማንኛውም ጊዜ ማቆም ይችላሉ።"
     },
     "btn_upgrade_month": {
-        "message": "ከ$3/ወር ጀምር"
+        "message": "መነሻ ከ ___price___/ወር"
     },
     "btn_upgrade_year": {
-        "message": "ከ$27/ዓመት ጀምር"
+        "message": "መነሻ ከ ___price___/ዓመት"
     },
     "msg_upgrade": {
-        "message": "25% ቅናሽ ያግኙ — ከ$36 ይልቅ $27/ዓመት ብቻ ይክፈሉ"
+        "message": "25% ቅናሽ ያግኙ — ከ ___price___ በኋላ ___sale___/ዓመት ብቻ ይክፈሉ"
     },
     "upgrade_fs_1": {
         "message": "ኩኪ አስተዳደር"

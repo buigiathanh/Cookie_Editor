@@ -441,13 +441,13 @@
         "message": "Preproste in pregledne cene z neomejenimi naročniki. Načrt lahko kadar koli spremenite ali prekličete."
     },
     "btn_upgrade_month": {
-        "message": "Od 3 $/mesec"
+        "message": "Od ___price___/mesec"
     },
     "btn_upgrade_year": {
-        "message": "Od 27 $/leto"
+        "message": "Od ___price___/leto"
     },
     "msg_upgrade": {
-        "message": "Prihranite 25 % – plačajte le 27 $/leto namesto 36 $"
+        "message": "Prihranite 25 % — plačajte le ___sale___/leto namesto ___price___"
     },
     "upgrade_fs_1": {
         "message": "Upravljanje piškotkov"

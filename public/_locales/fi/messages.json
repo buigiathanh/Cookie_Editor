@@ -441,13 +441,13 @@
         "message": "Yksinkertainen ja läpinäkyvä hinnoittelu ilman tilaajamäärärajoja. Vaihda tai peru milloin tahansa."
     },
     "btn_upgrade_month": {
-        "message": "Alkaen 3 $/kk"
+        "message": "Alkaen ___price___/kuukausi"
     },
     "btn_upgrade_year": {
-        "message": "Alkaen 27 $/vuosi"
+        "message": "Alkaen ___price___/vuosi"
     },
     "msg_upgrade": {
-        "message": "Säästä 25 % — maksa vain 27 $/vuosi (norm. 36 $)"
+        "message": "Saat 25 % alennusta — maksa vain ___sale___/vuosi normaalin ___price___ sijaan"
     },
     "upgrade_fs_1": {
         "message": "Evästeiden hallinta"

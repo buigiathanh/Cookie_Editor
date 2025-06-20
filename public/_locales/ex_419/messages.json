@@ -441,13 +441,13 @@
         "message": "Precios claros y transparentes con suscriptores ilimitados. Cambia de plan o cancela cuando desees."
     },
     "btn_upgrade_month": {
-        "message": "Desde US $ 3/mes"
+        "message": "Desde ___price___/mes"
     },
     "btn_upgrade_year": {
-        "message": "Desde US $ 27/año"
+        "message": "Desde ___price___/año"
     },
     "msg_upgrade": {
-        "message": "Ahorra un 25 % — paga solo US $ 27/año en lugar de US $ 36"
+        "message": "Obtén un 25% de descuento — paga solo ___sale___/año en lugar de ___price___"
     },
     "upgrade_fs_1": {
         "message": "Gestión de cookies"

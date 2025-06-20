@@ -441,13 +441,13 @@
         "message": "Prețuri clare și transparente, cu abonamente nelimitate. Schimbă planul sau renunță oricând."
     },
     "btn_upgrade_month": {
-        "message": "De la 3 $/lună"
+        "message": "Începând de la ___price___/lună"
     },
     "btn_upgrade_year": {
-        "message": "De la 27 $/an"
+        "message": "Începând de la ___price___/an"
     },
     "msg_upgrade": {
-        "message": "Economisește 25 % – plătește doar 27 $/an în loc de 36 $"
+        "message": "Obține 25% reducere — plătește doar ___sale___/an în loc de ___price___"
     },
     "upgrade_fs_1": {
         "message": "Gestionare cookie‑uri"

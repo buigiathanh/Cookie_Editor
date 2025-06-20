@@ -441,13 +441,13 @@
         "message": "Proste, transparentne ceny z nieograniczoną liczbą subskrybentów. Zmień plan lub anuluj w dowolnym momencie."
     },
     "btn_upgrade_month": {
-        "message": "Od 3 $/miesiąc"
+        "message": "Od ___price___/miesiąc"
     },
     "btn_upgrade_year": {
-        "message": "Od 27 $/rok"
+        "message": "Od ___price___/rok"
     },
     "msg_upgrade": {
-        "message": "Oszczędź 25 % — zapłać tylko 27 $/rok zamiast 36 $"
+        "message": "Otrzymaj 25% zniżki — zapłać tylko ___sale___/rok zamiast ___price___"
     },
     "upgrade_fs_1": {
         "message": "Zarządzanie cookie"

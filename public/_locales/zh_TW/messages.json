@@ -441,13 +441,13 @@
         "message": "價格清晰透明，訂閱人數無上限。可隨時變更方案或取消。"
     },
     "btn_upgrade_month": {
-        "message": "月繳 $3 起"
+        "message": "每月最低 ___price___ 起"
     },
     "btn_upgrade_year": {
-        "message": "年繳 $27 起"
+        "message": "每年最低 ___price___ 起"
     },
     "msg_upgrade": {
-        "message": "享 25% 折扣—年繳僅 $27，原價 $36"
+        "message": "享 25% 折扣 — 每年只需支付 ___sale___，原價為 ___price___"
     },
     "upgrade_fs_1": {
         "message": "Cookie 管理"

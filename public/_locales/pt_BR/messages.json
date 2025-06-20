@@ -441,13 +441,13 @@
         "message": "Preços claros e transparentes com assinaturas ilimitadas. Mude o plano ou cancele a qualquer momento."
     },
     "btn_upgrade_month": {
-        "message": "A partir de R$ 15/mês"
+        "message": "A partir de ___price___/mês"
     },
     "btn_upgrade_year": {
-        "message": "A partir de R$ 135/ano"
+        "message": "A partir de ___price___/ano"
     },
     "msg_upgrade": {
-        "message": "Economize 25 % — pague apenas R$ 135/ano em vez de R$ 180"
+        "message": "Obtenha 25% de desconto — pague apenas ___sale___/ano em vez de ___price___"
     },
     "upgrade_fs_1": {
         "message": "Gerenciamento de cookies"

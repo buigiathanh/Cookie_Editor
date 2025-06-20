@@ -441,13 +441,13 @@
         "message": "Prezzi semplici e trasparenti con abbonamenti illimitati. Cambia piano o annulla quando vuoi."
     },
     "btn_upgrade_month": {
-        "message": "A partire da $3/mese"
+        "message": "A partire da ___price___/mese"
     },
     "btn_upgrade_year": {
-        "message": "A partire da $27/anno"
+        "message": "A partire da ___price___/anno"
     },
     "msg_upgrade": {
-        "message": "Risparmia il 25% – paga solo $27/anno anziché $36"
+        "message": "Ottieni il 25% di sconto — paga solo ___sale___/anno invece di ___price___"
     },
     "upgrade_fs_1": {
         "message": "Gestione cookie"

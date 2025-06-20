@@ -441,13 +441,13 @@
         "message": "Harga yang sederhana dan transparan dengan pelanggan tanpa batas. Ganti paket atau batalkan kapan saja."
     },
     "btn_upgrade_month": {
-        "message": "Mulai dari $3/bulan"
+        "message": "Mulai dari ___price___/bulan"
     },
     "btn_upgrade_year": {
-        "message": "Mulai dari $27/tahun"
+        "message": "Mulai dari ___price___/tahun"
     },
     "msg_upgrade": {
-        "message": "Hemat 25% — hanya bayar $27/tahun bukan $36"
+        "message": "Dapatkan diskon 25% — cukup bayar ___sale___/tahun, bukan ___price___"
     },
     "upgrade_fs_1": {
         "message": "Manajemen cookie"

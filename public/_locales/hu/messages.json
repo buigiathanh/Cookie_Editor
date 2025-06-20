@@ -441,13 +441,13 @@
         "message": "Világos, átlátható árazás korlátlan felhasználóval. Bármikor válthatsz vagy lemondhatod a csomagot."
     },
     "btn_upgrade_month": {
-        "message": "3 $/hó‑tól"
+        "message": "___price___/hónaptól kezdve"
     },
     "btn_upgrade_year": {
-        "message": "27 $/év‑től"
+        "message": "___price___/évtől kezdve"
     },
     "msg_upgrade": {
-        "message": "Spórolj 25 %‑ot – fizess csak 27 $/év‑t helyett 36 $"
+        "message": "25% kedvezmény — csak ___sale___/év árat fizet, a ___price___ helyett"
     },
     "upgrade_fs_1": {
         "message": "Süti-kezelés"

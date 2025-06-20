@@ -441,13 +441,13 @@
         "message": "Preus clars i transparents amb subscriptors il·limitats. Pots canviar de pla o cancel·lar en qualsevol moment."
     },
     "btn_upgrade_month": {
-        "message": "Des de 3$/mes"
+        "message": "A partir de ___price___/mes"
     },
     "btn_upgrade_year": {
-        "message": "Des de 27$/any"
+        "message": "A partir de ___price___/any"
     },
     "msg_upgrade": {
-        "message": "Estalvia un 25% — paga només 27$/any en lloc de 36$"
+        "message": "Obtingues un 25% de descompte — paga només ___sale___/any en comptes de ___price___"
     },
     "upgrade_fs_1": {
         "message": "Gestió de cookies"

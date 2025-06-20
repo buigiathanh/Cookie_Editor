@@ -441,13 +441,13 @@
         "message": "Harga mudah dan telus dengan pelanggan tanpa had. Tukar pelan atau batal bila-bila masa."
     },
     "btn_upgrade_month": {
-        "message": "Dari $3/bulan"
+        "message": "Bermula dari ___price___/bulan"
     },
     "btn_upgrade_year": {
-        "message": "Dari $27/tahun"
+        "message": "Bermula dari ___price___/tahun"
     },
     "msg_upgrade": {
-        "message": "Jimpat 25% — bayar hanya $27/tahun, bukannya $36"
+        "message": "Dapatkan diskaun 25% — bayar hanya ___sale___/tahun berbanding ___price___"
     },
     "upgrade_fs_1": {
         "message": "Pengurusan kuki"

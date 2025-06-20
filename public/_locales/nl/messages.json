@@ -441,13 +441,13 @@
         "message": "Eenvoudige, transparante prijzen met onbeperkt aantal abonnees. Wissel plannen of zeg op wanneer je wilt."
     },
     "btn_upgrade_month": {
-        "message": "Vanaf €3/maand"
+        "message": "Vanaf ___price___/maand"
     },
     "btn_upgrade_year": {
-        "message": "Vanaf €27/jaar"
+        "message": "Vanaf ___price___/jaar"
     },
     "msg_upgrade": {
-        "message": "Profiteer van 25% korting — betaal slechts €27/jaar in plaats van €36"
+        "message": "Ontvang 25% korting — betaal slechts ___sale___/jaar in plaats van ___price___"
     },
     "upgrade_fs_1": {
         "message": "Cookiebeheer"

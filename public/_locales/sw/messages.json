@@ -441,13 +441,13 @@
         "message": "Bei rahisi, zilizo wazi kwa wote na wanachama wasio na kikomo. Badilisha mpango au usitimize wakati wowote."
     },
     "btn_upgrade_month": {
-        "message": "Kuanzia 3 $/mwezi"
+        "message": "Anza kutoka ___price___/mwezi"
     },
     "btn_upgrade_year": {
-        "message": "Kuanzia 27 $/mwaka"
+        "message": "Anza kutoka ___price___/mwaka"
     },
     "msg_upgrade": {
-        "message": "Pata punguzo la 25 % — lipa $27/mwaka badala ya $36"
+        "message": "Pata punguzo la 25% — lipa tu ___sale___/mwaka badala ya ___price___"
     },
     "upgrade_fs_1": {
         "message": "Usimamizi wa cookie"

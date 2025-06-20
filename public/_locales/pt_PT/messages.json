@@ -441,13 +441,13 @@
         "message": "Preços simples e transparentes com subscrições ilimitadas. Pode alterar o plano ou cancelar quando quiser."
     },
     "btn_upgrade_month": {
-        "message": "A partir de €3/mês"
+        "message": "Desde ___price___/mês"
     },
     "btn_upgrade_year": {
-        "message": "A partir de €27/ano"
+        "message": "Desde ___price___/ano"
     },
     "msg_upgrade": {
-        "message": "Poupe 25 % — pague apenas €27/ano em vez de €36"
+        "message": "Obtenha 25% de desconto — pague apenas ___sale___/ano em vez de ___price___"
     },
     "upgrade_fs_1": {
         "message": "Gestão de cookies"

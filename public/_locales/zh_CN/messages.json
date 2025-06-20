@@ -441,13 +441,13 @@
         "message": "清晰透明的定价，无限订阅者。随时更改计划或取消。"
     },
     "btn_upgrade_month": {
-        "message": "¥30/月 起"
+        "message": "从 ___price___/月 起"
     },
     "btn_upgrade_year": {
-        "message": "¥270/年 起"
+        "message": "从 ___price___/年 起"
     },
     "msg_upgrade": {
-        "message": "享受 25% 折扣——仅需 ¥270/年，原价 ¥360"
+        "message": "享受 25% 折扣 — 每年仅需支付 ___sale___，原价为 ___price___"
     },
     "upgrade_fs_1": {
         "message": "Cookie 管理"

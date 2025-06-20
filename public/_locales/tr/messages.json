@@ -441,13 +441,13 @@
         "message": "Basit, şeffaf fiyatlandırma; sınırsız abone sayısı. Plan değiştirin veya istediğiniz zaman iptal edin."
     },
     "btn_upgrade_month": {
-        "message": "Aylık 3 $/ay’dan başlar"
+        "message": "___price___/ay'dan başlayan fiyatlarla"
     },
     "btn_upgrade_year": {
-        "message": "Yıllık 27 $/yıl’dan başlar"
+        "message": "___price___/yıl'dan başlayan fiyatlarla"
     },
     "msg_upgrade": {
-        "message": " %25 indirim kazanın — 36 $ yerine sadece 27 $/yıl ödeyin"
+        "message": "%%25 indirim kazanın — ___price___ yerine sadece ___sale___/yıl ödeyin"
     },
     "upgrade_fs_1": {
         "message": "Çerez yönetimi"

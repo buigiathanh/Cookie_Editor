@@ -441,13 +441,13 @@
         "message": "Aiški ir atvira kainodara su neribotu prenumeratorių skaičiumi. Keiskite planus arba atšaukite kada tik norite."
     },
     "btn_upgrade_month": {
-        "message": "Nuo 3 $/mėn"
+        "message": "Nuo ___price___/mėn."
     },
     "btn_upgrade_year": {
-        "message": "Nuo 27 $/metus"
+        "message": "Nuo ___price___/metams"
     },
     "msg_upgrade": {
-        "message": "Taupykite 25 % — mokėkite tik 27 $/metus, vietoj 36 $"
+        "message": "Gaukite 25 % nuolaidą — mokėkite tik ___sale___/metams vietoj ___price___"
     },
     "upgrade_fs_1": {
         "message": "Slapukų valdymas"
