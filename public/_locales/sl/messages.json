@@ -493,5 +493,17 @@
     },
     "page_import_description": {
         "message": "Uporabljate uvoz piškotkov prek deljene povezave."
+    },
+    "title_upgrade_no_ads": {
+        "message": "Odstrani oglase – Enkratno ___price___"
+    },
+    "description_upgrade_no_ads": {
+        "message": "Nikoli več oglasov. Plačaj enkrat, uživaj za vedno."
+    },
+    "str_convert_share_link": {
+        "message": "Želite to piškotko deliti z nekom?"
+    },
+    "cta_convert_share_link": {
+        "message": "Namesto tega deli prek povezave"
     }
 }

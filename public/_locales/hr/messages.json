@@ -493,5 +493,17 @@
     },
     "page_import_description": {
         "message": "Koristiš funkciju uvoza cookieja putem podijeljenog linka."
+    },
+    "title_upgrade_no_ads": {
+        "message": "Ukloni oglase – Jednokratno ___price___"
+    },
+    "description_upgrade_no_ads": {
+        "message": "Nikad više oglasa. Plati jednom, uživaj zauvijek."
+    },
+    "str_convert_share_link": {
+        "message": "Želite li podijeliti ovaj kolačić s nekim?"
+    },
+    "cta_convert_share_link": {
+        "message": "Podijeli putem poveznice umjesto toga"
     }
 }

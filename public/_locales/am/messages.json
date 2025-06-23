@@ -493,5 +493,17 @@
     },
     "page_import_description": {
         "message": "እርስዎ የኩኪ አገናኝ በጋራ አገናኝ በመጠቀም የማስገባት ባህሪን እየተጠቀሙ ነው።"
+    },
+    "title_upgrade_no_ads": {
+        "message": "ማስታወቂያዎችን ያስወግዱ – አንድ ጊዜ ___price___"
+    },
+    "description_upgrade_no_ads": {
+        "message": "ማስታወቂያ አልቀርም። አንዴ ክፍያ አድርጉ፣ ለዘላለም ደስ ይበላችሁ።"
+    },
+    "str_convert_share_link": {
+        "message": "ይህን ኩኪ ከአንድ ሰው ጋር መካፈል ትፈልጋለህ?"
+    },
+    "cta_convert_share_link": {
+        "message": "በአገናኝ እንዲሁ ካፍሉ"
     }
 }

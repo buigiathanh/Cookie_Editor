@@ -493,5 +493,17 @@
     },
     "page_import_description": {
         "message": "คุณกำลังใช้ฟีเจอร์นำเข้าคุกกี้ผ่านลิงก์ที่แชร์"
+    },
+    "title_upgrade_no_ads": {
+        "message": "ลบโฆษณา – ชำระครั้งเดียว ___price___"
+    },
+    "description_upgrade_no_ads": {
+        "message": "ไม่มีโฆษณาอีกต่อไป จ่ายครั้งเดียว สนุกได้ตลอดไป"
+    },
+    "str_convert_share_link": {
+        "message": "คุณต้องการแบ่งปันคุกกี้นี้กับใครบางคนไหม?"
+    },
+    "cta_convert_share_link": {
+        "message": "แชร์ผ่านลิงก์แทน"
     }
 }

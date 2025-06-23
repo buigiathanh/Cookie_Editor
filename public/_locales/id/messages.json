@@ -493,5 +493,17 @@
     },
     "page_import_description": {
         "message": "Anda menggunakan fitur impor cookie melalui tautan yang dibagikan."
+    },
+    "title_upgrade_no_ads": {
+        "message": "Hapus Iklan – Sekali Bayar ___price___"
+    },
+    "description_upgrade_no_ads": {
+        "message": "Tidak ada iklan lagi, selamanya. Bayar sekali, nikmati selamanya."
+    },
+    "str_convert_share_link": {
+        "message": "Ingin membagikan cookie ini dengan seseorang?"
+    },
+    "cta_convert_share_link": {
+        "message": "Bagikan lewat tautan sebagai gantinya"
     }
 }

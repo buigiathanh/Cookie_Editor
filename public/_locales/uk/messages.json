@@ -493,5 +493,17 @@
     },
     "page_import_description": {
         "message": "Ви використовуєте функцію імпорту cookie через спільне посилання."
+    },
+    "title_upgrade_no_ads": {
+        "message": "Видалити рекламу – Одноразово ___price___"
+    },
+    "description_upgrade_no_ads": {
+        "message": "Більше жодної реклами. Сплатіть один раз — насолоджуйтеся завжди."
+    },
+    "str_convert_share_link": {
+        "message": "Бажаєте поділитися цим cookie з кимось?"
+    },
+    "cta_convert_share_link": {
+        "message": "Натомість поділіться посиланням"
     }
 }

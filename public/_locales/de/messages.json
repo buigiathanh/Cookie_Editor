@@ -493,5 +493,17 @@
     },
     "page_import_description": {
         "message": "Du verwendest die Cookie-Importfunktion über einen geteilten Link."
+    },
+    "title_upgrade_no_ads": {
+        "message": "Werbung entfernen – Einmalig ___price___"
+    },
+    "description_upgrade_no_ads": {
+        "message": "Nie wieder Werbung. Einmal zahlen, für immer genießen."
+    },
+    "str_convert_share_link": {
+        "message": "Möchtest du dieses Cookie mit jemandem teilen?"
+    },
+    "cta_convert_share_link": {
+        "message": "Stattdessen per Link teilen"
     }
 }

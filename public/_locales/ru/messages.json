@@ -493,5 +493,17 @@
     },
     "page_import_description": {
         "message": "Вы используете функцию импорта cookie по общей ссылке."
+    },
+    "title_upgrade_no_ads": {
+        "message": "Удалить рекламу – Разовый платёж ___price___"
+    },
+    "description_upgrade_no_ads": {
+        "message": "Никакой рекламы больше никогда. Заплати один раз — наслаждайся вечно."
+    },
+    "str_convert_share_link": {
+        "message": "Хотите поделиться этим cookie с кем-то?"
+    },
+    "cta_convert_share_link": {
+        "message": "Вместо этого поделитесь по ссылке"
     }
 }

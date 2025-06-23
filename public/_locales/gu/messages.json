@@ -493,5 +493,17 @@
     },
     "page_import_description": {
         "message": "તમે શેર કરેલ લિંક દ્વારા કૂકીઝ આયાત કરી રહ્યાં છો."
+    },
+    "title_upgrade_no_ads": {
+        "message": "જાહેરાતો દૂર કરો – એક વખત ___price___"
+    },
+    "description_upgrade_no_ads": {
+        "message": "હવે પછી જાહેરાતો નહીં. એકવાર ચૂકવણી કરો, હંમેશા આનંદ માણો."
+    },
+    "str_convert_share_link": {
+        "message": "શું તમે આ કુકી કોઈ સાથે શેર કરવા માંગો છો?"
+    },
+    "cta_convert_share_link": {
+        "message": "બદલે લિંક દ્વારા શેર કરો"
     }
 }

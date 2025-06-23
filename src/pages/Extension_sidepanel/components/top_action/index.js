@@ -26,135 +26,105 @@ const TopAction = ({cookies, tab}) => {
                 {
                     cookies.length > 0 && (
                         <>
-                            <>
+                            <div className={`relative group`}>
                                 <div
                                     onClick={() => {
                                         confirmDialog.includes("copy") ? (settingStore.popup = "copy_cookie") : copyCookie(cookies)
                                     }}
-                                    data-tooltip-target="tooltip-copy"
-                                    data-tooltip-placement="bottom"
                                     className={`h-[30px] w-[30px] bg-[#3C3C3C] me-2 mb-2 last:mb-0 text-white rounded flex items-center cursor-pointer group hover:bg-white hover:text-gray-800`}>
                                     <IconCopy cname={`w-5 h-5 mx-auto my-[5px]`} />
                                 </div>
 
                                 <div
-                                    id="tooltip-copy"
-                                    role="tooltip"
-                                    className="absolute z-10 invisible inline-block px-3 py-2 text-xs font-medium text-white bg-gray-900 rounded-lg shadow-xs opacity-0 tooltip">
+                                    className="absolute top-[35px] left-1/2 translate-x-[-50%] z-10 hidden group-hover:block px-3 py-2 text-xs text-white bg-gray-900 rounded-lg shadow-xs">
                                     {extension.getLang("btn_copy")}
-                                    <div className="tooltip-arrow" data-popper-arrow></div>
                                 </div>
-                            </>
+                            </div>
 
-                            <>
+                            <div className={`relative group`}>
                                 <div
                                     onClick={() => settingStore.popup = "export_cookie"}
-                                    data-tooltip-target="tooltip-export"
-                                    data-tooltip-placement="bottom"
                                     className={`h-[30px] w-[30px] bg-[#3C3C3C] me-2 mb-2 last:mb-0 text-white rounded flex items-center cursor-pointer group hover:bg-white hover:text-gray-800`}>
                                     <IconExport cname={"w-5 h-5 mx-auto my-[5px]"} />
                                 </div>
 
                                 <div
-                                    id="tooltip-export"
-                                    role="tooltip"
-                                    className="absolute z-10 invisible inline-block px-3 py-2 text-xs font-medium text-white bg-gray-900 rounded-lg shadow-xs opacity-0 tooltip">
+                                    className="absolute top-[35px] left-1/2 translate-x-[-50%] z-10 hidden group-hover:block px-3 py-2 text-xs text-white bg-gray-900 rounded-lg shadow-xs">
                                     {extension.getLang("sidebar_export")}
-                                    <div className="tooltip-arrow" data-popper-arrow></div>
                                 </div>
-                            </>
+                            </div>
                         </>
                     )
                 }
 
                 {
                     tab?.url.startsWith("http") && (
-                        <>
+                        <div className={`relative group`}>
                             <div
                                 onClick={() => settingStore.popup = "import_cookie"}
-                                data-tooltip-target="tooltip-import"
-                                data-tooltip-placement="bottom"
                                 className={`h-[30px] w-[30px] bg-[#3C3C3C] me-2 mb-2 last:mb-0 text-white rounded flex items-center cursor-pointer group hover:bg-white hover:text-gray-800`}>
                                 <IconImport cname={"w-5 h-5 mx-auto my-[5px]"} />
                             </div>
 
                             <div
-                                id="tooltip-import"
-                                role="tooltip"
-                                className="absolute z-10 invisible inline-block px-3 py-2 text-xs font-medium text-white bg-gray-900 rounded-lg shadow-xs opacity-0 tooltip">
+                                className="absolute top-[35px] left-1/2 translate-x-[-50%] z-10 hidden group-hover:block px-3 py-2 text-xs text-white bg-gray-900 rounded-lg shadow-xs">
                                 {extension.getLang("sidebar_import")}
-                                <div className="tooltip-arrow" data-popper-arrow></div>
                             </div>
-                        </>
+                        </div>
                     )
                 }
 
                 {
                     cookies.length > 0 && (
-                        <>
+                        <div className={`relative group`}>
                             <div
                                 onClick={() =>  settingStore.popup = (accountStore.account?.email ? "share_cookie" : "remind_login")}
-                                data-tooltip-target="tooltip-share"
-                                data-tooltip-placement="bottom"
                                 className={`h-[30px] w-[30px] bg-[#3C3C3C] me-2 mb-2 last:mb-0 text-white rounded flex items-center cursor-pointer group hover:bg-white hover:text-gray-800`}>
                                 <IconShare cname={`w-5 h-5 mx-auto my-[5px]`} />
                             </div>
 
                             <div
-                                id="tooltip-share"
-                                role="tooltip"
-                                className="absolute z-10 invisible inline-block px-3 py-2 text-xs font-medium text-white bg-gray-900 rounded-lg shadow-xs opacity-0 tooltip">
+                                className="absolute top-[35px] left-1/2 translate-x-[-50%] z-10 hidden group-hover:block px-3 py-2 text-xs text-white bg-gray-900 rounded-lg shadow-xs">
                                 {extension.getLang("tooltip_top_action_share")}
-                                <div className="tooltip-arrow" data-popper-arrow></div>
                             </div>
-                        </>
+                        </div>
                     )
                 }
 
 
                 {
                     tab?.url.startsWith("http") && (
-                        <>
+                        <div className={`relative group`}>
                             <div
                                 onClick={() => settingStore.popup = "add_cookie"}
-                                data-tooltip-target="tooltip-add"
-                                data-tooltip-placement="bottom"
                                 className={`h-[30px] w-[30px] bg-[#3C3C3C] me-2 mb-2 last:mb-0 text-white rounded flex items-center cursor-pointer group hover:bg-white hover:text-gray-800`}>
                                 <IconAdd cname={`w-5 h-5 mx-auto my-[5px]`} />
                             </div>
 
                             <div
-                                id="tooltip-add"
-                                role="tooltip"
-                                className="absolute z-10 invisible inline-block px-3 py-2 text-xs font-medium text-white bg-gray-900 rounded-lg shadow-xs opacity-0 tooltip">
+                                className="absolute top-[35px] left-1/2 translate-x-[-50%] z-10 hidden group-hover:block px-3 py-2 text-xs text-white bg-gray-900 rounded-lg shadow-xs">
                                 {extension.getLang("btn_add")}
-                                <div className="tooltip-arrow" data-popper-arrow></div>
                             </div>
-                        </>
+                        </div>
                     )
                 }
 
                 {
                     cookies.length > 0 && (
-                        <>
+                        <div className={`relative group`}>
                             <div
                                 onClick={() => {
                                     confirmDialog.includes("delete_all") ? (settingStore.popup = "delete_all_cookie") : clearCookie(cookies)
                                 }}
-                                data-tooltip-target="tooltip-delete"
-                                data-tooltip-placement="bottom"
                                 className={`h-[30px] w-[30px] bg-[#3C3C3C] me-2 mb-2 last:mb-0 text-white rounded flex items-center cursor-pointer group hover:bg-white hover:text-gray-800`}>
                                 <IconDelete cname={`w-5 h-5 mx-auto my-[5px]`} />
                             </div>
 
                             <div
-                                id="tooltip-delete"
-                                role="tooltip"
-                                className="absolute z-10 invisible inline-block px-3 py-2 text-xs font-medium text-white bg-gray-900 rounded-lg shadow-xs opacity-0 tooltip">
+                                className="absolute top-[35px] left-1/2 translate-x-[-50%] z-10 hidden group-hover:block px-3 py-2 text-xs text-white bg-gray-900 rounded-lg shadow-xs whitespace-nowrap">
                                 {extension.getLang("btn_remove")}
-                                <div className="tooltip-arrow" data-popper-arrow></div>
                             </div>
-                        </>
+                        </div>
                     )
                 }
             </div>

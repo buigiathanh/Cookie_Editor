@@ -493,5 +493,17 @@
     },
     "page_import_description": {
         "message": "Käytät evästeiden tuontitoimintoa jaettua linkkiä käyttäen."
+    },
+    "title_upgrade_no_ads": {
+        "message": "Poista mainokset – Kertamaksu ___price___"
+    },
+    "description_upgrade_no_ads": {
+        "message": "Ei enää mainoksia koskaan. Maksa kerran, nauti ikuisesti."
+    },
+    "str_convert_share_link": {
+        "message": "Haluatko jakaa tämän evästeen jonkun kanssa?"
+    },
+    "cta_convert_share_link": {
+        "message": "Jaa linkin kautta sen sijaan"
     }
 }

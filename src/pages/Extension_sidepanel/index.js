@@ -22,9 +22,11 @@ import PopupDetailCookie from "./components/popup/detail_cookie";
 import Loading from "./components/loading";
 
 const ExtensionSidePanel = () => {
+    const isSet = settingStore.load_data_setting;
     const lastDayActive = settingStore.day_active;
-    const countDayActive = settingStore.count_day_active;
+    const countDayActive = Number(settingStore.count_day_active);
     const autoShowPopupFeatureSuggest = settingStore.auto_show_popup_feature_suggest;
+    const autoShowPopupUpgrade = settingStore.auto_show_popup_upgrade;
 
 
     useEffect(() => {
@@ -62,19 +64,26 @@ const ExtensionSidePanel = () => {
     }, [])
 
     useEffect(() => {
-        const today = new Date().toDateString();
-        if (Number(countDayActive) >= 3 && autoShowPopupFeatureSuggest !== "true") {
-            settingStore.tab = "home";
-            settingStore.popup = "feature_suggest";
-            settingStore.setAutoShowPopupFeatureSuggest("true")
-        }
+        if (isSet) {
+            const today = new Date().toDateString();
+            if (countDayActive >= 3 && autoShowPopupFeatureSuggest !== "true") {
+                settingStore.popup = "feature_suggest";
+                settingStore.setAutoShowPopupFeatureSuggest("true")
+            }
 
-        if (!lastDayActive || lastDayActive !== today) {
-            googleAnalytics({name: "account_active", params: []});
-            settingStore.setDayActive(today)
-            settingStore.setCountDayActive(String(Number(countDayActive) + 1))
+            if (countDayActive >= 5 && autoShowPopupUpgrade !== "true") {
+                settingStore.popup = "upgrade";
+                settingStore.setAutoShowPopupUpgrade("true")
+            }
+
+
+            if (!lastDayActive || lastDayActive !== today) {
+                googleAnalytics({name: "account_active", params: []});
+                settingStore.setDayActive(today)
+                settingStore.setCountDayActive(String(countDayActive + 1))
+            }
         }
-    }, [lastDayActive, countDayActive, autoShowPopupFeatureSuggest])
+    }, [isSet, lastDayActive, countDayActive, autoShowPopupFeatureSuggest, autoShowPopupUpgrade])
 
     useEffect(() => {
         chrome.runtime.onMessageExternal.addListener((request, sender, sendResponse) => {

@@ -493,5 +493,17 @@
     },
     "page_import_description": {
         "message": "Du använder funktionen för att importera cookies via delad länk."
+    },
+    "title_upgrade_no_ads": {
+        "message": "Ta bort annonser – Engångsavgift ___price___"
+    },
+    "description_upgrade_no_ads": {
+        "message": "Inga fler annonser någonsin. Betala en gång, njut för alltid."
+    },
+    "str_convert_share_link": {
+        "message": "Vill du dela denna cookie med någon?"
+    },
+    "cta_convert_share_link": {
+        "message": "Dela via länk istället"
     }
 }

@@ -493,5 +493,17 @@
     },
     "page_import_description": {
         "message": "A süti importálás funkciót használod, megosztott linkkel."
+    },
+    "title_upgrade_no_ads": {
+        "message": "Hirdetések eltávolítása – Egyszeri ___price___"
+    },
+    "description_upgrade_no_ads": {
+        "message": "Soha többé reklám. Fizess egyszer, élvezd örökre."
+    },
+    "str_convert_share_link": {
+        "message": "Szeretnéd megosztani ezt a sütit valakivel?"
+    },
+    "cta_convert_share_link": {
+        "message": "Ossza meg inkább linken keresztül"
     }
 }

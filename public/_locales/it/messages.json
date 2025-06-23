@@ -493,5 +493,17 @@
     },
     "page_import_description": {
         "message": "Stai utilizzando la funzione di importazione dei cookie tramite link condiviso."
+    },
+    "title_upgrade_no_ads": {
+        "message": "Rimuovi annunci – Pagamento una tantum di ___price___"
+    },
+    "description_upgrade_no_ads": {
+        "message": "Mai più annunci. Paga una volta, goditi per sempre."
+    },
+    "str_convert_share_link": {
+        "message": "Vuoi condividere questo cookie con qualcuno?"
+    },
+    "cta_convert_share_link": {
+        "message": "Condividi tramite link invece"
     }
 }

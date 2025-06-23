@@ -493,5 +493,17 @@
     },
     "page_import_description": {
         "message": "Você está usando o recurso de importação de cookies via link compartilhado."
+    },
+    "title_upgrade_no_ads": {
+        "message": "Remover anúncios – Pagamento único de ___price___"
+    },
+    "description_upgrade_no_ads": {
+        "message": "Nunca mais anúncios. Pague uma vez, aproveite para sempre."
+    },
+    "str_convert_share_link": {
+        "message": "Quer compartilhar este cookie com alguém?"
+    },
+    "cta_convert_share_link": {
+        "message": "Compartilhar via link em vez disso"
     }
 }

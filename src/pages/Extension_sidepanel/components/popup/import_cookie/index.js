@@ -86,8 +86,8 @@ const ImportCookie = () => {
 
     const handleImportCookieNetscape = async (cookies) => {
         for (let i = 0; i < cookies.length; i++) {
-            if (cookies[i] !== "") {
-                let cookieArray = cookies[i].split(` `).filter(item => item !== "");
+            if (cookies[i] !== "" && !cookies[i].startsWith("#")) {
+                let cookieArray = cookies[i].replaceAll(`\t`, " ").split(` `).filter(item => item !== "");
                 const dataUpdate = {
                     httpOnly: cookieArray[0].startsWith("#HttpOnly"),
                     expirationDate: cookieArray[4] * 1000,
@@ -168,6 +168,7 @@ const ImportCookie = () => {
             googleAnalytics({name: "import_cookie", params: []});
             settingStore.popup = "";
         } catch (e) {
+            console.log("import error", e)
             settingStore.popup = "";
             settingStore.alert = {type: "error", message: extension.getLang("alert_import_cookie_error")}
         }

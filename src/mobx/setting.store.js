@@ -6,6 +6,7 @@ class SettingStore {
         makeAutoObservable(this);
     }
 
+    load_data_setting = false;
     show_ads = false;
     loading = false;
     display_cookie = "default";
@@ -35,6 +36,7 @@ class SettingStore {
     day_active = "";
     count_day_active = "0";
     auto_show_popup_feature_suggest = "";
+    auto_show_popup_upgrade = "";
     cookie_select = {};
     tab = "home";
     popup = "";
@@ -90,12 +92,20 @@ class SettingStore {
                 key: "auto_show_popup_feature_suggest",
                 type: "string"
             },
+            {
+                key: "auto_show_popup_upgrade",
+                type: "string"
+            },
         ]
 
         for (let i = 0; i < keys.length; i++) {
             const item = localStorage.getItem(keys[i].key);
             if (item) {
-                settingStore[keys[i].key] = keys[i].type === "string" ? item : JSON.parse(item)
+                this[keys[i].key] = keys[i].type === "string" ? item : JSON.parse(item)
+            }
+
+            if (i === keys.length - 1) {
+                this.load_data_setting = true;
             }
         }
     }
@@ -153,6 +163,11 @@ class SettingStore {
     setAutoShowPopupFeatureSuggest(value) {
         this.auto_show_popup_feature_suggest = value;
         localStorage.setItem("auto_show_popup_feature_suggest", value)
+    }
+
+    setAutoShowPopupUpgrade(value) {
+        this.auto_show_popup_upgrade = value;
+        localStorage.setItem("auto_show_popup_upgrade", value)
     }
 }
 

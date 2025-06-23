@@ -493,5 +493,17 @@
     },
     "page_import_description": {
         "message": "আপনি একটি শেয়ার্ড লিঙ্কের মাধ্যমে কুকি ইমপোর্ট ফিচার ব্যবহার করছেন।"
+    },
+    "title_upgrade_no_ads": {
+        "message": "বিজ্ঞাপন সরান – একবারেই ___price___"
+    },
+    "description_upgrade_no_ads": {
+        "message": "আর কোনো বিজ্ঞাপন নয়। একবার অর্থ দিন, আজীবন উপভোগ করুন।"
+    },
+    "str_convert_share_link": {
+        "message": "এই কুকিটি কারও সাথে শেয়ার করতে চান?"
+    },
+    "cta_convert_share_link": {
+        "message": "এর পরিবর্তে লিঙ্কের মাধ্যমে শেয়ার করুন"
     }
 }

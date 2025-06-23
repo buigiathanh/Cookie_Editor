@@ -493,5 +493,17 @@
     },
     "page_import_description": {
         "message": "Folosești funcția de import pentru cookie‑uri prin link partajat."
+    },
+    "title_upgrade_no_ads": {
+        "message": "Elimină reclamele – O singură dată ___price___"
+    },
+    "description_upgrade_no_ads": {
+        "message": "Fără reclame, niciodată. Plătește o dată, bucură-te pentru totdeauna."
+    },
+    "str_convert_share_link": {
+        "message": "Vrei să împărtășești acest cookie cu cineva?"
+    },
+    "cta_convert_share_link": {
+        "message": "Partajează prin link în schimb"
     }
 }

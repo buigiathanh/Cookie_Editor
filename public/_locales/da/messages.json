@@ -493,5 +493,17 @@
     },
     "page_import_description": {
         "message": "Du bruger cookie-importfunktionen via et delt link."
+    },
+    "title_upgrade_no_ads": {
+        "message": "Fjern annoncer – Én gang ___price___"
+    },
+    "description_upgrade_no_ads": {
+        "message": "Ingen flere annoncer nogensinde. Betal én gang, nyd det for evigt."
+    },
+    "str_convert_share_link": {
+        "message": "Vil du dele denne cookie med nogen?"
+    },
+    "cta_convert_share_link": {
+        "message": "Del via link i stedet"
     }
 }

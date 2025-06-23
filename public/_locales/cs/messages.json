@@ -493,5 +493,17 @@
     },
     "page_import_description": {
         "message": "Estás utilizando la función de importación de cookies mediante un enlace compartido."
+    },
+    "title_upgrade_no_ads": {
+        "message": "Odstranit reklamy – Jednorázově ___price___"
+    },
+    "description_upgrade_no_ads": {
+        "message": "Už žádné reklamy. Zaplaťte jednou, užívejte navždy."
+    },
+    "str_convert_share_link": {
+        "message": "Chcete tento cookie sdílet s někým?"
+    },
+    "cta_convert_share_link": {
+        "message": "Sdílejte raději prostřednictvím odkazu"
     }
 }

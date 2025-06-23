@@ -493,5 +493,17 @@
     },
     "page_import_description": {
         "message": "Користите функцију увоза cookie-ја преко деле нав линка."
+    },
+    "title_upgrade_no_ads": {
+        "message": "Уклони рекламе – Једнократно ___price___"
+    },
+    "description_upgrade_no_ads": {
+        "message": "Никада више реклама. Плати једном, уживај заувек."
+    },
+    "str_convert_share_link": {
+        "message": "Желиш да поделиш овај колачић са неким?"
+    },
+    "cta_convert_share_link": {
+        "message": "Подели преко линка уместо тога"
     }
 }

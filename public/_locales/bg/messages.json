@@ -493,5 +493,17 @@
     },
     "page_import_description": {
         "message": "Използвате функцията за импортиране на бисквитки чрез споделена връзка."
+    },
+    "title_upgrade_no_ads": {
+        "message": "Премахване на реклами – еднократно ___price___"
+    },
+    "description_upgrade_no_ads": {
+        "message": "Повече никакви реклами. Плати веднъж, наслаждавай се завинаги."
+    },
+    "str_convert_share_link": {
+        "message": "Искате ли да споделите тази бисквитка с някого?"
+    },
+    "cta_convert_share_link": {
+        "message": "Споделете чрез връзка вместо това"
     }
 }

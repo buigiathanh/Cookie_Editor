@@ -493,5 +493,17 @@
     },
     "page_import_description": {
         "message": "Bạn đang sử dụng tính năng nhập cookie qua liên kết chia sẻ."
+    },
+    "title_upgrade_no_ads": {
+        "message": "Xóa quảng cáo – Thanh toán một lần ___price___"
+    },
+    "description_upgrade_no_ads": {
+        "message": "Không còn quảng cáo nữa. Trả một lần, dùng mãi mãi."
+    },
+    "str_convert_share_link": {
+        "message": "Bạn muốn chia sẻ cookie này với ai đó không?"
+    },
+    "cta_convert_share_link": {
+        "message": "Chia sẻ bằng liên kết thay thế"
     }
 }

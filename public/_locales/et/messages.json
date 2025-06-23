@@ -493,5 +493,17 @@
     },
     "page_import_description": {
         "message": "Kasutad küpsiste importimise funktsiooni jagatud lingi kaudu."
+    },
+    "title_upgrade_no_ads": {
+        "message": "Eemalda reklaamid – Ühekordne ___price___"
+    },
+    "description_upgrade_no_ads": {
+        "message": "Rohkem reklaame ei tule. Maksa korra, naudi igavesti."
+    },
+    "str_convert_share_link": {
+        "message": "Kas soovid seda küpsist kellegagi jagada?"
+    },
+    "cta_convert_share_link": {
+        "message": "Jaga selle asemel lingi kaudu"
     }
 }

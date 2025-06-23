@@ -493,5 +493,17 @@
     },
     "page_import_description": {
         "message": "Je gebruikt de functie voor cookie-import via gedeelde link."
+    },
+    "title_upgrade_no_ads": {
+        "message": "Advertenties verwijderen – Eenmalig ___price___"
+    },
+    "description_upgrade_no_ads": {
+        "message": "Nooit meer advertenties. Betaal één keer, geniet voor altijd."
+    },
+    "str_convert_share_link": {
+        "message": "Wil je dit cookie met iemand delen?"
+    },
+    "cta_convert_share_link": {
+        "message": "Deel in plaats daarvan via een link"
     }
 }

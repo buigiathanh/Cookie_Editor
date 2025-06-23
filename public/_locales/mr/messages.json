@@ -493,5 +493,17 @@
     },
     "page_import_description": {
         "message": "आपण शेअर केलेल्या लिंकद्वारे कुकी आयात साधन वापरत आहात."
+    },
+    "title_upgrade_no_ads": {
+        "message": "जाहिराती काढा – एकदाच ___price___"
+    },
+    "description_upgrade_no_ads": {
+        "message": "आता आणखी जाहिराती नाहीत. एकदाच पैसे द्या, कायमचा आनंद घ्या."
+    },
+    "str_convert_share_link": {
+        "message": "ही कुकी कोणासोबत शेअर करायची आहे का?"
+    },
+    "cta_convert_share_link": {
+        "message": "त्याऐवजी लिंकद्वारे शेअर करा"
     }
 }

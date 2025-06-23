@@ -493,5 +493,17 @@
     },
     "page_import_description": {
         "message": "आप साझा किए गए लिंक के माध्यम से कुकी आयात सुविधा का उपयोग कर रहे हैं।"
+    },
+    "title_upgrade_no_ads": {
+        "message": "विज्ञापन हटाएँ – एक बार ___price___"
+    },
+    "description_upgrade_no_ads": {
+        "message": "अब कभी कोई विज्ञापन नहीं। एक बार भुगतान करें, हमेशा के लिए आनंद लें।"
+    },
+    "str_convert_share_link": {
+        "message": "क्या आप इस कुकी को किसी के साथ साझा करना चाहते हैं?"
+    },
+    "cta_convert_share_link": {
+        "message": "इसके बजाय लिंक के माध्यम से साझा करें"
     }
 }

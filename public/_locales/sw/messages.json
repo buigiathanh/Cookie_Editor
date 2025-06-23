@@ -493,5 +493,17 @@
     },
     "page_import_description": {
         "message": "Unatumia kipengele cha kuagiza cookie kupitia kiungo kilichoshirikiwa."
+    },
+    "title_upgrade_no_ads": {
+        "message": "Ondoa Matangazo – Mara Moja ___price___"
+    },
+    "description_upgrade_no_ads": {
+        "message": "Hakuna matangazo tena. Lipa mara moja, furahia milele."
+    },
+    "str_convert_share_link": {
+        "message": "Unataka kushiriki cookie hii na mtu mwingine?"
+    },
+    "cta_convert_share_link": {
+        "message": "Shiriki kupitia kiungo badala yake"
     }
 }

@@ -493,5 +493,17 @@
     },
     "page_import_description": {
         "message": "你正透過分享連結使用 Cookie 匯入功能。"
+    },
+    "title_upgrade_no_ads": {
+        "message": "移除廣告 – 一次性付款 ___price___"
+    },
+    "description_upgrade_no_ads": {
+        "message": "再也沒有廣告了。一次付費，永久享受。"
+    },
+    "str_convert_share_link": {
+        "message": "想要和別人分享這個 Cookie 嗎？"
+    },
+    "cta_convert_share_link": {
+        "message": "改為透過連結分享"
     }
 }

@@ -493,5 +493,17 @@
     },
     "page_import_description": {
         "message": "Jūs naudojate slapuko importo funkciją per bendrinamą nuorodą."
+    },
+    "title_upgrade_no_ads": {
+        "message": "Pašalinti skelbimus – Vienkartinis ___price___"
+    },
+    "description_upgrade_no_ads": {
+        "message": "okių reklamų daugiau. Sumokėkite kartą, mėgaukitės visada."
+    },
+    "str_convert_share_link": {
+        "message": "Norite pasidalyti šiuo slapuku su kuo nors?"
+    },
+    "cta_convert_share_link": {
+        "message": "Dalinkitės nuoroda"
     }
 }

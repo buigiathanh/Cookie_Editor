@@ -493,5 +493,17 @@
     },
     "page_import_description": {
         "message": "Používate import cookie cez zdieľaný odkaz."
+    },
+    "title_upgrade_no_ads": {
+        "message": "Odstrániť reklamy – Jednorazovo ___price___"
+    },
+    "description_upgrade_no_ads": {
+        "message": "Už nikdy žiadne reklamy. Zaplať raz, užívaj navždy."
+    },
+    "str_convert_share_link": {
+        "message": "Chcete zdieľať tento cookie s niekým?"
+    },
+    "cta_convert_share_link": {
+        "message": "Zdieľajte radšej cez odkaz"
     }
 }

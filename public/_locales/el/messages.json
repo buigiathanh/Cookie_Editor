@@ -493,5 +493,17 @@
     },
     "page_import_description": {
         "message": "Χρησιμοποιείτε τη λειτουργία εισαγωγής cookie μέσω κοινοποιημένου συνδέσμου."
+    },
+    "title_upgrade_no_ads": {
+        "message": "Κατάργηση διαφημίσεων – Εφάπαξ ___price___"
+    },
+    "description_upgrade_no_ads": {
+        "message": "Τέλος οι διαφημίσεις για πάντα. Πλήρωσε μία φορά, απόλαυσε για πάντα."
+    },
+    "str_convert_share_link": {
+        "message": "Θέλεις να μοιραστείς αυτό το cookie με κάποιον;"
+    },
+    "cta_convert_share_link": {
+        "message": "Κοινοποιήστε μέσω συνδέσμου"
     }
 }

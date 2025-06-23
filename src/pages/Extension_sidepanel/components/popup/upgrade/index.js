@@ -38,7 +38,7 @@ const Upgrade = () => {
                             className={`fixed top-0 left-0 p-[10px]`}
                             style={{zIndex: 50, width: "calc(100% - 50px)"}}
                         >
-                            <div className={`bg-white rounded-[10px] p-5`}>
+                            <div className={`bg-white rounded-[10px] p-5 mb-2`}>
                                 <div className={`w-full text-center`}>
                                     <h2 className={`text-xl font-bold tracking-tight text-gray-900 mb-5 uppercase`}>
                                         {extension.getLang("title_upgrade")}
@@ -90,7 +90,7 @@ const Upgrade = () => {
                                     </p>
                                 </div>
 
-                                <ul role="list" className="my-7 space-y-3 text-xs leading-6 text-gray-600">
+                                <ul role="list" className="my-7 space-y-2 text-xs leading-6 text-gray-600">
                                     <li className="flex gap-x-3">
                                         <CheckedIcon cname={"h-6 w-5 flex-none text-blue-600"}/>
                                         {extension.getLang("upgrade_fs_1")}
@@ -113,6 +113,24 @@ const Upgrade = () => {
                                     </li>
                                 </ul>
                             </div>
+                            {
+                                (Object.keys(accountStore.account).length === 0 || accountStore.account.account_type === 1) && (
+                                    <div className={`bg-white rounded-[10px] p-5`}>
+                                        <p className={`text-gray-800 font-bold text-sm`}>
+                                            {extension.getLang("title_upgrade_no_ads").replaceAll("___price___", "$1")}
+                                        </p>
+                                        <p className={`text-gray-800 text-xs`}>
+                                            {extension.getLang("description_upgrade_no_ads")}
+                                        </p>
+
+                                        <button
+                                            onClick={() => handleUpgrade("no-ads")}
+                                            className={`w-full text-xs py-2.5 border-1 mt-2 border-blue-600 bg-blue-600 rounded-lg text-white hover:bg-blue-700 cursor-pointer`}>
+                                            {extension.getLang("title_upgrade_no_ads").replaceAll("___price___", "$1")}
+                                        </button>
+                                    </div>
+                                )
+                            }
                         </motion.div>
                     </>
                 )

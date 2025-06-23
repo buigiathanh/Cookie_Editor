@@ -493,5 +493,17 @@
     },
     "page_import_description": {
         "message": "共有リンク経由でクッキーのインポート機能を使用しています。"
+    },
+    "title_upgrade_no_ads": {
+        "message": "広告を削除 – 1回限りの___price___"
+    },
+    "description_upgrade_no_ads": {
+        "message": "もう広告は表示されません。一度支払えば、ずっと楽しめます。"
+    },
+    "str_convert_share_link": {
+        "message": "このクッキーを誰かと共有しますか？"
+    },
+    "cta_convert_share_link": {
+        "message": "代わりにリンクで共有する"
     }
 }

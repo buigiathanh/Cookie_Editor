@@ -493,5 +493,17 @@
     },
     "page_import_description": {
         "message": "Estàs utilitzant la funció d’importació de cookies mitjançant un enllaç compartit."
+    },
+    "title_upgrade_no_ads": {
+        "message": "Elimina els anuncis – Pagament únic de ___price___"
+    },
+    "description_upgrade_no_ads": {
+        "message": "Mai més anuncis. Paga una vegada, gaudeix per sempre."
+    },
+    "str_convert_share_link": {
+        "message": "Vols compartir aquesta galeta amb algú?"
+    },
+    "cta_convert_share_link": {
+        "message": "Comparteix mitjançant un enllaç"
     }
 }

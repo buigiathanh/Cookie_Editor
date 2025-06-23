@@ -493,5 +493,17 @@
     },
     "page_import_description": {
         "message": "Paylaşılan bağlantı aracılığıyla çerez içe aktarma özelliğini kullanıyorsunuz."
+    },
+    "title_upgrade_no_ads": {
+        "message": "Reklamları Kaldır – Tek Seferlik ___price___"
+    },
+    "description_upgrade_no_ads": {
+        "message": "Artık reklam yok. Bir kere öde, sonsuza kadar keyfini çıkar."
+    },
+    "str_convert_share_link": {
+        "message": "Bu çerezi biriyle paylaşmak ister misiniz?"
+    },
+    "cta_convert_share_link": {
+        "message": "Bunun yerine bağlantı ile paylaş"
     }
 }
