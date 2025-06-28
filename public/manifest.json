@@ -17,7 +17,7 @@
         }
     },
     "manifest_version": 3,
-    "version": "1.0.2.1",
+    "version": "1.0.2.2",
     "default_locale": "en",
     "host_permissions": [
         "https://*/*",
