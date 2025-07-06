@@ -92,7 +92,7 @@
     "import_setting_format": {
         "message": "Varsayılan içe aktarma seçeneği"
     },
-    "import_settomg_format_text": {
+    "import_setting_format_text": {
         "message": "Metin kullan"
     },
     "import_setting_format_file": {
@@ -505,5 +505,35 @@
     },
     "cta_convert_share_link": {
         "message": "Bunun yerine bağlantı ile paylaş"
+    },
+    "message_copy_link_success": {
+        "message": "Bağlantı başarıyla kopyalandı"
+    },
+    "message_copy_link_error": {
+        "message": "Bağlantı kopyalanamadı"
+    },
+    "setting_title": {
+        "message": "TEMEL AYARLAR"
+    },
+    "setting_description": {
+        "message": "Eklentinin sizin için nasıl çalışacağını özelleştirin"
+    },
+    "setting_confirm_dialog": {
+        "message": "ONAY DİYALOĞU"
+    },
+    "setting_confirm_dialog_description": {
+        "message": "Eklentiyi kullanırken onay diyaloğu göster"
+    },
+    "setting_dialog_copy": {
+        "message": "Mevcut çerezleri kopyalarken onay diyaloğu göster"
+    },
+    "setting_dialog_delete": {
+        "message": "Mevcut çerezleri silerken onay diyaloğu göster"
+    },
+    "setting_dialog_delete_all": {
+        "message": "Tüm mevcut çerezleri silerken onay diyaloğu göster"
+    },
+    "setting_enable_context_menus": {
+        "message": "Bağlam menüsü seçenekleri"
     }
 }

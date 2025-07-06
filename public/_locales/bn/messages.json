@@ -92,7 +92,7 @@
     "import_setting_format": {
         "message": "ডিফল্ট আমদানি অপশন"
     },
-    "import_settomg_format_text": {
+    "import_setting_format_text": {
         "message": "টেক্সট ব্যবহার করুন"
     },
     "import_setting_format_file": {
@@ -505,5 +505,35 @@
     },
     "cta_convert_share_link": {
         "message": "এর পরিবর্তে লিঙ্কের মাধ্যমে শেয়ার করুন"
+    },
+    "message_copy_link_success": {
+        "message": "লিংক সফলভাবে কপি হয়েছে"
+    },
+    "message_copy_link_error": {
+        "message": "লিংক কপি করতে ব্যর্থ হয়েছে"
+    },
+    "setting_title": {
+        "message": "সাধারণ সেটিংস"
+    },
+    "setting_description": {
+        "message": "এক্সটেনশনটি কীভাবে কাজ করবে তা কাস্টমাইজ করুন।"
+    },
+    "setting_confirm_dialog": {
+        "message": "নিশ্চিতকরণ ডায়ালগ"
+    },
+    "setting_confirm_dialog_description": {
+        "message": "এক্সটেনশন ব্যবহারের সময় নিশ্চিতকরণ ডায়ালগ সেট করুন"
+    },
+    "setting_dialog_copy": {
+        "message": "বর্তমান কুকিগুলি কপি করার সময় একটি নিশ্চিতকরণ ডায়ালগ দেখান"
+    },
+    "setting_dialog_delete": {
+        "message": "বর্তমান কুকিগুলি মুছে ফেলার সময় একটি নিশ্চিতকরণ ডায়ালগ দেখান"
+    },
+    "setting_dialog_delete_all": {
+        "message": "সমস্ত বর্তমান কুকিগুলি মুছে ফেলার সময় একটি নিশ্চিতকরণ ডায়ালগ দেখান"
+    },
+    "setting_enable_context_menus": {
+        "message": "প্রাসঙ্গিক মেনু বিকল্পগুলি"
     }
 }

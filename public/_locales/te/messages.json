@@ -92,7 +92,7 @@
     "import_setting_format": {
         "message": "డిఫాల్ట్ దిగుమతి ఎంపిక"
     },
-    "import_settomg_format_text": {
+    "import_setting_format_text": {
         "message": "టెక్స్ట్ ఉపయోగించండి"
     },
     "import_setting_format_file": {
@@ -505,5 +505,35 @@
     },
     "cta_convert_share_link": {
         "message": "దీని బదులు లింక్ ద్వారా షేర్ చేయండి"
+    },
+    "message_copy_link_success": {
+        "message": "లింక్ విజయవంతంగా కాపీ అయ్యింది"
+    },
+    "message_copy_link_error": {
+        "message": "లింక్ కాపీ చేయడంలో విఫలమైంది"
+    },
+    "setting_title": {
+        "message": "ప్రాథమిక సెట్టింగ్లు"
+    },
+    "setting_description": {
+        "message": "మీ కోసం ఎక్స్టెన్షన్ ఎలా పనిచేస్తుందో కస్టమైజ్ చేయండి"
+    },
+    "setting_confirm_dialog": {
+        "message": "నిర్ధారణ డైలాగ్"
+    },
+    "setting_confirm_dialog_description": {
+        "message": "ఎక్స్టెన్షన్ ఉపయోగించేటప్పుడు నిర్ధారణ డైలాగ్ సెట్ చేయండి"
+    },
+    "setting_dialog_copy": {
+        "message": "ప్రస్తుత కుక్కీలను కాపీ చేసేటప్పుడు నిర్ధారణ డైలాగ్ చూపించు"
+    },
+    "setting_dialog_delete": {
+        "message": "ప్రస్తుత కుక్కీలను తొలగించేటప్పుడు నిర్ధారణ డైలాగ్ చూపించు"
+    },
+    "setting_dialog_delete_all": {
+        "message": "అన్ని ప్రస్తుత కుక్కీలను తొలగించేటప్పుడు నిర్ధారణ డైలాగ్ చూపించు"
+    },
+    "setting_enable_context_menus": {
+        "message": "కాంటెక్స్ట్ మెనూ ఎంపికలు"
     }
 }

@@ -92,7 +92,7 @@
     "import_setting_format": {
         "message": "Domyślna opcja importu"
     },
-    "import_settomg_format_text": {
+    "import_setting_format_text": {
         "message": "Użyj tekstu"
     },
     "import_setting_format_file": {
@@ -505,5 +505,35 @@
     },
     "cta_convert_share_link": {
         "message": "Udostępnij zamiast tego przez link"
+    },
+    "message_copy_link_success": {
+        "message": "Link został skopiowany pomyślnie"
+    },
+    "message_copy_link_error": {
+        "message": "Nie udało się skopiować linku"
+    },
+    "setting_title": {
+        "message": "USTAWIENIA PODSTAWOWE"
+    },
+    "setting_description": {
+        "message": "Dostosuj działanie rozszerzenia do swoich potrzeb"
+    },
+    "setting_confirm_dialog": {
+        "message": "OKNO POTWIERDZENIA"
+    },
+    "setting_confirm_dialog_description": {
+        "message": "Wyświetlaj okno potwierdzenia przy użyciu rozszerzenia"
+    },
+    "setting_dialog_copy": {
+        "message": "Wyświetl okno potwierdzenia przy kopiowaniu obecnych ciasteczek"
+    },
+    "setting_dialog_delete": {
+        "message": "Wyświetl okno potwierdzenia przy usuwaniu obecnych ciasteczek"
+    },
+    "setting_dialog_delete_all": {
+        "message": "Wyświetl okno potwierdzenia przy usuwaniu wszystkich obecnych ciasteczek"
+    },
+    "setting_enable_context_menus": {
+        "message": "Opcje menu kontekstowego"
     }
 }

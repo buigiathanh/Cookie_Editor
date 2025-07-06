@@ -92,7 +92,7 @@
     "import_setting_format": {
         "message": "ಡೀಫಾಲ್ಟ್ ಆಮದು ಆಯ್ಕೆ"
     },
-    "import_settomg_format_text": {
+    "import_setting_format_text": {
         "message": "ಪಠ್ಯವನ್ನು ಬಳಸಿ"
     },
     "import_setting_format_file": {
@@ -505,5 +505,35 @@
     },
     "cta_convert_share_link": {
         "message": "ಬದಲಾಗಿ ಲಿಂಕ್ ಮೂಲಕ ಹಂಚಿಕೊಳ್ಳಿ"
+    },
+    "message_copy_link_success": {
+        "message": "ಲಿಂಕ್ ಅನ್ನು ಯಶಸ್ವಿಯಾಗಿ ನಕಲಿಸಲಾಗಿದೆ"
+    },
+    "message_copy_link_error": {
+        "message": "ಲಿಂಕ್ ಅನ್ನು ನಕಲಿಸಲು ವಿಫಲವಾಗಿದೆ"
+    },
+    "setting_title": {
+        "message": "ಮೂಲ ಸೆಟ್ಟಿಂಗ್ಗಳು"
+    },
+    "setting_description": {
+        "message": "ನಿಮಗಾಗಿ ಎಕ್ಸ್ಟೆನ್ಷನ್ ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ ಎಂಬುದನ್ನು ಕಸ್ಟಮೈಸ್ ಮಾಡಿ"
+    },
+    "setting_confirm_dialog": {
+        "message": "ದೃಢೀಕರಣ ಸಂವಾದ"
+    },
+    "setting_confirm_dialog_description": {
+        "message": "ಎಕ್ಸ್ಟೆನ್ಷನ್ ಬಳಸುವಾಗ ದೃಢೀಕರಣ ಸಂವಾದವನ್ನು ಹೊಂದಿಸಿ"
+    },
+    "setting_dialog_copy": {
+        "message": "ಪ್ರಸ್ತುತ ಕುಕಿಗಳನ್ನು ನಕಲಿಸುವಾಗ ದೃಢೀಕರಣ ಸಂವಾದವನ್ನು ತೋರಿಸಿ"
+    },
+    "setting_dialog_delete": {
+        "message": "ಪ್ರಸ್ತುತ ಕುಕಿಗಳನ್ನು ಅಳಿಸುವಾಗ ದೃಢೀಕರಣ ಸಂವಾದವನ್ನು ತೋರಿಸಿ"
+    },
+    "setting_dialog_delete_all": {
+        "message": "ಎಲ್ಲಾ ಪ್ರಸ್ತುತ ಕುಕಿಗಳನ್ನು ಅಳಿಸುವಾಗ ದೃಢೀಕರಣ ಸಂವಾದವನ್ನು ತೋರಿಸಿ"
+    },
+    "setting_enable_context_menus": {
+        "message": "ಸಂದರ್ಭ ಮೆನು ಆಯ್ಕೆಗಳು"
     }
 }

@@ -92,7 +92,7 @@
     "import_setting_format": {
         "message": "Alapértelmezett importálási lehetőség"
     },
-    "import_settomg_format_text": {
+    "import_setting_format_text": {
         "message": "Szöveg használata"
     },
     "import_setting_format_file": {
@@ -505,5 +505,35 @@
     },
     "cta_convert_share_link": {
         "message": "Ossza meg inkább linken keresztül"
+    },
+    "message_copy_link_success": {
+        "message": "Link sikeresen másolva"
+    },
+    "message_copy_link_error": {
+        "message": "A link másolása sikertelen"
+    },
+    "setting_title": {
+        "message": "ALAPBEÁLLÍTÁSOK"
+    },
+    "setting_description": {
+        "message": "Szabja testre a kiegészítő működését saját igényei szerint"
+    },
+    "setting_confirm_dialog": {
+        "message": "MEGERŐSÍTŐ PÁRBESZÉD"
+    },
+    "setting_confirm_dialog_description": {
+        "message": "Megerősítő párbeszéd megjelenítése a kiegészítő használatakor"
+    },
+    "setting_dialog_copy": {
+        "message": "Megerősítő párbeszéd megjelenítése az aktuális sütik másolásakor"
+    },
+    "setting_dialog_delete": {
+        "message": "Megerősítő párbeszéd megjelenítése az aktuális sütik törlésekor"
+    },
+    "setting_dialog_delete_all": {
+        "message": "Megerősítő párbeszéd megjelenítése az összes aktuális süti törlésekor"
+    },
+    "setting_enable_context_menus": {
+        "message": "Helyi menü beállítások"
     }
 }

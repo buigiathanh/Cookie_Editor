@@ -1,4 +1,4 @@
-import {useRef} from "react";
+import {useEffect, useRef} from "react";
 import {motion} from "framer-motion";
 import ModalPopup from "../modal_popup";
 import {useClickOutside} from "../../../../../hooks/useClickOutside";
@@ -6,12 +6,17 @@ import {settingStore} from "../../../../../mobx/setting.store";
 import {observer} from "mobx-react-lite";
 import FormShareCookie from "./form_share";
 import {extension} from "../../../../../utils/chrome";
+import {googleAnalytics} from "../../../../../utils/google_analytics";
 
 const ShareCookie = ({cookies}) => {
     const ref = useRef(null);
     useClickOutside(ref, () => {
         settingStore.popup = "";
     })
+
+    useEffect(() => {
+        googleAnalytics({name: "show_popup_share_cookie", params: []})
+    }, [])
 
     return (
         <>

@@ -92,7 +92,7 @@
     "import_setting_format": {
         "message": "Опция за импортиране по подразбиране"
     },
-    "import_settomg_format_text": {
+    "import_setting_format_text": {
         "message": "Използване на текст"
     },
     "import_setting_format_file": {
@@ -505,5 +505,35 @@
     },
     "cta_convert_share_link": {
         "message": "Споделете чрез връзка вместо това"
+    },
+    "message_copy_link_success": {
+        "message": "Връзката беше копирана успешно"
+    },
+    "message_copy_link_error": {
+        "message": "Неуспешно копиране на връзката"
+    },
+    "setting_title": {
+        "message": "ОСНОВНИ НАСТРОЙКИ"
+    },
+    "setting_description": {
+        "message": "Персонализирайте как работи разширението според вашите нужди."
+    },
+    "setting_confirm_dialog": {
+        "message": "Потвърждаващ прозорец"
+    },
+    "setting_confirm_dialog_description": {
+        "message": "Задайте потвърждаващ прозорец при използване на разширението"
+    },
+    "setting_dialog_copy": {
+        "message": "Показване на потвърждаващ прозорец при копиране на текущите бисквитки"
+    },
+    "setting_dialog_delete": {
+        "message": "Показване на потвърждаващ прозорец при изтриване на текущите бисквитки"
+    },
+    "setting_dialog_delete_all": {
+        "message": "Показване на потвърждаващ прозорец при изтриване на всички текущи бисквитки"
+    },
+    "setting_enable_context_menus": {
+        "message": "Опции за контекстното меню"
     }
 }

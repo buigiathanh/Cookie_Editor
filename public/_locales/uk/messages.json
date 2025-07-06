@@ -92,7 +92,7 @@
     "import_setting_format": {
         "message": "Типовий параметр імпорту"
     },
-    "import_settomg_format_text": {
+    "import_setting_format_text": {
         "message": "Використовувати текст"
     },
     "import_setting_format_file": {
@@ -505,5 +505,35 @@
     },
     "cta_convert_share_link": {
         "message": "Натомість поділіться посиланням"
+    },
+    "message_copy_link_success": {
+        "message": "Посилання успішно скопійовано"
+    },
+    "message_copy_link_error": {
+        "message": "Не вдалося скопіювати посилання"
+    },
+    "setting_title": {
+        "message": "ОСНОВНІ НАЛАШТУВАННЯ"
+    },
+    "setting_description": {
+        "message": "Налаштуйте роботу розширення для себе"
+    },
+    "setting_confirm_dialog": {
+        "message": "ДІАЛОГ ПІДТВЕРДЖЕННЯ"
+    },
+    "setting_confirm_dialog_description": {
+        "message": "Показувати діалог підтвердження при використанні розширення"
+    },
+    "setting_dialog_copy": {
+        "message": "Показувати діалог підтвердження при копіюванні поточних cookies"
+    },
+    "setting_dialog_delete": {
+        "message": "Показувати діалог підтвердження при видаленні поточних cookies"
+    },
+    "setting_dialog_delete_all": {
+        "message": "Показувати діалог підтвердження при видаленні всіх поточних cookies"
+    },
+    "setting_enable_context_menus": {
+        "message": "Опції контекстного меню"
     }
 }

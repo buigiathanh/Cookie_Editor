@@ -92,7 +92,7 @@
     "import_setting_format": {
         "message": "Vaikeimportimise valik"
     },
-    "import_settomg_format_text": {
+    "import_setting_format_text": {
         "message": "Kasuta teksti"
     },
     "import_setting_format_file": {
@@ -505,5 +505,35 @@
     },
     "cta_convert_share_link": {
         "message": "Jaga selle asemel lingi kaudu"
+    },
+    "message_copy_link_success": {
+        "message": "Link kopeeritud edukalt"
+    },
+    "message_copy_link_error": {
+        "message": "Lingi kopeerimine ebaõnnestus"
+    },
+    "setting_title": {
+        "message": "PÕHISEADED"
+    },
+    "setting_description": {
+        "message": "Kohanda laienduse tööd vastavalt oma vajadustele."
+    },
+    "setting_confirm_dialog": {
+        "message": "KINNITUSDIALOOG"
+    },
+    "setting_confirm_dialog_description": {
+        "message": "Määra kinnituse dialoog laienduse kasutamisel"
+    },
+    "setting_dialog_copy": {
+        "message": "Näita kinnituse dialoogi praeguste küpsiste kopeerimisel"
+    },
+    "setting_dialog_delete": {
+        "message": "Näita kinnituse dialoogi praeguste küpsiste kustutamisel"
+    },
+    "setting_dialog_delete_all": {
+        "message": "Näita kinnituse dialoogi kõigi praeguste küpsiste kustutamisel"
+    },
+    "setting_enable_context_menus": {
+        "message": "Kontekstimenüü valikud"
     }
 }

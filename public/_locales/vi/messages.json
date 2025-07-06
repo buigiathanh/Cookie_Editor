@@ -92,7 +92,7 @@
     "import_setting_format": {
         "message": "Tùy chọn nhập mặc định"
     },
-    "import_settomg_format_text": {
+    "import_setting_format_text": {
         "message": "Sử dụng văn bản"
     },
     "import_setting_format_file": {
@@ -505,5 +505,35 @@
     },
     "cta_convert_share_link": {
         "message": "Chia sẻ bằng liên kết thay thế"
+    },
+    "message_copy_link_success": {
+        "message": "Đã sao chép liên kết thành công"
+    },
+    "message_copy_link_error": {
+        "message": "Sao chép liên kết thất bại"
+    },
+    "setting_title": {
+        "message": "CÀI ĐẶT CƠ BẢN"
+    },
+    "setting_description": {
+        "message": "Tùy chỉnh cách tiện ích hoạt động cho bạn"
+    },
+    "setting_confirm_dialog": {
+        "message": "HỘP THOẠI XÁC NHẬN"
+    },
+    "setting_confirm_dialog_description": {
+        "message": "Hiển thị hộp thoại xác nhận khi sử dụng tiện ích"
+    },
+    "setting_dialog_copy": {
+        "message": "Hiển thị hộp thoại xác nhận khi sao chép cookie hiện tại"
+    },
+    "setting_dialog_delete": {
+        "message": "Hiển thị hộp thoại xác nhận khi xóa cookie hiện tại"
+    },
+    "setting_dialog_delete_all": {
+        "message": "Hiển thị hộp thoại xác nhận khi xóa tất cả cookie hiện tại"
+    },
+    "setting_enable_context_menus": {
+        "message": "Tùy chọn menu ngữ cảnh"
     }
 }

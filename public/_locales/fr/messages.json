@@ -92,7 +92,7 @@
     "import_setting_format": {
         "message": "Option d'importation par défaut"
     },
-    "import_settomg_format_text": {
+    "import_setting_format_text": {
         "message": "Utiliser du texte"
     },
     "import_setting_format_file": {
@@ -505,5 +505,35 @@
     },
     "cta_convert_share_link": {
         "message": "Partager via un lien à la place"
+    },
+    "message_copy_link_success": {
+        "message": "Lien copié avec succès"
+    },
+    "message_copy_link_error": {
+        "message": "Échec de la copie du lien"
+    },
+    "setting_title": {
+        "message": "PARAMÈTRES DE BASE"
+    },
+    "setting_description": {
+        "message": "Personnalisez le fonctionnement de l'extension."
+    },
+    "setting_confirm_dialog": {
+        "message": "DIALOGUE DE CONFIRMATION"
+    },
+    "setting_confirm_dialog_description": {
+        "message": "Afficher un dialogue de confirmation lors de l'utilisation de l'extension"
+    },
+    "setting_dialog_copy": {
+        "message": "Afficher un dialogue de confirmation lors de la copie des cookies actuels"
+    },
+    "setting_dialog_delete": {
+        "message": "Afficher un dialogue de confirmation lors de la suppression des cookies actuels"
+    },
+    "setting_dialog_delete_all": {
+        "message": "Afficher un dialogue de confirmation lors de la suppression de tous les cookies actuels"
+    },
+    "setting_enable_context_menus": {
+        "message": "Options du menu contextuel"
     }
 }

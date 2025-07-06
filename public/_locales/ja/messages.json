@@ -92,7 +92,7 @@
     "import_setting_format": {
         "message": "デフォルトのインポートオプション"
     },
-    "import_settomg_format_text": {
+    "import_setting_format_text": {
         "message": "テキストを使用"
     },
     "import_setting_format_file": {
@@ -505,5 +505,35 @@
     },
     "cta_convert_share_link": {
         "message": "代わりにリンクで共有する"
+    },
+    "message_copy_link_success": {
+        "message": "リンクのコピーに成功しました"
+    },
+    "message_copy_link_error": {
+        "message": "リンクのコピーに失敗しました"
+    },
+    "setting_title": {
+        "message": "基本設定"
+    },
+    "setting_description": {
+        "message": "拡張機能の動作をカスタマイズします"
+    },
+    "setting_confirm_dialog": {
+        "message": "確認ダイアログ"
+    },
+    "setting_confirm_dialog_description": {
+        "message": "拡張機能使用時に確認ダイアログを表示する"
+    },
+    "setting_dialog_copy": {
+        "message": "現在のクッキーをコピーする際に確認ダイアログを表示"
+    },
+    "setting_dialog_delete": {
+        "message": "現在のクッキーを削除する際に確認ダイアログを表示"
+    },
+    "setting_dialog_delete_all": {
+        "message": "すべての現在のクッキーを削除する際に確認ダイアログを表示"
+    },
+    "setting_enable_context_menus": {
+        "message": "コンテキストメニューオプション"
     }
 }

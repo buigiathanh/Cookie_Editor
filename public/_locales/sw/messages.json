@@ -92,7 +92,7 @@
     "import_setting_format": {
         "message": "Chaguo la chaguo-msingi la kuingiza"
     },
-    "import_settomg_format_text": {
+    "import_setting_format_text": {
         "message": "Tumia maandishi"
     },
     "import_setting_format_file": {
@@ -505,5 +505,35 @@
     },
     "cta_convert_share_link": {
         "message": "Shiriki kupitia kiungo badala yake"
+    },
+    "message_copy_link_success": {
+        "message": "Kiunga kimenakiliwa kikamilifu"
+    },
+    "message_copy_link_error": {
+        "message": "Imeshindwa kunakili kiunga"
+    },
+    "setting_title": {
+        "message": "MIPANGILIO YA MSINGI"
+    },
+    "setting_description": {
+        "message": "Badilisha jinsi kiongezo kinavyofanya kazi kwako"
+    },
+    "setting_confirm_dialog": {
+        "message": "KITENDO CHA UTHIBITISHO"
+    },
+    "setting_confirm_dialog_description": {
+        "message": "Washa tendo la uthibitisho unapotumia kiongezo"
+    },
+    "setting_dialog_copy": {
+        "message": "Onyesha tendo la uthibitisho unaponakili vidakuzi vya sasa"
+    },
+    "setting_dialog_delete": {
+        "message": "Onyesha tendo la uthibitisho unapofuta vidakuzi vya sasa"
+    },
+    "setting_dialog_delete_all": {
+        "message": "Onyesha tendo la uthibitisho unapofuta vidakuzi vyote vya sasa"
+    },
+    "setting_enable_context_menus": {
+        "message": "Chaguo za Menyu ya Muktadha"
     }
 }

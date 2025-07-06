@@ -92,7 +92,7 @@
     "import_setting_format": {
         "message": "ડિફૉલ્ટ આયાત વિકલ્પ"
     },
-    "import_settomg_format_text": {
+    "import_setting_format_text": {
         "message": "ટેક્સ્ટનો ઉપયોગ કરો"
     },
     "import_setting_format_file": {
@@ -505,5 +505,35 @@
     },
     "cta_convert_share_link": {
         "message": "બદલે લિંક દ્વારા શેર કરો"
+    },
+    "message_copy_link_success": {
+        "message": "લિંક સફળતાપૂર્વક કોપી થઈ ગઈ છે"
+    },
+    "message_copy_link_error": {
+        "message": "લિંક કોપી કરવામાં નિષ્ફળતા"
+    },
+    "setting_title": {
+        "message": "મૂળભૂત સેટિંગ્સ"
+    },
+    "setting_description": {
+        "message": "તમારા માટે એક્સ્ટેન્શન કેવી રીતે કામ કરે છે તે કસ્ટમાઇઝ કરો"
+    },
+    "setting_confirm_dialog": {
+        "message": "પુષ્ટિકરણ સંવાદ"
+    },
+    "setting_confirm_dialog_description": {
+        "message": "એક્સ્ટેન્શન વાપરતી વખતે પુષ્ટિકરણ સંવાદ સેટ કરો"
+    },
+    "setting_dialog_copy": {
+        "message": "વર્તમાન કૂકીઝ કોપી કરતી વખતે પુષ્ટિકરણ સંવાદ દર્શાવો"
+    },
+    "setting_dialog_delete": {
+        "message": "વર્તમાન કૂકીઝ ડિલીટ કરતી વખતે પુષ્ટિકરણ સંવાદ દર્શાવો"
+    },
+    "setting_dialog_delete_all": {
+        "message": "બધી વર્તમાન કૂકીઝ ડિલીટ કરતી વખતે પુષ્ટિકરણ સંવાદ દર્શાવો"
+    },
+    "setting_enable_context_menus": {
+        "message": "સંદર્ભ મેનુ વિકલ્પો"
     }
 }

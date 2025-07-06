@@ -92,7 +92,7 @@
     "import_setting_format": {
         "message": "Numatytoji importavimo parinktis"
     },
-    "import_settomg_format_text": {
+    "import_setting_format_text": {
         "message": "Naudoti tekstą"
     },
     "import_setting_format_file": {
@@ -505,5 +505,35 @@
     },
     "cta_convert_share_link": {
         "message": "Dalinkitės nuoroda"
+    },
+    "message_copy_link_success": {
+        "message": "Nuoroda sėkmingai nukopijuota"
+    },
+    "message_copy_link_error": {
+        "message": "Nepavyko nukopijuoti nuorodos"
+    },
+    "setting_title": {
+        "message": "PAGRINDINIAI NUSTATYMAI"
+    },
+    "setting_description": {
+        "message": "Adaptuokite plėtinio veikimą pagal savo poreikius"
+    },
+    "setting_confirm_dialog": {
+        "message": "PATVIRTINIMO DIALOGAS"
+    },
+    "setting_confirm_dialog_description": {
+        "message": "Rodyti patvirtinimo dialogą naudojant plėtinį"
+    },
+    "setting_dialog_copy": {
+        "message": "Rodyti patvirtinimo dialogą kopijuojant dabartinius slapukus"
+    },
+    "setting_dialog_delete": {
+        "message": "Rodyti patvirtinimo dialogą trinant dabartinius slapukus"
+    },
+    "setting_dialog_delete_all": {
+        "message": "Rodyti patvirtinimo dialogą trinant visus dabartinius slapukus"
+    },
+    "setting_enable_context_menus": {
+        "message": "Kontekstinio meniu parinktys"
     }
 }

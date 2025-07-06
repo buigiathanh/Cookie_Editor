@@ -92,7 +92,7 @@
     "import_setting_format": {
         "message": "Pilihan import lalai"
     },
-    "import_settomg_format_text": {
+    "import_setting_format_text": {
         "message": "Gunakan teks"
     },
     "import_setting_format_file": {
@@ -505,5 +505,35 @@
     },
     "cta_convert_share_link": {
         "message": "Kongsi melalui pautan sebagai gantinya"
+    },
+    "message_copy_link_success": {
+        "message": "Pautan berjaya disalin"
+    },
+    "message_copy_link_error": {
+        "message": "Gagal menyalin pautan"
+    },
+    "setting_title": {
+        "message": "PENGATURAN ASAS"
+    },
+    "setting_description": {
+        "message": "Sesuaikan cara sambungan berfungsi untuk anda"
+    },
+    "setting_confirm_dialog": {
+        "message": "DIALOG PENGESAHAN"
+    },
+    "setting_confirm_dialog_description": {
+        "message": "Tetapkan dialog pengesahan apabila menggunakan sambungan"
+    },
+    "setting_dialog_copy": {
+        "message": "Paparkan dialog pengesahan ketika menyalin kuki semasa"
+    },
+    "setting_dialog_delete": {
+        "message": "Paparkan dialog pengesahan ketika memadam kuki semasa"
+    },
+    "setting_dialog_delete_all": {
+        "message": "Paparkan dialog pengesahan ketika memadam semua kuki semasa"
+    },
+    "setting_enable_context_menus": {
+        "message": "Pilihan Menu Konteks"
     }
 }

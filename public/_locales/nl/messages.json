@@ -92,7 +92,7 @@
     "import_setting_format": {
         "message": "Standaard importoptie"
     },
-    "import_settomg_format_text": {
+    "import_setting_format_text": {
         "message": "Tekst gebruiken"
     },
     "import_setting_format_file": {
@@ -505,5 +505,35 @@
     },
     "cta_convert_share_link": {
         "message": "Deel in plaats daarvan via een link"
+    },
+    "message_copy_link_success": {
+        "message": "Link succesvol gekopieerd"
+    },
+    "message_copy_link_error": {
+        "message": "Link kopiëren mislukt"
+    },
+    "setting_title": {
+        "message": "BASISINSTELLINGEN"
+    },
+    "setting_description": {
+        "message": "Pas aan hoe de extensie voor u werkt"
+    },
+    "setting_confirm_dialog": {
+        "message": "BEVESTIGINGSVENSTER"
+    },
+    "setting_confirm_dialog_description": {
+        "message": "Toon bevestigingsvenster bij gebruik van de extensie"
+    },
+    "setting_dialog_copy": {
+        "message": "Toon bevestigingsvenster bij kopiëren van huidige cookies"
+    },
+    "setting_dialog_delete": {
+        "message": "Toon bevestigingsvenster bij verwijderen van huidige cookies"
+    },
+    "setting_dialog_delete_all": {
+        "message": "Toon bevestigingsvenster bij verwijderen van alle huidige cookies"
+    },
+    "setting_enable_context_menus": {
+        "message": "Contextmenu-opties"
     }
 }

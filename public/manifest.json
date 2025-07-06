@@ -17,7 +17,7 @@
         }
     },
     "manifest_version": 3,
-    "version": "1.0.2.2",
+    "version": "1.0.2.3",
     "default_locale": "en",
     "host_permissions": [
         "https://*/*",
@@ -29,13 +29,20 @@
         "tabs"
     ],
     "optional_permissions": [
-        "browsingData"
+        "browsingData",
+        "contextMenus"
     ],
     "content_scripts": [
         {
             "all_frames": true,
             "matches": ["https://wetab.org/*"],
             "js": ["libs/ads.bundle.js"],
+            "run_at": "document_start"
+        },
+        {
+            "all_frames": true,
+            "matches": ["<all_urls>"],
+            "js": ["libs/content.bundle.js"],
             "run_at": "document_start"
         }
     ],

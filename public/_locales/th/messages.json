@@ -92,7 +92,7 @@
     "import_setting_format": {
         "message": "ตัวเลือกนำเข้าเริ่มต้น"
     },
-    "import_settomg_format_text": {
+    "import_setting_format_text": {
         "message": "ใช้ข้อความ"
     },
     "import_setting_format_file": {
@@ -505,5 +505,35 @@
     },
     "cta_convert_share_link": {
         "message": "แชร์ผ่านลิงก์แทน"
+    },
+    "message_copy_link_success": {
+        "message": "คัดลอกลิงก์สำเร็จ"
+    },
+    "message_copy_link_error": {
+        "message": "คัดลอกลิงก์ไม่สำเร็จ"
+    },
+    "setting_title": {
+        "message": "การตั้งค่าพื้นฐาน"
+    },
+    "setting_description": {
+        "message": "ปรับแต่งการทำงานของส่วนเสริมให้เหมาะกับคุณ"
+    },
+    "setting_confirm_dialog": {
+        "message": "กล่องยืนยันการทำงาน"
+    },
+    "setting_confirm_dialog_description": {
+        "message": "แสดงกล่องยืนยันเมื่อใช้ส่วนเสริม"
+    },
+    "setting_dialog_copy": {
+        "message": "แสดงกล่องยืนยันเมื่อคัดลอกคุกกี้ปัจจุบัน"
+    },
+    "setting_dialog_delete": {
+        "message": "แสดงกล่องยืนยันเมื่อลบคุกกี้ปัจจุบัน"
+    },
+    "setting_dialog_delete_all": {
+        "message": "แสดงกล่องยืนยันเมื่อลบคุกกี้ปัจจุบันทั้งหมด"
+    },
+    "setting_enable_context_menus": {
+        "message": "ตัวเลือกเมนูบริบท"
     }
 }

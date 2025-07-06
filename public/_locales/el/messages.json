@@ -92,7 +92,7 @@
     "import_setting_format": {
         "message": "Προεπιλεγμένη επιλογή εισαγωγής"
     },
-    "import_settomg_format_text": {
+    "import_setting_format_text": {
         "message": "Χρήση κειμένου"
     },
     "import_setting_format_file": {
@@ -505,5 +505,35 @@
     },
     "cta_convert_share_link": {
         "message": "Κοινοποιήστε μέσω συνδέσμου"
+    },
+    "message_copy_link_success": {
+        "message": "Ο σύνδεσμος αντιγράφηκε με επιτυχία"
+    },
+    "message_copy_link_error": {
+        "message": "Αποτυχία αντιγραφής του συνδέσμου"
+    },
+    "setting_title": {
+        "message": "ΒΑΣΙΚΕΣ ΡΥΘΜΙΣΕΙΣ"
+    },
+    "setting_description": {
+        "message": "Προσαρμόστε τον τρόπο λειτουργίας της επέκτασης σύμφωνα με τις προτιμήσεις σας."
+    },
+    "setting_confirm_dialog": {
+        "message": "ΠΑΡΑΘΥΡΟ ΕΠΙΒΕΒΑΙΩΣΗΣ"
+    },
+    "setting_confirm_dialog_description": {
+        "message": "Εμφάνιση παραθύρου επιβεβαίωσης κατά τη χρήση της επέκτασης"
+    },
+    "setting_dialog_copy": {
+        "message": "Εμφάνιση παραθύρου επιβεβαίωσης κατά την αντιγραφή των τρεχουσών cookies"
+    },
+    "setting_dialog_delete": {
+        "message": "Εμφάνιση παραθύρου επιβεβαίωσης κατά τη διαγραφή των τρεχουσών cookies"
+    },
+    "setting_dialog_delete_all": {
+        "message": "Εμφάνιση παραθύρου επιβεβαίωσης κατά τη διαγραφή όλων των τρεχουσών cookies"
+    },
+    "setting_enable_context_menus": {
+        "message": "Επιλογές μενού περιβάλλοντος"
     }
 }

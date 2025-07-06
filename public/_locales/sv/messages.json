@@ -92,7 +92,7 @@
     "import_setting_format": {
         "message": "Standardimportalternativ"
     },
-    "import_settomg_format_text": {
+    "import_setting_format_text": {
         "message": "Använd text"
     },
     "import_setting_format_file": {
@@ -505,5 +505,35 @@
     },
     "cta_convert_share_link": {
         "message": "Dela via länk istället"
+    },
+    "message_copy_link_success": {
+        "message": "Länken har kopierats"
+    },
+    "message_copy_link_error": {
+        "message": "Misslyckades att kopiera länken"
+    },
+    "setting_title": {
+        "message": "GRUNDINSTÄLLNINGAR"
+    },
+    "setting_description": {
+        "message": "Anpassa hur tillägget fungerar för dig"
+    },
+    "setting_confirm_dialog": {
+        "message": "BEKRÄFTELSEDIALOGRUTA"
+    },
+    "setting_confirm_dialog_description": {
+        "message": "Visa bekräftelsedialogruta vid användning av tillägget"
+    },
+    "setting_dialog_copy": {
+        "message": "Visa bekräftelsedialogruta vid kopiering av aktuella kakor"
+    },
+    "setting_dialog_delete": {
+        "message": "Visa bekräftelsedialogruta vid radering av aktuella kakor"
+    },
+    "setting_dialog_delete_all": {
+        "message": "Visa bekräftelsedialogruta vid radering av alla aktuella kakor"
+    },
+    "setting_enable_context_menus": {
+        "message": "Snabbmenyalternativ"
     }
 }

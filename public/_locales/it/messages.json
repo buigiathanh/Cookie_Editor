@@ -92,7 +92,7 @@
     "import_setting_format": {
         "message": "Opzione di importazione predefinita"
     },
-    "import_settomg_format_text": {
+    "import_setting_format_text": {
         "message": "Usa testo"
     },
     "import_setting_format_file": {
@@ -505,5 +505,35 @@
     },
     "cta_convert_share_link": {
         "message": "Condividi tramite link invece"
+    },
+    "message_copy_link_success": {
+        "message": "Link copiato con successo"
+    },
+    "message_copy_link_error": {
+        "message": "Errore durante la copia del link"
+    },
+    "setting_title": {
+        "message": "IMPOSTAZIONI BASE"
+    },
+    "setting_description": {
+        "message": "Personalizza il funzionamento dell'estensione"
+    },
+    "setting_confirm_dialog": {
+        "message": "DIALOGO DI CONFERMA"
+    },
+    "setting_confirm_dialog_description": {
+        "message": "Mostra un dialogo di conferma quando usi l'estensione"
+    },
+    "setting_dialog_copy": {
+        "message": "Mostra un dialogo di conferma quando copi i cookie correnti"
+    },
+    "setting_dialog_delete": {
+        "message": "Mostra un dialogo di conferma quando elimini i cookie correnti"
+    },
+    "setting_dialog_delete_all": {
+        "message": "Mostra un dialogo di conferma quando elimini tutti i cookie correnti"
+    },
+    "setting_enable_context_menus": {
+        "message": "Opzioni del menu contestuale"
     }
 }

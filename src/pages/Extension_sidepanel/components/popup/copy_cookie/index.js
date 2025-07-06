@@ -91,7 +91,10 @@ const CopyCookie = ({cookies}) => {
                                 <div className={`w-full mt-4`}>
                                     <p className={`text-gray-800 text-xs`}>
                                         {extension.getLang("str_convert_share_link")} <span
-                                        onClick={() => settingStore.popup = "share_cookie"}
+                                        onClick={() => {
+                                            googleAnalytics({name: "cta_share_link_copy_cc", params: []})
+                                            settingStore.popup = "share_cookie"
+                                        }}
                                         className={`text-blue-600 font-bold underline cursor-pointer`}>{extension.getLang("cta_convert_share_link")}</span>
                                     </p>
                                 </div>

@@ -127,18 +127,20 @@ const DetailCookie = ({cookies}) => {
                         className={`w-ful ${search.length === 0 || (search.length > 0 && cookie.name.toLowerCase().includes(search.toLowerCase())) ? "flex" : "hidden"} items-center min-h-[130px] bg-[#3C3C3C] mb-3 rounded-[10px] p-4 group relative`}>
                         <div className={`w-full inline-block pr-5`}>
                             {
-                                Object.keys(cookie).map((item, itemKey) => (
-                                    <div key={itemKey}
-                                         className={`w-full ${(customizeDisplayCookie.find(setting => setting.key === item)?.display || customizeDisplayCookie[itemKey].required) ? "flex items-center" : "hidden"} text-white mb-2 last:mb-0`}>
-                                        <div className={`w-[90px] inline-block`}>
-                                            <p>{item}</p>
+                                Object.keys(cookie).map((item, itemKey) => {
+                                    return (
+                                        <div key={itemKey}
+                                             className={`w-full ${(customizeDisplayCookie.find(setting => setting.key === item)?.display || customizeDisplayCookie.find(setting => setting.key === item)?.required) ? "flex items-center" : "hidden"} text-white mb-2 last:mb-0`}>
+                                            <div className={`w-[90px] inline-block`}>
+                                                <p>{item}</p>
+                                            </div>
+                                            <div className={`inline-block`}
+                                                 style={{width: "calc(100% - 90px)"}}>
+                                                <p className={`truncate`}>{item === "expirationDate" ? handleFormatDate(cookie[item]) : String(cookie[item])}</p>
+                                            </div>
                                         </div>
-                                        <div className={`inline-block`}
-                                             style={{width: "calc(100% - 90px)"}}>
-                                            <p className={`truncate`}>{item === "expirationDate" ? handleFormatDate(cookie[item]) : String(cookie[item])}</p>
-                                        </div>
-                                    </div>
-                                ))
+                                    )
+                                })
                             }
                         </div>
 
@@ -146,12 +148,12 @@ const DetailCookie = ({cookies}) => {
                             <div
                                 onClick={() => handleSelectAction(cookie, "edit_cookie")}
                                 className={`w-6 h-6 mb-2 p-1 rounded-[5px] cursor-pointer hover:bg-gray-500`}>
-                                <IconEdit cname={`w-4 h-4 text-white`} />
+                                <IconEdit cname={`w-4 h-4 text-white`}/>
                             </div>
                             <div
                                 onClick={() => handleCopy(cookie)}
                                 className={`w-6 h-6 mb-2 p-1 rounded-[5px] cursor-pointer hover:bg-gray-500`}>
-                                <IconCopy cname={`w-4 h-4 text-white`} />
+                                <IconCopy cname={`w-4 h-4 text-white`}/>
                             </div>
                             <div
                                 onClick={() => handleSelectAction(cookie, "delete_cookie")}

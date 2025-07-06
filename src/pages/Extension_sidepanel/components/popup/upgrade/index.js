@@ -1,5 +1,5 @@
 /*global chrome*/
-import {useRef} from "react";
+import {useEffect, useRef} from "react";
 import {useClickOutside} from "../../../../../hooks/useClickOutside";
 import {settingStore} from "../../../../../mobx/setting.store";
 import ModalPopup from "../modal_popup";
@@ -8,6 +8,7 @@ import {observer} from "mobx-react-lite";
 import CheckedIcon from "../../../../../icons/checked";
 import {accountStore} from "../../../../../mobx/account.store";
 import {extension} from "../../../../../utils/chrome";
+import {googleAnalytics} from "../../../../../utils/google_analytics";
 
 const Upgrade = () => {
     const ref = useRef(null);
@@ -22,6 +23,10 @@ const Upgrade = () => {
             window.open(`${process.env.REACT_APP_WEBSITE}/login?next=${process.env.REACT_APP_WEBSITE}/api/payment/checkout/${type}`, '_blank');
         }
     }
+
+    useEffect(() => {
+        googleAnalytics({name: "show_popup_upgrade", params: []})
+    }, [])
 
     return (
         <>

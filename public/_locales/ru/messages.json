@@ -92,7 +92,7 @@
     "import_setting_format": {
         "message": "Параметр импорта по умолчанию"
     },
-    "import_settomg_format_text": {
+    "import_setting_format_text": {
         "message": "Использовать текст"
     },
     "import_setting_format_file": {
@@ -505,5 +505,35 @@
     },
     "cta_convert_share_link": {
         "message": "Вместо этого поделитесь по ссылке"
+    },
+    "message_copy_link_success": {
+        "message": "Ссылка успешно скопирована"
+    },
+    "message_copy_link_error": {
+        "message": "Не удалось скопировать ссылку"
+    },
+    "setting_title": {
+        "message": "ОСНОВНЫЕ НАСТРОЙКИ"
+    },
+    "setting_description": {
+        "message": "Настройте работу расширения под свои нужды"
+    },
+    "setting_confirm_dialog": {
+        "message": "ДИАЛОГ ПОДТВЕРЖДЕНИЯ"
+    },
+    "setting_confirm_dialog_description": {
+        "message": "Показывать диалог подтверждения при использовании расширения"
+    },
+    "setting_dialog_copy": {
+        "message": "Показывать диалог подтверждения при копировании текущих cookies"
+    },
+    "setting_dialog_delete": {
+        "message": "Показывать диалог подтверждения при удалении текущих cookies"
+    },
+    "setting_dialog_delete_all": {
+        "message": "Показывать диалог подтверждения при удалении всех текущих cookies"
+    },
+    "setting_enable_context_menus": {
+        "message": "Опции контекстного меню"
     }
 }

@@ -92,7 +92,7 @@
     "import_setting_format": {
         "message": "Opsi impor default"
     },
-    "import_settomg_format_text": {
+    "import_setting_format_text": {
         "message": "Gunakan teks"
     },
     "import_setting_format_file": {
@@ -505,5 +505,35 @@
     },
     "cta_convert_share_link": {
         "message": "Bagikan lewat tautan sebagai gantinya"
+    },
+    "message_copy_link_success": {
+        "message": "Tautan berhasil disalin"
+    },
+    "message_copy_link_error": {
+        "message": "Gagal menyalin tautan"
+    },
+    "setting_title": {
+        "message": "PENGATURAN DASAR"
+    },
+    "setting_description": {
+        "message": "Sesuaikan cara ekstensi bekerja untuk Anda"
+    },
+    "setting_confirm_dialog": {
+        "message": "DIALOG KONFIRMASI"
+    },
+    "setting_confirm_dialog_description": {
+        "message": "Tampilkan dialog konfirmasi saat menggunakan ekstensi"
+    },
+    "setting_dialog_copy": {
+        "message": "Tampilkan dialog konfirmasi saat menyalin cookie saat ini"
+    },
+    "setting_dialog_delete": {
+        "message": "Tampilkan dialog konfirmasi saat menghapus cookie saat ini"
+    },
+    "setting_dialog_delete_all": {
+        "message": "Tampilkan dialog konfirmasi saat menghapus semua cookie saat ini"
+    },
+    "setting_enable_context_menus": {
+        "message": "Opsi Menu Konteks"
     }
 }

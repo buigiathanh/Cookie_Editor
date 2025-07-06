@@ -6,6 +6,7 @@ import {image} from "../../../utils/images";
 import {icons} from "../../../constants/icon";
 import {cookieStore} from "../../../mobx/cookie.store";
 import IconShare from "../../../icons/share";
+import {extension} from "../../../utils/chrome";
 
 const LinkCookies = () => {
     const [page, setPage] = useState(1);
@@ -13,10 +14,10 @@ const LinkCookies = () => {
     const handleCopyLink = (uuid) => {
         navigator.clipboard.writeText(`https://cookieeditor.org/cookie/link/${uuid}`)
             .then(() => {
-                settingStore.alert = {type: "info", message: "Copy liên kết thành công"}
+                settingStore.alert = {type: "info", message: extension.getLang("message_copy_link_success")}
             })
             .catch((err) => {
-                settingStore.alert = {type: "info", message: "Copy liên kết không thành công"}
+                settingStore.alert = {type: "info", message: extension.getLang("message_copy_link_error")}
             });
     }
 

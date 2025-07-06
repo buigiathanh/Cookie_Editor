@@ -92,7 +92,7 @@
     "import_setting_format": {
         "message": "Privzeta možnost uvoza"
     },
-    "import_settomg_format_text": {
+    "import_setting_format_text": {
         "message": "Uporabi besedilo"
     },
     "import_setting_format_file": {
@@ -505,5 +505,35 @@
     },
     "cta_convert_share_link": {
         "message": "Namesto tega deli prek povezave"
+    },
+    "message_copy_link_success": {
+        "message": "Povezava uspešno kopirana"
+    },
+    "message_copy_link_error": {
+        "message": "Kopiranje povezave ni uspelo"
+    },
+    "setting_title": {
+        "message": "OSNOVNE NASTAVITVE"
+    },
+    "setting_description": {
+        "message": "Prilagodite delovanje razširitve"
+    },
+    "setting_confirm_dialog": {
+        "message": "POTRDITVENO DIALOŠKO OKNO"
+    },
+    "setting_confirm_dialog_description": {
+        "message": "Prikaži potrditveno okno pri uporabi razširitve"
+    },
+    "setting_dialog_copy": {
+        "message": "Prikaži potrditveno okno pri kopiranju trenutnih piškotkov"
+    },
+    "setting_dialog_delete": {
+        "message": "Prikaži potrditveno okno pri brisanju trenutnih piškotkov"
+    },
+    "setting_dialog_delete_all": {
+        "message": "Prikaži potrditveno okno pri brisanju vseh trenutnih piškotkov"
+    },
+    "setting_enable_context_menus": {
+        "message": "Možnosti kontekstnega menija"
     }
 }

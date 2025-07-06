@@ -92,7 +92,7 @@
     "import_setting_format": {
         "message": "डीफॉल्ट आयात पर्याय"
     },
-    "import_settomg_format_text": {
+    "import_setting_format_text": {
         "message": "मजकूर वापरा"
     },
     "import_setting_format_file": {
@@ -505,5 +505,35 @@
     },
     "cta_convert_share_link": {
         "message": "त्याऐवजी लिंकद्वारे शेअर करा"
+    },
+    "message_copy_link_success": {
+        "message": "लिंक यशस्वीरित्या कॉपी केले"
+    },
+    "message_copy_link_error": {
+        "message": "लिंक कॉपी करण्यात अयशस्वी"
+    },
+    "setting_title": {
+        "message": "मूलभूत सेटिंग्ज"
+    },
+    "setting_description": {
+        "message": "तुमच्यासाठी एक्सटेंशन कसे कार्य करते ते सानुकूलित करा"
+    },
+    "setting_confirm_dialog": {
+        "message": "पुष्टीकरण संवाद"
+    },
+    "setting_confirm_dialog_description": {
+        "message": "एक्सटेंशन वापरताना पुष्टीकरण संवाद सेट करा"
+    },
+    "setting_dialog_copy": {
+        "message": "वर्तमान कुकीज कॉपी करताना पुष्टीकरण संवाद दाखवा"
+    },
+    "setting_dialog_delete": {
+        "message": "वर्तमान कुकीज हटवताना पुष्टीकरण संवाद दाखवा"
+    },
+    "setting_dialog_delete_all": {
+        "message": "सर्व वर्तमान कुकीज हटवताना पुष्टीकरण संवाद दाखवा"
+    },
+    "setting_enable_context_menus": {
+        "message": "संदर्भ मेनू पर्याय"
     }
 }

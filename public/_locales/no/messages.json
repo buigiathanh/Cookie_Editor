@@ -92,7 +92,7 @@
     "import_setting_format": {
         "message": "Standard importalternativ"
     },
-    "import_settomg_format_text": {
+    "import_setting_format_text": {
         "message": "Bruk tekst"
     },
     "import_setting_format_file": {
@@ -505,5 +505,35 @@
     },
     "cta_convert_share_link": {
         "message": "Del via lenke i stedet"
+    },
+    "message_copy_link_success": {
+        "message": "Lenken ble kopiert"
+    },
+    "message_copy_link_error": {
+        "message": "Kunne ikke kopiere lenken"
+    },
+    "setting_title": {
+        "message": "GRUNNLEGGENDE INNSTILLINGER"
+    },
+    "setting_description": {
+        "message": "Tilpass hvordan utvidelsen fungerer for deg"
+    },
+    "setting_confirm_dialog": {
+        "message": "BEKREFTELSESDIALOG"
+    },
+    "setting_confirm_dialog_description": {
+        "message": "Vis bekreftelsesdialog når du bruker utvidelsen"
+    },
+    "setting_dialog_copy": {
+        "message": "Vis bekreftelsesdialog ved kopiering av nåværende informasjonskapsler"
+    },
+    "setting_dialog_delete": {
+        "message": "Vis bekreftelsesdialog ved sletting av nåværende informasjonskapsler"
+    },
+    "setting_dialog_delete_all": {
+        "message": "Vis bekreftelsesdialog ved sletting av alle nåværende informasjonskapsler"
+    },
+    "setting_enable_context_menus": {
+        "message": "Kontekstmeny-alternativer"
     }
 }

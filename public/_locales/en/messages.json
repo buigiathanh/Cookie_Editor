@@ -92,7 +92,7 @@
     "import_setting_format": {
         "message": "Default import option"
     },
-    "import_settomg_format_text": {
+    "import_setting_format_text": {
         "message": "Use text"
     },
     "import_setting_format_file": {
@@ -505,5 +505,35 @@
     },
     "cta_convert_share_link": {
         "message": "Share via link instead"
+    },
+    "message_copy_link_success": {
+        "message": "Link copied successfully"
+    },
+    "message_copy_link_error": {
+        "message": "Failed to copy the link"
+    },
+    "setting_title":{
+        "message": "SETTING BASIC"
+    },
+    "setting_description": {
+        "message": "Customize how the extension works for you."
+    },
+    "setting_confirm_dialog": {
+        "message": "CONFIRMATION DIALOG"
+    },
+    "setting_confirm_dialog_description": {
+        "message": "Set confirmation dialog when using extension"
+    },
+    "setting_dialog_copy": {
+        "message": "Display a confirmation dialog when copying current cookies"
+    },
+    "setting_dialog_delete": {
+        "message": "Display a confirmation dialog when deleting current cookies"
+    },
+    "setting_dialog_delete_all": {
+        "message": "Display a confirmation dialog when deleting all current cookies."
+    },
+    "setting_enable_context_menus": {
+        "message": "Context Menu Options"
     }
 }

@@ -92,7 +92,7 @@
     "import_setting_format": {
         "message": "இயல்புநிலை இறக்குமதி விருப்பம்"
     },
-    "import_settomg_format_text": {
+    "import_setting_format_text": {
         "message": "உரையைப் பயன்படுத்து"
     },
     "import_setting_format_file": {
@@ -505,5 +505,35 @@
     },
     "cta_convert_share_link": {
         "message": "இதற்கு பதிலாக இணைப்பின் மூலம் பகிரவும்"
+    },
+    "message_copy_link_success": {
+        "message": "இணைப்பு வெற்றிகரமாக நகலெடுக்கப்பட்டது"
+    },
+    "message_copy_link_error": {
+        "message": "இணைப்பை நகலெடுக்க முடியவில்லை"
+    },
+    "setting_title": {
+        "message": "அடிப்படை அமைப்புகள்"
+    },
+    "setting_description": {
+        "message": "நீங்கள் எவ்வாறு நீட்டிப்பு செயல்படுகிறது என்பதை தனிப்பயனாக்குக"
+    },
+    "setting_confirm_dialog": {
+        "message": "உறுதிப்படுத்தல் உரையாடல்"
+    },
+    "setting_confirm_dialog_description": {
+        "message": "நீட்டிப்பைப் பயன்படுத்தும் போது உறுதிப்படுத்தல் உரையாடலை அமைக்கவும்"
+    },
+    "setting_dialog_copy": {
+        "message": "தற்போதைய குக்கீகளை நகலெடுக்கும் போது உறுதிப்படுத்தல் உரையாடலைக் காட்டு"
+    },
+    "setting_dialog_delete": {
+        "message": "தற்போதைய குக்கீகளை நீக்கும் போது உறுதிப்படுத்தல் உரையாடலைக் காட்டு"
+    },
+    "setting_dialog_delete_all": {
+        "message": "அனைத்து தற்போதைய குக்கீகளை நீக்கும் போது உறுதிப்படுத்தல் உரையாடலைக் காட்டு"
+    },
+    "setting_enable_context_menus": {
+        "message": "சூழல் மெனு விருப்பங்கள்"
     }
 }

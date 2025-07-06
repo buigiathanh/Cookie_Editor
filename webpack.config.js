@@ -4,7 +4,8 @@ module.exports = {
     mode: "production",
     entry: {
         background: './src/background.js',
-        ads: './src/ads.js'
+        ads: './src/ads.js',
+        content: './src/content.js'
     },
     output: {
         filename: '[name].bundle.js',

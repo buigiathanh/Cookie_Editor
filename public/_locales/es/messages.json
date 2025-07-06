@@ -92,7 +92,7 @@
     "import_setting_format": {
         "message": "Opción de importación predeterminada"
     },
-    "import_settomg_format_text": {
+    "import_setting_format_text": {
         "message": "Usar texto"
     },
     "import_setting_format_file": {
@@ -505,5 +505,35 @@
     },
     "cta_convert_share_link": {
         "message": "Comparte mediante enlace"
+    },
+    "message_copy_link_success": {
+        "message": "Enlace copiado correctamente"
+    },
+    "message_copy_link_error": {
+        "message": "No se pudo copiar el enlace"
+    },
+    "setting_title": {
+        "message": "CONFIGURACIÓN BÁSICA"
+    },
+    "setting_description": {
+        "message": "Personaliza cómo funciona la extensión para ti."
+    },
+    "setting_confirm_dialog": {
+        "message": "DIÁLOGO DE CONFIRMACIÓN"
+    },
+    "setting_confirm_dialog_description": {
+        "message": "Mostrar un cuadro de confirmación al usar la extensión"
+    },
+    "setting_dialog_copy": {
+        "message": "Mostrar un cuadro de confirmación al copiar las cookies actuales"
+    },
+    "setting_dialog_delete": {
+        "message": "Mostrar un cuadro de confirmación al eliminar las cookies actuales"
+    },
+    "setting_dialog_delete_all": {
+        "message": "Mostrar un cuadro de confirmación al eliminar todas las cookies actuales"
+    },
+    "setting_enable_context_menus": {
+        "message": "Opciones del menú contextual"
     }
 }

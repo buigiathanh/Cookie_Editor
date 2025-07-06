@@ -92,7 +92,7 @@
     "import_setting_format": {
         "message": "Opțiune de import implicită"
     },
-    "import_settomg_format_text": {
+    "import_setting_format_text": {
         "message": "Folosește text"
     },
     "import_setting_format_file": {
@@ -505,5 +505,35 @@
     },
     "cta_convert_share_link": {
         "message": "Partajează prin link în schimb"
+    },
+    "message_copy_link_success": {
+        "message": "Link copiat cu succes"
+    },
+    "message_copy_link_error": {
+        "message": "Nu s-a putut copia linkul"
+    },
+    "setting_title": {
+        "message": "SETĂRI DE BAZĂ"
+    },
+    "setting_description": {
+        "message": "Personalizați modul în care funcționează extensia pentru dumneavoastră"
+    },
+    "setting_confirm_dialog": {
+        "message": "DIALOG DE CONFIRMARE"
+    },
+    "setting_confirm_dialog_description": {
+        "message": "Afișați un dialog de confirmare când utilizați extensia"
+    },
+    "setting_dialog_copy": {
+        "message": "Afișați dialog de confirmare la copierea cookie-urilor curente"
+    },
+    "setting_dialog_delete": {
+        "message": "Afișați dialog de confirmare la ștergerea cookie-urilor curente"
+    },
+    "setting_dialog_delete_all": {
+        "message": "Afișați dialog de confirmare la ștergerea tuturor cookie-urilor curente"
+    },
+    "setting_enable_context_menus": {
+        "message": "Opțiuni meniu contextual"
     }
 }

@@ -92,7 +92,7 @@
     "import_setting_format": {
         "message": "ነባሪ የማስገባት አማራጭ"
     },
-    "import_settomg_format_text": {
+    "import_setting_format_text": {
         "message": "ጽሑፍ ተጠቀም"
     },
     "import_setting_format_file": {
@@ -505,5 +505,35 @@
     },
     "cta_convert_share_link": {
         "message": "በአገናኝ እንዲሁ ካፍሉ"
+    },
+    "message_copy_link_success": {
+        "message": "አገናኝ በተሳካ ሁኔታ ተቀድቷል"
+    },
+    "message_copy_link_error": {
+        "message": "አገናኝ ማቅዳት አልተቻለም"
+    },
+    "setting_title": {
+        "message": "መቼት ቅንብሮች"
+    },
+    "setting_description": {
+        "message": "ኤክስቴንሽኑ እንዴት እንደሚሰራ ማስተካከያ"
+    },
+    "setting_confirm_dialog": {
+        "message": "ማረጋገጫ ንግግር"
+    },
+    "setting_confirm_dialog_description": {
+        "message": "ኤክስቴንሽኑን ሲጠቀሙ ማረጋገጫ ንግግርን ማሰናጃ"
+    },
+    "setting_dialog_copy": {
+        "message": "የአሁኑን ኩኪዎች ሲወስዱ ማረጋገጫ ንግግር አሳይ"
+    },
+    "setting_dialog_delete": {
+        "message": "የአሁኑን ኩኪዎች ሲሰሩ ማረጋገጫ ንግግር አሳይ"
+    },
+    "setting_dialog_delete_all": {
+        "message": "ሁሉንም ያሉትን ኩኪዎች ሲሰሩ ማረጋገጫ ንግግር አሳይ"
+    },
+    "setting_enable_context_menus": {
+        "message": "የአይነት ምናሌ ምርጫዎች"
     }
 }

@@ -92,7 +92,7 @@
     "import_setting_format": {
         "message": "Zadana opcija uvoza"
     },
-    "import_settomg_format_text": {
+    "import_setting_format_text": {
         "message": "Koristi tekst"
     },
     "import_setting_format_file": {
@@ -505,5 +505,35 @@
     },
     "cta_convert_share_link": {
         "message": "Podijeli putem poveznice umjesto toga"
+    },
+    "message_copy_link_success": {
+        "message": "Poveznica je uspješno kopirana"
+    },
+    "message_copy_link_error": {
+        "message": "Kopiranje poveznice nije uspjelo"
+    },
+    "setting_title": {
+        "message": "OSNOVNE POSTAVKE"
+    },
+    "setting_description": {
+        "message": "Prilagodite funkcionalnost proširenja prema vašim potrebama"
+    },
+    "setting_confirm_dialog": {
+        "message": "DIJALOG ZA POTVRDU"
+    },
+    "setting_confirm_dialog_description": {
+        "message": "Prikaži dijalog za potvrdu pri korištenju proširenja"
+    },
+    "setting_dialog_copy": {
+        "message": "Prikaži dijalog za potvrdu pri kopiranju trenutnih kolačića"
+    },
+    "setting_dialog_delete": {
+        "message": "Prikaži dijalog za potvrdu pri brisanju trenutnih kolačića"
+    },
+    "setting_dialog_delete_all": {
+        "message": "Prikaži dijalog za potvrdu pri brisanju svih trenutnih kolačića"
+    },
+    "setting_enable_context_menus": {
+        "message": "Mogućnosti kontekstnog izbornika"
     }
 }

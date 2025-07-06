@@ -92,7 +92,7 @@
     "import_setting_format": {
         "message": "Standardimportoption"
     },
-    "import_settomg_format_text": {
+    "import_setting_format_text": {
         "message": "Text verwenden"
     },
     "import_setting_format_file": {
@@ -505,5 +505,35 @@
     },
     "cta_convert_share_link": {
         "message": "Stattdessen per Link teilen"
+    },
+    "message_copy_link_success": {
+        "message": "Link wurde erfolgreich kopiert"
+    },
+    "message_copy_link_error": {
+        "message": "Link konnte nicht kopiert werden"
+    },
+    "setting_title": {
+        "message": "GRUNDEINSTELLUNGEN"
+    },
+    "setting_description": {
+        "message": "Passen Sie an, wie die Erweiterung für Sie funktioniert."
+    },
+    "setting_confirm_dialog": {
+        "message": "BESTÄTIGUNGSFENSTER"
+    },
+    "setting_confirm_dialog_description": {
+        "message": "Bestätigungsdialog anzeigen, wenn die Erweiterung verwendet wird"
+    },
+    "setting_dialog_copy": {
+        "message": "Bestätigungsdialog anzeigen beim Kopieren der aktuellen Cookies"
+    },
+    "setting_dialog_delete": {
+        "message": "Bestätigungsdialog anzeigen beim Löschen der aktuellen Cookies"
+    },
+    "setting_dialog_delete_all": {
+        "message": "Bestätigungsdialog anzeigen beim Löschen aller aktuellen Cookies"
+    },
+    "setting_enable_context_menus": {
+        "message": "Optionen im Kontextmenü"
     }
 }

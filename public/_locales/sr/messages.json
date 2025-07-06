@@ -92,7 +92,7 @@
     "import_setting_format": {
         "message": "Подразумевана опција увоза"
     },
-    "import_settomg_format_text": {
+    "import_setting_format_text": {
         "message": "Користи текст"
     },
     "import_setting_format_file": {
@@ -505,5 +505,35 @@
     },
     "cta_convert_share_link": {
         "message": "Подели преко линка уместо тога"
+    },
+    "message_copy_link_success": {
+        "message": "Линк је успешно копиран"
+    },
+    "message_copy_link_error": {
+        "message": "Копирање линка није успело"
+    },
+    "setting_title": {
+        "message": "ОСНОВНЕ ПОСТАВКЕ"
+    },
+    "setting_description": {
+        "message": "Прилагодите како додатак функционише за вас"
+    },
+    "setting_confirm_dialog": {
+        "message": "ДИЈАЛОГ ЗА ПОТВРДУ"
+    },
+    "setting_confirm_dialog_description": {
+        "message": "Прикажи дијалог за потврду при коришћењу додатка"
+    },
+    "setting_dialog_copy": {
+        "message": "Прикажи дијалог за потврду при копирању тренутних колачића"
+    },
+    "setting_dialog_delete": {
+        "message": "Прикажи дијалог за потврду при брисању тренутних колачића"
+    },
+    "setting_dialog_delete_all": {
+        "message": "Прикажи дијалог за потврду при брисању свих тренутних колачића"
+    },
+    "setting_enable_context_menus": {
+        "message": "Опције контекстног менија"
     }
 }

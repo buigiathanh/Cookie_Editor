@@ -92,7 +92,7 @@
     "import_setting_format": {
         "message": "Oletusarvoinen tuontivaihtoehto"
     },
-    "import_settomg_format_text": {
+    "import_setting_format_text": {
         "message": "Käytä tekstiä"
     },
     "import_setting_format_file": {
@@ -505,5 +505,35 @@
     },
     "cta_convert_share_link": {
         "message": "Jaa linkin kautta sen sijaan"
+    },
+    "message_copy_link_success": {
+        "message": "Linkki kopioitu onnistuneesti"
+    },
+    "message_copy_link_error": {
+        "message": "Linkin kopiointi epäonnistui"
+    },
+    "setting_title": {
+        "message": "PERUSASETUKSET"
+    },
+    "setting_description": {
+        "message": "Mukauta laajennuksen toimintaa omiin tarpeisiisi."
+    },
+    "setting_confirm_dialog": {
+        "message": "VARMISTUSDIALOGI"
+    },
+    "setting_confirm_dialog_description": {
+        "message": "Näytä varmistusdialogi laajennusta käytettäessä"
+    },
+    "setting_dialog_copy": {
+        "message": "Näytä varmistusdialogi nykyisten evästeiden kopioinnissa"
+    },
+    "setting_dialog_delete": {
+        "message": "Näytä varmistusdialogi nykyisten evästeiden poistossa"
+    },
+    "setting_dialog_delete_all": {
+        "message": "Näytä varmistusdialogi kaikkien nykyisten evästeiden poistossa"
+    },
+    "setting_enable_context_menus": {
+        "message": "Kontekstivalikon vaihtoehdot"
     }
 }

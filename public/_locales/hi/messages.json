@@ -92,7 +92,7 @@
     "import_setting_format": {
         "message": "डिफ़ॉल्ट आयात विकल्प"
     },
-    "import_settomg_format_text": {
+    "import_setting_format_text": {
         "message": "टेक्स्ट का उपयोग करें"
     },
     "import_setting_format_file": {
@@ -505,5 +505,35 @@
     },
     "cta_convert_share_link": {
         "message": "इसके बजाय लिंक के माध्यम से साझा करें"
+    },
+    "message_copy_link_success": {
+        "message": "लिंक सफलतापूर्वक कॉपी हो गया"
+    },
+    "message_copy_link_error": {
+        "message": "लिंक कॉपी करने में विफल"
+    },
+    "setting_title": {
+        "message": "बेसिक सेटिंग्स"
+    },
+    "setting_description": {
+        "message": "एक्सटेंशन को अपने अनुसार कार्य करने के लिए अनुकूलित करें"
+    },
+    "setting_confirm_dialog": {
+        "message": "पुष्टिकरण संवाद"
+    },
+    "setting_confirm_dialog_description": {
+        "message": "एक्सटेंशन उपयोग करते समय पुष्टिकरण संवाद सेट करें"
+    },
+    "setting_dialog_copy": {
+        "message": "वर्तमान कुकीज़ कॉपी करते समय पुष्टिकरण संवाद दिखाएं"
+    },
+    "setting_dialog_delete": {
+        "message": "वर्तमान कुकीज़ हटाते समय पुष्टिकरण संवाद दिखाएं"
+    },
+    "setting_dialog_delete_all": {
+        "message": "सभी वर्तमान कुकीज़ हटाते समय पुष्टिकरण संवाद दिखाएं"
+    },
+    "setting_enable_context_menus": {
+        "message": "संदर्भ मेनू विकल्प"
     }
 }

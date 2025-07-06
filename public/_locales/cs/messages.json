@@ -92,7 +92,7 @@
     "import_setting_format": {
         "message": "Výchozí možnost importu"
     },
-    "import_settomg_format_text": {
+    "import_setting_format_text": {
         "message": "Použít text"
     },
     "import_setting_format_file": {
@@ -505,5 +505,35 @@
     },
     "cta_convert_share_link": {
         "message": "Sdílejte raději prostřednictvím odkazu"
+    },
+    "message_copy_link_success": {
+        "message": "Odkaz byl úspěšně zkopírován"
+    },
+    "message_copy_link_error": {
+        "message": "Nepodařilo se zkopírovat odkaz"
+    },
+    "setting_title": {
+        "message": "ZÁKLADNÍ NASTAVENÍ"
+    },
+    "setting_description": {
+        "message": "Přizpůsobte si, jak rozšíření funguje podle vašich potřeb."
+    },
+    "setting_confirm_dialog": {
+        "message": "POTVRZOVACÍ DIALOG"
+    },
+    "setting_confirm_dialog_description": {
+        "message": "Nastavit potvrzovací dialog při používání rozšíření"
+    },
+    "setting_dialog_copy": {
+        "message": "Zobrazit potvrzovací dialog při kopírování aktuálních cookies"
+    },
+    "setting_dialog_delete": {
+        "message": "Zobrazit potvrzovací dialog při mazání aktuálních cookies"
+    },
+    "setting_dialog_delete_all": {
+        "message": "Zobrazit potvrzovací dialog při mazání všech aktuálních cookies"
+    },
+    "setting_enable_context_menus": {
+        "message": "Možnosti kontextové nabídky"
     }
 }

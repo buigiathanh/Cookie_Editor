@@ -92,7 +92,7 @@
     "import_setting_format": {
         "message": "預設匯入選項"
     },
-    "import_settomg_format_text": {
+    "import_setting_format_text": {
         "message": "使用文字"
     },
     "import_setting_format_file": {
@@ -505,5 +505,35 @@
     },
     "cta_convert_share_link": {
         "message": "改為透過連結分享"
+    },
+    "message_copy_link_success": {
+        "message": "連結複製成功"
+    },
+    "message_copy_link_error": {
+        "message": "連結複製失敗"
+    },
+    "setting_title": {
+        "message": "基本設定"
+    },
+    "setting_description": {
+        "message": "自訂擴充功能運作方式"
+    },
+    "setting_confirm_dialog": {
+        "message": "確認對話框"
+    },
+    "setting_confirm_dialog_description": {
+        "message": "使用擴充功能時顯示確認對話框"
+    },
+    "setting_dialog_copy": {
+        "message": "複製當前Cookie時顯示確認對話框"
+    },
+    "setting_dialog_delete": {
+        "message": "刪除當前Cookie時顯示確認對話框"
+    },
+    "setting_dialog_delete_all": {
+        "message": "刪除所有當前Cookie時顯示確認對話框"
+    },
+    "setting_enable_context_menus": {
+        "message": "右鍵選單選項"
     }
 }

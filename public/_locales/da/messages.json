@@ -92,7 +92,7 @@
     "import_setting_format": {
         "message": "Standardimportindstilling"
     },
-    "import_settomg_format_text": {
+    "import_setting_format_text": {
         "message": "Brug tekst"
     },
     "import_setting_format_file": {
@@ -505,5 +505,35 @@
     },
     "cta_convert_share_link": {
         "message": "Del via link i stedet"
+    },
+    "message_copy_link_success": {
+        "message": "Linket blev kopieret"
+    },
+    "message_copy_link_error": {
+        "message": "Kunne ikke kopiere linket"
+    },
+    "setting_title": {
+        "message": "BASISINDSTILLINGER"
+    },
+    "setting_description": {
+        "message": "Tilpas hvordan udvidelsen fungerer for dig."
+    },
+    "setting_confirm_dialog": {
+        "message": "BEKRÆFTELSESDIALOG"
+    },
+    "setting_confirm_dialog_description": {
+        "message": "Vis en bekræftelsesdialog, når du bruger udvidelsen"
+    },
+    "setting_dialog_copy": {
+        "message": "Vis en bekræftelsesdialog, når aktuelle cookies kopieres"
+    },
+    "setting_dialog_delete": {
+        "message": "Vis en bekræftelsesdialog, når aktuelle cookies slettes"
+    },
+    "setting_dialog_delete_all": {
+        "message": "Vis en bekræftelsesdialog, når alle aktuelle cookies slettes"
+    },
+    "setting_enable_context_menus": {
+        "message": "Genveje i kontekstmenu"
     }
 }

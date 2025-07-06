@@ -92,7 +92,7 @@
     "import_setting_format": {
         "message": "Opció d'importació per defecte"
     },
-    "import_settomg_format_text": {
+    "import_setting_format_text": {
         "message": "Utilitza text"
     },
     "import_setting_format_file": {
@@ -505,5 +505,35 @@
     },
     "cta_convert_share_link": {
         "message": "Comparteix mitjançant un enllaç"
+    },
+    "message_copy_link_success": {
+        "message": "L'enllaç s'ha copiat correctament"
+    },
+    "message_copy_link_error": {
+        "message": "No s'ha pogut copiar l'enllaç"
+    },
+    "setting_title": {
+        "message": "CONFIGURACIÓ BÀSICA"
+    },
+    "setting_description": {
+        "message": "Personalitza com funciona l'extensió segons les teves preferències."
+    },
+    "setting_confirm_dialog": {
+        "message": "DIÀLEG DE CONFIRMACIÓ"
+    },
+    "setting_confirm_dialog_description": {
+        "message": "Estableix un diàleg de confirmació quan utilitzis l'extensió"
+    },
+    "setting_dialog_copy": {
+        "message": "Mostra un diàleg de confirmació en copiar les cookies actuals"
+    },
+    "setting_dialog_delete": {
+        "message": "Mostra un diàleg de confirmació en suprimir les cookies actuals"
+    },
+    "setting_dialog_delete_all": {
+        "message": "Mostra un diàleg de confirmació en suprimir totes les cookies actuals"
+    },
+    "setting_enable_context_menus": {
+        "message": "Opcions del menú contextual"
     }
 }
