@@ -196,7 +196,7 @@ const ImportCookie = () => {
                             className={`fixed top-0 left-0 p-[10px]`}
                             style={{zIndex: 50, width: "calc(100% - 50px)"}}
                         >
-                            <div className={`bg-white rounded-[10px] p-5`}>
+                            <div className={`bg-white rounded-[10px] overflow-y-auto p-5`} style={{maxHeight: "calc(100vh - 80px)"}}>
                                 <p className={`font-bold text-[14px] mb-2`}>
                                     {extension.getLang("title_import_cookie")}
                                 </p>

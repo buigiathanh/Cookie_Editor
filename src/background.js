@@ -19,7 +19,7 @@ chrome.runtime.onInstalled.addListener(details => {
         });
         chrome.runtime.setUninstallURL('https://forms.gle/tCy1URDSXn8yqJ8H7');
     } else if (details.reason === chrome.runtime.OnInstalledReason.UPDATE) {
-        chrome.tabs.create({url: `https://cookieeditor.org/?updated_success=true`, active: true});
+        // chrome.tabs.create({url: `https://cookieeditor.org/?updated_success=true`, active: true});
     }
 });
 
