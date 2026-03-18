@@ -1,3 +1,33 @@
+<div align="center">
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="100%">
+
+### 🏆 Project Sponsor
+
+**[Ads.extension.vn](https://ads.extension.vn)**
+
+*An advertising platform for browser extensions that helps extension developers monetize their products. Sponsor of Cookie Editor.*
+
+<br/>
+
+[![Visit Ads.extension.vn](https://img.shields.io/badge/Ads.extension.vn-Visit-6366f1?style=for-the-badge)](https://ads.extension.vn)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+</div>
+
+<br/>
+
 # Cookie-Editor
 
 ## Description
