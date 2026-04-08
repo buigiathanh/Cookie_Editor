@@ -17,7 +17,7 @@
     }
   },
   "manifest_version": 3,
-  "version": "1.0.2.4",
+  "version": "1.1.0.0",
   "default_locale": "en",
   "host_permissions": ["https://*/*", "http://*/*"],
   "permissions": ["cookies", "sidePanel", "tabs", "storage"],
