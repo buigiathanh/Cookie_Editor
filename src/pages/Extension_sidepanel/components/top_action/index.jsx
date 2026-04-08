@@ -19,6 +19,10 @@ import {accountStore} from "../../../../mobx/account.store";
 
 const TopAction = ({cookies, tab}) => {
     const confirmDialog = settingStore.confirm_dialog;
+    const isLightMode = settingStore.theme_mode === "light";
+    const tooltipClass = `absolute top-[35px] left-1/2 translate-x-[-50%] z-10 hidden group-hover:block px-3 py-2 text-xs rounded-lg shadow-xs ${
+        isLightMode ? "text-gray-800 bg-white border border-gray-200" : "text-white bg-gray-900"
+    }`;
 
     return (
         <>
@@ -36,7 +40,7 @@ const TopAction = ({cookies, tab}) => {
                                 </div>
 
                                 <div
-                                    className="absolute top-[35px] left-1/2 translate-x-[-50%] z-10 hidden group-hover:block px-3 py-2 text-xs text-white bg-gray-900 rounded-lg shadow-xs">
+                                    className={tooltipClass}>
                                     {extension.getLang("btn_copy")}
                                 </div>
                             </div>
@@ -49,7 +53,7 @@ const TopAction = ({cookies, tab}) => {
                                 </div>
 
                                 <div
-                                    className="absolute top-[35px] left-1/2 translate-x-[-50%] z-10 hidden group-hover:block px-3 py-2 text-xs text-white bg-gray-900 rounded-lg shadow-xs">
+                                    className={tooltipClass}>
                                     {extension.getLang("sidebar_export")}
                                 </div>
                             </div>
@@ -67,7 +71,7 @@ const TopAction = ({cookies, tab}) => {
                             </div>
 
                             <div
-                                className="absolute top-[35px] left-1/2 translate-x-[-50%] z-10 hidden group-hover:block px-3 py-2 text-xs text-white bg-gray-900 rounded-lg shadow-xs">
+                                className={tooltipClass}>
                                 {extension.getLang("sidebar_import")}
                             </div>
                         </div>
@@ -84,7 +88,7 @@ const TopAction = ({cookies, tab}) => {
                             </div>
 
                             <div
-                                className="absolute top-[35px] left-1/2 translate-x-[-50%] z-10 hidden group-hover:block px-3 py-2 text-xs text-white bg-gray-900 rounded-lg shadow-xs">
+                                className={tooltipClass}>
                                 {extension.getLang("tooltip_top_action_share")}
                             </div>
                         </div>
@@ -102,7 +106,7 @@ const TopAction = ({cookies, tab}) => {
                             </div>
 
                             <div
-                                className="absolute top-[35px] left-1/2 translate-x-[-50%] z-10 hidden group-hover:block px-3 py-2 text-xs text-white bg-gray-900 rounded-lg shadow-xs">
+                                className={tooltipClass}>
                                 {extension.getLang("btn_add")}
                             </div>
                         </div>
@@ -121,7 +125,7 @@ const TopAction = ({cookies, tab}) => {
                             </div>
 
                             <div
-                                className="absolute top-[35px] left-1/2 translate-x-[-50%] z-10 hidden group-hover:block px-3 py-2 text-xs text-white bg-gray-900 rounded-lg shadow-xs whitespace-nowrap">
+                                className={`${tooltipClass} whitespace-nowrap`}>
                                 {extension.getLang("btn_remove")}
                             </div>
                         </div>

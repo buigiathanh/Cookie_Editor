@@ -70,7 +70,7 @@ const ExtensionImport = () => {
         if (uuid.length > 0) {
             (async () => {
                 setIsLoading(true);
-                const response = await fetch(`${process.env.REACT_APP_WEBSITE}/api/cookie/${uuid}/info`, {
+                const response = await fetch(`${import.meta.env.VITE_WEBSITE}/api/cookie/${uuid}/info`, {
                     "method": "GET",
                     "mode": "cors",
                     "credentials": "include"
@@ -265,7 +265,7 @@ const ExtensionImport = () => {
 
             <div className={`w-full mt-10 border-t border-gray-200 py-5`}>
                 <div className={`w-full flex flex-wrap justify-center mb-5`}>
-                    <a href={`${process.env.REACT_APP_WEBSITE}`}>
+                    <a href={`${import.meta.env.VITE_WEBSITE}`}>
                         <div className={`inline-block px-3`}>
                             <p className={`text-gray-800 text-sm`}>
                                 Home
@@ -280,7 +280,7 @@ const ExtensionImport = () => {
                         </div>
                     </a>
                     <a
-                        href={`${process.env.REACT_APP_WEBSITE}/privacy-policy`}>
+                        href={`${import.meta.env.VITE_WEBSITE}/privacy-policy`}>
                         <div className={`inline-block px-3`}>
                             <p className={`text-gray-800 text-sm`}>
                                 Privacy
@@ -295,7 +295,7 @@ const ExtensionImport = () => {
                         </div>
                     </a>
                     <a
-                        href={`${process.env.REACT_APP_WEBSITE}/changelog`}>
+                        href={`${import.meta.env.VITE_WEBSITE}/changelog`}>
                         <div className={`inline-block px-3`}>
                             <p className={`text-gray-800 text-sm`}>
                                 Changelog

@@ -18,9 +18,9 @@ const Upgrade = () => {
 
     const handleUpgrade = (type) => {
         if (accountStore.account?.email) {
-            window.open(`${process.env.REACT_APP_WEBSITE}/api/payment/checkout/${type}`, '_blank');
+            window.open(`${import.meta.env.VITE_WEBSITE}/api/payment/checkout/${type}`, '_blank');
         } else {
-            window.open(`${process.env.REACT_APP_WEBSITE}/login?next=${process.env.REACT_APP_WEBSITE}/api/payment/checkout/${type}`, '_blank');
+            window.open(`${import.meta.env.VITE_WEBSITE}/login?next=${import.meta.env.VITE_WEBSITE}/api/payment/checkout/${type}`, '_blank');
         }
     }
 

@@ -1,4 +1,5 @@
 /*global chrome*/
+import CryptoJS from "crypto-js";
 import {useEffect, useRef, useState} from "react";
 import { motion } from "framer-motion";
 import ModalPopup from "../modal_popup";
@@ -129,7 +130,6 @@ const ImportCookie = () => {
 
             dataCookies = dataCookies.trim();
             if (password.length > 0) {
-                const CryptoJS = require("crypto-js");
                 dataCookies = CryptoJS.AES.decrypt(dataCookies, password).toString(CryptoJS.enc.Utf8);
             }
 

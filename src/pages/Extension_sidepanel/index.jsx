@@ -27,6 +27,7 @@ const ExtensionSidePanel = () => {
     const countDayActive = Number(settingStore.count_day_active);
     const autoShowPopupFeatureSuggest = settingStore.auto_show_popup_feature_suggest;
     const autoShowPopupUpgrade = settingStore.auto_show_popup_upgrade;
+    const themeMode = settingStore.theme_mode;
 
 
     useEffect(() => {
@@ -100,7 +101,7 @@ const ExtensionSidePanel = () => {
     }, [])
 
     return (
-        <div className={`w-full h-[100vh] bg-[#282828]`}>
+        <div className={`w-full h-[100vh] bg-[#282828] ${themeMode === "light" ? "theme-light" : "theme-dark"}`}>
             <div className={"w-full h-full m-auto bg-[#282828] flex justify-center"}>
                 <div
                     className="h-full inline-block"

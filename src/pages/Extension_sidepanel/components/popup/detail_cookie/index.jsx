@@ -16,7 +16,7 @@ const PopupDetailCookie = () => {
 
     const handleDeleteLink = async () => {
         settingStore.loading = true;
-        const response = await fetch(`${process.env.REACT_APP_WEBSITE}/api/cookie/${cookieStore.cookie_detail.uuid}/delete`, {
+        const response = await fetch(`${import.meta.env.VITE_WEBSITE}/api/cookie/${cookieStore.cookie_detail.uuid}/delete`, {
             "method": "POST",
             "mode": "cors",
             "credentials": "include"

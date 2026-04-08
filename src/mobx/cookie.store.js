@@ -13,7 +13,7 @@ class CookieStore {
 
     async getLinks(page) {
         settingStore.loading = true;
-        const response = await fetch(`${process.env.REACT_APP_WEBSITE}/api/cookie/list?page=${page}`, {
+        const response = await fetch(`${import.meta.env.VITE_WEBSITE}/api/cookie/list?page=${page}`, {
             "method": "GET",
             "mode": "cors",
             "credentials": "include"

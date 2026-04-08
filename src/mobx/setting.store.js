@@ -37,6 +37,7 @@ class SettingStore {
     count_day_active = "0";
     auto_show_popup_feature_suggest = "";
     auto_show_popup_upgrade = "";
+    theme_mode = "dark";
     cookie_select = {};
     tab = "home";
     popup = "";
@@ -94,6 +95,10 @@ class SettingStore {
             },
             {
                 key: "auto_show_popup_upgrade",
+                type: "string"
+            },
+            {
+                key: "theme_mode",
                 type: "string"
             },
         ]
@@ -168,6 +173,11 @@ class SettingStore {
     setAutoShowPopupUpgrade(value) {
         this.auto_show_popup_upgrade = value;
         localStorage.setItem("auto_show_popup_upgrade", value)
+    }
+
+    setThemeMode(value) {
+        this.theme_mode = value;
+        localStorage.setItem("theme_mode", value);
     }
 }
 

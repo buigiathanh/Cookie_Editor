@@ -20,6 +20,7 @@ const Setting = () => {
     const optionImport = settingStore.option_import;
     const formatImportDefault = settingStore.format_import
     const confirmDialog = settingStore.confirm_dialog;
+    const themeMode = settingStore.theme_mode;
 
     const handleClickIconTitle = (icon, id) => {
         const elIcon = document.getElementById(icon);
@@ -88,6 +89,10 @@ const Setting = () => {
 
             case "format_import":
                 settingStore.setFormatImport(value)
+                break;
+
+            case "theme_mode":
+                settingStore.setThemeMode(value)
                 break;
         }
     }
@@ -162,6 +167,45 @@ const Setting = () => {
                             {extension.getLang("setting_description")}
                         </p>
                         <div className={`w-full mt-5`}>
+                            <div className={`w-full bg-[#3C3C3C] p-4 rounded-[10px] mb-[10px]`}>
+                                <p className={`text-white font-medium text-sm mb-3`}>
+                                    Theme
+                                </p>
+                                <div className="w-full mb-3">
+                                    <input
+                                        id={"theme_mode_dark"}
+                                        type="radio"
+                                        value={"dark"}
+                                        checked={themeMode === "dark"}
+                                        onClick={(e) => handleSetSetting("theme_mode", e.target.value)}
+                                        name="theme_mode"
+                                        className="w-4 h-4 text-blue-600 bg-gray-300 border-gray-400 focus:ring-blue-500"
+                                    />
+                                    <label
+                                        htmlFor={"theme_mode_dark"}
+                                        className="ms-2 text-[12px] cursor-pointer font-medium text-white"
+                                    >
+                                        Dark
+                                    </label>
+                                </div>
+                                <div className="w-full">
+                                    <input
+                                        id={"theme_mode_light"}
+                                        type="radio"
+                                        value={"light"}
+                                        checked={themeMode === "light"}
+                                        onClick={(e) => handleSetSetting("theme_mode", e.target.value)}
+                                        name="theme_mode"
+                                        className="w-4 h-4 text-blue-600 bg-gray-300 border-gray-400 focus:ring-blue-500"
+                                    />
+                                    <label
+                                        htmlFor={"theme_mode_light"}
+                                        className="ms-2 text-[12px] cursor-pointer font-medium text-white"
+                                    >
+                                        Light
+                                    </label>
+                                </div>
+                            </div>
                             <div className={`w-full bg-[#3C3C3C] p-4 rounded-[10px] mb-[10px]`}>
                                 <div
                                     onClick={() => handleClickIconTitle("icon_display_setting", "box_display_setting")}

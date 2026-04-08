@@ -1,0 +1,71 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+.button_install {
+  animation: zoom-in-zoom-out 1s ease infinite;
+}
+
+@keyframes zoom-in-zoom-out {
+  0% {
+    transform: scale(1, 1);
+  }
+  50% {
+    transform: scale(1.1, 1.1);
+  }
+  100% {
+    transform: scale(1, 1);
+  }
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  margin: 0;
+}
+
+button {
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+  font-size: 12px;
+}
+
+.theme-light {
+  background: #f3f4f6 !important;
+  color: #111827;
+}
+
+.theme-light .bg-\[\#282828\] {
+  background: #f3f4f6 !important;
+}
+
+.theme-light .bg-\[\#3C3C3C\] {
+  background: #ffffff !important;
+  border: 1px solid #e5e7eb;
+}
+
+.theme-light .text-white {
+  color: #111827 !important;
+}
+
+/* Keep strong contrast for primary blue actions in light mode. */
+.theme-light .bg-blue-500,
+.theme-light .bg-blue-600,
+.theme-light .bg-blue-700 {
+  color: #ffffff !important;
+}
+
+.theme-light .bg-blue-500 .text-white,
+.theme-light .bg-blue-600 .text-white,
+.theme-light .bg-blue-700 .text-white,
+.theme-light .bg-blue-500.text-white,
+.theme-light .bg-blue-600.text-white,
+.theme-light .bg-blue-700.text-white {
+  color: #ffffff !important;
+}

@@ -10,7 +10,7 @@ class AccountStore {
     account = {};
 
     async getAccount() {
-        const response = await fetch(`${process.env.REACT_APP_WEBSITE}/auth/info`, {
+        const response = await fetch(`${import.meta.env.VITE_WEBSITE}/auth/info`, {
             "method": "POST",
             "mode": "cors",
             "credentials": "include"
@@ -26,7 +26,7 @@ class AccountStore {
     }
 
     async logout() {
-        await fetch(`${process.env.REACT_APP_WEBSITE}/logout`, {
+        await fetch(`${import.meta.env.VITE_WEBSITE}/logout`, {
             "method": "GET",
             "mode": "cors",
             "credentials": "include"

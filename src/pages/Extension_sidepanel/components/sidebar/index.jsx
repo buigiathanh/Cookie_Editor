@@ -1,7 +1,6 @@
 /*global chrome*/
 import {observer} from "mobx-react-lite";
 import {extension} from "../../../../utils/chrome";
-import {image} from "../../../../utils/images";
 import {settingStore} from "../../../../mobx/setting.store";
 import IconCookie from "../../../../icons/cookie";
 import IconShare from "../../../../icons/share";
@@ -14,8 +13,18 @@ import {accountStore} from "../../../../mobx/account.store";
 import UserIcon from "../../../../icons/user";
 import RocketIcon from "../../../../icons/rocket";
 import GithubIcon from "../../../../icons/github";
+import IconDelete from "../../../../icons/delete";
 
 const Sidebar = () => {
+    const themeMode = settingStore.theme_mode;
+    const isLightMode = themeMode === "light";
+    const iconClass = `w-[20px] h-[20px] ${isLightMode ? "text-gray-800" : "text-white"}`;
+    const actionClass = (isActive = false) =>
+        `w-[40px] m-[5px] rounded-[3px] p-[10px] cursor-pointer group relative ${
+            isLightMode
+                ? `${isActive ? "bg-gray-200" : ""} hover:bg-gray-200`
+                : `${isActive ? "bg-[#2E3135]" : ""} hover:bg-[#2E3135]`
+        }`;
 
     const handleSelectAction = (action, type = "tab") => {
         if (type === "tab") {
@@ -31,9 +40,9 @@ const Sidebar = () => {
                 <div className="w-full">
                     <div
                         onClick={() => handleSelectAction("home")}
-                        className={`w-[40px] m-[5px] rounded-[3px] ${settingStore.tab === "home" ? "bg-[#2E3135]" : ""} hover:bg-[#2E3135] p-[10px] cursor-pointer group relative`}
+                        className={actionClass(settingStore.tab === "home")}
                     >
-                        <IconCookie cname={"w-[20px] h-[20px] text-white"}/>
+                        <IconCookie cname={iconClass}/>
                         <div
                             style={{zIndex: 51}}
                             className="hidden group-hover:block bg-white absolute right-[50px] top-[50%] translate-y-[-50%] rounded-[5px] p-[5px]">
@@ -42,9 +51,9 @@ const Sidebar = () => {
                     </div>
                     <div
                         onClick={() => handleSelectAction("link_cookies")}
-                        className={`w-[40px] m-[5px] rounded-[3px] ${settingStore.tab === "link_cookies" ? "bg-[#2E3135]" : ""} hover:bg-[#2E3135] p-[10px] cursor-pointer group relative`}
+                        className={actionClass(settingStore.tab === "link_cookies")}
                     >
-                        <IconShare cname={"w-[20px] h-[20px] text-white"}/>
+                        <IconShare cname={iconClass}/>
                         <div
                             style={{zIndex: 51}}
                             className="hidden group-hover:block bg-white absolute right-[50px] top-[50%] translate-y-[-50%] rounded-[5px] p-[5px]">
@@ -56,13 +65,9 @@ const Sidebar = () => {
                 </div>
 
                 <div onClick={() => handleSelectAction("clear_data_web")}
-                     className={`w-[40px] m-[5px] rounded-[3px] ${settingStore.tab === "clear_data_web" ? "bg-[#2E3135]" : ""}  hover:bg-[#2E3135] p-[10px] cursor-pointer group relative`}
+                     className={actionClass(settingStore.tab === "clear_data_web")}
                 >
-                    <img
-                        src={image.inExtension("/images/icons8-broom-26.png")}
-                        alt={"clear data"}
-                        className="w-[20px] h-[20px] text-white"
-                    />
+                    <IconDelete cname={iconClass} />
                     <div
                         style={{zIndex: 51}}
                         className="hidden group-hover:block bg-white absolute right-[50px] top-[50%] translate-y-[-50%] rounded-[5px] p-[5px]">
@@ -74,9 +79,9 @@ const Sidebar = () => {
 
                 <div
                     onClick={() => handleSelectAction("setting")}
-                    className={`w-[40px] m-[5px] rounded-[3px] ${settingStore.tab === "setting" ? "bg-[#2E3135]" : ""} hover:bg-[#2E3135] p-[10px] cursor-pointer group relative`}
+                    className={actionClass(settingStore.tab === "setting")}
                 >
-                    <IconSetting cname={"w-[20px] h-[20px] text-white"}/>
+                    <IconSetting cname={iconClass}/>
 
                     <div
                         style={{zIndex: 51}}
@@ -91,9 +96,9 @@ const Sidebar = () => {
                     accountStore.account?.account_type !== 2 && (
                         <div
                             onClick={() => handleSelectAction("upgrade", "popup")}
-                            className={`w-[40px] m-[5px] rounded-[3px] ${settingStore.popup === "upgrade" ? "bg-[#2E3135]" : ""} hover:bg-[#2E3135] p-[10px] cursor-pointer group relative`}
+                            className={actionClass(settingStore.popup === "upgrade")}
                         >
-                            <RocketIcon cname={"w-[20px] h-[20px] text-white"} strokeWidth={"1.5"}/>
+                            <RocketIcon cname={iconClass} strokeWidth={"1.5"}/>
                             <div
                                 style={{zIndex: 51}}
                                 className="hidden group-hover:block bg-white absolute right-[50px] top-[50%] translate-y-[-50%] rounded-[5px] p-[5px]">
@@ -107,9 +112,9 @@ const Sidebar = () => {
 
                 <div
                     onClick={() => handleSelectAction("feature_suggest", "popup")}
-                    className={`w-[40px] m-[5px] rounded-[3px] ${settingStore.popup === "feature_suggest" ? "bg-[#2E3135]" : ""} hover:bg-[#2E3135] p-[10px] cursor-pointer group relative`}
+                    className={actionClass(settingStore.popup === "feature_suggest")}
                 >
-                    <IconFeatureSuggest cname={"w-[20px] h-[20px] text-white"}/>
+                    <IconFeatureSuggest cname={iconClass}/>
                     <div
                         style={{zIndex: 51}}
                         className="hidden group-hover:block bg-white absolute right-[50px] top-[50%] translate-y-[-50%] rounded-[5px] p-[5px]">
@@ -121,9 +126,9 @@ const Sidebar = () => {
 
                 <div
                     onClick={() => handleSelectAction("buy_coffee", "popup")}
-                    className={`w-[40px] m-[5px] rounded-[3px] hover:bg-[#2E3135] p-[10px] cursor-pointer group relative`}
+                    className={actionClass(false)}
                 >
-                    <IconBuyCoffee cname={"w-[20px] h-[20px] text-white"}/>
+                    <IconBuyCoffee cname={iconClass}/>
                     <div
                         style={{zIndex: 51}}
                         className="hidden group-hover:block bg-white absolute right-[50px] top-[50%] translate-y-[-50%] rounded-[5px] p-[5px]">
@@ -135,9 +140,9 @@ const Sidebar = () => {
 
                 <div
                     onClick={() => window.open('https://chromewebstore.google.com/detail/cookie-editor/ookdjilphngeeeghgngjabigmpepanpl/reviews', '_blank')}
-                    className={`w-[40px] m-[5px] rounded-[3px] hover:bg-[#2E3135] p-[10px] cursor-pointer group relative`}
+                    className={actionClass(false)}
                 >
-                    <IconStar cname={"w-[20px] h-[20px] text-white"}/>
+                    <IconStar cname={iconClass}/>
                     <div
                         style={{zIndex: 51}}
                         className="hidden group-hover:block bg-white absolute right-[50px] top-[50%] translate-y-[-50%] rounded-[5px] p-[5px]">
@@ -149,9 +154,9 @@ const Sidebar = () => {
 
                 <div
                     onClick={() => window.open('https://github.com/buigiathanh/Cookie_Editor', '_blank')}
-                    className={`w-[40px] m-[5px] rounded-[3px] hover:bg-[#2E3135] p-[10px] cursor-pointer group relative`}
+                    className={actionClass(false)}
                 >
-                    <GithubIcon cname={"w-[20px] h-[20px] text-white"}/>
+                    <GithubIcon cname={iconClass}/>
                     <div
                         style={{zIndex: 51}}
                         className="hidden group-hover:block bg-white absolute right-[50px] top-[50%] translate-y-[-50%] rounded-[5px] p-[5px]">
@@ -164,8 +169,8 @@ const Sidebar = () => {
             <div className={`w-full`}>
                 <div
                     onClick={() => handleSelectAction("about", "popup")}
-                    className={`w-[40px] m-[5px] rounded-[3px] hover:bg-[#2E3135] p-[10px] cursor-pointer`}>
-                    <IconInfo cname={"w-[20px] h-[20px] text-white"}/>
+                    className={actionClass(false)}>
+                    <IconInfo cname={iconClass}/>
                 </div>
 
 
@@ -193,8 +198,8 @@ const Sidebar = () => {
                     ) : (
                         <div
                             onClick={() => window.open('https://cookieeditor.org/login', '_blank')}
-                            className={`w-[40px] m-[5px] rounded-[3px] hover:bg-[#2E3135] p-[10px] cursor-pointer`}>
-                            <UserIcon cname={"w-[20px] h-[20px] text-white"}/>
+                            className={actionClass(false)}>
+                            <UserIcon cname={iconClass}/>
                         </div>
                     )
                 }

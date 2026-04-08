@@ -1,4 +1,5 @@
 /*global chrome*/
+import CryptoJS from "crypto-js";
 import {useEffect, useRef, useState} from "react";
 import { motion } from "framer-motion";
 import ModalPopup from "../modal_popup";
@@ -46,7 +47,6 @@ const ExportCookie = () => {
             blob = new Blob([dataExport], {type: typeFile === "json" ? 'application/json' : "application/txt"});
             downloadLink.download = `${tab.url.split("/")[2]}_${format}_${new Date().getTime()}.${typeFile}`;
         } else {
-            const CryptoJS = require("crypto-js");
             const cipherText = CryptoJS.AES.encrypt(JSON.stringify(dataExport), password).toString();
             blob = new Blob([cipherText], {type: 'application/txt'});
             downloadLink.download = `E2EE_${tab.url.split("/")[2]}_${format}_${new Date().getTime()}.txt`;

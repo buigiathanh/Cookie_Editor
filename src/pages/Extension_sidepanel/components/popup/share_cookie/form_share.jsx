@@ -63,7 +63,7 @@ const FormShareCookie = ({cookies}) => {
                 const cookieEncryptedValue = CryptoJS.AES.encrypt(cookieBase64, password).toString();
                 const urlArray = tabCurrent.url.split("/");
                 settingStore.loading = true;
-                const response = await fetch(`${process.env.REACT_APP_WEBSITE}/api/cookie/share`, {
+                const response = await fetch(`${import.meta.env.VITE_WEBSITE}/api/cookie/share`, {
                     method: "POST",
                     headers: {"Content-Type": "application/json"},
                     body: JSON.stringify({

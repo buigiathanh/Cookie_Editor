@@ -17,6 +17,7 @@ const DetailCookie = ({cookies}) => {
     const displayCookie = settingStore.display_cookie;
     const customizeDisplayCookie = settingStore.customize_display_cookie;
     const confirmDialog = settingStore.confirm_dialog;
+    const isLightMode = settingStore.theme_mode === "light";
     const [cookieSelect, setCookieSelect] = useState(undefined);
 
     const handleSelectAction = async (cookie, action) => {
@@ -147,18 +148,18 @@ const DetailCookie = ({cookies}) => {
                         <div className={`w-5 absolute bottom-2 right-3 hidden group-hover:block`}>
                             <div
                                 onClick={() => handleSelectAction(cookie, "edit_cookie")}
-                                className={`w-6 h-6 mb-2 p-1 rounded-[5px] cursor-pointer hover:bg-gray-500`}>
-                                <IconEdit cname={`w-4 h-4 text-white`}/>
+                                className={`w-6 h-6 mb-2 p-1 rounded-[5px] cursor-pointer ${isLightMode ? "hover:bg-gray-300" : "hover:bg-gray-500"}`}>
+                                <IconEdit cname={`w-4 h-4 ${isLightMode ? "text-gray-800" : "text-white"}`}/>
                             </div>
                             <div
                                 onClick={() => handleCopy(cookie)}
-                                className={`w-6 h-6 mb-2 p-1 rounded-[5px] cursor-pointer hover:bg-gray-500`}>
-                                <IconCopy cname={`w-4 h-4 text-white`}/>
+                                className={`w-6 h-6 mb-2 p-1 rounded-[5px] cursor-pointer ${isLightMode ? "hover:bg-gray-300" : "hover:bg-gray-500"}`}>
+                                <IconCopy cname={`w-4 h-4 ${isLightMode ? "text-gray-800" : "text-white"}`}/>
                             </div>
                             <div
                                 onClick={() => handleSelectAction(cookie, "delete_cookie")}
-                                className={`w-6 h-6 mb-2 p-1 rounded-[5px] cursor-pointer hover:bg-gray-500`}>
-                                <IconDelete cname={`w-4 h-4 text-white`} />
+                                className={`w-6 h-6 mb-2 p-1 rounded-[5px] cursor-pointer ${isLightMode ? "hover:bg-gray-300" : "hover:bg-gray-500"}`}>
+                                <IconDelete cname={`w-4 h-4 ${isLightMode ? "text-gray-800" : "text-white"}`} />
                             </div>
                         </div>
                     </div>
