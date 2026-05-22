@@ -8,6 +8,7 @@ import {extension} from "../../../../../utils/chrome";
 import {observer} from "mobx-react-lite";
 import {settingStore} from "../../../../../mobx/setting.store";
 import {useClickOutside} from "../../../../../hooks/useClickOutside";
+import {createCookieSetDetails} from "../../../../../utils/cookie_import";
 
 const ImportCookie = () => {
     const ref = useRef(null);
@@ -44,17 +45,7 @@ const ImportCookie = () => {
     const handleImportCookieJson = async (dataCookies) => {
         let cookies = typeof dataCookies === "string" ? JSON.parse(dataCookies) : dataCookies
         for (let i = 0; i < cookies.length; i++) {
-            const dataUpdate = {
-                expirationDate: cookies[i].expirationDate,
-                httpOnly: cookies[i].httpOnly,
-                name: cookies[i].name,
-                value: cookies[i].value,
-                sameSite: cookies[i].sameSite,
-                path: cookies[i].path,
-                secure: cookies[i].secure,
-                storeId: cookies[i].storeId,
-                url: url
-            }
+            const dataUpdate = createCookieSetDetails(cookies[i], url);
             await chrome.cookies.set(dataUpdate);
             if (i === cookies.length - 1) {
                 settingStore.popup = "";
