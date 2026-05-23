@@ -21,7 +21,7 @@
   "default_locale": "en",
   "host_permissions": ["https://*/*", "http://*/*"],
   "permissions": ["cookies", "sidePanel", "tabs", "storage"],
-  "optional_permissions": ["browsingData", "contextMenus"],
+  "optional_permissions": ["browsingData", "contextMenus", "alarms"],
   "content_scripts": [
     {
       "all_frames": true,

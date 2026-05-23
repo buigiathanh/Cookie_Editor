@@ -296,6 +296,147 @@
     "sidebar_link": {
         "message": "Links"
     },
+    "sidebar_n8n": {
+        "message": "n8n"
+    },
+    "n8n_title": {
+        "message": "N8N INTEGRATION"
+    },
+    "n8n_page_title": {
+        "message": "Cookie Editor · n8n Integration"
+    },
+    "n8n_tab_connection": {
+        "message": "Connection"
+    },
+    "n8n_tab_guide": {
+        "message": "Guide"
+    },
+    "n8n_status_connecting": {
+        "message": "Connecting..."
+    },
+    "n8n_view_usage": {
+        "message": "Click here to see how to use"
+    },
+    "n8n_back_to_main": {
+        "message": "Back to connection and history"
+    },
+    "n8n_guide_connect_first": {
+        "message": "Connect to the server first to get your client_key and API examples."
+    },
+    "n8n_history_col_domain": {
+        "message": "Domain"
+    },
+    "n8n_history_col_url": {
+        "message": "URL"
+    },
+    "n8n_history_col_time": {
+        "message": "Time"
+    },
+    "n8n_history_col_status": {
+        "message": "Status"
+    },
+    "n8n_history_col_cookies": {
+        "message": "Cookies"
+    },
+    "n8n_history_col_message": {
+        "message": "Message"
+    },
+    "n8n_description": {
+        "message": "Connect the extension to n8n and fetch cookies remotely via API."
+    },
+    "n8n_connection_status": {
+        "message": "Connection status"
+    },
+    "n8n_status_connected": {
+        "message": "Connected"
+    },
+    "n8n_status_disconnected": {
+        "message": "Disconnected"
+    },
+    "n8n_client_key": {
+        "message": "Client key"
+    },
+    "n8n_connected_at": {
+        "message": "Connected at"
+    },
+    "n8n_btn_connect": {
+        "message": "Connect"
+    },
+    "n8n_btn_disconnect": {
+        "message": "Disconnect"
+    },
+    "n8n_not_connected_hint": {
+        "message": "Connect to enable remote cookie access from n8n."
+    },
+    "n8n_password_hint": {
+        "message": "Enter a password to encrypt cookies locally. This password is never sent to the server — use it in n8n to decrypt the response."
+    },
+    "n8n_show_password": {
+        "message": "Show password"
+    },
+    "n8n_hide_password": {
+        "message": "Hide password"
+    },
+    "n8n_api_guide_title": {
+        "message": "API usage"
+    },
+    "n8n_api_guide_description": {
+        "message": "Call the API with your client_key and target url. The server will request cookies from this extension and return encrypted data."
+    },
+    "n8n_decrypt_guide_title": {
+        "message": "Decrypt in n8n"
+    },
+    "n8n_decrypt_guide_description": {
+        "message": "Use the same password you entered when connecting to decrypt the encrypted cookie data in your n8n workflow."
+    },
+    "n8n_history_title": {
+        "message": "Request history"
+    },
+    "n8n_history_count": {
+        "message": "__COUNT__ requests"
+    },
+    "n8n_history_clear": {
+        "message": "Clear"
+    },
+    "n8n_history_clear_confirm": {
+        "message": "Clear all request history?"
+    },
+    "n8n_history_empty": {
+        "message": "No requests yet"
+    },
+    "n8n_history_success": {
+        "message": "Success"
+    },
+    "n8n_history_error": {
+        "message": "Error"
+    },
+    "n8n_copy_success": {
+        "message": "Copied to clipboard"
+    },
+    "n8n_permissions_title": {
+        "message": "Permissions required for n8n"
+    },
+    "n8n_permissions_description": {
+        "message": "The n8n integration needs additional permissions to store connection state and keep the background connection alive."
+    },
+    "n8n_permissions_storage": {
+        "message": "Storage — save client key, connection status, and request history locally"
+    },
+    "n8n_permissions_alarms": {
+        "message": "Alarms — keep the service worker alive and maintain the WebSocket connection"
+    },
+    "n8n_permissions_btn_grant": {
+        "message": "Grant permissions"
+    },
+    "n8n_permissions_granted": {
+        "message": "Permissions granted successfully"
+    },
+    "n8n_permissions_denied": {
+        "message": "Permissions denied. n8n integration cannot work without them."
+    },
+    "n8n_permissions_required_hint": {
+        "message": "Grant Storage and Alarms permissions to use n8n integration."
+    },
     "bottom_message_upgrade": {
         "message": " Enjoy 25% off when you upgrade to a 1-year plan today!"
     },

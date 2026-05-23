@@ -1,5 +1,7 @@
 /*global chrome*/
 
+import {n8nService} from "./services/n8n";
+
 chrome.sidePanel.setPanelBehavior({openPanelOnActionClick: true}).catch((error) => console.error(error));
 
 chrome.action.onClicked.addListener(async (tab) => {
@@ -47,6 +49,42 @@ chrome.runtime.onMessage.addListener(function (request, sender, sendResponse) {
     switch (request.action) {
         case "google_analytics":
             sendGoogleAnalytics(request.data, sendResponse);
+            return true;
+
+        case "n8n_get_status":
+            n8nService.getStatus()
+                .then((data) => sendResponse({success: true, data}))
+                .catch((error) => sendResponse({success: false, message: error.message}));
+            return true;
+
+        case "n8n_connect":
+            n8nService.connect(request.password)
+                .then((data) => sendResponse({success: true, data}))
+                .catch((error) => sendResponse({success: false, message: error.message}));
+            return true;
+
+        case "n8n_disconnect":
+            n8nService.disconnect(true)
+                .then((data) => sendResponse({success: true, data}))
+                .catch((error) => sendResponse({success: false, message: error.message}));
+            return true;
+
+        case "n8n_clear_history":
+            n8nService.clearHistory()
+                .then((data) => sendResponse({success: true, data}))
+                .catch((error) => sendResponse({success: false, message: error.message}));
+            return true;
+
+        case "n8n_init":
+            n8nService.resumeConnection()
+                .then(() => sendResponse({success: true}))
+                .catch((error) => sendResponse({success: false, message: error.message}));
+            return true;
+
+        case "n8n_check_permissions":
+            n8nService.hasRequiredPermissions()
+                .then((granted) => sendResponse({success: true, granted}))
+                .catch((error) => sendResponse({success: false, message: error.message}));
             return true;
 
         default:

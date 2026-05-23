@@ -16,5 +16,10 @@ export default defineConfig({
   publicDir: "public",
   build: {
     emptyOutDir: true,
+    rollupOptions: {
+      input: {
+        n8n: resolve(__dirname, "pages/n8n.html"),
+      },
+    },
   },
 });

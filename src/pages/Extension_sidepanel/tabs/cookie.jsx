@@ -32,7 +32,16 @@ const ShowCookie = () => {
         }
     }
 
+    const isValidCookieUrl = (url) => {
+        return typeof url === "string" && (url.startsWith("http://") || url.startsWith("https://"));
+    };
+
     const handleGetCookies = async () => {
+        if (!isValidCookieUrl(tab?.url)) {
+            setCookieInfo([]);
+            return;
+        }
+
         const data = await chrome.cookies.getAll({url: tab.url});
         setCookieInfo(JSON.parse(JSON.stringify(data)));
     }
@@ -63,10 +72,11 @@ const ShowCookie = () => {
 
     useEffect(() => {
         if (tab !== undefined) {
-            if (tab.url.length > 0) {
-                getFavicon(tab.url).then()
+            if (isValidCookieUrl(tab.url)) {
+                getFavicon(tab.url).then();
                 handleGetCookies().then();
             } else {
+                setFavicon(icons.chrome);
                 setCookieInfo([]);
             }
         }

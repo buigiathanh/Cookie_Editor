@@ -4,6 +4,7 @@ import {extension} from "../../../../utils/chrome";
 import {settingStore} from "../../../../mobx/setting.store";
 import IconCookie from "../../../../icons/cookie";
 import IconShare from "../../../../icons/share";
+import IconN8n from "../../../../icons/n8n";
 import IconSetting from "../../../../icons/setting";
 import IconFeatureSuggest from "../../../../icons/feature_suggest";
 import IconBuyCoffee from "../../../../icons/buy_coffee";
@@ -14,6 +15,7 @@ import UserIcon from "../../../../icons/user";
 import RocketIcon from "../../../../icons/rocket";
 import GithubIcon from "../../../../icons/github";
 import IconDelete from "../../../../icons/delete";
+import {openN8nPage} from "../../../../utils/n8n_page";
 
 const Sidebar = () => {
     const themeMode = settingStore.theme_mode;
@@ -59,6 +61,19 @@ const Sidebar = () => {
                             className="hidden group-hover:block bg-white absolute right-[50px] top-[50%] translate-y-[-50%] rounded-[5px] p-[5px]">
                             <span className="text-gray-900 whitespace-nowrap">
                                 {extension.getLang("sidebar_link")}
+                            </span>
+                        </div>
+                    </div>
+                    <div
+                        onClick={() => openN8nPage()}
+                        className={actionClass(false)}
+                    >
+                        <IconN8n cname={iconClass}/>
+                        <div
+                            style={{zIndex: 51}}
+                            className="hidden group-hover:block bg-white absolute right-[50px] top-[50%] translate-y-[-50%] rounded-[5px] p-[5px]">
+                            <span className="text-gray-900 whitespace-nowrap">
+                                {extension.getLang("sidebar_n8n")}
                             </span>
                         </div>
                     </div>

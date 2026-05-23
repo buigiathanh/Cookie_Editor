@@ -296,6 +296,147 @@
     "sidebar_link": {
         "message": "Liên kết"
     },
+    "sidebar_n8n": {
+        "message": "n8n"
+    },
+    "n8n_title": {
+        "message": "TÍCH HỢP N8N"
+    },
+    "n8n_page_title": {
+        "message": "Cookie Editor · Tích hợp n8n"
+    },
+    "n8n_tab_connection": {
+        "message": "Kết nối"
+    },
+    "n8n_tab_guide": {
+        "message": "Hướng dẫn"
+    },
+    "n8n_status_connecting": {
+        "message": "Đang kết nối..."
+    },
+    "n8n_view_usage": {
+        "message": "Nhấn vào đây để xem cách sử dụng"
+    },
+    "n8n_back_to_main": {
+        "message": "Quay lại kết nối và lịch sử"
+    },
+    "n8n_guide_connect_first": {
+        "message": "Hãy kết nối với server trước để nhận client_key và xem ví dụ API."
+    },
+    "n8n_history_col_domain": {
+        "message": "Domain"
+    },
+    "n8n_history_col_url": {
+        "message": "URL"
+    },
+    "n8n_history_col_time": {
+        "message": "Thời gian"
+    },
+    "n8n_history_col_status": {
+        "message": "Trạng thái"
+    },
+    "n8n_history_col_cookies": {
+        "message": "Cookies"
+    },
+    "n8n_history_col_message": {
+        "message": "Ghi chú"
+    },
+    "n8n_description": {
+        "message": "Kết nối extension với n8n và lấy cookie từ xa qua API."
+    },
+    "n8n_connection_status": {
+        "message": "Trạng thái kết nối"
+    },
+    "n8n_status_connected": {
+        "message": "Đang kết nối"
+    },
+    "n8n_status_disconnected": {
+        "message": "Chưa kết nối"
+    },
+    "n8n_client_key": {
+        "message": "Client key"
+    },
+    "n8n_connected_at": {
+        "message": "Kết nối lúc"
+    },
+    "n8n_btn_connect": {
+        "message": "Kết nối"
+    },
+    "n8n_btn_disconnect": {
+        "message": "Ngắt kết nối"
+    },
+    "n8n_not_connected_hint": {
+        "message": "Kết nối để cho phép n8n truy cập cookie từ xa."
+    },
+    "n8n_password_hint": {
+        "message": "Nhập mật khẩu để mã hóa cookie cục bộ. Mật khẩu không gửi lên server — dùng mật khẩu này trong n8n để giải mã dữ liệu."
+    },
+    "n8n_show_password": {
+        "message": "Hiện mật khẩu"
+    },
+    "n8n_hide_password": {
+        "message": "Ẩn mật khẩu"
+    },
+    "n8n_api_guide_title": {
+        "message": "Hướng dẫn gọi API"
+    },
+    "n8n_api_guide_description": {
+        "message": "Gọi API kèm client_key và url đích. Server sẽ yêu cầu extension lấy cookie và trả về dữ liệu đã mã hóa."
+    },
+    "n8n_decrypt_guide_title": {
+        "message": "Giải mã trong n8n"
+    },
+    "n8n_decrypt_guide_description": {
+        "message": "Dùng cùng mật khẩu lúc kết nối để giải mã dữ liệu cookie trong workflow n8n."
+    },
+    "n8n_history_title": {
+        "message": "Lịch sử yêu cầu"
+    },
+    "n8n_history_count": {
+        "message": "__COUNT__ yêu cầu"
+    },
+    "n8n_history_clear": {
+        "message": "Xóa"
+    },
+    "n8n_history_clear_confirm": {
+        "message": "Xóa toàn bộ lịch sử yêu cầu?"
+    },
+    "n8n_history_empty": {
+        "message": "Chưa có yêu cầu nào"
+    },
+    "n8n_history_success": {
+        "message": "Thành công"
+    },
+    "n8n_history_error": {
+        "message": "Lỗi"
+    },
+    "n8n_copy_success": {
+        "message": "Đã sao chép vào clipboard"
+    },
+    "n8n_permissions_title": {
+        "message": "Cần cấp quyền cho n8n"
+    },
+    "n8n_permissions_description": {
+        "message": "Tích hợp n8n cần thêm quyền để lưu trạng thái kết nối và duy trì kết nối nền."
+    },
+    "n8n_permissions_storage": {
+        "message": "Storage — lưu client key, trạng thái kết nối và lịch sử yêu cầu cục bộ"
+    },
+    "n8n_permissions_alarms": {
+        "message": "Alarms — giữ service worker sống và duy trì kết nối WebSocket"
+    },
+    "n8n_permissions_btn_grant": {
+        "message": "Cấp quyền"
+    },
+    "n8n_permissions_granted": {
+        "message": "Đã cấp quyền thành công"
+    },
+    "n8n_permissions_denied": {
+        "message": "Quyền bị từ chối. Tích hợp n8n không thể hoạt động nếu thiếu quyền."
+    },
+    "n8n_permissions_required_hint": {
+        "message": "Cấp quyền Storage và Alarms để sử dụng tích hợp n8n."
+    },
     "bottom_message_upgrade": {
         "message": "Giảm giá 25% khi bạn nâng cấp gói 1 năm hôm nay!"
     },
