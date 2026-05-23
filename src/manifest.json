@@ -20,8 +20,8 @@
   "version": "1.1.0.0",
   "default_locale": "en",
   "host_permissions": ["https://*/*", "http://*/*"],
-  "permissions": ["cookies", "sidePanel", "tabs", "storage"],
-  "optional_permissions": ["browsingData", "contextMenus", "alarms"],
+  "permissions": ["cookies", "sidePanel", "tabs"],
+  "optional_permissions": ["browsingData", "contextMenus", "storage", "alarms"],
   "content_scripts": [
     {
       "all_frames": true,
