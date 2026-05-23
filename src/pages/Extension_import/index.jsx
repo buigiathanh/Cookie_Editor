@@ -3,6 +3,7 @@ import {image} from "../../utils/images";
 import {useEffect, useState} from "react";
 import CryptoJS from "crypto-js";
 import {extension} from "../../utils/chrome";
+import {createCookieSetDetails} from "../../utils/cookie_import";
 
 const ExtensionImport = () => {
     const [isLoading, setIsLoading] = useState(false);
@@ -18,17 +19,7 @@ const ExtensionImport = () => {
     const handleImportCookieJson = async (dataCookies) => {
         let cookies = typeof dataCookies === "string" ? JSON.parse(dataCookies) : dataCookies
         for (let i = 0; i < cookies.length; i++) {
-            const dataUpdate = {
-                expirationDate: cookies[i].expirationDate,
-                httpOnly: cookies[i].httpOnly,
-                name: cookies[i].name,
-                value: cookies[i].value,
-                sameSite: cookies[i].sameSite,
-                path: cookies[i].path,
-                secure: cookies[i].secure,
-                storeId: cookies[i].storeId,
-                url: cookieInfo.domain
-            }
+            const dataUpdate = createCookieSetDetails(cookies[i], cookieInfo.domain);
             await chrome.cookies.set(dataUpdate);
             if (i === cookies.length - 1) {
                 window.location.replace(cookieInfo.domain);
