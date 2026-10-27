@@ -8,7 +8,7 @@ import {extension} from "../../../../../utils/chrome";
 import {observer} from "mobx-react-lite";
 import {settingStore} from "../../../../../mobx/setting.store";
 import {useClickOutside} from "../../../../../hooks/useClickOutside";
-import {createCookieSetDetails} from "../../../../../utils/cookie_import";
+import {parseCookieImport} from "../../../../../utils/cookie_text_import";
 
 const ImportCookie = () => {
     const ref = useRef(null);
@@ -42,64 +42,6 @@ const ImportCookie = () => {
         reader.readAsText(file);
     };
 
-    const handleImportCookieJson = async (dataCookies) => {
-        let cookies = typeof dataCookies === "string" ? JSON.parse(dataCookies) : dataCookies
-        for (let i = 0; i < cookies.length; i++) {
-            const dataUpdate = createCookieSetDetails(cookies[i], url);
-            await chrome.cookies.set(dataUpdate);
-            if (i === cookies.length - 1) {
-                settingStore.popup = "";
-                settingStore.alert = {type: "info", message: extension.getLang("alert_import_cookie_success")}
-            }
-        }
-    }
-
-    const handleImportCookieString = async (cookies) => {
-        const cookieArray = cookies.replaceAll(" ", "").split(";");
-        for (let i = 0;  i < cookieArray.length; i++) {
-            if (cookieArray[i].includes("=")) {
-                const cookieStr = cookieArray[i].trim().split("=");
-                const dataUpdate = {
-                    expirationDate: Math.round(new Date().getTime()/ 1000)  + 365 * 86400,
-                    name: cookieStr[0],
-                    value: cookieStr[1],
-                    url: url,
-                    secure: cookieStr[0].startsWith("__Secure-")
-                }
-
-                await chrome.cookies.set(dataUpdate);
-                if (i === cookieArray.length - 1) {
-                    settingStore.popup = "";
-                    settingStore.alert = {type: "info", message: extension.getLang("alert_import_cookie_success")}
-                }
-            }
-        }
-    }
-
-    const handleImportCookieNetscape = async (cookies) => {
-        for (let i = 0; i < cookies.length; i++) {
-            if (cookies[i] !== "" && !cookies[i].startsWith("#")) {
-                let cookieArray = cookies[i].replaceAll(`\t`, " ").split(` `).filter(item => item !== "");
-                const dataUpdate = {
-                    httpOnly: cookieArray[0].startsWith("#HttpOnly"),
-                    expirationDate: cookieArray[4] * 1000,
-                    name: cookieArray[5],
-                    value: cookieArray[6],
-                    path: cookieArray[2],
-                    secure: (cookieArray[3] === "TRUE" || cookieArray[5].startsWith("__Secure-")),
-                    url: url
-                }
-
-                await chrome.cookies.set(dataUpdate);
-            }
-
-            if (i === cookies.length - 1) {
-                settingStore.popup = "";
-                settingStore.alert = {type: "info", message: extension.getLang("alert_import_cookie_success")}
-            }
-        }
-    }
-
     const handleImport = async () => {
         try {
             let dataCookies;
@@ -119,33 +61,18 @@ const ImportCookie = () => {
                     break;
             }
 
-            dataCookies = dataCookies.trim();
             if (password.length > 0) {
-                dataCookies = CryptoJS.AES.decrypt(dataCookies, password).toString(CryptoJS.enc.Utf8);
+                dataCookies = CryptoJS.AES.decrypt(dataCookies.trim(), password).toString(CryptoJS.enc.Utf8);
             }
 
-            try {
-                await handleImportCookieJson(JSON.parse(dataCookies));
-            } catch (e) {
-                const cookieLines = dataCookies.split(`\n`);
-                let isNetscape = true;
-                for (let i = 0; i < cookieLines.length; i++) {
-                    if (cookieLines[i].startsWith("#")) {
-                        continue;
-                    }
-
-                    if (cookieLines[i].includes(";")) {
-                        isNetscape = false;
-                        break;
-                    }
-                }
-
-                if (isNetscape) {
-                    await handleImportCookieNetscape(cookieLines);
-                } else {
-                    await handleImportCookieString(dataCookies);
-                }
+            // Parse and validate every row before any Cookie write. Browser API failures
+            // can still interrupt writes: chrome.cookies does not provide transactions.
+            const expirationDate = Math.round(Date.now() / 1000) + 365 * 86400;
+            const cookiesToSet = parseCookieImport(dataCookies, url, expirationDate);
+            for (const cookie of cookiesToSet) {
+                await chrome.cookies.set(cookie);
             }
+            settingStore.alert = {type: "info", message: extension.getLang("alert_import_cookie_success")}
 
             document.dispatchEvent(new CustomEvent("update_cookie", {
                 detail: {action: "import"},
