@@ -8,9 +8,25 @@ import {settingStore} from "../../../../../mobx/setting.store";
 import {useClickOutside} from "../../../../../hooks/useClickOutside";
 import {observer} from "mobx-react-lite";
 
-const EditCookie = ({cookie}) => {
+const EditCookie = ({cookie, tab}) => {
     const ref = useRef(null);
-    useClickOutside(ref, () => settingStore.popup = "");
+    const mounted = useRef(false);
+    const currentCookie = useRef(cookie);
+    const editorSession = useRef(0);
+    const saveInProgress = useRef(false);
+    const [saving, setSaving] = useState(false);
+    currentCookie.current = cookie;
+
+    useEffect(() => {
+        mounted.current = true;
+        return () => { mounted.current = false; };
+    }, []);
+
+    const closeEditor = () => {
+        editorSession.current++;
+        settingStore.popup = "";
+    };
+    useClickOutside(ref, closeEditor);
 
     const handleFormatDate = (time) => {
         return !time ? "" : new Date(time * 1000)
@@ -25,6 +41,7 @@ const EditCookie = ({cookie}) => {
     }
 
     const handleEditCookie = (param, value) => {
+        if (saveInProgress.current) return;
         if (param === "expirationDate") {
             settingStore.cookie_select.expirationDate = settingStore.cookie_select.session ? "" : Math.round(new Date(value).getTime() / 1000)
         } else if (param === "httpOnly" || param === "secure" || param === "hostOnly") {
@@ -35,34 +52,55 @@ const EditCookie = ({cookie}) => {
     }
 
     const handleActionEditCookie= async () => {
-        const [tabCurrent] = await chrome.tabs.query({active: true, lastFocusedWindow: true});
-        const dataUpdate = {
-            domain: settingStore.cookie_select.domain,
-            expirationDate: settingStore.cookie_select.expirationDate,
-            httpOnly: settingStore.cookie_select.httpOnly,
-            name: settingStore.cookie_select.name,
-            path: settingStore.cookie_select.path,
-            sameSite: settingStore.cookie_select.sameSite,
-            secure: settingStore.cookie_select.secure,
-            storeId: settingStore.cookie_select.storeId,
-            url: tabCurrent.url,
-            value: settingStore.cookie_select.value,
+        // Lock synchronously: two clicks can arrive before React renders the disabled button.
+        if (saveInProgress.current || !cookie || settingStore.popup !== "edit_cookie") return;
+        const selection = settingStore.cookie_select;
+        const session = editorSession.current;
+        const url = tab?.url;
+        if (typeof url !== "string" || !(url.startsWith("https://") || url.startsWith("http://"))) {
+            settingStore.alert = {type: "error", message: extension.getLang("msg_error")};
+            return;
         }
-
-        await chrome.cookies.remove({
-            url: tabCurrent.url,
-            name: settingStore.cookie_select.name,
-            storeId: settingStore.cookie_select.storeId
-        });
-
-        await chrome.cookies.set(dataUpdate);
-        document.dispatchEvent(new CustomEvent("update_cookie", {
-            detail: {action: "edit"},
-            bubbles: true,
-        }));
-        settingStore.alert = {type: "info", message: extension.getLang("alert_edit_cookie_success")}
-        googleAnalytics({name: "edit_cookie", params: []});
-        settingStore.popup = "";
+        // Freeze the submitted draft and its original tab/profile before any browser API await.
+        // The active tab and global selection may belong to a different editor on completion.
+        const dataUpdate = {
+            domain: selection.domain,
+            expirationDate: selection.expirationDate,
+            httpOnly: selection.httpOnly,
+            name: selection.name,
+            path: selection.path,
+            sameSite: selection.sameSite,
+            secure: selection.secure,
+            storeId: cookie.storeId,
+            url,
+            value: selection.value,
+        }
+        const dataRemove = {url, name: cookie.name, storeId: cookie.storeId};
+        const isCurrentEditor = () => mounted.current && currentCookie.current === cookie &&
+            editorSession.current === session && settingStore.cookie_select === selection &&
+            settingStore.popup === "edit_cookie";
+        saveInProgress.current = true;
+        setSaving(true);
+        try {
+            // These browser calls are not atomic; a set failure does not roll back the removal.
+            // Once started, finish using only the captured data, even if this editor is closed.
+            await chrome.cookies.remove(dataRemove);
+            await chrome.cookies.set(dataUpdate);
+            if (isCurrentEditor()) {
+                document.dispatchEvent(new CustomEvent("update_cookie", {
+                    detail: {action: "edit"},
+                    bubbles: true,
+                }));
+                settingStore.alert = {type: "info", message: extension.getLang("alert_edit_cookie_success")}
+                settingStore.popup = "";
+            }
+            googleAnalytics({name: "edit_cookie", params: []});
+        } catch {
+            if (isCurrentEditor()) settingStore.alert = {type: "error", message: extension.getLang("msg_error")};
+        } finally {
+            saveInProgress.current = false;
+            if (mounted.current) setSaving(false);
+        }
     }
 
     return (
@@ -94,6 +132,7 @@ const EditCookie = ({cookie}) => {
                                         </label>
                                         <input
                                             id={"name"}
+                                            disabled={saving}
                                             type="text"
                                             onChange={(e) => handleEditCookie("name", e.target.value)}
                                             className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg block w-full p-2"
@@ -106,6 +145,7 @@ const EditCookie = ({cookie}) => {
                                         </label>
                                         <textarea
                                             id={"value"}
+                                            disabled={saving}
                                             rows={3}
                                             onChange={(e) => handleEditCookie("value", e.target.value)}
                                             className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg block w-full p-2">
@@ -122,6 +162,7 @@ const EditCookie = ({cookie}) => {
                                             type="text"
                                             onChange={(e) => handleEditCookie("expirationDate", e.target.value)}
                                             id="expirationDate"
+                                            disabled={saving}
                                             className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg block w-full p-2"
                                             value={handleFormatDate(settingStore.cookie_select.expirationDate)}
                                         />
@@ -137,6 +178,7 @@ const EditCookie = ({cookie}) => {
                                             type="text"
                                             onChange={(e) => handleEditCookie("path", e.target.value)}
                                             id="path"
+                                            disabled={saving}
                                             className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg block w-full p-2"
                                             value={settingStore.cookie_select.path}
                                         />
@@ -149,6 +191,7 @@ const EditCookie = ({cookie}) => {
                                         </label>
                                         <select
                                             id={"httpOnly"}
+                                            disabled={saving}
                                             onChange={(e) => handleEditCookie("httpOnly", e.target.value)}
                                             value={String(settingStore.cookie_select.httpOnly)}
                                             className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg block w-full p-2">
@@ -164,6 +207,7 @@ const EditCookie = ({cookie}) => {
                                         </label>
                                         <select
                                             id={"sameSite"}
+                                            disabled={saving}
                                             onChange={(e) => handleEditCookie("sameSite", e.target.value)}
                                             value={String(settingStore.cookie_select.sameSite)}
                                             className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg block w-full p-2">
@@ -182,6 +226,7 @@ const EditCookie = ({cookie}) => {
                                         </label>
                                         <select
                                             id={"secure"}
+                                            disabled={saving}
                                             onChange={(e) => handleEditCookie("secure", e.target.value)}
                                             value={String(settingStore.cookie_select.secure)}
                                             className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg block w-full p-2">
@@ -194,13 +239,14 @@ const EditCookie = ({cookie}) => {
                                         <div className={"inline-block w-[59%]"}>
                                             <button
                                                 onClick={handleActionEditCookie}
+                                                disabled={saving}
                                                 className={`h-[40px] w-full rounded-[10px] bg-blue-500 text-white px-5`}>
                                                 Edit
                                             </button>
                                         </div>
                                         <div className={"inline-block w-[39%]"}>
                                             <button
-                                                onClick={() => settingStore.popup = ""}
+                                                onClick={closeEditor}
                                                 className={`h-[40px] w-full rounded-[10px] bg-gray-200 text-gray-900 px-5`}>
                                                 Cancel
                                             </button>

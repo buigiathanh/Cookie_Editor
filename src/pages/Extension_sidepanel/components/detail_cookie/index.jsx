@@ -12,7 +12,7 @@ import IconCopy from "../../../../icons/copy";
 import IconDelete from "../../../../icons/delete";
 import IconEdit from "../../../../icons/edit";
 
-const DetailCookie = ({cookies}) => {
+const DetailCookie = ({cookies, tab}) => {
     const [search, setSearch] = useState("");
     const displayCookie = settingStore.display_cookie;
     const customizeDisplayCookie = settingStore.customize_display_cookie;
@@ -168,7 +168,7 @@ const DetailCookie = ({cookies}) => {
 
             <DeleteCookie cookie={cookieSelect}/>
 
-            <EditCookie cookie={cookieSelect}/>
+            <EditCookie cookie={cookieSelect} tab={tab}/>
 
         </div>
     )
